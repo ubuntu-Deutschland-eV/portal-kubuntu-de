@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+
+{% block title %}
+    {% if articles_page.number != 1 %}
+    Seite {{ articles_page.number }} –
+    {% endif %}
+    {{ super() }}
+{% endblock %}
+
+{% block content %}
+{% if articles_page.number == 1 %}
+
+<h1>Willkommen in der deutschprachigen Kubuntu-Community!</h1>
+
+<p>
+Auf diesen Seiten findest du Informationen und Unterstützung rund um die
+Linux-Distribution Kubuntu, eine Variante von <a href="http://www.ubuntu.com/">Ubuntu</a>
+mit der Desktopumgebung <a href="http://www.kde.org/">KDE</a>. In unserem <a
+href="http://forum.kubuntu-de.org/">Forum</a> bekommst
+du Unterstützung bei Problemen.
+</p>
+
+<p>
+Kostenlose Hilfe bekommst du auch auf unserer <a
+href="http://www.kubuntu-de.org/mailingliste">Mailingliste</a>. Für 
+diejenigen, die es lieber direkt mögen, haben wir auf dem IRC-Server
+irc.freenode.org den Channel <code>#kubuntu-de</code> angelegt, wo du
+zu fast jeder Tageszeit jemanden antreffen wirst, der weiterhelfen
+kann.
+</p>
+
+<p>
+Anleitungen und Dokumentationen zu Kubuntu findest du in unserem <a
+href="http://wiki.kubuntu-de.org/">Wiki</a>, das noch viel Platz für
+Verbesserungen und Engagement bietet.
+</p>
+
+<hr>
+
+{% endif %}
+
+    {% for article in articles_page.object_list %}
+        <article>
+            <header>
+                <h1>
+                    <a href="/{{ article.url }}">{{ article.title }}</a>
+                </h1>
+                <time datetime="{{ article.date }}">
+                    <small>{{ article.locale_date }}</small>
+                </time>
+            </header>
+            
+            {{ article.content }}
+        </article>
+    {% else %}
+        <p>Bisher ist hier nichts passiert&hellip; :(</p>
+    {% endfor %}
+
+    <nav class="pagination">
+        <div>
+        {% if articles_page.has_previous() %}
+            <a href="{{ SITEURL }}/{{ articles_previous_page.url }}" class="prev">
+                &larr; Neuere Artikel
+            </a>
+        {% endif %}
+        </div>
+
+        <div class="pagination-location">
+        Seite {{ articles_page.number }} von {{ articles_paginator.num_pages }}
+        </div>
+
+        <div>
+        {% if articles_page.has_next() %}
+            <a href="{{ SITEURL }}/{{ articles_next_page.url }}" class="next">
+                &Auml;ltere Artikel &rarr;
+            </a>
+        {% endif %}
+        </div>
+    </nav>
+
+{% endblock content %}
