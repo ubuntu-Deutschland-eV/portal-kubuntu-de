@@ -301,8 +301,7 @@ LoCo News
 
 </p>
 Das erste Interview für "Die Menschen hinter Ubuntu-PH", das
-[LoCo](https://wiki.ubuntu.com/LoCo "https://wiki.ubuntu.com/LoCo"){.external
-.text} Team Ubuntu Philippinen, wurde durchgeführt von Frau Yolynne
+[LoCo](https://wiki.ubuntu.com/LoCo "https://wiki.ubuntu.com/LoCo") Team Ubuntu Philippinen, wurde durchgeführt von Frau Yolynne
 Medina. Sie ist ein der aktiven Mitlgieder von Ubuntu-PH. Das Interview
 wurde per E-Mail geführt. Die erste befragte Person ist Herr Jerome
 Gotangco, Initiator von Ubuntu-PH.
@@ -872,8 +871,7 @@ Fühlen Sie sich frei, uns für jegliche Anregungen oder Bedenken zu
 kontaktieren. Entweder mit einer E-Mail an
 <ubuntu-marketing@lists.ubuntu.com> oder unter der Verwendung anderer
 Methoden welche auf der [Ubuntu Marketing Team Contact Information
-Page](https://wiki.ubuntu.com/MarketingTeam "https://wiki.ubuntu.com/MarketingTeam"){.external
-.text} aufgeführt sind.
+Page](https://wiki.ubuntu.com/MarketingTeam "https://wiki.ubuntu.com/MarketingTeam") aufgeführt sind.
 
 </p>
 Wenn Sie einen Artikel zur nächsten Ausgabe des Ubuntu Weekly

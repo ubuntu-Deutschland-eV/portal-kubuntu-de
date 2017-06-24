@@ -8,7 +8,7 @@ Die deutschsprachige Kubuntu Community benötigt Spenden. Trotz des hohen
 persönlichen Engagements des kubuntu-de.org Teams entstehen uns durch
 das Hosting sowie die öffentlichen Auftritte auf Messen teilweise hohe
 Kosten. Deshalb haben wir eine
-[Seite](http://www.kubuntu-de.org/spenden){.external .text}
+[Seite](http://www.kubuntu-de.org/spenden)
 eingerichtet, auf der es die Möglichkeit gibt uns durch eine Spende zu
 unterstützen.
 
@@ -35,14 +35,13 @@ geholfen hat sich erkenntlich zeigen wird. Ungeachtet dessen werden alle
 Bereiche dieses Portals auch weiterhin kostenlos verfügbar sein.
 
 </p>
-Zur [Spendenseite](http://www.kubuntu-de.org/spenden){.external .text}
+Zur [Spendenseite](http://www.kubuntu-de.org/spenden)
 
 </p>
 Neben einer finanziellen Unterstützung ist es auch möglich bei uns
 direkt mitzuhelfen. Wir können jede Art von Hilfe gebrauchen. Mehr
 Informationen dazu gibt es auf unserer [Teamseite im Ubuntu
-Wiki](https://wiki.ubuntu.com/KubuntuGermanTeam/Mitmachen "https://wiki.ubuntu.com/KubuntuGermanTeam/Mitmachen"){.external
-.text}.
+Wiki](https://wiki.ubuntu.com/KubuntuGermanTeam/Mitmachen "https://wiki.ubuntu.com/KubuntuGermanTeam/Mitmachen").
 
 </p>
 </p>

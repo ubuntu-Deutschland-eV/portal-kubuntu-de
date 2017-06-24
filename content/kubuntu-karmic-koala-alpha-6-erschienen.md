@@ -50,16 +50,13 @@ innerhalb von Windows.
 Da sich Kubuntu Karmic noch in einem Entwicklungsstadium befindet, ist
 es sehr wahrscheinlich, dass noch weitere Probleme vorhanden sind. Daher
 ist jeder dazu angehalten, [Fehler zu
-melden](https://launchpad.net/distros/ubuntu/+filebug "https://launchpad.net/distros/ubuntu/+filebug"){.external
-.text}, sofern diese nicht schon bekannt sind. Ebenso gefragt sind
+melden](https://launchpad.net/distros/ubuntu/+filebug "https://launchpad.net/distros/ubuntu/+filebug"), sofern diese nicht schon bekannt sind. Ebenso gefragt sind
 allgemeine
-[Rückmeldungen](https://wiki.kubuntu.org/JauntyJackalope/Alpha6/Kubuntu/Feedback "https://wiki.kubuntu.org/JauntyJackalope/Alpha6/Kubuntu/Feedback"){.external
-.text}.
+[Rückmeldungen](https://wiki.kubuntu.org/JauntyJackalope/Alpha6/Kubuntu/Feedback "https://wiki.kubuntu.org/JauntyJackalope/Alpha6/Kubuntu/Feedback").
 
 </p>
 Diese Nachricht kann im
-[Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0"){.external
-.text} diskutiert werden.
+[Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0") diskutiert werden.
 
 </p>
 

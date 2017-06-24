@@ -177,14 +177,12 @@ den Kanal \#ubuntu-trivia auf irc.freenode.net - das Topic wird Ihnen
 
 </p>
 Um ein Quiz zu veranstalten, wenden Sie sich an
-[AlexanderVassaloti](https://wiki.ubuntu.com/AlexanderVassaloti "https://wiki.ubuntu.com/AlexanderVassaloti"){.external
-.text} (theCore im IRC) - wir werden vermutlich einen Platz für Sie
+[AlexanderVassaloti](https://wiki.ubuntu.com/AlexanderVassaloti "https://wiki.ubuntu.com/AlexanderVassaloti") (theCore im IRC) - wir werden vermutlich einen Platz für Sie
 finden.
 
 </p>
 Um einen Preis zu stiften, wenden Sie sich an
-[JendaVancura](https://wiki.ubuntu.com/JendaVancura "https://wiki.ubuntu.com/JendaVancura"){.external
-.text} (jenda im IRC) - Ihre Großzügigkeit wird geschätzt.
+[JendaVancura](https://wiki.ubuntu.com/JendaVancura "https://wiki.ubuntu.com/JendaVancura") (jenda im IRC) - Ihre Großzügigkeit wird geschätzt.
 
 </p>
 Um das Quiz zu gewinnen ... nun ... dafür müssen Sie 1337 (besser als
@@ -224,8 +222,7 @@ existierenden Linux/FLOSS Organisationen.
 ### Ubuntu Nebraska Team hält erstes IRC Meeting ab
 
 </p>
-[DaveThacker](https://wiki.ubuntu.com/DaveThacker "https://wiki.ubuntu.com/DaveThacker"){.external
-.text} schrieb:
+[DaveThacker](https://wiki.ubuntu.com/DaveThacker "https://wiki.ubuntu.com/DaveThacker") schrieb:
 
 </p>
 <div style="margin: 10px 50px;">

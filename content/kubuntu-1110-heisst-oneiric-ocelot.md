@@ -6,7 +6,7 @@ Slug: kubuntu-1110-heisst-oneiric-ocelot
 
 Diesmal hat das Team über ein Ozean-Thema nachgedacht, schreibt [Mark
 Shuttleworth in seinem
-Blog](http://www.markshuttleworth.com/archives/646){.external .text}.
+Blog](http://www.markshuttleworth.com/archives/646).
 Der Exzentrische Oktopus (oddball octopus) wäre aber wohl eher zum
 Adaptieren für in etwa 13 Jahren.
 
@@ -49,12 +49,11 @@ Unity verfeinert werden.
 
 </p>
 Mehr von Mark zum technischen Ausblick in seinem
-[Blog](http://www.markshuttleworth.com/archives/646){.external .text}.
+[Blog](http://www.markshuttleworth.com/archives/646).
 
 </p>
 Diese Nachricht kann im
-[Forum](http://forum.kubuntu-de.org/index.php?topic=15054.0){.external
-.text} diskutiert werden.
+[Forum](http://forum.kubuntu-de.org/index.php?topic=15054.0) diskutiert werden.
 
 </p>
 

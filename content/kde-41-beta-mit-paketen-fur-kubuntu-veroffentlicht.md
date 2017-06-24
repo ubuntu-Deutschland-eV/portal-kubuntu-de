@@ -8,10 +8,9 @@ Nun ist es soweit, wie Richard Johnson vor kurzem in [seinem
 Blog](http://blog.nixternal.com/2008.06.05/hardy-kde-41-beta-1-completed/)
 bekannt gab, sind inzwischen auch Kubuntu Pakete für die aktuelle
 Testversion von KDE 4.1 verfügbar. Die Entwickler von
-[KDE](http://www.kde.org/ "http://www.kde.org"){.external .text} hatten
+[KDE](http://www.kde.org/ "http://www.kde.org") hatten
 am 27. Mai die [erste Beta von KDE 4.1
-veröffentlicht](http://www.kde.org/announcements/announce-4.1-beta1.php "http://www.kde.org/announcements/announce-4.1-beta1.php"){.external
-.text}. Die endgültige Version der ersten großen Veröffentlichung nach
+veröffentlicht](http://www.kde.org/announcements/announce-4.1-beta1.php "http://www.kde.org/announcements/announce-4.1-beta1.php"). Die endgültige Version der ersten großen Veröffentlichung nach
 KDE 4.0 soll im Juli 2008 erscheinen, und im Oktober zur offiziellen
 Desktopumgebung für Kubuntu 8.10 Intrepid Ibex werden. Ein Blick in die
 Entwicklung zeigt, dass dieser Schritt durchaus berechtigt ist: Die
@@ -135,10 +134,8 @@ KDE](http://bugs.kde.org) gemeldet werden.
 </p>
 Wer lieber selbst kompiliert kann den vollständige Quellcode von KDE
 4.0.80 - so die offizielle Versionsnummer - von der [KDE-Homepage
-herunterladen](http://www.kde.org/info/4.0.80.php "http://www.kde.org/info/4.0.80.php"){.external
-.text}, und sich anhand der [detaillierten Anleitungen zum
-Kompilieren](http://techbase.kde.org/Getting_Started/Build/KDE4 "http://techbase.kde.org/Getting_Started/Build/KDE4"){.external
-.text} KDE 4.1 Beta selbst bauen.
+herunterladen](http://www.kde.org/info/4.0.80.php "http://www.kde.org/info/4.0.80.php"), und sich anhand der [detaillierten Anleitungen zum
+Kompilieren](http://techbase.kde.org/Getting_Started/Build/KDE4 "http://techbase.kde.org/Getting_Started/Build/KDE4") KDE 4.1 Beta selbst bauen.
 
 </p>
 

@@ -24,10 +24,8 @@ Backend verbessert und die Thumbnailansicht in Gwenview.
 </p>
 Mehr Informationen über Änderungen in diesem Release können der
 [offiziellen
-Ankündigung](http://www.kde.org/announcements/announce-4.1.2.php "http://www.kde.org/announcements/announce-4.1.2.php"){.external
-.text} oder [dem
-Changelog](http://www.kde.org/announcements/changelogs/changelog4_1_1to4_1_2.php "http://www.kde.org/announcements/changelogs/changelog4_1_1to4_1_2.php"){.external
-.text} entnommen werden.
+Ankündigung](http://www.kde.org/announcements/announce-4.1.2.php "http://www.kde.org/announcements/announce-4.1.2.php") oder [dem
+Changelog](http://www.kde.org/announcements/changelogs/changelog4_1_1to4_1_2.php "http://www.kde.org/announcements/changelogs/changelog4_1_1to4_1_2.php") entnommen werden.
 
 </p>
 <!--break--><!--break-->

@@ -15,8 +15,7 @@ Kügler
 </h1>
 </p>
 Das Release von [KDE
-4.1](http://www.kde.org/announcements/announce-4.1-alpha1.php "http://www.kde.org/announcements/announce-4.1-alpha1.php"){.external
-.text} wirft seine Schatten voraus, als Release-Datum peilen die
+4.1](http://www.kde.org/announcements/announce-4.1-alpha1.php "http://www.kde.org/announcements/announce-4.1-alpha1.php") wirft seine Schatten voraus, als Release-Datum peilen die
 Entwickler den 29. Juli 2008 an. Daher wollen wir einen kleinen Ausblick
 auf die neue Version der beliebten Desktopumgebung wagen und haben dazu
 Sebastian Kügler (aka sebas) auf dem Linuxtag 2008 in Berlin zu einem
@@ -31,14 +30,12 @@ Entscheidungen des Projektes verantwortlich.
 
 </p>
 Das Interview ist entstanden in Zusammenarbeit mit [Radio
-Tux](http://cms.radiotux.de/index.php "http://cms.radiotux.de/index.php"){.external
-.text}, die den ersten Teil des Interviews geführt haben und heute um
+Tux](http://cms.radiotux.de/index.php "http://cms.radiotux.de/index.php"), die den ersten Teil des Interviews geführt haben und heute um
 13.00 Uhr senden. Einen Mitschnitt der Sendung findet man unter:
 [radiotux.de/interviews/2008-05-30.RadioTux.Sebastian.Kuegler.LinuxTag.ogg](http://radiotux.de/interviews/2008-05-30.RadioTux.Sebastian.Kuegler.LinuxTag.ogg){#hier}
 Radio Tux sendet live vom LinuxTag in Berlin. Vom 28. - 31. Mai gibt es
 jeden Tag per
-[Live-Stream](http://stream.radiotux.de:8000/radiotux.ogg "http://stream.radiotux.de:8000/radiotux.ogg"){.external
-.text} interessante Interviews, Hintergrundberichte und freie Musik. Was
+[Live-Stream](http://stream.radiotux.de:8000/radiotux.ogg "http://stream.radiotux.de:8000/radiotux.ogg") interessante Interviews, Hintergrundberichte und freie Musik. Was
 Radio Tux in den 4 Tagen alles senden wird, findet man in ihrem
 <a rel="nofollow" title="http://cms.radiotux.de/index2.php" class="external text" href="http://cms.radiotux.de/index2.php">Sendeplan.  
 

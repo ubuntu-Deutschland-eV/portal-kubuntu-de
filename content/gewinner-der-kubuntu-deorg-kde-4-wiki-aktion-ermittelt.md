@@ -5,8 +5,7 @@ Tags: Kubuntu-de.org
 Slug: gewinner-der-kubuntu-deorg-kde-4-wiki-aktion-ermittelt
 
 Etwa eineinhalb Monate hat die Auswertung der im Rahmen der
-[KDE4-Wiki-Aktion](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-de-org/kubuntu-de-org-wiki-aktion-zu-kde-4-beendet "http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-de-org/kubuntu-de-org-wiki-aktion-zu-kde-4-beendet"){.external
-.text} erstellten Artikel gedauert, doch nun hat sich die Jury auf die
+[KDE4-Wiki-Aktion](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-de-org/kubuntu-de-org-wiki-aktion-zu-kde-4-beendet "http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-de-org/kubuntu-de-org-wiki-aktion-zu-kde-4-beendet") erstellten Artikel gedauert, doch nun hat sich die Jury auf die
 drei besten Artikel einigen können. Grund dafür war, dass die Artikel
 nah beieinander lagen, so dass die Entscheidungen sehr knapp ausgefallen
 sind.
@@ -22,8 +21,7 @@ height="50"}](/Bild:Kwalletmanager.png "Kwalletmanager.png"){.image}]{}
 </p>
 Und der Gewinner unserer Aktion ist **Jaro**s mit seinem Beitrag, dem
 Artikel zu
-**[KWallet](http://wiki.kubuntu-de.org/Kubuntu_benutzen/Dienstprogramme/KWallet "http://wiki.kubuntu-de.org/Kubuntu_benutzen/Dienstprogramme/KWallet"){.external
-.text}**, der Passwortverwaltung unter KDE. Jaro darf sich über den
+**[KWallet](http://wiki.kubuntu-de.org/Kubuntu_benutzen/Dienstprogramme/KWallet "http://wiki.kubuntu-de.org/Kubuntu_benutzen/Dienstprogramme/KWallet")**, der Passwortverwaltung unter KDE. Jaro darf sich über den
 Hauptgewinn ─ das KDE-T-Shirt ─ freuen!
 
 </p>
@@ -54,8 +52,7 @@ height="50"}](/Bild:Dolphin_Symbol.png "Dolphin Symbol.png"){.image}]{}
 
 </p>
 Auf Rang zwei hat es der Artikel über den Dateimanager
-**[Dolphin](http://wiki.kubuntu-de.org/Kubuntu_benutzen/System/Dolphin "http://wiki.kubuntu-de.org/Kubuntu_benutzen/System/Dolphin"){.external
-.text}** geschafft. Der Urheber dieses Werkes ist **Neversfelde**, der
+**[Dolphin](http://wiki.kubuntu-de.org/Kubuntu_benutzen/System/Dolphin "http://wiki.kubuntu-de.org/Kubuntu_benutzen/System/Dolphin")** geschafft. Der Urheber dieses Werkes ist **Neversfelde**, der
 in dieser Aktion durchweg mit hohem Engagement aufgefallen ist. Dieser
 Platz wird mit einer KDE-Tasse ausgezeichnet.
 
@@ -84,8 +81,7 @@ height="50"}](/Bild:Amarok-Symbol.png "Amarok-Symbol.png"){.image}]{}
 
 </p>
 Den dritten Platz belegt der Artikel zum freien Mediaplayer **[Amarok
-2](http://wiki.kubuntu-de.org/Kubuntu_benutzen/Multimedia/Amarok "http://wiki.kubuntu-de.org/Kubuntu_benutzen/Multimedia/Amarok"){.external
-.text}**, ebenfalls verfasst von **Neversfelde**. Dieser Rang wird mit
+2](http://wiki.kubuntu-de.org/Kubuntu_benutzen/Multimedia/Amarok "http://wiki.kubuntu-de.org/Kubuntu_benutzen/Multimedia/Amarok")**, ebenfalls verfasst von **Neversfelde**. Dieser Rang wird mit
 einem KDE-Mousepad prämiert. Neversfelde hat bereits angekündigt, seine
 beiden Gewinne für eine weitere Aktion zu spenden.
 
@@ -110,7 +106,7 @@ beiden Gewinne für eine weitere Aktion zu spenden.
 An dieser Stelle danken für nicht nur allen an der Aktion als Autor
 Mitwirkenden, sondern natürlich auch unseren Juroren Lydia Pintscher,
 Harald Sitter und Ingo Malchow sondern auch dem [KDE
-e.V.](http://ev.kde.org/ "http://ev.kde.org/"){.external .text} (in
+e.V.](http://ev.kde.org/ "http://ev.kde.org/") (in
 Personen von Claudia Rauch und Sebastian Kügler) für das Sponsoring der
 Preise!
 

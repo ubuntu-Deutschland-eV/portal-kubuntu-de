@@ -5,8 +5,7 @@ Tags: Kubuntu
 Slug: kubuntu-pakete-fur-kde-414-jetzt-in-intrepid-updates
 
 Gut einen Monat nach [der
-Veröffentlichung](http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-rc-und-kde-4-1-4-mit-kubuntu-paketen-freigegeben "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-rc-und-kde-4-1-4-mit-kubuntu-paketen-freigegeben"){.external
-.text} von KDE 4.1.4 sind die Kubuntupakete in das Intrepid Update
+Veröffentlichung](http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-rc-und-kde-4-1-4-mit-kubuntu-paketen-freigegeben "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-rc-und-kde-4-1-4-mit-kubuntu-paketen-freigegeben") von KDE 4.1.4 sind die Kubuntupakete in das Intrepid Update
 Repository verschoben worden. Bis gestern waren die Pakete nur über die
 Intrepid Proposed Quellen zu installieren. Details in Bezug auf die
 Unterteilung der Quellen gibt es

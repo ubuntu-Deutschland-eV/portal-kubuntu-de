@@ -5,8 +5,7 @@ Tags: Koffice
 Slug: koffice-20-mit-kubuntu-paketen-veroffentlicht
 
 Das [KOffice
-Projekt](http://www.koffice.org/ "http://www.koffice.org"){.external
-.text} hat die finale Version der KDE Office-Suite "KOffice" Version 2.0
+Projekt](http://www.koffice.org/ "http://www.koffice.org") hat die finale Version der KDE Office-Suite "KOffice" Version 2.0
 veröffentlicht. Damit ist nach über 3 Jahren intensiver Arbeit die
 Portierung nach Qt4 abgeschlossen. Diese Version richtet sich an Tester
 und Interessierte und ist somit noch nicht für den Endbenutzer gedacht.
@@ -50,8 +49,7 @@ und in andere Unixoide Betriebssysteme gearbeitet.
 </p>
 Pakete für Kubuntu 9.04 Jaunty Jackalope sind über die Backport Quelle
 erhältlich. Weitere Hinweise hierzu gibt es im Artikel
-[Paketquellen](http://wiki.kubuntu-de.org/Konfiguration/Programme_installieren/Paketmanagement/Paketquellen "http://wiki.kubuntu-de.org/Konfiguration/Programme_installieren/Paketmanagement/Paketquellen"){.external
-.text}.
+[Paketquellen](http://wiki.kubuntu-de.org/Konfiguration/Programme_installieren/Paketmanagement/Paketquellen "http://wiki.kubuntu-de.org/Konfiguration/Programme_installieren/Paketmanagement/Paketquellen").
 
 </p>
 Auch die aktuelle Entwicklerversion ist mit entsprechenden Paketen

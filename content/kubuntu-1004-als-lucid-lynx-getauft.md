@@ -6,8 +6,7 @@ Slug: kubuntu-1004-als-lucid-lynx-getauft
 
 Im Rahmen des Atlanta Linux Fests, einer amerikanischen Linux-Konferenz,
 hat Ubuntu-Gründer und Sponsor Mark Shuttleworth in einer kurzen
-[Video-Botschaft](http://boredandblogging.com/2009/09/20/video-mark-shuttleworth-announces-ubuntu-10-04-lucid-lynx/ "http://boredandblogging.com/2009/09/20/video-mark-shuttleworth-announces-ubuntu-10-04-lucid-lynx/"){.external
-.text} (englisch) den Codenamen der kommenden Kubuntu-Version verkündet.
+[Video-Botschaft](http://boredandblogging.com/2009/09/20/video-mark-shuttleworth-announces-ubuntu-10-04-lucid-lynx/ "http://boredandblogging.com/2009/09/20/video-mark-shuttleworth-announces-ubuntu-10-04-lucid-lynx/") (englisch) den Codenamen der kommenden Kubuntu-Version verkündet.
 "Lucid Lynx" lässt sich ins Deutsche am ästhetischten als "leuchtender
 Luchs" übersetzen, jedoch ist mit "lucid" eher die Bedeutung "klar"
 gemeint.
@@ -44,8 +43,7 @@ dass der gleichnamige Konsolenbrowser zum Standardbrowser erhoben wird.
 
 </p>
 Diese Nachricht kann im
-[Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0"){.external
-.text} diskutiert werden.
+[Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0") diskutiert werden.
 
 </p>
 

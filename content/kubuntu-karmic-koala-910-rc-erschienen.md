@@ -36,36 +36,28 @@ KPackageKit dürften inzwischen auch ausgemerzt sein. K3B wird in der KDE
 Zu beachten ist, dass es noch einen offenen Bug in OpenOffice in
 Verbindung mit der KDE-Integration gibt. So kann es vorkommen, dass
 Dokumente, die im [MS Word-Format
-gespeichert](https://bugs.launchpad.net/ubuntu/+source/openoffice.org/+bug/452518 "https://bugs.launchpad.net/ubuntu/+source/openoffice.org/+bug/452518"){.external
-.text} werden, beschädigt werden können.
+gespeichert](https://bugs.launchpad.net/ubuntu/+source/openoffice.org/+bug/452518 "https://bugs.launchpad.net/ubuntu/+source/openoffice.org/+bug/452518") werden, beschädigt werden können.
 
 </p>
 Auf der [RC
-Informations-Seite](https://wiki.kubuntu.org/KarmicKoala/RC/Kubuntu "https://wiki.kubuntu.org/KarmicKoala/RC/Kubuntu"){.external
-.text} (englisch) sind alle Neuerungen aufgelistet, Download-Quellen
+Informations-Seite](https://wiki.kubuntu.org/KarmicKoala/RC/Kubuntu "https://wiki.kubuntu.org/KarmicKoala/RC/Kubuntu") (englisch) sind alle Neuerungen aufgelistet, Download-Quellen
 bekannt gemacht und Screenshots zu sehen. Es ist möglich [von Kubuntu
-9.04](https://help.ubuntu.com/community/KarmicUpgrades/Kubuntu "https://help.ubuntu.com/community/KarmicUpgrades/Kubuntu"){.external
-.text} und [von Kubuntu
-8.04](https://help.ubuntu.com/community/KarmicUpgrades/Kubuntu/8.04 "https://help.ubuntu.com/community/KarmicUpgrades/Kubuntu/8.04"){.external
-.text} auf Kubuntu 9.10 Karmic Koala zu aktualisieren.
+9.04](https://help.ubuntu.com/community/KarmicUpgrades/Kubuntu "https://help.ubuntu.com/community/KarmicUpgrades/Kubuntu") und [von Kubuntu
+8.04](https://help.ubuntu.com/community/KarmicUpgrades/Kubuntu/8.04 "https://help.ubuntu.com/community/KarmicUpgrades/Kubuntu/8.04") auf Kubuntu 9.10 Karmic Koala zu aktualisieren.
 
 </p>
 Gedanken, allgemeine Rückmeldungen und Bemerkungen können auf der
-[Feedback-Seite](https://wiki.kubuntu.org/KarmicKoala/RC/Kubuntu/Feedback "https://wiki.kubuntu.org/KarmicKoala/RC/Kubuntu/Feedback"){.external
-.text} hinterlassen werden, Fehler sind bitte im
-[Ubuntu-Bugtracker](https://bugs.launchpad.net/ubuntu "https://bugs.launchpad.net/ubuntu"){.external
-.text} zu melden.
+[Feedback-Seite](https://wiki.kubuntu.org/KarmicKoala/RC/Kubuntu/Feedback "https://wiki.kubuntu.org/KarmicKoala/RC/Kubuntu/Feedback") hinterlassen werden, Fehler sind bitte im
+[Ubuntu-Bugtracker](https://bugs.launchpad.net/ubuntu "https://bugs.launchpad.net/ubuntu") zu melden.
 
 </p>
 Auch unser
-[Wiki](http://wiki.kubuntu-de.org "http://wiki.kubuntu-de.org"){.external
-.text} kann bereits mit Anleitungen und Hinweisen zur neuen
+[Wiki](http://wiki.kubuntu-de.org "http://wiki.kubuntu-de.org") kann bereits mit Anleitungen und Hinweisen zur neuen
 Kubuntu-Version angereichert werden.
 
 </p>
 Diese Nachricht kann im
-[Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0"){.external
-.text} diskutiert werden.
+[Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0") diskutiert werden.
 
 </p>
 

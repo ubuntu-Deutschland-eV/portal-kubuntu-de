@@ -5,8 +5,7 @@ Tags: Kubuntu
 Slug: kubuntu-810-wird-intrepid-ibex-heissen
 
 Wie Mark Shuttleworth auf der
-[Entwicklerliste](https://lists.ubuntu.com/archives/ubuntu-devel/2008-February/025136.html "https://lists.ubuntu.com/archives/ubuntu-devel/2008-February/025136.html"){.external
-.text} bekannt gab, wird die im Herbst 2008 erscheinende Version von
+[Entwicklerliste](https://lists.ubuntu.com/archives/ubuntu-devel/2008-February/025136.html "https://lists.ubuntu.com/archives/ubuntu-devel/2008-February/025136.html") bekannt gab, wird die im Herbst 2008 erscheinende Version von
 Ubuntu den Codenamen "Intrepid Ibex" bekommen. Wörtlich übersetzt heisst
 das "unerschrockener Steinbock". Der Name soll suggerieren, das für die
 Version 8.10 wieder mehr auf Features als auf Stabilität geachtet wird,
@@ -35,8 +34,7 @@ bestehen können.
 </p>
 Die genauen Pläne und Anforderungen für Kubuntu Intrepid Ibex werden auf
 dem nächsten [Ubuntu
-Entwicklertreffen](https://wiki.ubuntu.com/UDS-Intrepid "https://wiki.ubuntu.com/UDS-Intrepid"){.external
-.text} beschlossen. Dieses ist eine für Jedermann offene Veranstaltung
+Entwicklertreffen](https://wiki.ubuntu.com/UDS-Intrepid "https://wiki.ubuntu.com/UDS-Intrepid") beschlossen. Dieses ist eine für Jedermann offene Veranstaltung
 zu der Jeder aus der Ubuntu Gemeinschaft, Entwicklern, Unternehmen und
 anderen Distributionen eingeladen sind. Das Treffen findet vom 19. bis
 23. Mai 2008 in Prag statt. Gemeinsam werden die Blaupausen für

@@ -4,14 +4,12 @@ Author: Monika Eggers
 Tags: KDE
 Slug: kde-403-mit-paketen-fur-kubuntu-veroffentlicht
 
-Die [KDE Community](http://www.kde.de/ "http://www.kde.de"){.external
-.text} veröffentlichte heute planmäßig das [dritte
+Die [KDE Community](http://www.kde.de/ "http://www.kde.de") veröffentlichte heute planmäßig das [dritte
 Wartungsrelease](http://www.kde.org/announcements/announce-4.0.3.php)
 der beliebten Desktopumgebung KDE 4. Das Release enthält zahlreiche
 Fehlerkorrekturen, aber auch einige Verbesserungen der Geschwindikeit
 und der Übersetzungen. Das
-[Changelog](http://www.kde.org/announcements/changelogs/changelog4_0_2to4_0_3.php "http://www.kde.org/announcements/changelogs/changelog4_0_2to4_0_3.php"){.external
-.text} zeigt, dass in nahezu allen Bereichen von KDE 4.0 Verbesserungen
+[Changelog](http://www.kde.org/announcements/changelogs/changelog4_0_2to4_0_3.php "http://www.kde.org/announcements/changelogs/changelog4_0_2to4_0_3.php") zeigt, dass in nahezu allen Bereichen von KDE 4.0 Verbesserungen
 erfolgt sind.
 
 </p>
@@ -25,10 +23,8 @@ darstellen. Auch die Darstellung in Okular, dem Dokumentenbetrachter von
 KDE 4, konnte weiter nach vorne gebracht werden. Detaillierte
 Informationen über sämtliche Änderungen zwischen KDE 4.0.2 und 4.0.3
 finden sich in der [englischsprachigen
-Ankündigung](http://www.kde.org/announcements/announce-4.0.3.php "http://www.kde.org/announcements/announce-4.0.3.php"){.external
-.text} von KDE oder direkt im
-[Changelog](http://www.kde.org/announcements/changelogs/changelog4_0_2to4_0_3.php "http://www.kde.org/announcements/changelogs/changelog4_0_2to4_0_3.php"){.external
-.text}.
+Ankündigung](http://www.kde.org/announcements/announce-4.0.3.php "http://www.kde.org/announcements/announce-4.0.3.php") von KDE oder direkt im
+[Changelog](http://www.kde.org/announcements/changelogs/changelog4_0_2to4_0_3.php "http://www.kde.org/announcements/changelogs/changelog4_0_2to4_0_3.php").
 
 </p>
 <!--break--><!--break-->
@@ -63,16 +59,13 @@ KDE 3 betrieben werden.
 
 </p>
 Wie schon
-[angekündigt](../../../../nachrichten/software/kde/releasefahrplan-f-r-kde-4 "http://www.kubuntu-de.org/nachrichten/software/kde/releasefahrplan-f-r-kde-4"){.external
-.text} folgt nun jeden Monat ein weiteres Wartungsrelease von KDE 4, bis
+[angekündigt](../../../../nachrichten/software/kde/releasefahrplan-f-r-kde-4 "http://www.kubuntu-de.org/nachrichten/software/kde/releasefahrplan-f-r-kde-4") folgt nun jeden Monat ein weiteres Wartungsrelease von KDE 4, bis
 vorraussichtlich am 29. Juli das nächste große Release KDE 4.1 mit neuen
 Funktionen, Programmen und Technologien herauskommen wird. Wer sich
 vorab schon Informationen darüber besorgen möchte, kann diese dem
 [Feature
-Plan](http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Feature_Plan "http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Feature_Plan"){.external
-.text} und der Festlegung der [Release
-Ziele](http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Release_Goals "http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Release_Goals"){.external
-.text} entnehmen.
+Plan](http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Feature_Plan "http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Feature_Plan") und der Festlegung der [Release
+Ziele](http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Release_Goals "http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Release_Goals") entnehmen.
 
 </p>
 

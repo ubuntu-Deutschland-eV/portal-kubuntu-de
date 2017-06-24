@@ -5,8 +5,7 @@ Tags: Sonstiges
 Slug: erste-ubuntu-entwickler-woche-angekundigt
 
 Wie heute auf
-[fridge.ubuntu.com](http://fridge.ubuntu.com/node/1336 "http://fridge.ubuntu.com/node/1336"){.external
-.text} zu lesen war, wird vom Montag den 18. bis Freitag den 22. Februar
+[fridge.ubuntu.com](http://fridge.ubuntu.com/node/1336 "http://fridge.ubuntu.com/node/1336") zu lesen war, wird vom Montag den 18. bis Freitag den 22. Februar
 die allererste Ubuntu-Entwickler-Woche stattfinden. Das bedeutet eine
 ganze Woche lang spannende IRC-Sitzungen im Kanal \#ubuntu-classroom auf
 irc.freenode.org, in denen man lernen kann, wie man am besten die
@@ -26,10 +25,8 @@ mit Ubuntu einzuführen. Das Spektrum der Vorträge reicht vom Pakete
 bauen über Programmtests, bis hin zu Entwicklungsprozessen und der
 Organisation der Zusammenarbeit. Wer einen Beitrag zu seiner
 Lieblingsdistribution leisten möchte, sollte nicht zögern sich den
-[Terminplan](http://wiki.ubuntu.com/UbuntuDeveloperWeek "http://wiki.ubuntu.com/UbuntuDeveloperWeek"){.external
-.text} anzusehen, dann an den [Sitzungen
-teilzunehmen](http://wiki.ubuntu.com/UbuntuDeveloperWeek/JoiningIn "http://wiki.ubuntu.com/UbuntuDeveloperWeek/JoiningIn"){.external
-.text} und schließlich seinen Teil beizutragen!
+[Terminplan](http://wiki.ubuntu.com/UbuntuDeveloperWeek "http://wiki.ubuntu.com/UbuntuDeveloperWeek") anzusehen, dann an den [Sitzungen
+teilzunehmen](http://wiki.ubuntu.com/UbuntuDeveloperWeek/JoiningIn "http://wiki.ubuntu.com/UbuntuDeveloperWeek/JoiningIn") und schließlich seinen Teil beizutragen!
 
 </p>
 </p>

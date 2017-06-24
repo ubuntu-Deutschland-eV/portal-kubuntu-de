@@ -15,8 +15,7 @@ bezüglich (nicht) übersetzbaren Texten, sowie Arbeiten an der
 Benutzerschnittstelle. Darüber hinaus gibt es zahlreiche kleinere und
 größere Korrekturen an den einzelnen Anwendungen der Suite. Das gesamte
 und umfangreiche Changelog kann auf der
-[Projektseite](http://www.koffice.org/announcements/changelog-2.0-beta3.php "http://www.koffice.org/announcements/changelog-2.0-beta3.php"){.external
-.text} angesehen werden.
+[Projektseite](http://www.koffice.org/announcements/changelog-2.0-beta3.php "http://www.koffice.org/announcements/changelog-2.0-beta3.php") angesehen werden.
 
 </p>
 <!--break--><!--break-->

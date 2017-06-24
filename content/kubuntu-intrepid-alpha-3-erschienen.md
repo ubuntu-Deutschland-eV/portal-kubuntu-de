@@ -5,8 +5,7 @@ Tags: Kubuntu
 Slug: kubuntu-intrepid-alpha-3-erschienen
 
 Heute wurde die [3. Alpha
-Version](https://lists.ubuntu.com/archives/ubuntu-devel-announce/2008-July/000459.html "https://lists.ubuntu.com/archives/ubuntu-devel-announce/2008-July/000459.html"){.external
-.text} von Kubuntu Intrepid freigegeben. Gegenüber den ersten
+Version](https://lists.ubuntu.com/archives/ubuntu-devel-announce/2008-July/000459.html "https://lists.ubuntu.com/archives/ubuntu-devel-announce/2008-July/000459.html") von Kubuntu Intrepid freigegeben. Gegenüber den ersten
 Alphaversionen ist die größte Änderung, dass als Konfigurationsordner
 für KDE4 nun \~/.kde und nicht mehr \~/.kde4 benutzt wird, was vor allem
 beim Downgrade auf KDE3 beachtet werden muss. Als Kernel wird jetzt die
@@ -19,8 +18,7 @@ veröffentlicht werden.
 <!--break--><!--break-->
 
 Bis dahin gilt es so viele Bugs wie möglich zu finden und auf
-[Launchpad](http://launchpad.net "http://launchpad.net"){.external
-.text} zu melden, damit diese noch vor dem entgültigen Release behoben
+[Launchpad](http://launchpad.net "http://launchpad.net") zu melden, damit diese noch vor dem entgültigen Release behoben
 werden können.
 
 </p>
@@ -32,10 +30,8 @@ können.
 </p>
 Wer sich an der Entwicklung von Kubuntu 8.10 Intrepid Ibex beteiligen
 möchte, kann sich die Installations-CDs vom
-[Hauptserver](http://cdimage.ubuntu.com/kubuntu/releases/intrepid/alpha-3/ "http://cdimage.ubuntu.com/kubuntu/releases/intrepid/alpha-3/"){.external
-.text} oder einem der zahlreichen
-[Spiegelserver](http://wiki.ubuntu.com/Mirrors "http://wiki.ubuntu.com/Mirrors"){.external
-.text} herunterladen.
+[Hauptserver](http://cdimage.ubuntu.com/kubuntu/releases/intrepid/alpha-3/ "http://cdimage.ubuntu.com/kubuntu/releases/intrepid/alpha-3/") oder einem der zahlreichen
+[Spiegelserver](http://wiki.ubuntu.com/Mirrors "http://wiki.ubuntu.com/Mirrors") herunterladen.
 
 </p>
 Ein Upgrade von Hardy Heron sollte mit einer entsprechenden Anpassung

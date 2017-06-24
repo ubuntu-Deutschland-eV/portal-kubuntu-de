@@ -30,8 +30,7 @@ nicht zu viel erwarten, denn einige spannende Features der neuen
 Desktopoberfläche sind derzeit noch nicht vollständig implementiert.
 Deshalb muss betont werden: KDE 4.0 ist nicht KDE4 wie Entwickler
 Stephan Binner aka beineri in [seinem
-Blog](http://www.kdedevelopers.org/node/3174 "http://www.kdedevelopers.org/node/3174"){.external
-.text} schreibt, vielmehr ist es der Anfang eines Jahre andauernden
+Blog](http://www.kdedevelopers.org/node/3174 "http://www.kdedevelopers.org/node/3174") schreibt, vielmehr ist es der Anfang eines Jahre andauernden
 Release-Zyklus.
 
 </p>

@@ -23,8 +23,7 @@ LPI e.V., Nokia, Novell, Radio Tux und viele viele mehr. Außerdem könnt
 ihr hier Vertreter von Debian, Sidux, openSUSE, Fedora und anderen
 Distributionen antreffen. Auf der offiziellen Website findet ihr die
 komplette
-[Ausstellerliste](http://www.linuxtag.org/2008/de/besucher/ausstellung/ausstellerliste.html "http://www.linuxtag.org/2008/de/besucher/ausstellung/ausstellerliste.html"){.external
-.text}.
+[Ausstellerliste](http://www.linuxtag.org/2008/de/besucher/ausstellung/ausstellerliste.html "http://www.linuxtag.org/2008/de/besucher/ausstellung/ausstellerliste.html").
 
 </p>
 <!--break--><!--break-->
@@ -78,8 +77,7 @@ Ein kleiner Einblick:
 
 </p>
 [Das volle
-Programm](http://www.linuxtag.org/2008/de/conf.html "http://www.linuxtag.org/2008/de/conf.html"){.external
-.text} kann auf den Seiten des LinuxTags eingesehen werden.
+Programm](http://www.linuxtag.org/2008/de/conf.html "http://www.linuxtag.org/2008/de/conf.html") kann auf den Seiten des LinuxTags eingesehen werden.
 
 </p>
 Es kann nur jedem wärmstens empfohlen werden, sich diese Veranstaltung

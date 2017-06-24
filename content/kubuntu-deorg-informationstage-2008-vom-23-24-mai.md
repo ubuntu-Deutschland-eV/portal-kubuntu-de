@@ -41,8 +41,7 @@ Wer sich für eines dieser Themen interessiert sollte am 23. und 24.5. ab
 </p>
 Genauere Informationen über die Vorträge und das Programm finden sich
 auf der [Wikiseite der Kubuntu-de.org
-Informationstage](http://wiki.kubuntu-de.org/Team:Informationstage "http://wiki.kubuntu-de.org/Team:Informationstage"){.external
-.text}.
+Informationstage](http://wiki.kubuntu-de.org/Team:Informationstage "http://wiki.kubuntu-de.org/Team:Informationstage").
 
 </p>
 []{#Pressemitteilungen.2F_Nachrichten_f.C3.BCr_andere_Websites}

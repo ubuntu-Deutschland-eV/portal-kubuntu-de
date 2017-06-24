@@ -5,8 +5,7 @@ Tags: KDE
 Slug: digikam-010-und-kipi-plugins-02-mit-kubuntu-paketen-veroffentlicht
 
 Gestern hat das
-[DigiKam-Team](http://www.digikam.org/ "http://www.digikam.org"){.external
-.text} die Version 0.10 für KDE 4 veröffentlicht. In dieser ersten
+[DigiKam-Team](http://www.digikam.org/ "http://www.digikam.org") die Version 0.10 für KDE 4 veröffentlicht. In dieser ersten
 Version für KDE4 werden konsequent die neuen Technologien wie Phonon für
 die Vorschau von Audio- und Videodateien und das Solid-Interface für die
 Hardwarehandhabung eingesetzt. Generell wurde versucht an allen
@@ -28,10 +27,8 @@ exportieren. Auch das SmugMug- und das Flickr-Plugin wurden erweitert.
 In beiden Releases wurden neben neuen Funktionen natürlich auch viele
 Bugfixes eingebracht, bei digiKam mehrere hundert. Sämtliche Neuerungen
 und Informationen zu den Versionen, können auf den Projektseiten für
-[digiKam](http://www.digikam.org/drupal/node/434 "http://www.digikam.org/drupal/node/434"){.external
-.text} bzw.
-[Kipi-Plugins](http://www.digikam.org/drupal/node/433 "http://www.digikam.org/drupal/node/433"){.external
-.text} eingesehen werden.
+[digiKam](http://www.digikam.org/drupal/node/434 "http://www.digikam.org/drupal/node/434") bzw.
+[Kipi-Plugins](http://www.digikam.org/drupal/node/433 "http://www.digikam.org/drupal/node/433") eingesehen werden.
 
 </p>
 Die neuen Versionen von digiKam und den Kipi-Plugins können unter Jaunty

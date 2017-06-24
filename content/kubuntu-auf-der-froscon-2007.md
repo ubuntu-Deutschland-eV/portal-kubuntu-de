@@ -5,8 +5,7 @@ Tags: Kubuntu-de.org
 Slug: kubuntu-auf-der-froscon-2007
 
 An diesem Wochenende findet in St. Augustin bei Bonn zum zweiten Mal die
-[FrOSCon](http://www.froscon.org/ "http://www.froscon.org"){.external
-.text}, eine Konferenz zum Thema Freie Software und Open Source, statt.
+[FrOSCon](http://www.froscon.org/ "http://www.froscon.org"), eine Konferenz zum Thema Freie Software und Open Source, statt.
 Die deutschsprachige Kubuntu Community wird, wie bei den letzten
 gleichartigen Veranstaltung, auch wieder mit einem Stand vor Ort sein.
 Wir freuen uns dort so zahlreich vertreten zu sein und direkt neben den

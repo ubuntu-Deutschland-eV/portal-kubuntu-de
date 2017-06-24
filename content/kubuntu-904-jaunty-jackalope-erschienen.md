@@ -5,10 +5,8 @@ Tags: Kubuntu
 Slug: kubuntu-904-jaunty-jackalope-erschienen
 
 Am heutigen 23. April haben die Kubuntu Entwickler die Version 9.04 der
-[Ubuntu](http://www.ubuntu.com/ "http://www.ubuntu.com"){.external
-.text} Variante mit der
-[KDE-Oberfläche](http://www.kde.org/ "http://www.kde.org"){.external
-.text} freigegeben. Kubuntu "Jaunty Jackalope" wurde wie üblich ein
+[Ubuntu](http://www.ubuntu.com/ "http://www.ubuntu.com") Variante mit der
+[KDE-Oberfläche](http://www.kde.org/ "http://www.kde.org") freigegeben. Kubuntu "Jaunty Jackalope" wurde wie üblich ein
 halbes Jahr nach der letzten Version vom Oktober und zeitgleich zu
 Ubuntu 9.04 veröffentlicht. Ubuntu und Kubuntu teilen sich den Unterbau
 und unterscheiden sich nur in der Desktopoberfläche; Ubuntu selbst nutzt
@@ -16,8 +14,7 @@ Gnome und Kubuntu das K Desktop Environment.
 
 </p>
 Namentlich ist in Version 9.04 [KDE
-4.2.2](../../../../nachrichten/software/kde/kde-4-2-mit-kubuntu-paketen-veroeffentlicht "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-mit-kubuntu-paketen-veroeffentlicht"){.external
-.text} enthalten, welches viele Unzulänglichkeiten, die einige Nutzer in
+4.2.2](../../../../nachrichten/software/kde/kde-4-2-mit-kubuntu-paketen-veroeffentlicht "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-mit-kubuntu-paketen-veroeffentlicht") enthalten, welches viele Unzulänglichkeiten, die einige Nutzer in
 Version 4.1 noch bemängelt haben, beseitigt. KDE ist ein moderner
 Desktop, der neben den heute fast schon üblichen grafischen Effekten von
 Haus aus alle Standardaufgaben abdeckt und so eine vollständige
@@ -33,16 +30,13 @@ nur KDE aktualisiert worden, sondern es sind auch viele Applikationen
 auf den neusten Stand gebracht worden. So ist
 [Amarok](http://wiki.kubuntu-de.org/Kubuntu_benutzen/Multimedia/Amarok "Kubuntu benutzen/Multimedia/Amarok")
 erstmals in [Version
-2.0.2](../../../../nachrichten/software/kde/amarok/amarok-2-0-2-mit-kubuntu-paketen-veroeffentlicht "http://www.kubuntu-de.org/nachrichten/software/kde/amarok/amarok-2-0-2-mit-kubuntu-paketen-veroeffentlicht"){.external
-.text} vertreten und das beliebte Fotoverwaltungsprogramm [Digikam in
+2.0.2](../../../../nachrichten/software/kde/amarok/amarok-2-0-2-mit-kubuntu-paketen-veroeffentlicht "http://www.kubuntu-de.org/nachrichten/software/kde/amarok/amarok-2-0-2-mit-kubuntu-paketen-veroeffentlicht") vertreten und das beliebte Fotoverwaltungsprogramm [Digikam in
 Version
-0.10.0](../../../../nachrichten/software/kde/digikam-0-10-und-kipi-plugins-0-2-mit-kubuntu-paketen-veroeffentlicht "http://www.kubuntu-de.org/nachrichten/software/kde/digikam-0-10-und-kipi-plugins-0-2-mit-kubuntu-paketen-veroeffentlicht"){.external
-.text}, welche die erste KDE 4 Version von Digikam darstellt. Daneben
+0.10.0](../../../../nachrichten/software/kde/digikam-0-10-und-kipi-plugins-0-2-mit-kubuntu-paketen-veroeffentlicht "http://www.kubuntu-de.org/nachrichten/software/kde/digikam-0-10-und-kipi-plugins-0-2-mit-kubuntu-paketen-veroeffentlicht"), welche die erste KDE 4 Version von Digikam darstellt. Daneben
 wurden auch weitere Programme, die bisher nur in KDE3 Varianten
 vorhanden waren abgelöst. So ist das grafische Paketverwaltungsprogramm
 nun
-[KPackageKit](http://www.packagekit.org/ "http://www.packagekit.org/"){.external
-.text} und damit Nachfolger von Adept. Die Paketverwaltung, und damit
+[KPackageKit](http://www.packagekit.org/ "http://www.packagekit.org/") und damit Nachfolger von Adept. Die Paketverwaltung, und damit
 KPackageKit, wurde in die Systemeinstellungen von KDE integriert und
 kann jetzt aus diesen heraus genutzt werden. Ebenfalls neu in den
 Systemeinstellungen ist die die Möglichkeit Drucker einzurichten. Der
@@ -65,15 +59,13 @@ und eine auf der
 [Konsole](http://wiki.kubuntu-de.org/Installation/Upgrade/8.10_auf_9.04_konsole "Installation/Upgrade/8.10 auf 9.04 konsole")
 aufgreifen. Diejenigen, die Kubuntu zum ersten Mal probieren wollen,
 finden Downloadmöglichkeiten für die Cds oder DVDs
-[hier](http://www.kubuntu.org/getkubuntu "http://www.kubuntu.org/getkubuntu"){.external
-.text} oder in deutscher Sprache
+[hier](http://www.kubuntu.org/getkubuntu "http://www.kubuntu.org/getkubuntu") oder in deutscher Sprache
 [hier](http://www.kubuntu-de.org/download-kubuntu-9-04-jaunty-jackalope-herunterladen)
 
 </p>
 Detaillierte Informationen zu dieser Veröffentlichung können den
 englischsprachigen [Release
-Notes](https://wiki.kubuntu.org/JauntyJackalope/Final/Kubuntu "https://wiki.kubuntu.org/JauntyJackalope/Final/Kubuntu"){.external
-.text} entnommen werden. Bekannte Fehler sind unter anderem:
+Notes](https://wiki.kubuntu.org/JauntyJackalope/Final/Kubuntu "https://wiki.kubuntu.org/JauntyJackalope/Final/Kubuntu") entnommen werden. Bekannte Fehler sind unter anderem:
 
 </p>
 -   Bei manchen scheinen die freien ATI Treiber das System zu
@@ -97,24 +89,19 @@ Notes](https://wiki.kubuntu.org/JauntyJackalope/Final/Kubuntu "https://wiki.kubu
 
 </p>
 Weitere bekannte Fehler können
-[hier](http://www.ubuntu.com/getubuntu/releasenotes/904 "http://www.ubuntu.com/getubuntu/releasenotes/904"){.external
-.text} und
-[hier](http://www.kubuntu.org/news/9.04-release "http://www.kubuntu.org/news/9.04-release"){.external
-.text} gefunden werden. Wie immer benötigen die Entwickler natürlich
-[Feedback](https://wiki.kubuntu.org/JauntyJackalope/Final/Kubuntu/Feedback "https://wiki.kubuntu.org/JauntyJackalope/Final/Kubuntu/Feedback"){.external
-.text} und Fehlermeldungen, um nach der Veröffentlichung noch
+[hier](http://www.ubuntu.com/getubuntu/releasenotes/904 "http://www.ubuntu.com/getubuntu/releasenotes/904") und
+[hier](http://www.kubuntu.org/news/9.04-release "http://www.kubuntu.org/news/9.04-release") gefunden werden. Wie immer benötigen die Entwickler natürlich
+[Feedback](https://wiki.kubuntu.org/JauntyJackalope/Final/Kubuntu/Feedback "https://wiki.kubuntu.org/JauntyJackalope/Final/Kubuntu/Feedback") und Fehlermeldungen, um nach der Veröffentlichung noch
 auftretende Fehler schnell und zuverlässig zu beseitigen. Fehlerberichte
 sollten im
-[Launchpad](https://launchpad.net/ubuntu/+filebug "https://launchpad.net/ubuntu/+filebug"){.external
-.text} veröffentlicht werden; nicht englischsprachige Nutzer haben die
+[Launchpad](https://launchpad.net/ubuntu/+filebug "https://launchpad.net/ubuntu/+filebug") veröffentlicht werden; nicht englischsprachige Nutzer haben die
 Möglichkeit in \#kubuntu-de-bugs im Freenode Netzwerk jemanden zu
 bitten, eine Fehlermeldung zu übersetzen. Selbstverständlich werden hier
 auch allgemeine Fragen zu diesem Thema beantwortet.
 
 </p>
 In eigener Sache würden wir uns über Beiträge im
-[Wiki](http://wiki.kubuntu-de.org/ "http://wiki.kubuntu-de.org"){.external
-.text} freuen, die die vorhandenen Einträge aktualisieren und natürlich
+[Wiki](http://wiki.kubuntu-de.org/ "http://wiki.kubuntu-de.org") freuen, die die vorhandenen Einträge aktualisieren und natürlich
 auch neue Programme erklären und beschreiben.
 
 </p>

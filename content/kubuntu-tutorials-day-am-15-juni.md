@@ -6,8 +6,7 @@ Slug: kubuntu-tutorials-day-am-15-juni
 
 Am kommenden Sonntag, dem 15. Juni 2008 findet im IRC-Channel
 \#kubuntu-devel auf irc.freenode.net der [Kubuntu Tutorials Day
-statt](https://wiki.kubuntu.org/KubuntuTutorialsDay "https://wiki.kubuntu.org/KubuntuTutorialsDay"){.external
-.text}. Ab 19 Uhr UTC = 21 Uhr MESZ werden verschiedene Vorträge
+statt](https://wiki.kubuntu.org/KubuntuTutorialsDay "https://wiki.kubuntu.org/KubuntuTutorialsDay"). Ab 19 Uhr UTC = 21 Uhr MESZ werden verschiedene Vorträge
 gehalten, in denen aufgezeigt wird, wie man Kubuntu weiterhelfen kann.
 Die sicherlich interessanten Vorträge werden alle in Englisch gehalten,
 und richten sich an zukünftige Helfer wie versierte Entwickler, die noch

@@ -26,16 +26,13 @@ bleibt.
 Dies alles sind jedoch Merkmale einer Vorversion von Kubuntu, demzufolge
 es wahrscheinlich ist, dass weitere Unschönheiten enthalten sind. Daher
 ist jeder dazu angehalten, [Probleme zu
-berichten](https://launchpad.net/distros/ubuntu/+filebug "https://launchpad.net/distros/ubuntu/+filebug"){.external
-.text}, sofern diese nicht schon bekannt sind. Ebenso gefragt sind
+berichten](https://launchpad.net/distros/ubuntu/+filebug "https://launchpad.net/distros/ubuntu/+filebug"), sofern diese nicht schon bekannt sind. Ebenso gefragt sind
 allgemeine
-[Rückmeldungen](https://wiki.kubuntu.org/JauntyJacalope/Alpha2/Kubuntu/Feedback "https://wiki.kubuntu.org/JauntyJacalope/Alpha2/Kubuntu/Feedback"){.external
-.text}.
+[Rückmeldungen](https://wiki.kubuntu.org/JauntyJacalope/Alpha2/Kubuntu/Feedback "https://wiki.kubuntu.org/JauntyJacalope/Alpha2/Kubuntu/Feedback").
 
 </p>
 Kubuntu 9.04 Jaunty Jackalope Alpha 2 kann
-[hier](http://cdimage.ubuntu.com/kubuntu/releases/jaunty/alpha-2/ "http://cdimage.ubuntu.com/kubuntu/releases/jaunty/alpha-2/"){.external
-.text} herunter geladen werden.
+[hier](http://cdimage.ubuntu.com/kubuntu/releases/jaunty/alpha-2/ "http://cdimage.ubuntu.com/kubuntu/releases/jaunty/alpha-2/") herunter geladen werden.
 
 </p>
 

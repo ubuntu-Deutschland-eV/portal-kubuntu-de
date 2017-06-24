@@ -47,16 +47,14 @@ zuverlässig funktionieren.
 </p>
 Detailliertere Informationen und weitere Screenshots kann man der
 [offiziellen
-Bekanntmachung](http://amarok.kde.org/en/releases/2.1 "http://amarok.kde.org/en/releases/2.1"){.external
-.text} (englisch) entnehmen.
+Bekanntmachung](http://amarok.kde.org/en/releases/2.1 "http://amarok.kde.org/en/releases/2.1") (englisch) entnehmen.
 
 </p>
 Für Kubuntu sind Pakete erhältlich, wobei bei Verwendung der
 Entwicklerversion "Karmic Koala" eine Aktualisierung ausreicht. Nutzer
 der stabilen Version 9.04 können Pakete aus dem Backport PPA beziehen.
 Eine deutschsprachige Anleitung dazu kann man
-[hier](http://wiki.kubuntu-de.org/Konfiguration/Software/Amarok_2.1_unter_Jaunty_installieren "http://wiki.kubuntu-de.org/Konfiguration/Software/Amarok_2.1_unter_Jaunty_installieren"){.external
-.text} finden.
+[hier](http://wiki.kubuntu-de.org/Konfiguration/Software/Amarok_2.1_unter_Jaunty_installieren "http://wiki.kubuntu-de.org/Konfiguration/Software/Amarok_2.1_unter_Jaunty_installieren") finden.
 
 </p>
 

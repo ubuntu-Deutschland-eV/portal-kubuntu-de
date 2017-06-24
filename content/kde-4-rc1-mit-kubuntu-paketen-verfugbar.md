@@ -13,8 +13,7 @@ nicht für den produktiven Einsatz! Der KDE Desktop hat in den letzten
 Wochen große Fortschritte gemacht, es ist aber zu beachten, dass wegen
 der sehr kurzen Testphase durchaus noch Probleme auftauchen können. 
 Jeder ist dazu aufgefordert ensprechende Fehlerberichte auf der Seite
-[bugs.kde.org](http://bugs.kde.org/ "http://bugs.kde.org:"){.external
-.text} einzutragen und mitzuhelfen, dass KDE 4 bald, die von den
+[bugs.kde.org](http://bugs.kde.org/ "http://bugs.kde.org:") einzutragen und mitzuhelfen, dass KDE 4 bald, die von den
 vorherigen Versionen bekannte Qualität, erreicht.
 
 </p>

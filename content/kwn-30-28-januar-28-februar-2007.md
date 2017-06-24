@@ -99,8 +99,7 @@ noch mehr Informationen darüber, wie verschiedene Teams ihre IRC-Treffen
 gestalten. Deshalb freut es sich immer über Informationen aus den
 unterschiedlichen Teams. Das Team ist unter <ubuntu-scirbes@cjo20.net>
 erreichbar, mehr Informationen zum
-[Team](https://wiki.ubuntu.com/ScribesTeam "https://wiki.ubuntu.com/ScribesTeam"){.external
-.text} gibt es im Wiki.
+[Team](https://wiki.ubuntu.com/ScribesTeam "https://wiki.ubuntu.com/ScribesTeam") gibt es im Wiki.
 
 </p>
 </p>
@@ -110,8 +109,7 @@ erreichbar, mehr Informationen zum
 Die Inhalte für das offizielle Ubuntu Buch werden für Feisty
 aktualisiert. Möchten Sie etwas beitragen? Sehen Sie doch erst einmal
 die schon vorhanden Rezepte auf der
-\[[OfficialUbuntuBookRecipes](https://wiki.ubuntu.com/OfficialUbuntuBookRecipes "https://wiki.ubuntu.com/OfficialUbuntuBookRecipes"){.external
-.text}\]-Wikiseite an. Bereit, ein Neues zu schreiben? Bitte senden Sie
+\[[OfficialUbuntuBookRecipes](https://wiki.ubuntu.com/OfficialUbuntuBookRecipes "https://wiki.ubuntu.com/OfficialUbuntuBookRecipes")\]-Wikiseite an. Bereit, ein Neues zu schreiben? Bitte senden Sie
 Ihr frisch gekochtes Rezept an Corey an die Adresse corey.burger AT
 gmail AT com. Falls Ihr Rezept in der neuen Auflage veröffentlicht wird,
 bekommen Sie ein kostenloses und signiertes Exemplar des Buches.
@@ -280,12 +278,12 @@ Feisty beinhaltet eine Reihe von Änderungen, die es erlauben, SPF
 (Sender Policy Framework) mit Postfix einzusetzen. SPF ist die bislang
 am häufigsten angewandte Technik, um gefälschte E-Mail Adressen
 abzuwehren. Sie wird von der IETF in [RFC
-4408](http://www.ietf.org/rfc/rfc4408.txt "http://www.ietf.org/rfc/rfc4408.txt"){.external}
+4408](http://www.ietf.org/rfc/rfc4408.txt "http://www.ietf.org/rfc/rfc4408.txt")
 beschrieben (mehr Informationen dazu finden Sie unter:
 [http://www.openspf.org](http://www.openspf.org/ "http://www.openspf.org"){.external
 .free}). Feisty wird die erste Linuxdistribution sein, die alle
 Komponenten mitbringt, um SPF dem [RFC
-4408](http://www.ietf.org/rfc/rfc4408.txt "http://www.ietf.org/rfc/rfc4408.txt"){.external}
+4408](http://www.ietf.org/rfc/rfc4408.txt "http://www.ietf.org/rfc/rfc4408.txt")
 entsprechend einzusetzen. Die Python SPF Bibliothek wurde auf die
 neueste Version (python-spf 2.0.3) aktualisiert. Ein Companion Postfix
 policy server (python-policyd-spf), eine Erweiterung für Postfix, wird
@@ -644,8 +642,7 @@ Fühlen Sie sich frei, uns für jegliche Anregungen oder Bedenken zu
 kontaktieren. Entweder mit einer E-Mail an
 <ubuntu-marketing@lists.ubuntu.com> oder unter der Verwendung anderer
 Methoden, welche auf der [Ubuntu Marketing Team Contact Information
-Page](https://wiki.ubuntu.com/MarketingTeam "https://wiki.ubuntu.com/MarketingTeam"){.external
-.text} aufgeführt sind. Wenn Sie zu einer zukünftigen Ausgabe des Ubuntu
+Page](https://wiki.ubuntu.com/MarketingTeam "https://wiki.ubuntu.com/MarketingTeam") aufgeführt sind. Wenn Sie zu einer zukünftigen Ausgabe des Ubuntu
 Weekly Newsletter etwas beitragen möchten, möchten wir Sie einladen, die
 entsprechende Wikiseite zu editieren.
 

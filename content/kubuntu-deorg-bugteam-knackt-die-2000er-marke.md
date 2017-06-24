@@ -9,17 +9,14 @@ Logo](http://wiki.kubuntu-de.org/images/5-a-day-logo.png){width="120"
 height="120"}Schon gestern konnte das [Bugteam von
 kubuntu-de.org](http://wiki.kubuntu-de.org/Team:Bugreports "Team:Bugreports")
 den [2000sten Bug
-verkünden](http://blog.txwikinger.me.uk/archives/9-Das-Kubuntu-de.org-Team-hat-als-erstes-Team-die-2000er-Marke-geknackt%21.html "http://blog.txwikinger.me.uk/archives/9-Das-Kubuntu-de.org-Team-hat-als-erstes-Team-die-2000er-Marke-geknackt!.html"){.external
-.text}, der im Zuge der ["5-a-day"
-Aktion](http://daniel.holba.ch/blog/?p=93 "http://daniel.holba.ch/blog/?p=93"){.external
-.text} bearbeitet wurde. Diese Aktion wurde Ende Februar dieses Jahres
+verkünden](http://blog.txwikinger.me.uk/archives/9-Das-Kubuntu-de.org-Team-hat-als-erstes-Team-die-2000er-Marke-geknackt%21.html "http://blog.txwikinger.me.uk/archives/9-Das-Kubuntu-de.org-Team-hat-als-erstes-Team-die-2000er-Marke-geknackt!.html"), der im Zuge der ["5-a-day"
+Aktion](http://daniel.holba.ch/blog/?p=93 "http://daniel.holba.ch/blog/?p=93") bearbeitet wurde. Diese Aktion wurde Ende Februar dieses Jahres
 von Daniel Holbach initiiert. Dabei geht es darum, dass möglichst viele
 Leute mindestens fünf Fehlerberichte, die unter anderem Kubuntu
 betreffen, an einem Tag bearbeiten. Zusätzliche Motivation bringt der
 Wettbewerb zwischen den unterschiedlichen lokalen Communities und den
 einzelnen Teilnehmern der Aktion, der in einer
-[Statistik](http://daniel.holba.ch/5-a-day-stats/ "http://daniel.holba.ch/5-a-day-stats/"){.external
-.text} beobachtet werden kann.
+[Statistik](http://daniel.holba.ch/5-a-day-stats/ "http://daniel.holba.ch/5-a-day-stats/") beobachtet werden kann.
 
 </p>
 Das Bugteam von Kubuntu-de.org leistet hier schon seit geraumer Zeit
@@ -29,8 +26,7 @@ Fehlerberichte hat Ralph Janke (aka txwikinger) bearbeitet, gut 500 hat
 der Koordinator des Bugteams - Marcus Asshauer (aka mcas) - auf dem
 Gewissen. An dieser Stelle können wir uns nur den [Glückwünschen von
 Kubuntu Entwickler Jonathan
-Riddell](http://www.kdedevelopers.org/node/3538 "http://www.kdedevelopers.org/node/3538"){.external
-.text} anschließen und diesen beiden und natürlich allen Mitarbeitern im
+Riddell](http://www.kdedevelopers.org/node/3538 "http://www.kdedevelopers.org/node/3538") anschließen und diesen beiden und natürlich allen Mitarbeitern im
 Bugteam herzlich gratulieren!
 
 </p>
@@ -47,17 +43,14 @@ werden können. Das Bearbeiten der Fehlerberichte trägt erheblich zur
 Qualität von Kubuntu bei und ist mit ein wenig Englischkenntnissen und
 etwas Zeit leicht zu bewerkstelligen. Wie wichtig die Bugarbeit nicht
 nur für Kubuntu ist, zeigt auch ein [Blogeintrag von Marc
-Shuttleworth](http://www.markshuttleworth.com/archives/145 "http://www.markshuttleworth.com/archives/145"){.external
-.text}.
+Shuttleworth](http://www.markshuttleworth.com/archives/145 "http://www.markshuttleworth.com/archives/145").
 
 </p>
 Um den ersten Einstieg ins Bugteam und das Bearbeiten von
 Fehlerberichten zu erleichtern wurde die englische Website zu der Aktion
 ins [Deutsche
-übersetzt.](http://wiki.kubuntu-de.org/Team:Bugreports/Mithelfen/5-a-day "http://wiki.kubuntu-de.org/Team:Bugreports/Mithelfen/5-a-day"){.external
-.text} Weitere Hilfe ist im [IRC-Kanal
-\#kubuntu-de-bugs](http://wiki.kubuntu-de.org/Team:IRC "http://wiki.kubuntu-de.org/Team:IRC"){.external
-.text} zu finden.
+übersetzt.](http://wiki.kubuntu-de.org/Team:Bugreports/Mithelfen/5-a-day "http://wiki.kubuntu-de.org/Team:Bugreports/Mithelfen/5-a-day") Weitere Hilfe ist im [IRC-Kanal
+\#kubuntu-de-bugs](http://wiki.kubuntu-de.org/Team:IRC "http://wiki.kubuntu-de.org/Team:IRC") zu finden.
 
 </p>
 

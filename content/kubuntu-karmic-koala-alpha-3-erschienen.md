@@ -56,21 +56,17 @@ Windows.
 Da sich Kubuntu noch in einem Entwicklungsstadium befindet, ist es sehr
 wahrscheinlich, dass noch weitere Probleme vorhanden sind. Daher ist
 jeder dazu angehalten, [Probleme zu
-berichten](https://launchpad.net/distros/ubuntu/+filebug "https://launchpad.net/distros/ubuntu/+filebug"){.external
-.text}, sofern diese nicht schon bekannt sind. Ebenso gefragt sind
+berichten](https://launchpad.net/distros/ubuntu/+filebug "https://launchpad.net/distros/ubuntu/+filebug"), sofern diese nicht schon bekannt sind. Ebenso gefragt sind
 allgemeine
-[Rückmeldungen](https://wiki.kubuntu.org/JauntyJackalope/Alpha3/Kubuntu/Feedback "https://wiki.kubuntu.org/JauntyJackalope/Alpha3/Kubuntu/Feedback"){.external
-.text}.
+[Rückmeldungen](https://wiki.kubuntu.org/JauntyJackalope/Alpha3/Kubuntu/Feedback "https://wiki.kubuntu.org/JauntyJackalope/Alpha3/Kubuntu/Feedback").
 
 </p>
 Kubuntu 9.10 Karmic Koala Alpha 3 kann von den
-[Ubuntu-Servern](http://cdimage.ubuntu.com/kubuntu/releases/karmic/alpha-3/ "http://cdimage.ubuntu.com/kubuntu/releases/karmic/alpha-3/"){.external
-.text} heruntergeladen werden.
+[Ubuntu-Servern](http://cdimage.ubuntu.com/kubuntu/releases/karmic/alpha-3/ "http://cdimage.ubuntu.com/kubuntu/releases/karmic/alpha-3/") heruntergeladen werden.
 
 </p>
 Diese Nachricht kann im
-[Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0"){.external
-.text} diskutiert werden.
+[Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0") diskutiert werden.
 
 </p>
 

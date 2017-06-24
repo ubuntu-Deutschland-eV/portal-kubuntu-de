@@ -9,21 +9,19 @@ Screenshot](http://wiki.kubuntu-de.org/images/thumb/KDE_4.2_RC.png/150px-KDE_4.2
 width="180"
 height="113"}](http://wiki.kubuntu-de.org/Bild:KDE_4.2_RC.png "KDE 4.2 Screenshot"){.image}]{.inline
 .inline-right}Schon gestern hat die [KDE
-Community](http://www.kde.org/ "http://www.kde.org"){.external .text}
+Community](http://www.kde.org/ "http://www.kde.org")
 den ersten und möglicherweise einzigen Release Kandiaten von KDE 4.2 mit
 dem Namen "Cilense" veröffentlicht. Weitere Beta Versionen der finalen
 Version, welche Ende des Monats erscheinen wird, werden nur bei Bedarf
 veröffentlicht. Seit der [letzten
-Betaversion](../../../../nachrichten/software/kde/kde-4-2-beta-2-mit-kubuntu-paketen-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-beta-2-mit-kubuntu-paketen-erschienen"){.external
-.text} sind lediglich Fehlerkorrekturen eingeflossen, weswegen man
+Betaversion](../../../../nachrichten/software/kde/kde-4-2-beta-2-mit-kubuntu-paketen-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-beta-2-mit-kubuntu-paketen-erschienen") sind lediglich Fehlerkorrekturen eingeflossen, weswegen man
 hinsichtlich neuer Funktionen auf die
-[Ankündigung](http://www.kde.org/announcements/announce-4.2-beta2.php "http://www.kde.org/announcements/announce-4.2-beta2.php"){.external
-.text} der zweiten Beta Version von KDE 4.2 verweisen kann.
+[Ankündigung](http://www.kde.org/announcements/announce-4.2-beta2.php "http://www.kde.org/announcements/announce-4.2-beta2.php") der zweiten Beta Version von KDE 4.2 verweisen kann.
 
 </p>
 KDE 4.2 RC richtet sich hauptsächlich an Tester die vor der
 Veröffentlichung der finalen Version helfen möchten die [letzten
-Fehler](http://bugs.kde.org/ "http://bugs.kde.org"){.external .text} zu
+Fehler](http://bugs.kde.org/ "http://bugs.kde.org") zu
 beseitigen. Der Release Kandidat bietet aber auch für Interessierte die
 Möglichkeit sich jetzt schon mit den neuen Funktionen in KDE 4.2
 vertraut zu machen, denn er sollte stabil genug sein. **Dennoch gilt,
@@ -37,8 +35,7 @@ Version 4.1.4 unter dem Namen "Cod" veröffentlicht. In dieser
 Veröffentlichung wurden ebenfalls nur Fehler korrigiert, was allerdings
 vereinzelt auch zur Einführung neuer Features geführt hat. Hauptsächlich
 wurden KMail, Okular und KGPG verbessert. Weitere Details können dem
-[Changelog](http://www.kde.org/announcements/changelogs/changelog4_1_3to4_1_4.php "http://www.kde.org/announcements/changelogs/changelog4_1_3to4_1_4.php"){.external
-.text} entnommen werden.
+[Changelog](http://www.kde.org/announcements/changelogs/changelog4_1_3to4_1_4.php "http://www.kde.org/announcements/changelogs/changelog4_1_3to4_1_4.php") entnommen werden.
 
 </p>
 []{#Release_Partys}
@@ -52,8 +49,7 @@ die am 27.01. dieses Jahres erscheinen soll, gefeiert. Zur Zeit sind im
 deutschsprachigen Raum Release Partys in den Städten Berlin, Bonn,
 Hamburg und Stuttgart geplant. Eine aktuelle Liste aller Feierlichkeiten
 befindet sich auf [KDE
-Techbase](http://techbase.kde.org/Events/KDE4ReleaseParties#Germany "http://techbase.kde.org/Events/KDE4ReleaseParties#Germany"){.external
-.text} (beachte Datum und Uhrzeit).
+Techbase](http://techbase.kde.org/Events/KDE4ReleaseParties#Germany "http://techbase.kde.org/Events/KDE4ReleaseParties#Germany") (beachte Datum und Uhrzeit).
 
 </p>
 []{#Installation}

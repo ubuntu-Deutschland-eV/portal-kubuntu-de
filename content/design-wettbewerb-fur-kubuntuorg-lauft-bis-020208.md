@@ -5,10 +5,8 @@ Tags: Kubuntu
 Slug: design-wettbewerb-fur-kubuntuorg-lauft-bis-020208
 
 [Ryan
-Kavanagh](https://launchpad.net/%7Eryanakca "https://launchpad.net/~ryanakca"){.external
-.text} ruft auf [seinem
-Blog](http://blog.ryanak.ca/archives/44 "http://blog.ryanak.ca/archives/44"){.external
-.text} zum Modell-Wettbewerb ("Mockup Contest") für kubuntu.org auf. Das
+Kavanagh](https://launchpad.net/%7Eryanakca "https://launchpad.net/~ryanakca") ruft auf [seinem
+Blog](http://blog.ryanak.ca/archives/44 "http://blog.ryanak.ca/archives/44") zum Modell-Wettbewerb ("Mockup Contest") für kubuntu.org auf. Das
 Ziel ist ein Modell zu entwerfen für ein neues Design der offizielle
 Webseite von [Kubuntu](http://kubuntu.org).
 
@@ -30,8 +28,7 @@ Gewinnermodells im Auftritt von [kubuntu.org](http://kubuntu.org).
 <!--break--><!--break-->
 
 Das Grundlayout als svg-Datei kann man
-[hier](https://wiki.kubuntu.org/Kubuntu/WebsiteMockups?action=AttachFile&do=get&target=mockup1.svg "https://wiki.kubuntu.org/Kubuntu/WebsiteMockups?action=AttachFile&do=get&target=mockup1.svg"){.external
-.text} herunterladen.
+[hier](https://wiki.kubuntu.org/Kubuntu/WebsiteMockups?action=AttachFile&do=get&target=mockup1.svg "https://wiki.kubuntu.org/Kubuntu/WebsiteMockups?action=AttachFile&do=get&target=mockup1.svg") herunterladen.
 
 </p>
 [![Bild:Mockup.png](http://wiki.kubuntu-de.org/images/Mockup.png){width="500"

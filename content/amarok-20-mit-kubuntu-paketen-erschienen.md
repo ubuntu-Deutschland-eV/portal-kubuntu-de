@@ -39,8 +39,7 @@ Außerdem gibt es gewichtete Wiedergabelisten, die ähnlich wie die
 dynamischen Listen in Amarok 1, automatisch mit den Liedern gefüllt
 werden, die den festgelegten Kriterien entsprechen. Alle Neuerungen
 können der [offiziellen
-Ankündigung](http://amarok.kde.org/en/releases/2.0 "http://amarok.kde.org/en/releases/2.0"){.external
-.text} entnommen werden.
+Ankündigung](http://amarok.kde.org/en/releases/2.0 "http://amarok.kde.org/en/releases/2.0") entnommen werden.
 
 </p>
 Ein besonderes Augenmerk legen die Entwickler auf die Feststellung, dass

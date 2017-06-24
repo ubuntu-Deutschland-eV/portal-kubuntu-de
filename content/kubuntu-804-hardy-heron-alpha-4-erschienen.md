@@ -100,8 +100,7 @@ Fehlerbericht ins Launchpad, falls nicht schon einer existiert.
 Für die KDE 3 Version von Kubuntu 8.04 wurde ein neues Wallpaper
 gewählt. Es handelt sich hierbei um eine hübsche Struktur, erstellt von
 Vlad Gerasimov von
-[Studio](http://www.vladstudio.com "http://www.vladstudio.com|Vald"){.external
-.text}.
+[Studio](http://www.vladstudio.com "http://www.vladstudio.com|Vald").
 
 </p>
 [![Sm\_desktop.png](http://wiki.kubuntu-de.org/images/Sm_desktop.png){width="258"

@@ -24,14 +24,12 @@ zur Verfügung.
 <!--break--><!--break-->
 
 Weitere Informationen mit Bezug auf KDE 4.3 kann man der offiziellen
-[Freigabebekanntmachung](http://kde.org/announcements/announce-4.3-beta2.php "http://kde.org/announcements/announce-4.3-beta2.php"){.external
-.text} (englisch) entnehmen. Eine Übersicht der Änderungen seit der
+[Freigabebekanntmachung](http://kde.org/announcements/announce-4.3-beta2.php "http://kde.org/announcements/announce-4.3-beta2.php") (englisch) entnehmen. Eine Übersicht der Änderungen seit der
 letzten Beta-Versionen liegt nicht vor.
 
 </p>
 Eine Aktualisierung für Jaunty kann nach [dieser
-Anleitung](http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.04_auf_KDE_4.3_aktualisieren "http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.04_auf_KDE_4.3_aktualisieren"){.external
-.text} durchgeführt werden. Tester von Kubuntu Karmic Koala erhalten die
+Anleitung](http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.04_auf_KDE_4.3_aktualisieren "http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.04_auf_KDE_4.3_aktualisieren") durchgeführt werden. Tester von Kubuntu Karmic Koala erhalten die
 neue KDE-Version als System-Update.
 
 </p>

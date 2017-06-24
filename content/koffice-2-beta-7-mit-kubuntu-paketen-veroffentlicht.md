@@ -5,10 +5,8 @@ Tags: Koffice
 Slug: koffice-2-beta-7-mit-kubuntu-paketen-veroffentlicht
 
 Das [KOffice
-Projekt](http://www.koffice.org/ "http://www.koffice.org"){.external
-.text} hat die nun bereits 7. Beta-Version der KDE Office-Suite
-[veröffentlicht](http://www.koffice.org/announcements/announce-2.0beta7.php "http://www.koffice.org/announcements/announce-2.0beta7.php"){.external
-.text}. Dies wird möglicherweise die letzte Beta-Version sein und daher
+Projekt](http://www.koffice.org/ "http://www.koffice.org") hat die nun bereits 7. Beta-Version der KDE Office-Suite
+[veröffentlicht](http://www.koffice.org/announcements/announce-2.0beta7.php "http://www.koffice.org/announcements/announce-2.0beta7.php"). Dies wird möglicherweise die letzte Beta-Version sein und daher
 ist es für die Entwickler besonders wichtig, dass sie viele
 Rückmeldungen erhalten. Hierbei handelt es sich natürlich immer noch um
 eine Testversion und die stabile Version 1.6.3 ist weiter installierbar.
@@ -44,8 +42,7 @@ die Diagramme in allen KOffice-Anwendungen integriert.
 Das Ziel der Veröffentlichung ist Testern und Nutzern die Möglichkeit zu
 geben mit den Entwicklern auf Augenhöhe zu sein, um nützliche
 [Fehlerberichte und
-Rückmeldungen](http://bugs.kde.org/ "http://bugs.kde.org"){.external
-.text} erstellen zu können.
+Rückmeldungen](http://bugs.kde.org/ "http://bugs.kde.org") erstellen zu können.
 
 </p>
 []{#Installation}

@@ -12,8 +12,7 @@ einem Durchgang zu durchsuchen.
 
 </p>
 Als erste Inhalte in
-[de.Uboontu.com](http://de.uboontu.com/ "http://de.uboontu.com"){.external
-.text} sind jetzt die beiden großen deutschen Communities,
+[de.Uboontu.com](http://de.uboontu.com/ "http://de.uboontu.com") sind jetzt die beiden großen deutschen Communities,
 Kubuntu-de.org und ubuntuusers.de, indiziert worden.
 
 </p>

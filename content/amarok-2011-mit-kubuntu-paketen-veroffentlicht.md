@@ -19,8 +19,7 @@ haben die Entwickler erreicht, dass Amarok nun erheblich weniger
 Speicher belegt und daher bedeutend schlanker als die Vorgängerversion
 ist. Eine vollständige Übersicht der Verbesserungen und Änderungen kann
 der [Release
-Ankündigung](http://amarok.kde.org/en/releases/2.0.1.1 "http://amarok.kde.org/en/releases/2.0.1.1"){.external
-.text} entnommen werden.
+Ankündigung](http://amarok.kde.org/en/releases/2.0.1.1 "http://amarok.kde.org/en/releases/2.0.1.1") entnommen werden.
 
 </p>
 Die aktuelle Kubuntu Version "Intrepid Ibex" verwendet noch Amarok
@@ -40,8 +39,7 @@ werden kann:
     deb http://ppa.launchpad.net/kubuntu-members-kde4/ubuntu intrepid main
 
 Details zum Thema Paketquellen können
-[diesem](http://wiki.kubuntu-de.org/Konfiguration/Programme_installieren/Paketmanagement/Paketquellen "http://wiki.kubuntu-de.org/Konfiguration/Programme_installieren/Paketmanagement/Paketquellen"){.external
-.text} Artikel entnommen werden.
+[diesem](http://wiki.kubuntu-de.org/Konfiguration/Programme_installieren/Paketmanagement/Paketquellen "http://wiki.kubuntu-de.org/Konfiguration/Programme_installieren/Paketmanagement/Paketquellen") Artikel entnommen werden.
 
 </p>
 -   hiernach muss eine Aktualisierung durchgeführt werden, was man zum

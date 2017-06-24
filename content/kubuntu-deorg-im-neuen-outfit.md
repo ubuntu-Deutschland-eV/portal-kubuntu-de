@@ -10,7 +10,7 @@ machen. Zeit dies zu ändern. Die Planung und Ausführung des nun
 sichtbaren Designwechsels hat länger gedauert als geplant, aber nun
 erstrahlen wir im neuen Gewand. Dem geneigten Nutzer wird auffallen,
 dass wir der Hauptseite
-[kubuntu.org](http://kubuntu.org "http://kubuntu.org"){.external .text}
+[kubuntu.org](http://kubuntu.org "http://kubuntu.org")
 sehr ähnlich sehen und das ist natürlich auch so vorgesehen.
 [Nichtsdestotrotz](http://de.wikipedia.org/wiki/Nichtsdestotrotz "wikipedia:Nichtsdestotrotz"){.extiw}
 sind auch einige Abweichungen notwendig geworden, denn wir pflegen unter

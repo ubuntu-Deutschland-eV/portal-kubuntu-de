@@ -5,10 +5,8 @@ Tags: Koffice
 Slug: koffice-2-rc1-mit-kubuntu-paketen-veroffentlicht
 
 Das [KOffice
-Projekt](http://www.koffice.org/ "http://www.koffice.org"){.external
-.text} hat den ersten Freigabekandidat der KDE Office-Suite
-[veröffentlicht](http://www.koffice.org/announcements/announce-2.0rc1.php "http://www.koffice.org/announcements/announce-2.0rc1.php"){.external
-.text}. Dies wird die letzte Möglichkeit sein den Entwicklern kritische
+Projekt](http://www.koffice.org/ "http://www.koffice.org") hat den ersten Freigabekandidat der KDE Office-Suite
+[veröffentlicht](http://www.koffice.org/announcements/announce-2.0rc1.php "http://www.koffice.org/announcements/announce-2.0rc1.php"). Dies wird die letzte Möglichkeit sein den Entwicklern kritische
 Fehler bekannt zu machen, die sie noch nicht selber entdeckt haben. Den
 Entwicklern ist es wichtig nochmal zu betonen, dass es sich natürlich
 immer noch um eine Testversion handelt und die stabile Version 1.6.3
@@ -19,8 +17,7 @@ problematischen Bereichen in der Benutzererfahrung bewusst.
 </p>
 Hauptsächlich wurde eine beeindruckende Liste an Fehlerbeseitigungen
 durchgeführt, die man in der [Versionshistorie nachlesen
-kann](http://www.koffice.org/announcements/changelog-2.0-rc1.php "http://www.koffice.org/announcements/changelog-2.0-rc1.php"){.external
-.text}.
+kann](http://www.koffice.org/announcements/changelog-2.0-rc1.php "http://www.koffice.org/announcements/changelog-2.0-rc1.php").
 
 </p>
 <!--break--><!--break-->
@@ -45,8 +42,7 @@ die Diagramme in allen KOffice-Anwendungen integriert.
 Das Ziel der Veröffentlichung ist Testern und Nutzern die Möglichkeit zu
 geben mit den Entwicklern auf Augenhöhe zu sein, um nützliche
 [Fehlerberichte und
-Rückmeldungen](http://bugs.kde.org/ "http://bugs.kde.org"){.external
-.text} erstellen zu können.
+Rückmeldungen](http://bugs.kde.org/ "http://bugs.kde.org") erstellen zu können.
 
 </p>
 []{#Installation}

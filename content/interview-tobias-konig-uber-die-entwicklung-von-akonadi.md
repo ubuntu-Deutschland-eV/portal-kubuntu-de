@@ -27,17 +27,13 @@ kde-it.org) and
 
 </p>
 [Tobias
-König](http://tokoe-kde.blogspot.com/ "http://tokoe-kde.blogspot.com/"){.external
-.text} ist Informatikstudent und einer der Hauptentwickler von
-[Akonadi](http://kdepim.kde.org/akonadi/ "http://kdepim.kde.org/akonadi/"){.external
-.text}, eine der innovativen Technologien, die es noch nicht in die
+König](http://tokoe-kde.blogspot.com/ "http://tokoe-kde.blogspot.com/") ist Informatikstudent und einer der Hauptentwickler von
+[Akonadi](http://kdepim.kde.org/akonadi/ "http://kdepim.kde.org/akonadi/"), eine der innovativen Technologien, die es noch nicht in die
 erste Version von [KDE
-4](../../../../nachrichten/software/kde/kde-4-0-mit-kubuntu-paketen-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-0-mit-kubuntu-paketen-erschienen"){.external
-.text} geschafft haben. Akonadi soll eine plattformunabhängige,
+4](../../../../nachrichten/software/kde/kde-4-0-mit-kubuntu-paketen-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-0-mit-kubuntu-paketen-erschienen") geschafft haben. Akonadi soll eine plattformunabhängige,
 innovative Speicherlösung für persönliche Daten werden. Im Interview
 erzählt Tobias König über seine Einbindung in die Entwicklung der
-[KDE-Desktopbumgebung](http://www.kde.de/ "http://www.kde.de"){.external
-.text} und die Entwicklung und Funktionen von Akonadi.
+[KDE-Desktopbumgebung](http://www.kde.de/ "http://www.kde.de") und die Entwicklung und Funktionen von Akonadi.
 
 </p>
 **kubuntu-de.org:** Du bist ja sehr stark in die KDE-Entwicklung
@@ -58,10 +54,8 @@ Mitarbeiter für die credativ GmbH
 **Tobias König:** Die credativ GmbH bietet Dienstleistungen rund um
 Freie Software an. Ein Großteil der Mitarbeiter kommen auch aus dem Open
 Source Umfeld, so zum Beispiel dem
-[Debian-Projekt](http://www.debian.org/ "http://www.debian.org/"){.external
-.text} oder von
-[Postgres](http://www.postgresql.org/ "http://www.postgresql.org/"){.external
-.text}. Aber auch ein paar KDE-ler arbeiten da :)
+[Debian-Projekt](http://www.debian.org/ "http://www.debian.org/") oder von
+[Postgres](http://www.postgresql.org/ "http://www.postgresql.org/"). Aber auch ein paar KDE-ler arbeiten da :)
 
 </p>
 **kubuntu-de.org:** Könnte man also sagen, du hast dein Hobby zum Beruf
@@ -78,8 +72,7 @@ beschäftig ; ) Könntest du uns erzählen in welchen KDE-Projekten du
 
 </p>
 **Tobias König:** 'Zu Hause' bin ich im [KDE-PIM
-Projekt](http://kdepim.kde.org/ "http://kdepim.kde.org"){.external
-.text}. Das ist ein Subprojekt von KDE, welches sich mit Personal
+Projekt](http://kdepim.kde.org/ "http://kdepim.kde.org"). Das ist ein Subprojekt von KDE, welches sich mit Personal
 Information Management, also Kalendern, Adressbüchern und EMails,
 befasst. Neben der Betreuung von KAddressBook helfe ich bei der
 Entwicklung von Akonadi, dem neuen PIM-Storage. Während der Portierung

@@ -40,10 +40,8 @@ kann man sich über Ideen und Aufgaben des Redaktionsteams informieren.
 </p>
 Wer jetzt schon wild entschlossen ist, sollte sich dem kubuntu-de.org
 Team im
-[Launchpad](https://launchpad.net/%7Ekubuntu-de.org "https://launchpad.net/~kubuntu-de.org"){.external
-.text} anschließen und die
-[Mailingliste](http://lists.kubuntu-de.org/mailman/listinfo/team "http://lists.kubuntu-de.org/mailman/listinfo/team"){.external
-.text} abonnieren, oder/und sich im IRC auf irc.freenode.org im Kanal
+[Launchpad](https://launchpad.net/%7Ekubuntu-de.org "https://launchpad.net/~kubuntu-de.org") anschließen und die
+[Mailingliste](http://lists.kubuntu-de.org/mailman/listinfo/team "http://lists.kubuntu-de.org/mailman/listinfo/team") abonnieren, oder/und sich im IRC auf irc.freenode.org im Kanal
 \#kubuntu-de.org melden.
 
 </p>

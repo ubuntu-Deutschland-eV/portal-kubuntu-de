@@ -6,7 +6,7 @@ Slug: kde-43-mit-kubuntu-paketen-veroffentlicht
 
 Etwa 6 Monate nach der Freigabe von KDE 4.2 und mit ein wenig
 Verzögerung zum geplanten Zeitpunkt hat das
-[KDE-Team](http://www.kde.org "http://www.kde.org"){.external .text} die
+[KDE-Team](http://www.kde.org "http://www.kde.org") die
 nächste Hauptversion der 4er-Serie veröffentlicht. KDE 4.3, Codename
 Caizen, verspricht sowohl etliche Verbesserungen, als auch Neuerungen in
 der Desktop-Shell Plasma und dem Fenstermanager KWin, optimiert die
@@ -28,10 +28,8 @@ weiter intensiv an Akonadi selbst gearbeitet.
 <!--break--><!--break-->
 
 Änderungen und Neuheiten werden in der [offiziellen
-Bekanntmachung](http://kde.org/announcements/4.3/index.php "http://kde.org/announcements/4.3/index.php"){.external
-.text} (englisch) ausführlicher genannt und erläutert. Eine
-[Installationsanleitung](http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.04_auf_KDE_4.3_aktualisieren "http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.04_auf_KDE_4.3_aktualisieren"){.external
-.text} für Jaunty befindet sich in unserem Wiki, Pakete für die nächste
+Bekanntmachung](http://kde.org/announcements/4.3/index.php "http://kde.org/announcements/4.3/index.php") (englisch) ausführlicher genannt und erläutert. Eine
+[Installationsanleitung](http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.04_auf_KDE_4.3_aktualisieren "http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.04_auf_KDE_4.3_aktualisieren") für Jaunty befindet sich in unserem Wiki, Pakete für die nächste
 Kubuntu-Version Karmic werden als Systemupdate angeboten.
 
 </p>
@@ -47,8 +45,7 @@ eingebunden hat, sollte es schellstmöglich wieder entfernen.
 
 </p>
 Diese Nachricht kann im
-[Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0"){.external
-.text} diskutiert werden.
+[Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0") diskutiert werden.
 
 </p>
 

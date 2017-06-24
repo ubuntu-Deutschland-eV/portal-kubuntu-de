@@ -9,8 +9,7 @@ verschoben wurde, gibt es noch einen Testkandidaten. Im Vergleich zu
 Release Candidate 1 ist der zweite nun wesentlich stabiler, dennoch ist
 selbstverständlich immer noch jeder dazu aufgefordert Fehlerberichte auf
 der Seite
-[bugs.kde.org](http://bugs.kde.org/ "http://bugs.kde.org:"){.external
-.text} einzutragen und mitzuhelfen, dass KDE 4 bald, die von den
+[bugs.kde.org](http://bugs.kde.org/ "http://bugs.kde.org:") einzutragen und mitzuhelfen, dass KDE 4 bald, die von den
 vorherigen Versionen bekannte Qualität, erreicht.
 
 </p>

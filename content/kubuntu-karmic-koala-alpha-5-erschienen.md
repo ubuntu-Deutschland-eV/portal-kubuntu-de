@@ -16,10 +16,8 @@ geeignet!**
 </p>
 Zu den Neuerungen und Änderungen gehören das Update auf die
 KDE-Desktopoberfläche in der [Version
-4.3.1](http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-3-1-mit-kubuntupaketen-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-3-1-mit-kubuntupaketen-erschienen"){.external
-.text}. Weitere Arbeit wurde auf die
-[Netbook-Variante](https://wiki.kubuntu.org/Kubuntu/NetbookPlasma "https://wiki.kubuntu.org/Kubuntu/NetbookPlasma"){.external
-.text} verwendet, die nun über Basis-Funktionalität verfügt, jedoch noch
+4.3.1](http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-3-1-mit-kubuntupaketen-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-3-1-mit-kubuntupaketen-erschienen"). Weitere Arbeit wurde auf die
+[Netbook-Variante](https://wiki.kubuntu.org/Kubuntu/NetbookPlasma "https://wiki.kubuntu.org/Kubuntu/NetbookPlasma") verwendet, die nun über Basis-Funktionalität verfügt, jedoch noch
 nicht auf dem Stand ist, welcher zur Freigabe im Oktober angestrebt ist.
 
 </p>
@@ -33,8 +31,7 @@ Kubuntu-DVD enthalten sein.
 
 </p>
 Der Nachrichten-Indikator, mit der [Alpha
-4](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-karmic-koala-alpha-4-erschienen "http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-karmic-koala-alpha-4-erschienen"){.external
-.text} eingeführt, wurde um Plugins für Quassel, Kopete und Kontact
+4](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-karmic-koala-alpha-4-erschienen "http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-karmic-koala-alpha-4-erschienen") eingeführt, wurde um Plugins für Quassel, Kopete und Kontact
 erweitert. Ferner ist im Zuge der Initiative des sozialen Desktops nun
 auch das Google-Calendar-Plasmoid Bestandteil der standardmäßigen
 Plasma-Konfiguration.
@@ -58,21 +55,17 @@ innerhalb von Windows.
 Da sich Kubuntu Karmic noch in einem Entwicklungsstadium befindet, ist
 es sehr wahrscheinlich, dass noch weitere Probleme vorhanden sind. Daher
 ist jeder dazu angehalten, [Fehler zu
-melden](https://launchpad.net/distros/ubuntu/+filebug "https://launchpad.net/distros/ubuntu/+filebug"){.external
-.text}, sofern diese nicht schon bekannt sind. Ebenso gefragt sind
+melden](https://launchpad.net/distros/ubuntu/+filebug "https://launchpad.net/distros/ubuntu/+filebug"), sofern diese nicht schon bekannt sind. Ebenso gefragt sind
 allgemeine
-[Rückmeldungen](https://wiki.kubuntu.org/JauntyJackalope/Alpha5/Kubuntu/Feedback "https://wiki.kubuntu.org/JauntyJackalope/Alpha5/Kubuntu/Feedback"){.external
-.text}.
+[Rückmeldungen](https://wiki.kubuntu.org/JauntyJackalope/Alpha5/Kubuntu/Feedback "https://wiki.kubuntu.org/JauntyJackalope/Alpha5/Kubuntu/Feedback").
 
 </p>
 Kubuntu 9.10 Karmic Koala Alpha 5 kann von den
-[Ubuntu-Servern](http://cdimage.ubuntu.com/kubuntu/releases/karmic/alpha-5/ "http://cdimage.ubuntu.com/kubuntu/releases/karmic/alpha-5/"){.external
-.text} heruntergeladen werden.
+[Ubuntu-Servern](http://cdimage.ubuntu.com/kubuntu/releases/karmic/alpha-5/ "http://cdimage.ubuntu.com/kubuntu/releases/karmic/alpha-5/") heruntergeladen werden.
 
 </p>
 Diese Nachricht kann im
-[Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0"){.external
-.text} diskutiert werden.
+[Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0") diskutiert werden.
 
 </p>
 

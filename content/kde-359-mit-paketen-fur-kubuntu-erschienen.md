@@ -6,8 +6,7 @@ Slug: kde-359-mit-paketen-fur-kubuntu-erschienen
 
 KDE 4 ist in aller Munde und dennoch haben die KDE-Entwickler KDE 3
 nicht vergessen. Mit [KDE
-3.5.9](http://www.kde.org/announcements/announce-3.5.9.php "http://www.kde.org/announcements/announce-3.5.9.php"){.external
-.text} wurde nun das nächste Wartungsrelease von KDE 3 veröffentlicht,
+3.5.9](http://www.kde.org/announcements/announce-3.5.9.php "http://www.kde.org/announcements/announce-3.5.9.php") wurde nun das nächste Wartungsrelease von KDE 3 veröffentlicht,
 wie die [KDE-Gemeinschaft](http://www.kde.org) heute bekannt gab. Neben
 den zahlreichen Fehlerkorrekturen, die ein Wartungsrelease nunmal
 auszeichnet, gibt es auch ein paar neue Features, über die sich
@@ -20,8 +19,7 @@ als hinreichend stabil bewiesen hat.
 </p>
 Welche Veränderungen es seit KDE 3.5.8 noch in das Wartungsrelease
 geschafft haben, kann dem offiziellen (englischen)
-[Changelog](http://www.kde.org/announcements/changelogs/changelog3_5_8to3_5_9.php "http://www.kde.org/announcements/changelogs/changelog3_5_8to3_5_9.php"){.external
-.text} entnommen werden.
+[Changelog](http://www.kde.org/announcements/changelogs/changelog3_5_8to3_5_9.php "http://www.kde.org/announcements/changelogs/changelog3_5_8to3_5_9.php") entnommen werden.
 
 </p>
 <!--break--><!--break-->
@@ -31,8 +29,7 @@ geschafft haben, kann dem offiziellen (englischen)
 
 </p>
 Für
-[Kubuntu](http://kubuntu.org/announcements/kde-359.php "http://kubuntu.org/announcements/kde-359.php"){.external
-.text} sind Pakete für die stabile Version 7.10 und natürlich für die
+[Kubuntu](http://kubuntu.org/announcements/kde-359.php "http://kubuntu.org/announcements/kde-359.php") sind Pakete für die stabile Version 7.10 und natürlich für die
 aktuelle Entwicklerversion Hardy Heron verfügbar.  Um KDE 3.5.9 für
 Kubuntu 7.10 Gutsy Gibbon zu installieren, müssen die folgenden Schritte
 ausgeführt werden:

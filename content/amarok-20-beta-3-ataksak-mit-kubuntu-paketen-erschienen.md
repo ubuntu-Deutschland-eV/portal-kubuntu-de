@@ -6,11 +6,10 @@ Slug: amarok-20-beta-3-ataksak-mit-kubuntu-paketen-erschienen
 
 Kaum ist Kubuntu 8.10 erschienen gibt es schon wieder neue Software für
 den geneigten Nutzer. Das [Amarok
-Projekt](http://amarok.kde.org "http://amarok.kde.org"){.external .text}
+Projekt](http://amarok.kde.org "http://amarok.kde.org")
 nähert sich der stabilen Version 2.0 und hat mittlerweile bereits die
 dritte Beta-Version des beliebten Multimediaplayers mit dem Spitznamen
-"[Ataksak](http://en.wikipedia.org/wiki/Ataksak "http://en.wikipedia.org/wiki/Ataksak"){.external
-.text}" veröffentlicht.
+"[Ataksak](http://en.wikipedia.org/wiki/Ataksak "http://en.wikipedia.org/wiki/Ataksak")" veröffentlicht.
 
 </p>
 Amarok 2.0 ist vollständig neu geschrieben worden, so dass kein
@@ -37,8 +36,7 @@ letzten Beta-Version sind die erwähnenswerten Änderungen aber diese:
 Selbstverständlich wurden auch haufenweise Fehler korrigiert, so dass
 ein relativ komfortabler Test der Software möglich ist. Im "[Kubuntu
 Members - KDE 4
-Repository"](https://edge.launchpad.net/%7Ekubuntu-members-kde4 "https://edge.launchpad.net/~kubuntu-members-kde4"){.external
-.text} existieren bereits Pakete für Kubuntu 8.10, so dass mit dieser
+Repository"](https://edge.launchpad.net/%7Ekubuntu-members-kde4 "https://edge.launchpad.net/~kubuntu-members-kde4") existieren bereits Pakete für Kubuntu 8.10, so dass mit dieser
 Paketquelle Amarok 2.0 Beta3 wie folgt installiert werden kann:
 
 </p>
@@ -69,11 +67,10 @@ Produktivsystemen eingesetzt werden.
 
 </p>
 Zuletzt sei noch unbedingt darauf hingewiesen, dass das [Amarok
-Projekt](http://amarok.kde.org "http://amarok.kde.org"){.external .text}
+Projekt](http://amarok.kde.org "http://amarok.kde.org")
 Unterstützung vor allem auch finanzieller Art benötigt. Mit dem
 jährlichen
-["Roktober"](http://amarok.kde.org/en/node/548 "http://amarok.kde.org/en/node/548"){.external
-.text} sammeln die Entwickler Gelder, um auch künftig die Entwicklung
+["Roktober"](http://amarok.kde.org/en/node/548 "http://amarok.kde.org/en/node/548") sammeln die Entwickler Gelder, um auch künftig die Entwicklung
 erfolgreich voran treiben zu können. Bei Gefallen von Amarok 2.0 ist es
 daher ein schöner Dank ein wenig zu spenden.
 

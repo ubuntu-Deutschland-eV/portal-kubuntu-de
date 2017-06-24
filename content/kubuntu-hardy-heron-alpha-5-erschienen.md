@@ -79,10 +79,8 @@ ins Launchpad, falls nicht schon einer existiert.
 
 </p>
 [KDE
-3.5.9](http://dot.kde.org/1203436147/ "http://dot.kde.org/1203436147/"){.external
-.text} ([wir
-berichteten](http://www.kubuntu-de.org/nachrichten/software/kde/kde-3-5-9-mit-paketen-f-r-kubuntu-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/kde-3-5-9-mit-paketen-f-r-kubuntu-erschienen"){.external
-.text}) ist mit seinen zahlreichen Fehlerkorrekturen und aktualisierter
+3.5.9](http://dot.kde.org/1203436147/ "http://dot.kde.org/1203436147/") ([wir
+berichteten](http://www.kubuntu-de.org/nachrichten/software/kde/kde-3-5-9-mit-paketen-f-r-kubuntu-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/kde-3-5-9-mit-paketen-f-r-kubuntu-erschienen")) ist mit seinen zahlreichen Fehlerkorrekturen und aktualisierter
 Kontact-Suite enthalten.
 
 </p>
@@ -94,10 +92,8 @@ Kontact-Suite enthalten.
 
 </p>
 [KDE
-4.0.1](http://dot.kde.org/1202239435/ "http://dot.kde.org/1202239435/"){.external
-.text} ([wir
-berichteten](http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-0-1-mit-paketen-f-r-kubuntu-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-0-1-mit-paketen-f-r-kubuntu-erschienen"){.external
-.text}), welches etliche Fehlerkorrekturen zur ersten 4.0.0 Freigabe
+4.0.1](http://dot.kde.org/1202239435/ "http://dot.kde.org/1202239435/") ([wir
+berichteten](http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-0-1-mit-paketen-f-r-kubuntu-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-0-1-mit-paketen-f-r-kubuntu-erschienen")), welches etliche Fehlerkorrekturen zur ersten 4.0.0 Freigabe
 beherbergt, steht zur Verfügung. KDE 4.0 wird monatlich aktualisiert,
 somit steht die neueste Version bereit.
 
@@ -137,8 +133,7 @@ Einrichtungsdialog für Drucker.
 
 </p>
 Die neueste Freigabe von KOffice ([wir
-berichteten](http://www.kubuntu-de.org/nachrichten/kubuntu/koffice-2-alpha-6-mit-kubuntu-paketen-erschienen "http://www.kubuntu-de.org/nachrichten/kubuntu/koffice-2-alpha-6-mit-kubuntu-paketen-erschienen"){.external
-.text}), der nächsten Generation von Büroanwendungen, ist in den Paketen
+berichteten](http://www.kubuntu-de.org/nachrichten/kubuntu/koffice-2-alpha-6-mit-kubuntu-paketen-erschienen "http://www.kubuntu-de.org/nachrichten/kubuntu/koffice-2-alpha-6-mit-kubuntu-paketen-erschienen")), der nächsten Generation von Büroanwendungen, ist in den Paketen
 verfügbar.
 
 </p>

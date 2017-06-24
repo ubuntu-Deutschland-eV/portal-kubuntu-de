@@ -6,31 +6,26 @@ Slug: kubuntu-904-jaunty-jackalope-beta-veroffentlicht
 
 Seit gestern steht die Beta der neuen Kubuntu-Version 9.04 Jaunty
 Jackalope für alle Interessierten zum
-[Download](http://de.archive.ubuntu.com/ubuntu-releases/kubuntu/9.04/ "http://de.archive.ubuntu.com/ubuntu-releases/kubuntu/9.04/"){.external
-.text} bereit. Wenn alles wie geplant verläuft, bleibt dies die einzige
+[Download](http://de.archive.ubuntu.com/ubuntu-releases/kubuntu/9.04/ "http://de.archive.ubuntu.com/ubuntu-releases/kubuntu/9.04/") bereit. Wenn alles wie geplant verläuft, bleibt dies die einzige
 Beta und wird direkt von dem einzigen Release-Kandidaten am 16. April
 abgelöst. Die finale Version soll dann eine Woche später am 23. April
 erscheinen.
 
 </p>
 Jaunty bringt jede Menge Neuerungen mit. So ist [KDE
-4.2.1](../../../../nachrichten/software/kde/kde-4-2-1-mit-kubuntu-paketen-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-1-mit-kubuntu-paketen-erschienen"){.external
-.text} enthalten, mit der neusten Version von Qt 4.5. Neu ist auch
+4.2.1](../../../../nachrichten/software/kde/kde-4-2-1-mit-kubuntu-paketen-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-1-mit-kubuntu-paketen-erschienen") enthalten, mit der neusten Version von Qt 4.5. Neu ist auch
 KPackageKit, das neue Paketverwaltungsprogramm, welches Adept ersetzt
 und vollständig in KDE 4 integriert ist. Auch mit Quassel, dem neuen
 Standard-IRC-Client hält eine neue Software Einzug in Jaunty. Eine
 Anleitung für Quassel ist in unserem
-[Wiki](http://wiki.kubuntu-de.org/Kubuntu_benutzen/Internet/Quassel "http://wiki.kubuntu-de.org/Kubuntu_benutzen/Internet/Quassel"){.external
-.text} zu finden. Für Musikfreunde ist mit Amarok 2.0.2 das neueste
+[Wiki](http://wiki.kubuntu-de.org/Kubuntu_benutzen/Internet/Quassel "http://wiki.kubuntu-de.org/Kubuntu_benutzen/Internet/Quassel") zu finden. Für Musikfreunde ist mit Amarok 2.0.2 das neueste
 [Update von
-Amarok](../../../../nachrichten/software/kde/amarok/amarok-2-0-2-mit-kubuntu-paketen-ver%C3%B6ffentlicht "http://www.kubuntu-de.org/nachrichten/software/kde/amarok/amarok-2-0-2-mit-kubuntu-paketen-veröffentlicht"){.external
-.text} dabei. Die Netzwerkkonfiguration erfolgt jetzt über das neue
+Amarok](../../../../nachrichten/software/kde/amarok/amarok-2-0-2-mit-kubuntu-paketen-ver%C3%B6ffentlicht "http://www.kubuntu-de.org/nachrichten/software/kde/amarok/amarok-2-0-2-mit-kubuntu-paketen-veröffentlicht") dabei. Die Netzwerkkonfiguration erfolgt jetzt über das neue
 KDE-4-Networkmanager-Plasma-Widget. Hier kann es nach einem Update
 erforderlich sein, das Plasma Widget in die Taskleiste oder den Desktop
 selbst hinzuzufügen. Eine Liste der Änderungen in Jaunty kann auch im
 [Kubuntu
-Wiki](https://wiki.kubuntu.org/JauntyJackalope/Beta/Kubuntu "https://wiki.kubuntu.org/JauntyJackalope/Beta/Kubuntu"){.external
-.text} eingesehen werden.
+Wiki](https://wiki.kubuntu.org/JauntyJackalope/Beta/Kubuntu "https://wiki.kubuntu.org/JauntyJackalope/Beta/Kubuntu") eingesehen werden.
 
 </p>
 <!--break--><!--break-->

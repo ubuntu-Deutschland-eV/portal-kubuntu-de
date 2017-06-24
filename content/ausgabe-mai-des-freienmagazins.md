@@ -5,8 +5,7 @@ Tags: Sonstiges
 Slug: ausgabe-mai-des-freienmagazins
 
 Die Redaktion des
-[freienMagazins](http://www.freies-magazin.de/ "http://www.freies-magazin.de"){.external
-.text} hat die Ausgabe Mai veröffentlicht. Neben aktuellen Nachrichten
+[freienMagazins](http://www.freies-magazin.de/ "http://www.freies-magazin.de") hat die Ausgabe Mai veröffentlicht. Neben aktuellen Nachrichten
 aus der Linuxwelt  werden unter anderem die Themen "Ubuntu-Geschichte im
 Blick: Warty Warthog", "K3b 1.0 Funktionsübersicht" und "Ice, Ice, Buntu
 - die Minimalinstallation" behandelt. 

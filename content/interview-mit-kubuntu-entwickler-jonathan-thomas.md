@@ -11,8 +11,7 @@ Kubuntu-de.org hat wieder einmal ein Interview mit einem Entwickler
 geführt. Dieses mal haben wir mit Jonathan (JontheEchidna) Thomas
 gesprochen. Der Kubuntu Entwickler und Ninja berichtet vom
 Entwicklungszeitraum der aktuellen [Kubuntuversion "Jaunty
-Jackalope"](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-9-04-jaunty-jackalope-erschienen "http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-9-04-jaunty-jackalope-erschienen"){.external
-.text} und gibt schon einen kleinen Ausblick auf die kommende Version
+Jackalope"](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-9-04-jaunty-jackalope-erschienen "http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-9-04-jaunty-jackalope-erschienen") und gibt schon einen kleinen Ausblick auf die kommende Version
 "Karmic Koala" welche im Oktober erscheinen soll.
 
 </p>

@@ -17,8 +17,7 @@ Namenspate für diese Betafreigabe ist.
 Die Versionsnummer der Beta erscheint als 4.1.85. Wie üblich sind
 Vorversionen **nicht für den produktiven Gebrauch** gedacht. Dagegen
 sind Rück- und
-[Fehlermeldungen](http://bugs.kde.org "http://bugs.kde.org"){.external
-.text} ausdrücklich erwünscht, da in der laufenden Entwicklungsstufe
+[Fehlermeldungen](http://bugs.kde.org "http://bugs.kde.org") ausdrücklich erwünscht, da in der laufenden Entwicklungsstufe
 Fehlerkorrekturen Vorrang haben. Im Vergleich zur stabilen KDE 4.1
 Version sind bereits viele Veränderungen sichtbar und diejenigen mit
 Testinstallationen sind zum ausführlichen Ausprobieren aufgerufen.
@@ -34,11 +33,9 @@ wie Phonon und KHTML.
 
 </p>
 Das KDE-Projekt empfiehlt zum Testen das [Weihnachtswallpaper von Wade
-Olson](http://wadejolson.wordpress.com/2008/12/14/enough-holiday-wallpapers-to-gag-on/ "http://wadejolson.wordpress.com/2008/12/14/enough-holiday-wallpapers-to-gag-on/"){.external
-.text} und den Schneeflocken-Effekt. Alle Änderungen gegenüber der
+Olson](http://wadejolson.wordpress.com/2008/12/14/enough-holiday-wallpapers-to-gag-on/ "http://wadejolson.wordpress.com/2008/12/14/enough-holiday-wallpapers-to-gag-on/") und den Schneeflocken-Effekt. Alle Änderungen gegenüber der
 ersten Beta sind dem ausführlichen
-[Changelog](http://techbase.kde.org/Schedules/KDE4/4.2_Changelog "http://techbase.kde.org/Schedules/KDE4/4.2_Changelog"){.external
-.text} zu entnehmen.
+[Changelog](http://techbase.kde.org/Schedules/KDE4/4.2_Changelog "http://techbase.kde.org/Schedules/KDE4/4.2_Changelog") zu entnehmen.
 
 </p>
 []{#Installation}  

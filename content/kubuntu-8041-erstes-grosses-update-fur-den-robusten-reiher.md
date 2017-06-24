@@ -15,14 +15,11 @@ einige Fehlerkorrekturen.
 </p>
 Eine ausführlichere Liste der Fehlerkorrekturen ist in der [Ankündigung
 der
-Veröffentlichung](https://lists.ubuntu.com/archives/ubuntu-announce/2008-July/000112.html "https://lists.ubuntu.com/archives/ubuntu-announce/2008-July/000112.html"){.external
-.text} (Engl.) zu finden. Bekannte Probleme und Lösungen dazu können in
+Veröffentlichung](https://lists.ubuntu.com/archives/ubuntu-announce/2008-July/000112.html "https://lists.ubuntu.com/archives/ubuntu-announce/2008-July/000112.html") (Engl.) zu finden. Bekannte Probleme und Lösungen dazu können in
 den [Release
-Notes](http://www.ubuntu.com/getubuntu/releasenotes/804 "http://www.ubuntu.com/getubuntu/releasenotes/804"){.external
-.text} (Engl.) eingesehen werden. Die neuen CD-Abbilder für Kubuntu
+Notes](http://www.ubuntu.com/getubuntu/releasenotes/804 "http://www.ubuntu.com/getubuntu/releasenotes/804") (Engl.) eingesehen werden. Die neuen CD-Abbilder für Kubuntu
 8.04.1 Hardy Heron können nun von der
-[Downloadseite](../../../../download-kubuntu-herunterladen-downloaden "http://www.kubuntu-de.org/download-kubuntu-herunterladen-downloaden"){.external
-.text} bezogen werden.
+[Downloadseite](../../../../download-kubuntu-herunterladen-downloaden "http://www.kubuntu-de.org/download-kubuntu-herunterladen-downloaden") bezogen werden.
 
 </p>
 <!--break--><!--break-->

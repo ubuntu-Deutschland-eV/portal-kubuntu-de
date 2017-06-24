@@ -4,20 +4,17 @@ Author: Monika Eggers
 Tags: KDE
 Slug: kde-421-mit-kubuntu-paketen-erschienen
 
-Das [KDE Team](http://www.kde.org/ "http://www.kde.org"){.external
-.text} hat mit KDE 4.2.1 (Codename "Cream") das erste Wartungs- und
+Das [KDE Team](http://www.kde.org/ "http://www.kde.org") hat mit KDE 4.2.1 (Codename "Cream") das erste Wartungs- und
 Bugfixrelease der 4.2er Serie veröffentlicht. Zwei Monate nach der
 [Veröffentlichung von KDE
-4.2](../../../../nachrichten/software/kde/kde-4-2-mit-kubuntu-paketen-veroeffentlicht "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-mit-kubuntu-paketen-veroeffentlicht"){.external
-.text} gibt werden jetzt viele Probleme behoben und einige Funktionen
+4.2](../../../../nachrichten/software/kde/kde-4-2-mit-kubuntu-paketen-veroeffentlicht "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-mit-kubuntu-paketen-veroeffentlicht") gibt werden jetzt viele Probleme behoben und einige Funktionen
 nachgerüstet.
 
 </p>
 Die meisten Änderungen haben der Bildbetrachter Okular, der
 Instant-Messaging Client Kopete und die Webrendering-Engine KHTML
 erhalten. Das
-[Changelog](http://www.kde.org/announcements/changelogs/changelog4_2to4_2_1.php "http://www.kde.org/announcements/changelogs/changelog4_2to4_2_1.php"){.external
-.text} bietet eine gute Übersicht über die gemachten Änderungen, von
+[Changelog](http://www.kde.org/announcements/changelogs/changelog4_2to4_2_1.php "http://www.kde.org/announcements/changelogs/changelog4_2to4_2_1.php") bietet eine gute Übersicht über die gemachten Änderungen, von
 denen allerdings nicht alle aufgeführt sind. Um alle Änderungen
 einzusehen können die SVN-Logs genutzt werden.
 

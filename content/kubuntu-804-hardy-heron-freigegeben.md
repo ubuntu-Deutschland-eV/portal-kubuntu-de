@@ -139,7 +139,7 @@ KDE 4 ist verfügbar auf der Kubuntu 8.04 KDE 4 Remix CD oder über
 <p>
 <td>
 [![](http://wiki.kubuntu-de.org/images/Sm_kdm.png "kdm.png"){width="200"
-height="152"}](https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=kdm.png){.external}
+height="152"}](https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=kdm.png)
 
 </td>
 </p>
@@ -224,7 +224,7 @@ Möglichkeit zwischen vier möglichen Einstellungen:
 <p>
 <td>
 [![https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=desktopeffects.png](http://wiki.kubuntu-de.org/images/Sm_desktopeffects.png "https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=desktopeffects.png"){width="200"
-height="152"}](https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=desktopeffects.png){.external}
+height="152"}](https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=desktopeffects.png)
 
 </td>
 </p>
@@ -710,8 +710,7 @@ Gibbon) ein direktes Upgrade getätigt werden.**
 
 </p>
 Dazo sollte der Anleitung unter ["Upgrade von 7.10 auf
-8.04"](http://wiki.kubuntu-de.org/Installation/Upgrade/7.10_auf_8.04 "http://wiki.kubuntu-de.org/Installation/Upgrade/7.10_auf_8.04"){.external
-.text} gefolgt werden.
+8.04"](http://wiki.kubuntu-de.org/Installation/Upgrade/7.10_auf_8.04 "http://wiki.kubuntu-de.org/Installation/Upgrade/7.10_auf_8.04") gefolgt werden.
 
 </p>
 1.  Öffnen sie den Adept Manager KMenü -&gt; System Adept Manger

@@ -281,7 +281,7 @@ verbesserte Funktionen, bessere Kameraunterstützung und vieles
 mehr. Weitere Informationen:
 
 </p>
--   [http://www.digikam.org/?q=...](http://www.digikam.org/?q=about/features09 "http://www.digikam.org/?q=about/features09"){.external}
+-   [http://www.digikam.org/?q=...](http://www.digikam.org/?q=about/features09 "http://www.digikam.org/?q=about/features09")
     (englisch)
 -   <http://www.digikam.org/> (englisch)
 

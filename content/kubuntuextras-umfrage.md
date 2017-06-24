@@ -28,8 +28,7 @@ favorisierte Anwendungen oder einen Kommentar hinterlassen kann.
 
 </p>
 Die Wiki Seite befindet sich im offiziellen [Ubuntu
-Wiki](https://wiki.ubuntu.com/KubuntuExtras "https://wiki.ubuntu.com/KubuntuExtras"){.external
-.text} und ist daher in englischer Sprache. Dies sollte jedoch kein
+Wiki](https://wiki.ubuntu.com/KubuntuExtras "https://wiki.ubuntu.com/KubuntuExtras") und ist daher in englischer Sprache. Dies sollte jedoch kein
 größeres Problem darstellen, da die Namen der Programme überall gleich
 sind und die Funktionsweise eines Wikis weit bekannt sein dürfte.
 

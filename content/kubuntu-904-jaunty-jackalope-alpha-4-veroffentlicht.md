@@ -14,13 +14,11 @@ geeignet!**
 
 </p>
 In dieser Alpha-Version hat nicht nur der kürzlich veröffentlichte [KDE
-4.2](http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-mit-kubuntu-paketen-veroeffentlicht "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-mit-kubuntu-paketen-veroeffentlicht"){.external
-.text} Desktop Einzug gehalten, es gibt zudem einen neuen
+4.2](http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-mit-kubuntu-paketen-veroeffentlicht "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-mit-kubuntu-paketen-veroeffentlicht") Desktop Einzug gehalten, es gibt zudem einen neuen
 standardmäßigen IRC-Client: Quassel. Dies ist nötig, da Konversation
 noch nicht auf KDE 4 portiert worden ist. Eine Anleitung zu Quassel
 befindet sich in [unserem
-Wiki](http://wiki.kubuntu-de.org/Kubuntu_benutzen/Internet/Quassel "http://wiki.kubuntu-de.org/Kubuntu_benutzen/Internet/Quassel"){.external
-.text}.
+Wiki](http://wiki.kubuntu-de.org/Kubuntu_benutzen/Internet/Quassel "http://wiki.kubuntu-de.org/Kubuntu_benutzen/Internet/Quassel").
 
 </p>
 <!--break--><!--break-->
@@ -46,8 +44,7 @@ Das Dokumentations-Team von Kubuntu ruft erneut zur Mitarbeit an der
 Dokumentation auf. Die meisten Handbücher sind noch nicht auf die KDE
 4-Versionen umgeschrieben und daher werden dringend Helfer benötigt.
 Interessenten melden sich bitte bei [Richard
-Johnson](https://wiki.kubuntu.org/RichardJohnson "https://wiki.kubuntu.org/RichardJohnson"){.external
-.text}.
+Johnson](https://wiki.kubuntu.org/RichardJohnson "https://wiki.kubuntu.org/RichardJohnson").
 
 </p>
 Einige Komplikationen in Jaunty Alpha 4 sind bereits bekannt: so wird
@@ -62,16 +59,13 @@ schnellen. Sieve-Skripte sollten derzeit also nicht verwendet werden.
 Da sich Kubuntu noch in einem Entwicklungsstadium befindet, ist es sehr
 wahrscheinlich, dass noch weitere Probleme vorhanden sind. Daher ist
 jeder dazu angehalten, [Probleme zu
-berichten](https://launchpad.net/distros/ubuntu/+filebug "https://launchpad.net/distros/ubuntu/+filebug"){.external
-.text}, sofern diese nicht schon bekannt sind. Ebenso gefragt sind
+berichten](https://launchpad.net/distros/ubuntu/+filebug "https://launchpad.net/distros/ubuntu/+filebug"), sofern diese nicht schon bekannt sind. Ebenso gefragt sind
 allgemeine
-[Rückmeldungen](https://wiki.kubuntu.org/JauntyJackalope/Alpha4/Kubuntu/Feedback "https://wiki.kubuntu.org/JauntyJackalope/Alpha4/Kubuntu/Feedback"){.external
-.text}.
+[Rückmeldungen](https://wiki.kubuntu.org/JauntyJackalope/Alpha4/Kubuntu/Feedback "https://wiki.kubuntu.org/JauntyJackalope/Alpha4/Kubuntu/Feedback").
 
 </p>
 Kubuntu 9.04 Jaunty Jackalope Alpha 4 kann
-[hier](http://cdimage.ubuntu.com/kubuntu/releases/jaunty/alpha-4/ "http://cdimage.ubuntu.com/kubuntu/releases/jaunty/alpha-4/"){.external
-.text} herunter geladen werden.
+[hier](http://cdimage.ubuntu.com/kubuntu/releases/jaunty/alpha-4/ "http://cdimage.ubuntu.com/kubuntu/releases/jaunty/alpha-4/") herunter geladen werden.
 
 </p>
 

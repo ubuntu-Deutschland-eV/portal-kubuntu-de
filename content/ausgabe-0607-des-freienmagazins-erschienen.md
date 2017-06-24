@@ -14,10 +14,8 @@ Beamer.
 </p>
 Das freieMagazin ist ein monatlich erscheinendes Magazin mit Nachrichten
 und Artikeln rund um Linux, K/Ubuntu und Fedora. Die [aktuelle
-Ausgabe](http://www.elyps.de/freiesMagazin-2007-06.html "http://www.elyps.de/freiesMagazin-2007-06.html"){.external
-.text} sowie ältere Veröffentlichungen können auf der
-[Webseite](http://www.freies-magazin.de/ "http://www.freies-magazin.de/"){.external
-.text} der Redakton heruntergeladen werden.
+Ausgabe](http://www.elyps.de/freiesMagazin-2007-06.html "http://www.elyps.de/freiesMagazin-2007-06.html") sowie ältere Veröffentlichungen können auf der
+[Webseite](http://www.freies-magazin.de/ "http://www.freies-magazin.de/") der Redakton heruntergeladen werden.
 
 </p>
 <!--break--><!--break-->

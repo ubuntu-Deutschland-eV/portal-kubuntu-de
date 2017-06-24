@@ -85,8 +85,7 @@ Vertriebsmethoden von Kubuntu 8.04:
 </p>
 Man kann Kubuntu 7.10 auf 8.04 RC mit einigen einfachen Schritten über
 das Internet aktualisieren. Mehr dazu auf der Seite "[The Upgrade
-Walkthrough](https://help.ubuntu.com/community/HardyUpgrades/Kubuntu "https://help.ubuntu.com/community/HardyUpgrades/Kubuntu"){.external
-.text}" im Ubuntu Wiki (englisch).
+Walkthrough](https://help.ubuntu.com/community/HardyUpgrades/Kubuntu "https://help.ubuntu.com/community/HardyUpgrades/Kubuntu")" im Ubuntu Wiki (englisch).
 
 </p>
 []{#Kubuntu_herunterladen}

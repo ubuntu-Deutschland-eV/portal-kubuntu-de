@@ -11,10 +11,8 @@ Team-Mailingliste online ist, und bereit dazu rege genutzt zu werden!
 Um eine gute Kommunikation innerhalb des Teams zu gewährleisten, sollten
 sich alle derzeitigen Mitarbeiter (und solche die es werden wollen) der
 [Launchpad-Gruppe
-kubuntu-de.org](https://launchpad.net/%7Ekubuntu-de.org "https://launchpad.net/~kubuntu-de.org"){.external
-.text} beitreten, und sich in der
-[Mailingliste](http://lists.kubuntu-de.org/mailman/listinfo/team "http://lists.kubuntu-de.org/mailman/listinfo/team"){.external
-.text} eintragen. Die Mailingliste ist
+kubuntu-de.org](https://launchpad.net/%7Ekubuntu-de.org "https://launchpad.net/~kubuntu-de.org") beitreten, und sich in der
+[Mailingliste](http://lists.kubuntu-de.org/mailman/listinfo/team "http://lists.kubuntu-de.org/mailman/listinfo/team") eintragen. Die Mailingliste ist
 [öffentlich](http://lists.kubuntu-de.org/pipermail/team/)! Es können und
 sollten sich auch alle anderen, die Interesse daran haben an
 kubuntu-de.org mitzuarbeiten, eintragen.

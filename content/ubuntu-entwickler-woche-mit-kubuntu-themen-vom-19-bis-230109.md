@@ -49,14 +49,11 @@ DKMS sowie Xubuntu besprochen.
 
 </p>
 Der [ausführliche
-Zeitplan](https://wiki.ubuntu.com/UbuntuDeveloperWeek "https://wiki.ubuntu.com/UbuntuDeveloperWeek"){.external
-.text} mit [genaueren
-Beschreibungen](https://wiki.ubuntu.com/UbuntuDeveloperWeek/Sessions "https://wiki.ubuntu.com/UbuntuDeveloperWeek/Sessions"){.external
-.text} zu den einzelnen Sitzungen steht im Ubuntu Wiki zur Verfügung.
+Zeitplan](https://wiki.ubuntu.com/UbuntuDeveloperWeek "https://wiki.ubuntu.com/UbuntuDeveloperWeek") mit [genaueren
+Beschreibungen](https://wiki.ubuntu.com/UbuntuDeveloperWeek/Sessions "https://wiki.ubuntu.com/UbuntuDeveloperWeek/Sessions") zu den einzelnen Sitzungen steht im Ubuntu Wiki zur Verfügung.
 Wer nicht weiß wie man in das IRC kommt, sollte diese [Anleitung in
 unserem
-Wiki](http://wiki.kubuntu-de.org/Team:IRC "http://wiki.kubuntu-de.org/Team:IRC"){.external
-.text} befolgen.
+Wiki](http://wiki.kubuntu-de.org/Team:IRC "http://wiki.kubuntu-de.org/Team:IRC") befolgen.
 
 </p>
 

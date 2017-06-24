@@ -13,10 +13,8 @@ von GnuPGP mit KMail und stellt den alternativen Desktop-Manager wmii
 </p>
 Daneben findet der Leser aktuelle Nachrichten und Veranstaltungstermine
 rund um Linux K/Ubuntu und Fedora. Die [aktuelle
-Ausgabe](http://www.elyps.de/magazin/freiesMagazin-2007-07.html "http://www.elyps.de/magazin/freiesMagazin-2007-07.html"){.external
-.text} kann auf der [Webseite der
-Redaktion](http://www.freies-magazin.de/ "http://www.freies-magazin.de/"){.external
-.text} frei heruntergeladen werden.
+Ausgabe](http://www.elyps.de/magazin/freiesMagazin-2007-07.html "http://www.elyps.de/magazin/freiesMagazin-2007-07.html") kann auf der [Webseite der
+Redaktion](http://www.freies-magazin.de/ "http://www.freies-magazin.de/") frei heruntergeladen werden.
 
 </p>
 <!--break--><!--break-->

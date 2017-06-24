@@ -5,16 +5,14 @@ Tags: KDE
 Slug: kde-404-mit-paketen-fur-kubuntu-veroffentlicht
 
 Mit [KDE
-4.0.4](http://kde.org/announcements/announce-4.0.4.php "http://kde.org/announcements/announce-4.0.4.php"){.external
-.text} (Codename "File-Not-Found") wurde das inzwischen schon vierte
+4.0.4](http://kde.org/announcements/announce-4.0.4.php "http://kde.org/announcements/announce-4.0.4.php") (Codename "File-Not-Found") wurde das inzwischen schon vierte
 Update zur Fehlerkorrektur von KDE 4 veröffentlicht. Es wurden keine
 neuen Funktionen implementiert, dafür aber zahlreiche Fehler, die über
 das [KDE Bugtracking
-System](http://bugs.kde.org/ "http://bugs.kde.org"){.external .text}
+System](http://bugs.kde.org/ "http://bugs.kde.org")
 gemeldet wurden, beseitigt. Neue Funktionen werden erst wieder in KDE
 4.1, von dem inzwischen die [1.
-Alphaversion](../../../../nachrichten/software/kde/erste-testversion-von-kde-4-1-freigegeben "http://www.kubuntu-de.org/nachrichten/software/kde/erste-testversion-von-kde-4-1-freigegeben"){.external
-.text} erschienen ist, integriert.
+Alphaversion](../../../../nachrichten/software/kde/erste-testversion-von-kde-4-1-freigegeben "http://www.kubuntu-de.org/nachrichten/software/kde/erste-testversion-von-kde-4-1-freigegeben") erschienen ist, integriert.
 
 </p>
 Viele Korrektekturen sind in die Rendering-Engine KHTML eingeflossen,
@@ -22,8 +20,7 @@ wodurch der Umgang mit CSS3 stark verbessert wurde. Weitere Korrekturen
 wurden unter anderen an Kopete, dem Dateibetrachter Okular, den KDE
 Games Paket und auch an PyKDE vorgenommen. Eine komplette Auflistung ist
 dem englischsprachigen
-[Changelog](http://www.kde.org/announcements/changelogs/changelog4_0_3to4_0_4.php "http://www.kde.org/announcements/changelogs/changelog4_0_3to4_0_4.php"){.external
-.text} zu entnehmen.
+[Changelog](http://www.kde.org/announcements/changelogs/changelog4_0_3to4_0_4.php "http://www.kde.org/announcements/changelogs/changelog4_0_3to4_0_4.php") zu entnehmen.
 
 </p>
 <!--break--><!--break-->

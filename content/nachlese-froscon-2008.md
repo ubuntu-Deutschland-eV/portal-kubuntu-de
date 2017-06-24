@@ -12,10 +12,9 @@ version](http://www.kubuntu-de.org/english/kubuntu-de-org-at-froscon-2008)
 .image-img_assist_custom width="151"
 height="113"}](http://www.kubuntu-de.org/bilder/events/froscon-2008#img2)]{.inline
 .inline-right}Die [Fachhochschule
-Bonn-Rhein-Sieg](http://www.fh-brs.de/ "http://www.fh-brs.de/"){.external
-.text} veranstaltete am 23. und 24. August diesen Jahres bereits zum
+Bonn-Rhein-Sieg](http://www.fh-brs.de/ "http://www.fh-brs.de/") veranstaltete am 23. und 24. August diesen Jahres bereits zum
 dritten Mal eine Konferenz rund um Themen der freien Software, kurz
-"[FrOSCon](http://froscon.de/ "http://froscon.de/"){.external .text}".
+"[FrOSCon](http://froscon.de/ "http://froscon.de/")".
 Kubuntu-de.org war auch in diesem Jahr wieder mit einem Stand vertreten,
 um sich und natürlich Kubuntu zu präsentieren. Die Ersten von uns sind
 bereits am Freitag vor der Veranstaltung angereist, um aufzubauen und
@@ -55,14 +54,13 @@ eingesetzt werden können.
 </p>
 Unser persönlicher Höhepunkt des Tages bestannd in Form einen Interviews
 mit [Radio
-Tux](http://cms.radiotux.de/ "http://cms.radiotux.de/"){.external .text}
+Tux](http://cms.radiotux.de/ "http://cms.radiotux.de/")
 über Kubuntu und das Projekt Kubuntu-de.org. Wir freuten uns natürlich
 über die Gelegenheit uns zu präsentieren und so nutzten Christian
 Mangold (neversfelde) und Monika Krug (Monika|K) diese Möglichkeit,
 etwas über uns und Kubuntu zu berichten. Das Interview kann man sich bei
 Radio Tux
-[herunterladen](http://cms.radiotux.de/index6.php "http://cms.radiotux.de/index6.php"){.external
-.text} und anhören.
+[herunterladen](http://cms.radiotux.de/index6.php "http://cms.radiotux.de/index6.php") und anhören.
 
 </p>
 ### Der Samstag Abend
@@ -157,8 +155,7 @@ Man kann sagen, dass die Welt der Freien Software sich gut präsentiert
 hat und dem sich ausweitenden Kreis der Interessierten an ihren
 Produkten Gelegenheit zum Einblick geboten hat. Mit etwa 1200 Besuchern
 ist die
-[FroSCOn](http://www.froscon.de/ "http://www.froscon.de"){.external
-.text} nun auch verdientermaßen in den Kreis der großen Veranstaltungen
+[FroSCOn](http://www.froscon.de/ "http://www.froscon.de") nun auch verdientermaßen in den Kreis der großen Veranstaltungen
 zu freier und offener Software gestoßen. Für uns und somit auch für
 Kubuntu war die Veranstaltung sehr erfolgreich und wir kommen auch 2009
 sicher gerne wieder. Der vorzumerkende Termin ist der **22. und

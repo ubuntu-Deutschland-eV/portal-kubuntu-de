@@ -34,7 +34,7 @@ KDE-4.7.3-Nutzer von den KDE-Entwicklern empfohlen.
 Fehler in der Paketierung sollen im [Launchpad gegen
 kubuntu-ppa](https://bugs.launchpad.net/kubuntu-ppa) gemeldet werden.
 Fehler der Software direkt im
-[KDE-Bugtracker](http://bugs.kde.org/){.external .text}.
+[KDE-Bugtracker](http://bugs.kde.org/).
 
 </p>
 Diese Nachricht kann im

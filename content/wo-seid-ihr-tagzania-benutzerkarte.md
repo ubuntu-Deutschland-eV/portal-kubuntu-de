@@ -13,10 +13,8 @@ Wohnung nebenan zu finden ist.
 
 </p>
 Zur Übersicht haben wir im Portal eine
-[Benutzerkarte](http://www.kubuntu-de.org/kubuntu-de-org-tagged "http://czessi.kubuntu-de.org/drupal5/kubuntu-de-org-tagged"){.external
-.text} eingestellt, die auf
-[Tagzania](http://www.tagzania.com/ "http://www.tagzania.com"){.external
-.text} basiert. Das Tagzania Projekt hat sich zum Ziel gesetzt die ganze
+[Benutzerkarte](http://www.kubuntu-de.org/kubuntu-de-org-tagged "http://czessi.kubuntu-de.org/drupal5/kubuntu-de-org-tagged") eingestellt, die auf
+[Tagzania](http://www.tagzania.com/ "http://www.tagzania.com") basiert. Das Tagzania Projekt hat sich zum Ziel gesetzt die ganze
 Welt zu taggen, d.h. mit Bezeichnungen und Markierungen zu versehen.
 Unsere Karte zeigt alle Orte an, an denen sich Benutzer, LUGs oder
 andere Gruppen mit einem Bezug zu Kubuntu mit dem Tag "kubuntu-de.org"
@@ -24,8 +22,7 @@ eingetragen haben.
 
 </p>
 Um auch auf der Karte zu erscheinen muss man sich also nur bei [Tagzania
-anmelden](http://www.tagzania.com/register "http://www.tagzania.com/register"){.external
-.text} und den jeweiligen Standort eintragen. Eine bessere Anbindung an
+anmelden](http://www.tagzania.com/register "http://www.tagzania.com/register") und den jeweiligen Standort eintragen. Eine bessere Anbindung an
 kubuntu-de.org ist allerdings noch geplant.
 
 </p>

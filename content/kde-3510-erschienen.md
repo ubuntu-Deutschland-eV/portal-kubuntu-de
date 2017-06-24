@@ -10,11 +10,9 @@ behebt lediglich einige Fehler, u.a. in KPDF, KGPG und dem Kicker.
 Beispielsweise wurde das Verhalten des Kickers bei transparenten
 Hintergrundbildern verbessert und in einigen Applets wurde das Layout
 und das Antialiasing repariert. Alle Änderungen können dem [offiziellen
-Changelog](http://www.kde.org/announcements/changelogs/changelog3_5_9to3_5_10.php "http://www.kde.org/announcements/changelogs/changelog3_5_9to3_5_10.php"){.external
-.text} entnommen werden und spezielle Informationen zu den Bugfixes für
+Changelog](http://www.kde.org/announcements/changelogs/changelog3_5_9to3_5_10.php "http://www.kde.org/announcements/changelogs/changelog3_5_9to3_5_10.php") entnommen werden und spezielle Informationen zu den Bugfixes für
 den Kicker gibt es in der [Commit
-Übersicht](http://commit-digest.org/issues/2008-08-03/ "http://commit-digest.org/issues/2008-08-03/"){.external
-.text}.
+Übersicht](http://commit-digest.org/issues/2008-08-03/ "http://commit-digest.org/issues/2008-08-03/").
 
 </p>
 Ein Update von KDE 3.5.9 ist relativ risikolos, da die sehr strikten

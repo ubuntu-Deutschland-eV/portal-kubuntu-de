@@ -14,8 +14,7 @@ Entsprechend der Namensgebung enthält die aktuelle Freigabe viele
 verfügbar. Benutzer, die darauf nicht verzichten möchten, können auch
 weiterhin die Vorgängerversion 8.04 "Hardy Heron" benutzen, die immer
 noch voll unterstützt wird. Im Artikel ["Is KDE 4.1 for
-you?"](http://techbase.kde.org/Schedules/Is_KDE_4.1_for_you%3F "http://techbase.kde.org/Schedules/Is_KDE_4.1_for_you%3F"){.external
-.text} können Benutzer herausfinden, ob sich der Umstieg auf KDE 4.1 für
+you?"](http://techbase.kde.org/Schedules/Is_KDE_4.1_for_you%3F "http://techbase.kde.org/Schedules/Is_KDE_4.1_for_you%3F") können Benutzer herausfinden, ob sich der Umstieg auf KDE 4.1 für
 sie lohnt. Wer den Umstieg nicht scheut, findet im Kubuntu Wiki eine
 [Anleitung zur Migration von KDE 3 auf KDE
 4](https://wiki.kubuntu.org/Kubuntu/KDE3-KDE4Migration "kubuntu:Kubuntu/KDE3-KDE4Migration"){.extiw}.
@@ -155,8 +154,7 @@ möglichen Workarounds dokumentiert.
 </p>
 Anläßlich der Kubuntu 8.10 Intrepid Ibex Freigabe möchten wir nochmal
 auf die
-[Wiki-Aktion](../../../../nachrichten/kubuntu/kubuntu-de-org/mach-das-wiki-fit-fuer-kubuntu-8-10-intrepid-ibex-und-kde-4 "http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-de-org/mach-das-wiki-fit-fuer-kubuntu-8-10-intrepid-ibex-und-kde-4"){.external
-.text} hinweisen. Gewünscht sind Beiträge zum Wiki bezüglich des neuen
+[Wiki-Aktion](../../../../nachrichten/kubuntu/kubuntu-de-org/mach-das-wiki-fit-fuer-kubuntu-8-10-intrepid-ibex-und-kde-4 "http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-de-org/mach-das-wiki-fit-fuer-kubuntu-8-10-intrepid-ibex-und-kde-4") hinweisen. Gewünscht sind Beiträge zum Wiki bezüglich des neuen
 KDE 4-Desktops und auch der damit gegebenen Programme. Dies ist
 sicherlich ein Anlass bei der Aktion mitzumachen und einen von drei
 Preisen zu gewinnen.

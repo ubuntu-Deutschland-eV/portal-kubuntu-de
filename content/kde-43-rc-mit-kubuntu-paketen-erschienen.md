@@ -17,7 +17,7 @@ Bugs behoben werden können.
 **Achtung:** Diese Version ist nicht für Endbenutzer gedacht, sondern
 nur für Benutzer die sich an den Tests beteiligen möchten. Bugs können
 direkt [an das KDE Team gemeldet
-werden](http://bugs.kde.org "http://bugs.kde.org"){.external .text}.
+werden](http://bugs.kde.org "http://bugs.kde.org").
 **Es gibt einen Bug der dazu führt, dass während des Updates X abstürzt!
 Die Installation wird im Hintergrund dennoch durchgeführt, ist sie
 fertig ist ein Neustart durchzuführen.**
@@ -27,8 +27,7 @@ fertig ist ein Neustart durchzuführen.**
 
 Eine Installationsanleitung für KDE 4.3 RC1 unter Kubuntu 9.04 befindet
 sich im
-[Wiki](http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.04_auf_KDE_4.3_aktualisieren "http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.04_auf_KDE_4.3_aktualisieren"){.external
-.text}.
+[Wiki](http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.04_auf_KDE_4.3_aktualisieren "http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.04_auf_KDE_4.3_aktualisieren").
 
 </p>
 Diese Nachricht kann im

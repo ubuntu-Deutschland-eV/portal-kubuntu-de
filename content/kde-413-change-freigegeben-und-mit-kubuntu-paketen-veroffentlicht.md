@@ -18,8 +18,7 @@ Einen wesentlich Anteil an Fehlerkorrekturen und Bereinigungen gab es in
 KHTML, Konquerors Rendering-Engine (welches z.B. auch in Akregator
 verwendet wird). Ebenso wurden unter anderem in Dolphin, Okular, KMail
 und Kopete etliche Fehler ausgemerzt. Der
-[Changelog](http://www.kde.org/announcements/changelogs/changelog4_1_2to4_1_3.php "http://www.kde.org/announcements/changelogs/changelog4_1_2to4_1_3.php"){.external
-.text} gibt eine stolze Übersicht der Korrekturen ohne jedoch
+[Changelog](http://www.kde.org/announcements/changelogs/changelog4_1_2to4_1_3.php "http://www.kde.org/announcements/changelogs/changelog4_1_2to4_1_3.php") gibt eine stolze Übersicht der Korrekturen ohne jedoch
 vollständig zu sein. Alle Einzelheiten sind den SVN-Changelogs zu
 entnehmen; diese sind auf der gerade erwähnten Seite zu den einzelnen
 Programmen verlinkt.
@@ -30,8 +29,7 @@ angezeigt, sobald die nächste Prüfung auf neue Pakete stattfindet. Wie
 gewohnt kann dies auch manuell über den Paketmanager erledigt werden.
 Sollten die Backports nicht aktiviert sein, übernimmt man den
 entsprechenden Eintrag aus unserer
-[Quellen-Übersicht](http://wiki.kubuntu-de.org/Baustelle/Sources.list_Intrepid "http://wiki.kubuntu-de.org/Baustelle/Sources.list_Intrepid"){.external
-.text} in die /etc/apt/sources.list.
+[Quellen-Übersicht](http://wiki.kubuntu-de.org/Baustelle/Sources.list_Intrepid "http://wiki.kubuntu-de.org/Baustelle/Sources.list_Intrepid") in die /etc/apt/sources.list.
 
 </p>
 

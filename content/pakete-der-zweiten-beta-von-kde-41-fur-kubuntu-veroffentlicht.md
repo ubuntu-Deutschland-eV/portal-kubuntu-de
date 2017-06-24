@@ -8,7 +8,7 @@ Am 24.6. präsentierte das Team von KDE die zweite große Testversion von
 KDE 4.1, das Ende Juli in einer stabilen Version veröffentlicht wird.
 Alle Tester werden gebeten, die zweite Betaversion gründlich zu prüfen
 und Fehlerberichte im [Bugtracker von
-KDE](http://bugs.kde.org/ "http://bugs.kde.org/"){.external .text}
+KDE](http://bugs.kde.org/ "http://bugs.kde.org/")
 einzutragen, damit die endgültige Veröffentlichung möglichst stabil
 wird, denn KDE 4.1 soll auch für den ganz normalen Benutzer geeignet
 sein, der bislang auf KDE 3.5 vertraut hat.
@@ -53,8 +53,7 @@ wurden auch die Language Bindings für andere Programmier- und
 Skriptsprachen verbessert. So ist zum Beispiel das neue Druckerapplet
 bereits komplett in Python geschrieben. Eine vollständige Übersicht über
 die neuen Funktionen von KDE 4.1 bietet die [Techbase von
-KDE](http://techbase.kde.org/Schedules/KDE4/4.1_Release_Goals "http://techbase.kde.org/Schedules/KDE4/4.1_Release_Goals"){.external
-.text} (Engl.).
+KDE](http://techbase.kde.org/Schedules/KDE4/4.1_Release_Goals "http://techbase.kde.org/Schedules/KDE4/4.1_Release_Goals") (Engl.).
 
 </p>
 []{#KDE_4.1_Beta_2_unter_Kubuntu_8.04_Hardy_Heron_installieren}
@@ -80,7 +79,7 @@ Paketen zusammenhängen könnten, sollten im IRC Kanal \#kubuntu-kde4 auf
 irc.freenode.org diskutiert werden. Dies wird den Entwicklern helfen
 Probleme mit den Paketen von Fehlern in KDE selbst zu unterscheiden.
 Fehlerberichte sollten in den [Bugtracker von
-KDE](http://bugs.kde.org/ "http://bugs.kde.org/"){.external .text}
+KDE](http://bugs.kde.org/ "http://bugs.kde.org/")
 eingetragen werden.
 
 </p>

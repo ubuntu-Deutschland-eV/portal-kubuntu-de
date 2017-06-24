@@ -11,7 +11,7 @@ und Verbesserungen in allen Bereich von KDE. Weiterhin wurden fast 900
 Bugs in den letzten Wochen gefixed. Diese Version richtet sich an Tester
 und Interessierte, die sich schon mal einen ersten Eindruck von der
 neuen Version verschaffen möchten. Wer Fehler findet sollte diese direkt
-[melden](http://bugs.kde.org "http://bugs.kde.org"){.external .text}
+[melden](http://bugs.kde.org "http://bugs.kde.org")
 damit diese noch bis zur finalen Version behoben werden können.
 
 </p>
@@ -33,10 +33,8 @@ Drucker Konfigurationssystem kommen viele Funktionen wieder, welche in
 KDE 4.0 und 4.1 von den Anwendern vermisst wurden. Kate und Kwrite, die
 Editoren in KDE, können jetzt mit einem VI Eingabemodus aufwarten.
 Weitere Informationen liefert das [offizielle
-Announcement](http://www.kde.org/announcements/announce-4.2-beta1.php "http://www.kde.org/announcements/announce-4.2-beta1.php"){.external
-.text} und der [Feature
-Plan](http://techbase.kde.org/Schedules/KDE4/4.2_Feature_Plan "http://techbase.kde.org/Schedules/KDE4/4.2_Feature_Plan"){.external
-.text}.
+Announcement](http://www.kde.org/announcements/announce-4.2-beta1.php "http://www.kde.org/announcements/announce-4.2-beta1.php") und der [Feature
+Plan](http://techbase.kde.org/Schedules/KDE4/4.2_Feature_Plan "http://techbase.kde.org/Schedules/KDE4/4.2_Feature_Plan").
 
 </p>
 Dieser ersten Beta-Version soll noch eine weitere Beta Mitte Dezember

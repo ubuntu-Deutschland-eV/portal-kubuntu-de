@@ -5,10 +5,8 @@ Tags: Koffice
 Slug: koffice-2-beta-5-mit-kubuntu-paketen-veroffentlicht
 
 Es ist mal wieder so weit. Das [KOffice
-Projekt](http://www.koffice.org "http://www.koffice.org"){.external
-.text} hat die fünfte Beta-Version der Office Suite
-[freigegeben](http://www.koffice.org/announcements/announce-2.0beta5.php "http://www.koffice.org/announcements/announce-2.0beta5.php"){.external
-.text}. Die kommende Version 2.0 ist seit etwa zwei Jahren in der
+Projekt](http://www.koffice.org "http://www.koffice.org") hat die fünfte Beta-Version der Office Suite
+[freigegeben](http://www.koffice.org/announcements/announce-2.0beta5.php "http://www.koffice.org/announcements/announce-2.0beta5.php"). Die kommende Version 2.0 ist seit etwa zwei Jahren in der
 Entwicklung und wird für KDE 4 programmiert. Die letzte stabile Version
 (1.6) gibt es nur als Ausgabe für KDE 3.
 
@@ -19,8 +17,7 @@ beim Laden und Speichern von OpenDocument-Dateien erzielt. Auch konnten
 alle gemeldeten Absturzfehler (Crash-Bugs) in KWord beseitigt werden.  
 
 Das gesamte und umfangreiche
-[Changelog](http://www.koffice.org/announcements/changelog-2.0-beta5.php "http://www.koffice.org/announcements/changelog-2.0-beta5.php"){.external
-.text} kann auf der Projektseite angesehen werden.
+[Changelog](http://www.koffice.org/announcements/changelog-2.0-beta5.php "http://www.koffice.org/announcements/changelog-2.0-beta5.php") kann auf der Projektseite angesehen werden.
 
 </p>
 <!--break--><!--break-->
@@ -52,8 +49,7 @@ für die finale Veröffentlichung von KOffice 2.0 sind:
 Die verfolgte Zielsetzung mit der Beta 5 Freigabe ist zum einen die
 Präsentation des Fortschritts seit der letzten Beta, zum anderen erhofft
 sich das Projekt
-[Rückmeldungen](http://bugs.kde.org "http://bugs.kde.org"){.external
-.text} von Benutzern und Entwicklern, insbesondere hinsichtlich der
+[Rückmeldungen](http://bugs.kde.org "http://bugs.kde.org") von Benutzern und Entwicklern, insbesondere hinsichtlich der
 OpenDocument-Verwaltung und von Fehlern bei Versionen auf nicht-Unix
 Plattformen.
 

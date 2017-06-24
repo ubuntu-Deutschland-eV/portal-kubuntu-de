@@ -7,8 +7,7 @@ Slug: amarok-20-rc-1-narwhal-mit-kubuntu-paketen-veroffentlicht
 Schon gestern hat das Amarok Team den ersten Release Kandidaten unter
 dem Codenamen "Narwhal" freigegeben. Nur wenige Tage nach der letzten
 [Beta
-Version](http://www.kubuntu-de.org/nachrichten/software/kde/amarok/amarok-2-0-beta-3-ataksak-mit-kubuntu-paketen-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/amarok/amarok-2-0-beta-3-ataksak-mit-kubuntu-paketen-erschienen"){.external
-.text} wurde das Hauptaugenmerk für diese Veröffentlichung auf die
+Version](http://www.kubuntu-de.org/nachrichten/software/kde/amarok/amarok-2-0-beta-3-ataksak-mit-kubuntu-paketen-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/amarok/amarok-2-0-beta-3-ataksak-mit-kubuntu-paketen-erschienen") wurde das Hauptaugenmerk für diese Veröffentlichung auf die
 Behebung von Fehlern gelegt. Trotz des "harten" Featurefreeze haben doch
 einige Neuerungen den Weg in diese Version geschafft.
 
@@ -22,8 +21,7 @@ wurde in den Last.fm Service eingebunden. Allerdings wurden auch die
 Video und Last.fm Applets deaktiviert, da sie nicht die Produktionsreife
 haben. Weitere Informationen über die Neuerungen findet man in der
 [Ankündigung des Amarok
-Teams](http://amarok.kde.org/en/releases/2.0/rc/1 "http://amarok.kde.org/en/releases/2.0/rc/1"){.external
-.text}
+Teams](http://amarok.kde.org/en/releases/2.0/rc/1 "http://amarok.kde.org/en/releases/2.0/rc/1")
 
 </p>
 <!--break--><!--break-->

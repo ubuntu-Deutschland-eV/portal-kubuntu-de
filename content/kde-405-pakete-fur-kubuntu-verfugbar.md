@@ -6,14 +6,11 @@ Slug: kde-405-pakete-fur-kubuntu-verfugbar
 
 Exakt nach dem Zeitplan wurde am 4. Juni das inzwischen [fünfte Update
 zur Fehlerkorrektur von KDE
-4](http://www.kde.org/announcements/announce-4.0.5.php "http://www.kde.org/announcements/announce-4.0.5.php"){.external
-.text} veröffentlicht. Mit KDE 4.0.5 sind keine neuen Features
+4](http://www.kde.org/announcements/announce-4.0.5.php "http://www.kde.org/announcements/announce-4.0.5.php") veröffentlicht. Mit KDE 4.0.5 sind keine neuen Features
 hinzugekommen. Neue Funktionen wird es erst mit der Veröffentlichung von
 [KDE
-4.1](http://www.kde.org/announcements/announce-4.1-beta1-de.php "http://www.kde.org/announcements/announce-4.1-beta1-de.php"){.external
-.text} geben, das inzwischen in der [ersten Beta-Version
-verfügbar](../../../../nachrichten/software/kde/kde-4-1-beta-mit-paketen-f-r-kubuntu-ver-ffentlicht "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-1-beta-mit-paketen-f-r-kubuntu-ver-ffentlicht"){.external
-.text} ist und dessen Entwicklung vorrausichtlich Ende Juli
+4.1](http://www.kde.org/announcements/announce-4.1-beta1-de.php "http://www.kde.org/announcements/announce-4.1-beta1-de.php") geben, das inzwischen in der [ersten Beta-Version
+verfügbar](../../../../nachrichten/software/kde/kde-4-1-beta-mit-paketen-f-r-kubuntu-ver-ffentlicht "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-1-beta-mit-paketen-f-r-kubuntu-ver-ffentlicht") ist und dessen Entwicklung vorrausichtlich Ende Juli
 abgeschlossen sein wird.
 
 </p>
@@ -30,8 +27,7 @@ das
 <!--break--><!--break-->
 
 Seit heute stehen auch [Pakete für Kubuntu 8.04 Hardy
-Heron](http://kubuntu.org/announcements/kde-4.0.5.php "http://kubuntu.org/announcements/kde-4.0.5.php"){.external
-.text} bereit, welche leicht über Adept installiert werden können. Die
+Heron](http://kubuntu.org/announcements/kde-4.0.5.php "http://kubuntu.org/announcements/kde-4.0.5.php") bereit, welche leicht über Adept installiert werden können. Die
 Pakete werden nach "/usr/lib/kde4" installiert, wodurch es möglich ist
 KDE 3 und KDE 4 parallel zu betreiben. Um KDE 4.0.5 zu installieren sind
 folgende Schritte nötig:

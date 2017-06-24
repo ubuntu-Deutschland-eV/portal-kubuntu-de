@@ -5,7 +5,7 @@ Tags: Amarok
 Slug: amarok-202-mit-kubuntu-paketen-veroffentlicht
 
 Schon am vergangenen Donnerstag hat das [Amarok
-Team](http://amarok.kde.org/ "http://amarok.kde.org/"){.external .text}
+Team](http://amarok.kde.org/ "http://amarok.kde.org/")
 ein Wartungsfreigabe mit dem Codenamen "Only Time Will Tell" und der
 Versionsnummer 2.0.2 veröffentlicht. Mit dieser Version werden einige
 Bugs und Stabilitätsprobleme behoben. Das Hauptaugenmerk der Entwickler

@@ -9,8 +9,7 @@ veröffentlicht.](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-9-10-kar
 
 </p>
 An diesem Freitag hat Mark Shuttleworth [erste
-Details](https://lists.ubuntu.com/archives/ubuntu-devel-announce/2009-February/000536.html "https://lists.ubuntu.com/archives/ubuntu-devel-announce/2009-February/000536.html"){.external
-.text} zur übernächsten Ubuntu Version 9.10 vorgestellt. Die Version
+Details](https://lists.ubuntu.com/archives/ubuntu-devel-announce/2009-February/000536.html "https://lists.ubuntu.com/archives/ubuntu-devel-announce/2009-February/000536.html") zur übernächsten Ubuntu Version 9.10 vorgestellt. Die Version
 wird, wie der Versionsnummer zu entnehmen, im Oktober 2009 erscheinen
 und den Codenamen "Karmic Koala" tragen. Das lässt sich wohl am ehesten
 mit "karmischer Koala" übersetzen.
@@ -27,8 +26,7 @@ hochfahren.
 
 Auf jene ist auch ein weiteres Augenmerk gerichtet. Die Netbook Edition
 wird mit den neuesten Errungenschaften von
-[Moblin](http://de.wikipedia.org/wiki/Moblin "http://de.wikipedia.org/wiki/Moblin"){.external
-.text} ausgestattet werden und soll besser auf kleinwüchsigen
+[Moblin](http://de.wikipedia.org/wiki/Moblin "http://de.wikipedia.org/wiki/Moblin") ausgestattet werden und soll besser auf kleinwüchsigen
 Bildschirmen zu bedienen. Bessere Bedienbarkeit, einfache Installation
 und ein gutes Arbeitsverhalten sind die Ziele für die Netbook Edition.
 

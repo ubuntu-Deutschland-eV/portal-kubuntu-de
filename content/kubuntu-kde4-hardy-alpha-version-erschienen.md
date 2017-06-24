@@ -24,8 +24,7 @@ Testen, Melden und Beheben von Fehlern helfen wollen.
 
 </p>
 Feedback ist auf der [Feedback
-Seite](https://wiki.kubuntu.org/HardyHeron/Alpha5/KubuntuKDE4/Feedback "https://wiki.kubuntu.org/HardyHeron/Alpha5/KubuntuKDE4/Feedback"){.external
-.text} erwünscht.
+Seite](https://wiki.kubuntu.org/HardyHeron/Alpha5/KubuntuKDE4/Feedback "https://wiki.kubuntu.org/HardyHeron/Alpha5/KubuntuKDE4/Feedback") erwünscht.
 
 </p>
 []{#Inhalt_der_vorgestellten_Version}

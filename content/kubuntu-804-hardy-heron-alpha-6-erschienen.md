@@ -61,8 +61,7 @@ Vorherige Versionen von Kubuntu 8.04:
 Es ist zu beachten, dass alle neuen Funktionen ein Teil der
 Entiwicklungsversion von Kubuntu sind und Fehler haben können. Bitte
 berichten sie über etwaige Probleme auf der entsprechenden
-[Launchpad-Seite](https://bugs.launchpad.net/ubuntu/+filebug "https://bugs.launchpad.net/ubuntu/+filebug"){.external
-.text}, falls noch kein Problembericht geschrieben wurde.
+[Launchpad-Seite](https://bugs.launchpad.net/ubuntu/+filebug "https://bugs.launchpad.net/ubuntu/+filebug"), falls noch kein Problembericht geschrieben wurde.
 
 </p>
 []{#Parallele_Ver.C3.B6ffentlichungen_von_KDE_3_und_4_Versionen}
@@ -76,8 +75,7 @@ Alpha 6 ist die erste Alpha Veröffentlichung, die auch eine [KDE 4
 CD](http://cdimage.ubuntu.com/kubuntu-kde4/releases/hardy/alpha-6/) mit
 sich bringt. Hier ist zu beachten, dass Kubuntu in Version 8.04
 einerseits den stabilen KDE 3 Desktop mitbringt und mit [Kubuntu-KDE
-4](http://cdimage.ubuntu.com/kubuntu-kde4/releases/hardy/alpha-6/ "http://cdimage.ubuntu.com/kubuntu-kde4/releases/hardy/alpha-6/"){.external
-.text} zusätzlich den brandneuen KDE 4 Desktop bietet.
+4](http://cdimage.ubuntu.com/kubuntu-kde4/releases/hardy/alpha-6/ "http://cdimage.ubuntu.com/kubuntu-kde4/releases/hardy/alpha-6/") zusätzlich den brandneuen KDE 4 Desktop bietet.
 
 </p>
 []{#KDE_4.02}

@@ -13,8 +13,7 @@ Aufbau geschieht unter der Federführung von Rob la Lau und Ingo Malchow.
 
 </p>
 So ist seit heute das KDE-spezifische Forum unter
-[forum.kde.org](http://forum.kde.org/ "http://forum.kde.org"){.external
-.text} erreichbar. Unterstützung erfährt das neu zusammengestellte Team
+[forum.kde.org](http://forum.kde.org/ "http://forum.kde.org") erreichbar. Unterstützung erfährt das neu zusammengestellte Team
 von Mitgliedern von kubuntu-de.org: Arthur Schiwon (blizzz) ist dort als
 "Super Moderator" im Einsatz. Dies galt auch für Christian Mangold
 (neversfelde), der allerdings aus privaten Gründen eine Auszeit nehmen

@@ -157,8 +157,7 @@ KDE 4.2.
 
 Da ein Wiki auch immer ein kollaboratives Werkzeug ist, sind Ergänzungen
 ausdrücklich erwünscht. Über [helfende
-Hände](http://wiki.kubuntu-de.org/Team:Redaktion "http://wiki.kubuntu-de.org/Team:Redaktion"){.external
-.text} freuen wir uns auch schon jetzt.
+Hände](http://wiki.kubuntu-de.org/Team:Redaktion "http://wiki.kubuntu-de.org/Team:Redaktion") freuen wir uns auch schon jetzt.
 
 </p>
 

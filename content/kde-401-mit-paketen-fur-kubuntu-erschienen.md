@@ -8,11 +8,9 @@ Erstes Wartungsrelease für KDE 4 erschienen![![Bild:KDE.png](http://wiki.kubunt
 ============================================================================================================================================================================================================
 
 </p>
-Das [KDE-Projekt](http://www.kde.org/ "http://www.kde.org"){.external
-.text} hat heute mit der Versionsnummer 4.0.1 das [erste Wartungsrelease
+Das [KDE-Projekt](http://www.kde.org/ "http://www.kde.org") hat heute mit der Versionsnummer 4.0.1 das [erste Wartungsrelease
 der KDE
-4](http://www.kde.org/announcements/announce-4.0.1.php "http://www.kde.org/announcements/announce-4.0.1.php"){.external
-.text} Reihe freigegeben und es sind bereits Pakete für Kubuntu 7.10
+4](http://www.kde.org/announcements/announce-4.0.1.php "http://www.kde.org/announcements/announce-4.0.1.php") Reihe freigegeben und es sind bereits Pakete für Kubuntu 7.10
 Gutsy Gibbon und die aktuelle Entwicklungsversion Hardy Heron verfügbar.
 In dieses Release gingen zahlreiche Fehlerkorrekturen ein, welche über
 die Seite bugs.kde.org berichtet wurden. Unter anderem wurden einige
@@ -71,16 +69,13 @@ daher neben einem bestehenden KDE 3 installiert werden.
 </p>
 Eine detaillierte Liste aller Änderungen seit dem Release von KDE 4.0
 ist im englischen
-[Changelog](http://www.kde.org/announcements/changelogs/changelog4_0to4_0_1.php "http://www.kde.org/announcements/changelogs/changelog4_0to4_0_1.php"){.external
-.text} einzusehen.
+[Changelog](http://www.kde.org/announcements/changelogs/changelog4_0to4_0_1.php "http://www.kde.org/announcements/changelogs/changelog4_0to4_0_1.php") einzusehen.
 
 </p>
 Informationen über KDE 4 im allgemeinen ist in unserer [Ankündigung für
 die Version
-4.0](../../../../nachrichten/software/kde/kde-4-0-mit-kubuntu-paketen-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-0-mit-kubuntu-paketen-erschienen"){.external
-.text} ersichtlich und auf der deutschen Seite von
-[KDE](http://kde.org/announcements/4.0/index-de.php "http://kde.org/announcements/4.0/index-de.php"){.external
-.text}.
+4.0](../../../../nachrichten/software/kde/kde-4-0-mit-kubuntu-paketen-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-0-mit-kubuntu-paketen-erschienen") ersichtlich und auf der deutschen Seite von
+[KDE](http://kde.org/announcements/4.0/index-de.php "http://kde.org/announcements/4.0/index-de.php").
 
 </p>
 [ So geht es weiter mit KDE 4]{.mw-headline}
@@ -88,16 +83,13 @@ die Version
 
 </p>
 Wie schon
-[angekündigt](../../../../nachrichten/software/kde/releasefahrplan-f-r-kde-4 "http://www.kubuntu-de.org/nachrichten/software/kde/releasefahrplan-f-r-kde-4"){.external
-.text} wird KDE nun jeden Monat ein Wartungsrelease für KDE 4
+[angekündigt](../../../../nachrichten/software/kde/releasefahrplan-f-r-kde-4 "http://www.kubuntu-de.org/nachrichten/software/kde/releasefahrplan-f-r-kde-4") wird KDE nun jeden Monat ein Wartungsrelease für KDE 4
 herausbringen, bis vorraussichtlich am 29. Juli das nächste große
 Release KDE 4.1 mit vielen neuen Funktionen herauskommen wird. Wer sich
 vorab schon über die geplanten neuen Features und Technologien
 informieren möchte, kann diese dem [Feature
-Plan](http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Feature_Plan "http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Feature_Plan"){.external
-.text} und der Festlegung der [Release
-Ziele](http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Release_Goals "http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Release_Goals"){.external
-.text} entnehmen.
+Plan](http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Feature_Plan "http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Feature_Plan") und der Festlegung der [Release
+Ziele](http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Release_Goals "http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Release_Goals") entnehmen.
 
 </p>
 

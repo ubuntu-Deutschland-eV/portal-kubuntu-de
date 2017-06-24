@@ -19,10 +19,8 @@ zu finden. )*
 </p>
 Harald Sitter, auch bekannt als apachelogger, wurde vor einiger Zeit zum
 [Kubuntu MOTU
-ernannt](https://lists.ubuntu.com/archives/ubuntu-devel/2007-November/024826.html "https://lists.ubuntu.com/archives/ubuntu-devel/2007-November/024826.html"){.external
-.text} und arbeitet in seiner Freizeit als Projektmanager beim
-[Amarok-Projekt](http://amarok.kde.org/ "http://amarok.kde.org"){.external
-.text}. Wir sprachen mit ihm über [Amarok
+ernannt](https://lists.ubuntu.com/archives/ubuntu-devel/2007-November/024826.html "https://lists.ubuntu.com/archives/ubuntu-devel/2007-November/024826.html") und arbeitet in seiner Freizeit als Projektmanager beim
+[Amarok-Projekt](http://amarok.kde.org/ "http://amarok.kde.org"). Wir sprachen mit ihm über [Amarok
 2](http://www.kubuntu-de.org/nachrichten/software/kde/amarok/vorschau-auf-amarok-2-f-r-kubuntu-erschienen)
 und was in Bezug auf [KDE
 4](http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-0-mit-kubuntu-paketen-erschienen)
@@ -67,9 +65,8 @@ Jedenfalls ist es uns durch das neue KDE und das neue Qt möglich, noch
 viel weiter zu gehen, als wir das mit Amarok 1 konnten. Bestes Beispiel
 sind wohl die neuen Web-Services. Durch das neu entwickelte Framework
 kann eine fantastische Interaktion mit
-[Last.fm](http://www.lastfm.de/ "http://www.lastfm.de"){.external .text}
-oder [Ampache](http://ampache.org/ "http://ampache.org"){.external
-.text} erreicht werden, tatsächlich sogar so, dass die jeweiligen
+[Last.fm](http://www.lastfm.de/ "http://www.lastfm.de")
+oder [Ampache](http://ampache.org/ "http://ampache.org") erreicht werden, tatsächlich sogar so, dass die jeweiligen
 Webseiten unnötig werden - was ganz im Zeichen unseres Plans der
 Übernahme der Weltherrschaft steht :-D.
 
