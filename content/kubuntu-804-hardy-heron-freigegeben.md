@@ -5,20 +5,16 @@ Tags: Kubuntu
 Slug: kubuntu-804-hardy-heron-freigegeben
 
 [![Kubuntu 8.04 Hardy Heron
-herunterladen](http://wiki.kubuntu-de.org/images/804countdown_0days.png){width="180"
-height="180"}](http://www.kubuntu-de.org/download)
+herunterladen](http://wiki.kubuntu-de.org/images/804countdown_0days.png)](http://www.kubuntu-de.org/download)
 
-</p>
 24\. April 2008 - Kubuntu 8.04 wurde freigegeben und steht jetzt zum
 Herunterladen bereit.
 
-</p>
 Kubuntu 8.04 bricht durch die Schranken unbeschränkten Mutes und nahm
 sich des Meisterstückes an, eine doppelte Ausgabe anzubieten. Diese
 neueste Ausgabe enthält verbesserte Benutzeroberflächen, aktualisierte
 Anwendungen, erweiterte Benutzerfreundlichkeit, und eine neue Zukunft.
 
-</p>
 Aber dies sind nur einige der Überraschungen, die diese neue Ausgabe
 bringt. Verbesserte Benutzeroberflächen? Doppelte Ausgabe? Ja! Kubuntu
 8.04 erlaubt es nun zwischen zwei Umgebungen auszuwählen, oder sogar
@@ -34,32 +30,23 @@ diese neue Ausgabe möglich zu machen. Es ist uns das größte Vergnügen
 die neue Ausgabe Kubuntu 8.04 vorzustellen und hoffen, dass der Ritt auf
 dem robusten Reiher ein vergnügliches Ereignis sein wird.
 
-</p>
 **Update: Die Ankündigung ist nun an die aktualisierte Version des
 [englischen
 Originals](http://kubuntu.org/announcements/8.04-release.php)
 angepasst.**
 
-</p>
-<!--break--><!--break-->
 
 Besuchen sie die [Downloadseite](http://www.kubuntu-de.org/download) um
 Kubuntu 8.04 herunterzuladen.
 
-</p>
-
-</p>
 [ Kubuntu 8.04 Highlights]{.mw-headline}
 ========================================
 
-</p>
 Hier lesen sie, was es neues gibt in Kubuntu 8.04.
 
-</p>
 KDE - Zwei auf einmal
 ---------------------
 
-</p>
 Kubuntu 8.04 bringt zwei Versionen des K Desktop Enviroments, einer
 mächtigen graphischen Arbeitsumgebung, die einfache Nutzung, innovative
 Funktionalität und hervorragendes Graphikdesign verbindet mit der
@@ -67,10 +54,8 @@ herausragenden Technik des Kubuntu Betriebssystems. Die stabile Version
 von KDE in Kubuntu 8.04 ist die Version 3.5.9. Die bissige Version von
 KDE in Kubuntu 8.04 ist die Version 4.0.3.
 
-</p>
 ### KDE 4
 
-</p>
 <table width cellspacing="1" cellpadding="1" border="0" align="center" summary>
 </p>
 <p>
@@ -86,13 +71,11 @@ KDE in Kubuntu 8.04 ist die Version 4.0.3.
 
 **Version:** 4.0.3
 
-</p>
 Die Zukunft des Desktops ist bei uns und mit KDE 4.0 beehrt uns die mit
 Preisen ausgezeichnete Desktopumgebung KDE mit ihrem neuesten Desktop.
 Die aktuellste Freigabe, Version 4.0.3, enthält viele neue Funktionen,
 Verbesserungen und viele Fehlerkorrekturen, wie beispielsweise:
 
-</p>
 -   Plasma - die Größe und Position des Panels ist nun einstellbar.
 -   KHTML - Probleme mit dem Neuzeichnen von Fenstern wurden behoben und
     KHTML unterstützt nun mehr Webseiten, indem es Dokumente
@@ -102,7 +85,6 @@ Verbesserungen und viele Fehlerkorrekturen, wie beispielsweise:
 -   [und vieles mehr
     ...](http://www.kde.org/announcements/changelogs/changelog4_0_2to4_0_3.php)
 
-</p>
 KDE 4 ist verfügbar auf der Kubuntu 8.04 KDE 4 Remix CD oder über
 "apt-get install kubuntu-kde4-desktop"
 
@@ -309,7 +291,7 @@ zu lesen und zu schreiben.
 </p>
 <p>
 <td>
-[![](http://wiki.kubuntu-de.org/images/Sm_encryptedinstall.png){width="200"}](http://kubuntu.org/images/hardy_fs.png)
+[![](http://wiki.kubuntu-de.org/images/Sm_encryptedinstall.png)](http://kubuntu.org/images/hardy_fs.png)
 
 </td>
 </p>
