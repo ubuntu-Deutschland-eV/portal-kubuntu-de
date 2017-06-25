@@ -6,7 +6,7 @@ Slug: kde-42-mit-kubuntu-paketen-veroffentlicht
 
 [[![](http://wiki.kubuntu-de.org/images/thumb/Kde4.2_release_article_01.png/180px-Kde4.2_release_article_01.png){.thumbimage
 width="180"
-height="144"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_01.png "Kde4.2 release article 01.png"){.image}]{.inline
+height="144"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_01.png "Kde4.2 release article 01.png")]{.inline
 .inline-right} Knapp mehr als ein Jahr nach der Freigabe von KDE 4.0 hat
 die KDE Entwicklergemeinde heute die Version 4.2.0 "The Answer" (Die
 Antwort) der Desktopumgebung freigegeben. Nachdem bereits die
@@ -67,7 +67,7 @@ mit Plasma verwendet werden.
 
 [![](http://wiki.kubuntu-de.org/images/thumb/Kde4.2_release_article_02.png/180px-Kde4.2_release_article_02.png){.thumbimage
 width="180"
-height="135"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_02.png "Kde4.2 release article 02.png"){.image}
+height="135"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_02.png "Kde4.2 release article 02.png")
 </p>
 <div class="thumbcaption">
 
@@ -108,7 +108,7 @@ height="11"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_02.png "ver
 
 [![](http://wiki.kubuntu-de.org/images/thumb/Kde4.2_release_article_03.png/180px-Kde4.2_release_article_03.png){.thumbimage
 width="180"
-height="124"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_03.png "Kde4.2 release article 03.png"){.image}
+height="124"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_03.png "Kde4.2 release article 03.png")
 </p>
 <div class="thumbcaption">
 
@@ -149,7 +149,7 @@ height="11"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_03.png "ver
 
 [![](http://wiki.kubuntu-de.org/images/thumb/Kde4.2_release_article_04.png/180px-Kde4.2_release_article_04.png){.thumbimage
 width="180"
-height="141"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_04.png "Kde4.2 release article 04.png"){.image}
+height="141"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_04.png "Kde4.2 release article 04.png")
 </p>
 <div class="thumbcaption">
 
@@ -221,7 +221,7 @@ KMail deutlich schneller machen soll.
 
 [![](http://wiki.kubuntu-de.org/images/thumb/Kde4.2_release_article_05.png/180px-Kde4.2_release_article_05.png){.thumbimage
 width="180"
-height="139"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_05.png "Kde4.2 release article 05.png"){.image}
+height="139"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_05.png "Kde4.2 release article 05.png")
 </p>
 <div class="thumbcaption">
 
@@ -262,7 +262,7 @@ height="11"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_05.png "ver
 
 [![](http://wiki.kubuntu-de.org/images/thumb/Kde4.2_release_article_06.png/180px-Kde4.2_release_article_06.png){.thumbimage
 width="180"
-height="144"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_06.png "Kde4.2 release article 06.png"){.image}
+height="144"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_06.png "Kde4.2 release article 06.png")
 </p>
 <div class="thumbcaption">
 
@@ -303,7 +303,7 @@ height="11"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_06.png "ver
 
 [![](http://wiki.kubuntu-de.org/images/thumb/Kde4.2_release_article_07.png/180px-Kde4.2_release_article_07.png){.thumbimage
 width="180"
-height="144"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_07.png "Kde4.2 release article 07.png"){.image}
+height="144"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_07.png "Kde4.2 release article 07.png")
 </p>
 <div class="thumbcaption">
 
@@ -374,7 +374,7 @@ Druckern wird mit einer neue Anwendung einfacher für den Benutzer.
 
 [![](http://wiki.kubuntu-de.org/images/thumb/Kde4.2_release_article_08.png/180px-Kde4.2_release_article_08.png){.thumbimage
 width="180"
-height="139"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_08.png "Kde4.2 release article 08.png"){.image}
+height="139"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_08.png "Kde4.2 release article 08.png")
 </p>
 <div class="thumbcaption">
 
@@ -415,7 +415,7 @@ height="11"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_08.png "ver
 
 [![](http://wiki.kubuntu-de.org/images/thumb/Kde4.2_release_article_09.png/180px-Kde4.2_release_article_09.png){.thumbimage
 width="180"
-height="85"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_09.png "Kde4.2 release article 09.png"){.image}
+height="85"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_09.png "Kde4.2 release article 09.png")
 </p>
 <div class="thumbcaption">
 
@@ -456,7 +456,7 @@ height="11"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_09.png "ver
 
 [![](http://wiki.kubuntu-de.org/images/thumb/Kde4.2_release_article_10.png/180px-Kde4.2_release_article_10.png){.thumbimage
 width="180"
-height="88"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_10.png "Kde4.2 release article 10.png"){.image}
+height="88"}](http://wiki.kubuntu-de.org/Bild:Kde4.2_release_article_10.png "Kde4.2 release article 10.png")
 </p>
 <div class="thumbcaption">
 

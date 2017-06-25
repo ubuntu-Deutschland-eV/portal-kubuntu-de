@@ -16,7 +16,7 @@ Die wichtigsten Neuerungen sind:
 
 </p>
 [![Desktop12.04.png](http://wiki.kubuntu-de.org/images/Desktop12.04.png){width="500"
-height="375"}]{.image}
+height="375"}]
 
 </p>
 -   Telepathy-KDE wird als neuer Instantmessenger verwendet (Kopete wird
@@ -24,14 +24,14 @@ height="375"}]{.image}
 
 </p>
 [![Telepathy.png](http://wiki.kubuntu-de.org/images/Telepathy.png){width="249"
-height="440"}]{.image}
+height="440"}]
 
 </p>
 -   Amarok 2.5
 
 </p>
 [![Amarok.png](http://wiki.kubuntu-de.org/images/Amarok.png){width="500"
-height="368"}]{.image}
+height="368"}]
 
 </p>
 -   rekonq in Version 0.9
@@ -39,7 +39,7 @@ height="368"}]{.image}
 
 </p>
 [![Owncloud.png](http://wiki.kubuntu-de.org/images/Owncloud.png){width="500"
-height="388"}]{.image}
+height="388"}]
 
 </p>
 -   Kubuntu Active
@@ -49,7 +49,7 @@ Eine UI für Tablets
 
 </p>
 [![Active.png](http://wiki.kubuntu-de.org/images/Active.png){width="500"
-height="375"}]{.image}
+height="375"}]
 
 </p>
 -   Calligra
@@ -57,23 +57,23 @@ height="375"}]{.image}
 </p>
 Die neue OfficeSuite für KDE (Standard ist immer noch LibreOffice)
 [![Words.png](http://wiki.kubuntu-de.org/images/Words.png){width="500"
-height="547"}]{.image}
+height="547"}]
 [![Krita.png](http://wiki.kubuntu-de.org/images/Krita.png){width="500"
-height="440"}]{.image}
+height="440"}]
 
 </p>
 -   Muon Suite RC 1.3
 
 </p>
 [![Muon.png](http://wiki.kubuntu-de.org/images/Muon.png){width="500"
-height="307"}]{.image}
+height="307"}]
 
 </p>
 -   Oxygen-Gtk3
 
 </p>
 [![Gedit.png](http://wiki.kubuntu-de.org/images/Gedit.png){width="500"
-height="362"}]{.image}
+height="362"}]
 
 </p>
 Interessierte Tester können diese Vorabversion
@@ -85,7 +85,7 @@ finden.
 
 </p>
 [![Testsoftware48x48.png](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png){width="48"
-height="48"}](/Datei:Testsoftware48x48.png){.image} Da es sich um eine
+height="48"}](/Datei:Testsoftware48x48.png) Da es sich um eine
 Beta Version handelt,wird dringend davon abgeraten diese auf
 Produktivsystemen einzusetzen!
 

@@ -24,7 +24,7 @@ einen Test empfiehlt es sich zudem eine virtuelle Umgebung zu verwenden.
 
 [![Registration im QA Iso
 Tracker](http://wiki.kubuntu-de.org/images/Iso-testing-011.png){width="480"
-height="412"}](http://wiki.kubuntu-de.org/images/Iso-testing-011.png "Registration im QA Iso Tracker "){.image}
+height="412"}](http://wiki.kubuntu-de.org/images/Iso-testing-011.png "Registration im QA Iso Tracker ")
 
 </p>
 Zunächst lädt man sich ein CD-Abbild herunter und überprüft die in der

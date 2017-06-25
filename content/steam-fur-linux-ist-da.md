@@ -15,7 +15,7 @@ Linux-Titeln da.
 
 </p>
 [![Steam.png](http://wiki.kubuntu-de.org/images/thumb/Steam.png/500px-Steam.png){width="500"
-height="292"}](http://wiki.kubuntu-de.org/Datei:Steam.png){.image}
+height="292"}](http://wiki.kubuntu-de.org/Datei:Steam.png)
 
 </p>
 <!--break--><!--break-->

@@ -38,7 +38,7 @@ ersetzt
 </p>
 </p>
 [![Testsoftware48x48.png](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png){width="48"
-height="48"}](/Datei:Testsoftware48x48.png){.image}Da es sich um eine
+height="48"}](/Datei:Testsoftware48x48.png)Da es sich um eine
 Alpha Version handelt,wird dringend davon abgeraten diese auf
 Produktivsystemen einzusetzen! Testen ist aber natürlich erwünscht.
 

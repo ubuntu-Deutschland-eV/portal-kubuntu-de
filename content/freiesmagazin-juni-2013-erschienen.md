@@ -11,7 +11,7 @@ den Bereichen Linux und Open Source mit.
 
 </p>
 [![FM06.2013.png](http://wiki.kubuntu-de.org/images/FM06.2013.png){width="600"
-height="424"}]{.image}
+height="424"}]
 
 </p>
 <!--break--><!--break-->

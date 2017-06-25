@@ -63,7 +63,7 @@ bei der Netbook-Oberfläche erwähnt.
 </p>
 [![Das Miniprogramm
 'Regal'](http://wiki.kubuntu-de.org/images/Regal-Miniprogramm-sm.png){width="500"
-height="260"}](http://wiki.kubuntu-de.org/images/Regal-Miniprogramm.png "Zur Großansicht"){.image}
+height="260"}](http://wiki.kubuntu-de.org/images/Regal-Miniprogramm.png "Zur Großansicht")
 
 </p>
 Im Dateimanager Dolphin wurde die Dateisuche (KFind) integriert,
@@ -98,7 +98,7 @@ es diverse Änderungen bei den Spielen.
 </p>
 [![Routenplanung mit
 Marble](http://wiki.kubuntu-de.org/images/Marble-Routenplaner-sm.png){width="500"
-height="350"}](http://wiki.kubuntu-de.org/images/Marble-Routenplaner.png "Zur Großansicht"){.image}
+height="350"}](http://wiki.kubuntu-de.org/images/Marble-Routenplaner.png "Zur Großansicht")
 
 </p>
 Nicht geschafft hat es die neue, auf Akonadi basierende Kontact-Version.
@@ -151,7 +151,7 @@ benutzerfreundlicher sein soll.
 </p>
 [![Nepomuk Backup der
 Metadaten](http://wiki.kubuntu-de.org/images/Nepomuk-Backup-sm.png){width="499"
-height="381"}](http://wiki.kubuntu-de.org/images/Nepomuk-Backup.png "Zur Großansicht"){.image}
+height="381"}](http://wiki.kubuntu-de.org/images/Nepomuk-Backup.png "Zur Großansicht")
 
 </p>
 Diese Nachricht kann im

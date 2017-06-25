@@ -104,7 +104,7 @@ Vlad Gerasimov von
 
 </p>
 [![Sm\_desktop.png](http://wiki.kubuntu-de.org/images/Sm_desktop.png){width="258"
-height="164"}](http://wiki.kubuntu-de.org/images/Desktop.png "Desktop.png"){.image}
+height="164"}](http://wiki.kubuntu-de.org/images/Desktop.png "Desktop.png")
 
 </p>
 []{#Integration_von_KDE_4}
@@ -139,7 +139,7 @@ entsprechende Benachrichtiung wird ebenfalls sichtbar.
 
 </p>
 [![Sm\_printer.png](http://wiki.kubuntu-de.org/images/Sm_printer.png){width="258"
-height="120"}](http://wiki.kubuntu-de.org/images/Printer.png "Printer.png"){.image}
+height="120"}](http://wiki.kubuntu-de.org/images/Printer.png "Printer.png")
 
 </p>
 []{#Desktop_Effekte}
@@ -163,7 +163,7 @@ ausgeführt werden.
 
 </p>
 [![Sm\_effects.png](http://wiki.kubuntu-de.org/images/Sm_effects.png){width="258"
-height="201"}](http://wiki.kubuntu-de.org/images/Effects.png "Effects.png"){.image}
+height="201"}](http://wiki.kubuntu-de.org/images/Effects.png "Effects.png")
 
 </p>
 []{#Flash}

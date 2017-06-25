@@ -5,7 +5,7 @@ Tags: Kubuntu
 Slug: kubuntu-1304-erschienen
 
 [![Kubuntu
-13.04](http://wiki.kubuntu-de.org/images/Kubuntu-banner-1304.png){width="500"}](/Datei:Kubuntu-banner-1304.png "Kubuntu 13.04"){.image}
+13.04](http://wiki.kubuntu-de.org/images/Kubuntu-banner-1304.png){width="500"}](/Datei:Kubuntu-banner-1304.png "Kubuntu 13.04")
 
 </p>
 Wie geplant, ist am 25.04. die neue Kubuntu-Version 13.04 mit dem
@@ -68,7 +68,7 @@ angestoßen werden:
 ```
 
 [![Testsoftware48x48.png](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png){width="48"
-height="48"}](/Datei:Testsoftware48x48.png){.image} Achtung: Eine
+height="48"}](/Datei:Testsoftware48x48.png) Achtung: Eine
 Aktualisierung über Muon wird nicht empfohlen. Leider gibt es bei einem
 Upgrade über die grafische Oberfläche immer noch häufig Fehler.
 

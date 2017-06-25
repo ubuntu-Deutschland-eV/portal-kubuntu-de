@@ -35,7 +35,7 @@ im Kubuntu Update PPA zur Verfügung.
 
 </p>
 [![Testsoftware48x48.png](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png){width="48"
-height="48"}](/Datei:Testsoftware48x48.png){.image}Das PPA fügt man mit
+height="48"}](/Datei:Testsoftware48x48.png)Das PPA fügt man mit
 
 </p>
 ``` {.shell}

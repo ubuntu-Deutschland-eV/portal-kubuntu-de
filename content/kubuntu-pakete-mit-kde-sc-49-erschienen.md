@@ -10,7 +10,7 @@ Entwicklerin Claire Lotion gewidmet.
 
 </p>
 [![Kde49-desktop.png](http://wiki.kubuntu-de.org/images/Kde49-desktop.png){width="600"
-height="425"}]{.image}
+height="425"}]
 
 </p>
 <!--break--><!--break-->

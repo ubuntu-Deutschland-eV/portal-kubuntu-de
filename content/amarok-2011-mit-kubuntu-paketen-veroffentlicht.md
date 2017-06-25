@@ -7,7 +7,7 @@ Slug: amarok-2011-mit-kubuntu-paketen-veroffentlicht
 [[![Amarok 2.0.1.1 in
 Aktion](http://wiki.kubuntu-de.org/images/thumb/Amarok2.0.1.1.png/150px-Amarok2.0.1.1.png){.thumbimage
 width="180"
-height="113"}](http://wiki.kubuntu-de.org/Bild:Amarok2.0.1.1.png "Amarok 2.0.1.1 in Aktion"){.image}]{.inline
+height="113"}](http://wiki.kubuntu-de.org/Bild:Amarok2.0.1.1.png "Amarok 2.0.1.1 in Aktion")]{.inline
 .inline-right}Das Team der Amarok Entwickler hat heute die erste
 Weiterentwicklung der stabilen Version 2.0 freigegeben. Amarok 2.0.1.1,
 Codename "Magellan", beinhaltet hauptsächlich Fehlerkorrekturen, daneben

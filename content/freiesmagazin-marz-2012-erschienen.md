@@ -10,7 +10,7 @@ Source.
 
 </p>
 [![Freiesmagazin-2012-03.png](http://wiki.kubuntu-de.org/images/Freiesmagazin-2012-03.png){width="600"
-height="424"}]{.image}
+height="424"}]
 
 </p>
 <!--break--><!--break-->

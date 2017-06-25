@@ -6,7 +6,7 @@ Slug: kubuntu-deorg-team-wunscht-frohe-weihnachten
 
 [![Christmas
 bells.png](http://wiki.kubuntu-de.org/images/Christmas_bells.png){width="119"
-height="120"}](/Datei:Christmas_bells.png){.image} Das Kubuntu-de.org
+height="120"}](/Datei:Christmas_bells.png) Das Kubuntu-de.org
 Team wünscht Euch und Euren Familien ein frohes,besinnliches
 Weihnachtsfest und einen guten Start ins neue Jahr.
 

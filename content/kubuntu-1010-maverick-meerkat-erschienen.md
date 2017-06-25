@@ -21,7 +21,7 @@ unserer populären Linuxdistribution basiert auf Ubuntu mit KDE SC 4.5.
 
 [![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10.10-desktop.png/400px-Kubuntu-10.10-desktop.png){.thumbimage
 width="400"
-height="225"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-desktop.png "Kubuntu-10.10-desktop.png"){.image}  
+height="225"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-desktop.png "Kubuntu-10.10-desktop.png")  
 </p>
 <div class="thumbcaption">
 
@@ -167,7 +167,7 @@ ausgeführt wurde, wodurch er schneller zur Verfügung steht.
 
 [![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10-10-Ubiquity1.png/200px-Kubuntu-10-10-Ubiquity1.png){.thumbimage
 width="200"
-height="162"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity1.png "Kubuntu-10-10-Ubiquity1.png"){.image}  
+height="162"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity1.png "Kubuntu-10-10-Ubiquity1.png")  
 </p>
 <div class="thumbcaption">
 
@@ -202,7 +202,7 @@ height="11"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity1.pn
 
 [![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10-10-Ubiquity2.png/200px-Kubuntu-10-10-Ubiquity2.png){.thumbimage
 width="200"
-height="162"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity2.png "Kubuntu-10-10-Ubiquity2.png"){.image}  
+height="162"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity2.png "Kubuntu-10-10-Ubiquity2.png")  
 </p>
 <div class="thumbcaption">
 
@@ -237,7 +237,7 @@ height="11"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity2.pn
 
 [![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10.10-Ubiquity3.png/200px-Kubuntu-10.10-Ubiquity3.png){.thumbimage
 width="200"
-height="162"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-Ubiquity3.png "Kubuntu-10.10-Ubiquity3.png"){.image}  
+height="162"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-Ubiquity3.png "Kubuntu-10.10-Ubiquity3.png")  
 </p>
 <div class="thumbcaption">
 
@@ -289,7 +289,7 @@ zahlreichen Veränderungen.
 
 [![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10.10-kpackagekit2.png/200px-Kubuntu-10.10-kpackagekit2.png){.thumbimage
 width="200"
-height="143"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit2.png "Kubuntu-10.10-kpackagekit2.png"){.image}  
+height="143"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit2.png "Kubuntu-10.10-kpackagekit2.png")  
 </p>
 <div class="thumbcaption">
 
@@ -324,7 +324,7 @@ height="11"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit2
 
 [![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10.10-kpackagekit3.png/200px-Kubuntu-10.10-kpackagekit3.png){.thumbimage
 width="200"
-height="143"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit3.png "Kubuntu-10.10-kpackagekit3.png"){.image}  
+height="143"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit3.png "Kubuntu-10.10-kpackagekit3.png")  
 </p>
 <div class="thumbcaption">
 
@@ -397,7 +397,7 @@ Veröffentlichungen.
 
 [![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10.10-netbook.png/200px-Kubuntu-10.10-netbook.png){.thumbimage
 width="200"
-height="117"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-netbook.png "Kubuntu-10.10-netbook.png"){.image}  
+height="117"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-netbook.png "Kubuntu-10.10-netbook.png")  
 </p>
 <div class="thumbcaption">
 

@@ -10,7 +10,7 @@ eine neue Hauptversion der populären Software Compilation herausgegeben.
 </p>
 </p>
 [![KDE4.8.png](http://wiki.kubuntu-de.org/images/KDE4.8.png){width="500"
-height="400"}]{.image}
+height="400"}]
 
 </p>
 <!--break--><!--break-->
@@ -56,7 +56,7 @@ Oneiric Ocelot stehen Pakete im Kubuntu Backports-PPA zur Verfügung.
 
 </p>
 [![Testsoftware48x48.png](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png){width="48"
-height="48"}](/Datei:Testsoftware48x48.png){.image}Das PPA fügt man mit
+height="48"}](/Datei:Testsoftware48x48.png)Das PPA fügt man mit
 
 </p>
 ``` {.shell}

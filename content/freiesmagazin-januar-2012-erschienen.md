@@ -11,7 +11,7 @@ zum Download angeboten.
 
 </p>
 [![Freiesmagazin-2012-01.png](http://wiki.kubuntu-de.org/images/Freiesmagazin-2012-01.png){width="600"
-height="425"}]{.image}
+height="425"}]
 
 </p>
 <!--break--><!--break-->

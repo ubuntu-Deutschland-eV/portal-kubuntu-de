@@ -29,7 +29,7 @@ richtet.
 </p>
 [![Datei:Kubuntu plymouth
 splash.png](http://wiki.kubuntu-de.org/images/Kubuntu_plymouth_splash.png){width="320"
-height="230"}](http://wiki.kubuntu-de.org/images/Kubuntu_plymouth_splash.png "Datei:Kubuntu plymouth splash.png"){.image}
+height="230"}](http://wiki.kubuntu-de.org/images/Kubuntu_plymouth_splash.png "Datei:Kubuntu plymouth splash.png")
 
 </p>
 <!--break--><!--break-->
@@ -40,7 +40,7 @@ height="230"}](http://wiki.kubuntu-de.org/images/Kubuntu_plymouth_splash.png "Da
 
 </p>
 [![Datei:Wee-desktop.png](http://wiki.kubuntu-de.org/images/Wee-desktop.png){width="300"
-height="188"}](/Datei:Wee-desktop.png "Datei:Wee-desktop.png"){.image}
+height="188"}](/Datei:Wee-desktop.png "Datei:Wee-desktop.png")
 
 </p>
 []{#Ein_Bild_der_Netbook-Ausgabe_von_Kubuntu:}  
@@ -49,7 +49,7 @@ height="188"}](/Datei:Wee-desktop.png "Datei:Wee-desktop.png"){.image}
 
 </p>
 [![Datei:Wee-netbook.png](http://wiki.kubuntu-de.org/images/Wee-netbook.png){width="300"
-height="176"}](/Datei:Wee-netbook.png "Datei:Wee-netbook.png"){.image}
+height="176"}](/Datei:Wee-netbook.png "Datei:Wee-netbook.png")
 
 </p>
 **Achtung: Diese Version ist eine Testversion und sollte nicht für ein

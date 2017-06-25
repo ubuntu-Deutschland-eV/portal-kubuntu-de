@@ -5,7 +5,7 @@ Tags: KDE
 Slug: kubuntu-pakete-mit-kde-sc-410-veroffentlicht
 
 [![Kde.png](http://wiki.kubuntu-de.org/images/thumb/Kde.png/50px-Kde.png){width="50"
-height="50"}](/Datei:Kde.png){.image}
+height="50"}](/Datei:Kde.png)
 
 </p>
 Nach sechsmonatiger Arbeit haben die KDE-Entwickler die nächste Version

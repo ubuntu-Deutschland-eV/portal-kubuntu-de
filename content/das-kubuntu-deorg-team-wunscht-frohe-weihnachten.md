@@ -6,7 +6,7 @@ Slug: das-kubuntu-deorg-team-wunscht-frohe-weihnachten
 
 [![CHRISTMAS
 001.jpeg](http://wiki.kubuntu-de.org/images/CHRISTMAS_001.jpeg){width="160"
-height="122"}]{.image} Wieder ist es so weit, Weihnachten steht vor der
+height="122"}] Wieder ist es so weit, Weihnachten steht vor der
 Tür. Dieses Jahr ist viel passiert, wir haben uns neu aufgestellt, KDE
 SC 4.6.x und KDE SC 4.7.4 sind herausgekommen, und in unserem Projekt
 gibt es immer noch viel zu tun.

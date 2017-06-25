@@ -9,7 +9,7 @@ In der
 werden wieder viele interessante Themen aus der Linux und Open Source
 Welt behandelt.
 [![Freiesmagazin-2011-12.png](http://wiki.kubuntu-de.org/images/Freiesmagazin-2011-12.png){width="600"
-height="424"}]{.image}
+height="424"}]
 
 </p>
 <!--break--><!--break-->

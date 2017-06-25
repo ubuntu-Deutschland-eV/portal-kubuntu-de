@@ -7,7 +7,7 @@ Slug: kde-42-rc-und-kde-414-mit-kubuntu-paketen-freigegeben
 [[![KDE 4.2
 Screenshot](http://wiki.kubuntu-de.org/images/thumb/KDE_4.2_RC.png/150px-KDE_4.2_RC.png){.thumbimage
 width="180"
-height="113"}](http://wiki.kubuntu-de.org/Bild:KDE_4.2_RC.png "KDE 4.2 Screenshot"){.image}]{.inline
+height="113"}](http://wiki.kubuntu-de.org/Bild:KDE_4.2_RC.png "KDE 4.2 Screenshot")]{.inline
 .inline-right}Schon gestern hat die [KDE
 Community](http://www.kde.org/ "http://www.kde.org")
 den ersten und möglicherweise einzigen Release Kandiaten von KDE 4.2 mit

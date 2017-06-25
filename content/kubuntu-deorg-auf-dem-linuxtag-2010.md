@@ -17,7 +17,7 @@ hatten, waren wir erneut präsent.
 
 [![](http://wiki.kubuntu-de.org/images/thumb/Linuxtag.jpeg/300px-Linuxtag.jpeg){.thumbimage
 width="300"
-height="225"}](http://wiki.kubuntu-de.org/Datei:Linuxtag.jpeg "Gruppenfoto Linuxtag"){.image}  
+height="225"}](http://wiki.kubuntu-de.org/Datei:Linuxtag.jpeg "Gruppenfoto Linuxtag")  
 </p>
 <div class="thumbcaption">
 

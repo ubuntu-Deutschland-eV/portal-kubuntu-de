@@ -7,7 +7,7 @@ Slug: jahresruckblick-2008-im-zeichen-von-kde4
 [[![Screenshot von KDE4 im
 Winter-Look](http://wiki.kubuntu-de.org/images/thumb/KDE4_Winter.jpg/180px-KDE4_Winter.jpg){.thumbimage
 width="180"
-height="113"}](http://wiki.kubuntu-de.org/Bild:KDE4_Winter.jpg "Screenshot von KDE4 im Winter-Look"){.image}]{.inline
+height="113"}](http://wiki.kubuntu-de.org/Bild:KDE4_Winter.jpg "Screenshot von KDE4 im Winter-Look")]{.inline
 .inline-right}Wieder einmal ist ein aufregendes Jahr rund um Kubuntu,
 KDE und natürlich Kubuntu-de.org vorübergezogen. Es gab für uns viel aus
 den Projekten zu berichten und natürlich auch einiges neues und
@@ -80,7 +80,7 @@ veröffentlicht](../../../../nachrichten/kubuntu/kubuntu-8-10-intrepid-ibex-ersc
 [[![Screenshot von KDE4 mit Amarok
 2](http://wiki.kubuntu-de.org/images/thumb/KDE4_Amarok2.jpg/180px-KDE4_Amarok2.jpg){.thumbimage
 width="180"
-height="113"}](http://wiki.kubuntu-de.org/Bild:KDE4_Amarok2.jpg "Screenshot von KDE4 mit Amarok 2"){.image}]{.inline
+height="113"}](http://wiki.kubuntu-de.org/Bild:KDE4_Amarok2.jpg "Screenshot von KDE4 mit Amarok 2")]{.inline
 .inline-right}
 
 </p>
