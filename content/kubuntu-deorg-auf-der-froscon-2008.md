@@ -5,9 +5,7 @@ Tags: Veranstaltungen
 Slug: kubuntu-deorg-auf-der-froscon-2008
 
 ![FrOSCon 2008](http://www.kubuntu-de.org/files/froscon_2008_glassy_button_round_01_small.png)
-==============================================================================================
 
-</p>
 An diesem Wochenende findet in St. Augustin bei Bonn zum dritten Mal die
 FrOSCon, eine Konferenz zum Thema Freie Software und Open Source, statt.
 Erwartet werden ─ gemäß Voranmeldungen ─ über 500 Besucher und somit ein
@@ -15,9 +13,6 @@ mehr als doppelt so großer Andrang gegenüber dem Vorjahr. Die
 deutschsprachige Kubuntu-Community wird - wie bei den letzten
 gleichartigen Veranstaltungen - auch wieder mit einem Stand vor Ort
 sein. Standnachbarn sind erneut KDE und Amarok.
-
-</p>
-<!--break--><!--break-->
 
 Der Eintritt für beide Veranstaltungstage beträgt fünf Euro.
 Programm-Highlights sind die Keynotes vom Betriebssystem-Experten und
@@ -27,12 +22,10 @@ Kubuntu berichten sowie Thomas David über die kubuntu-de.org-Community.
 Diese Vorträge finden am Sonntag ab 15:15 Uhr im KDE-Entwicklerraum
 (C117) statt.
 
-</p>
 Außerdem gibt es Vorträge über KDE, den X-Server, Bazaar und viele
 weitere unter anderem in den Themenbereichen Entwicklung, Administration
 und Sicherheit.
 
-</p>
 Diejenigen, die nicht vor Ort sein können, haben an beiden Tagen die
 Möglichkeit einen Programmtrack live im Internet zu verfolgen. Der
 Stream wird zusätzlich aufgezeichnet, so dass die Videos zu diesen
@@ -42,7 +35,6 @@ FrOSCon berichten. Empfehlenswert ist insbesondere die Sendezeit von
 16:00 Uhr bis 16:45 Uhr am Samstag, denn für diesen Zeitraum ist ein
 Interview mit einem Vertreter von kubuntu-de.org geplant.
 
-</p>
 Detaillierte Informationen, das Programm sowie ein Besucher-Wiki werden
 auf der [Website der
 FrOSCon](http://www.froscon.de/ "http://www.froscon.de/")
@@ -50,9 +42,5 @@ bereitgestellt. Radio Tux hat ebenfalls einen [Bereich zur
 FrOSCon-Sendung](http://cms.radiotux.de/ "http://cms.radiotux.de/")
 eingerichtet.
 
-</p>
 Wir freuen uns Interessierte und bekannte Gesichter an unserem Stand
 begrüßen zu dürfen.
-
-</p>
-

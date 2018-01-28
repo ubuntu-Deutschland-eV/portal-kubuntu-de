@@ -7,11 +7,9 @@ Slug: nachlese-froscon-2008
 [click here for english
 version](http://www.kubuntu-de.org/english/kubuntu-de-org-at-froscon-2008)
 
-</p>
-[[![](http://www.kubuntu-de.org/files/bilder/003_4.img_assist_custom.jpg){.image
-.image-img_assist_custom width="151"
-height="113"}](http://www.kubuntu-de.org/bilder/events/froscon-2008#img2)]{.inline
-.inline-right}Die [Fachhochschule
+[![](http://www.kubuntu-de.org/files/bilder/003_4.img_assist_custom.jpg)](http://www.kubuntu-de.org/bilder/events/froscon-2008#img2)
+
+Die [Fachhochschule
 Bonn-Rhein-Sieg](http://www.fh-brs.de/ "http://www.fh-brs.de/") veranstaltete am 23. und 24. August diesen Jahres bereits zum
 dritten Mal eine Konferenz rund um Themen der freien Software, kurz
 "[FrOSCon](http://froscon.de/ "http://froscon.de/")".
@@ -25,10 +23,9 @@ beim Asiaten in der Nähe des Hotels und anschließend mit einem
 geselligem Zusammenkommen in der Hotelbar stimmen wir uns auf das
 Konferenzwochenende ein.
 
-</p>
+
 ### Der Samstag
 
-</p>
 Früh am nächsten Tag begann dann die eigentliche Veranstaltung und wie
 auch bereits im vergangenen Jahr führte die thematische Aufteilung dazu,
 dass Kubuntu zwischen Amarok und KDE angesiedelt wurde. Beide Projekte
@@ -37,13 +34,9 @@ aktueller Entwicklungssnapshot von KDE4 oder die Präsentation des
 beliebten und gerade in der ersten Beta Version erschienenen
 Musikplayers Amarok 2.
 
-</p>
-<!--break--><!--break-->
+[![](http://www.kubuntu-de.org/files/bilder/012_5.img_assist_custom.jpg)](http://www.kubuntu-de.org/bilder/events/froscon-2008#img11)
 
-[[![](http://www.kubuntu-de.org/files/bilder/012_5.img_assist_custom.jpg){.image
-.image-img_assist_custom width="151"
-height="113"}](http://www.kubuntu-de.org/bilder/events/froscon-2008#img11)]{.inline
-.inline-right}Auch wir hatten natürlich einiges zu bieten: So konnten
+Auch wir hatten natürlich einiges zu bieten: So konnten
 wir dank des ShipIt-Programms wieder CDs an Kubuntu Interessierte
 bringen und es scheint auch eine nicht enden wollende Nachfrage nach
 diesen Kubuntu "Original CDs" zu geben. Weiter präsentierten wir neben
@@ -51,8 +44,7 @@ der stabilen Kubuntu Variante, die Entwicklerversion 8.10 von Kubuntu
 auf einem Netbook, um zu zeigen, dass auch KDE und Kubuntu flexibel
 eingesetzt werden können.
 
-</p>
-Unser persönlicher Höhepunkt des Tages bestannd in Form einen Interviews
+Unser persönlicher Höhepunkt des Tages bestand in Form einen Interviews
 mit [Radio
 Tux](http://cms.radiotux.de/ "http://cms.radiotux.de/")
 über Kubuntu und das Projekt Kubuntu-de.org. Wir freuten uns natürlich
@@ -62,40 +54,32 @@ etwas über uns und Kubuntu zu berichten. Das Interview kann man sich bei
 Radio Tux
 [herunterladen](http://cms.radiotux.de/index6.php "http://cms.radiotux.de/index6.php") und anhören.
 
-</p>
 ### Der Samstag Abend
 
-</p>
-[[![](http://www.kubuntu-de.org/files/bilder/013_5.img_assist_custom.jpg){.image
-.image-img_assist_custom width="151"
-height="113"}](http://www.kubuntu-de.org/bilder/events/froscon-2008#img12)]{.inline
-.inline-right}Der erste Tag neigte sich dem Ende und die Vorfreude auf
+[![](http://www.kubuntu-de.org/files/bilder/013_5.img_assist_custom.jpg)](http://www.kubuntu-de.org/bilder/events/froscon-2008#img12)
+
+Der erste Tag neigte sich dem Ende und die Vorfreude auf
 das bereits legendäre "Social Event" stieg. Wir mussten natürlich auch
 den ganzen Tag über weder Hunger noch Durst erleiden, denn der
 Veranstalter hielt durchgehend Verpflegung für alle Aussteller bereit.
 Überhaupt muss man sagen, dass wir in den besten Händen waren, vielen
 Dank hierfür!
 
-</p>
 Das Event selbst bestand in einem Grillen mit dem Genuß eines
 Bierimitats ("Kölsch"), welches viele von uns nicht nur wegen der
 kleinen Gläser zunächst etwas skeptisch beäugten, dann aber im weiteren
 Verlauf in größeren Mengen konsumierten. Es wurden viele Gespräche, auch
 mit anderen Projekten, geführt.
 
-</p>
 ### Der Sonntag
 
-</p>
-[[![](http://www.kubuntu-de.org/files/bilder/021_4.img_assist_custom.jpg){.image
-.image-img_assist_custom width="151"
-height="113"}](http://www.kubuntu-de.org/bilder/events/froscon-2008?page=1#img4)]{.inline
-.inline-right}Auch an diesem Sonntag riss das Interesse nicht ab.
+[![](http://www.kubuntu-de.org/files/bilder/021_4.img_assist_custom.jpg)](http://www.kubuntu-de.org/bilder/events/froscon-2008?page=1#img4)
+
+Auch an diesem Sonntag riss das Interesse nicht ab.
 Während der eine Teil die Betreuung der Standen und der Gäste
 übernahmen, fand sich der andere Teil im KDE Dev Bereich ein, um in
 kleiner Runde Amarok 2, Kubuntu und Kubuntu-de.org näher vorzustellen.
 
-</p>
 So hielten Lydia Pintscher (Nightrose) und Sven Krolhas (sven423) einen
 Vortrag über Amarok 2. Marcus Czeslinski (Czessi) stellte Kubuntu vor,
 indem er zum einen etwas über die Geschichte von Kubuntu und zum anderen
@@ -104,10 +88,8 @@ sich in die Entwicklung von Kubuntu einbringen kann. Den Abschluß machte
 Thomas David (nemphis), der unsere Community von der Entstehung bis
 Heute vorstellte.
 
-</p>
 ### Keynotes und Vorträge
 
-</p>
 Die FrOSCon zeichnet sich nicht nur durch die Anwesenheit großartiger
 OpenSource Projekte aus, sondern auch durch ein sehr umfangreiches
 Programm an Vorträgen in unterschiedlichsten Themen. Da wir zahlreich
@@ -117,40 +99,32 @@ Veranstaltungen zu ermöglichen. Es lohnt sich also die FrOSCon 2009 als
 Standbetreuer zu besuchen, denn man muss natürlich nicht nur hinter
 einem Tisch stehen, man kann auch die Veranstaltung genießen.
 
-</p>
 Höhepunkte in diesem Jahr waren mit Sicherheit die populär besetzten
 Keynotes.
 
-</p>
-[[![](http://www.kubuntu-de.org/files/bilder/009_5.img_assist_custom.jpg){.image
-.image-img_assist_custom width="151"
-height="113"}](http://www.kubuntu-de.org/bilder/events/froscon-2008#img8)]{.inline
-.inline-right}Am Samstag begeisterte der Linux-Kritiker,
+[![](http://www.kubuntu-de.org/files/bilder/009_5.img_assist_custom.jpg)](http://www.kubuntu-de.org/bilder/events/froscon-2008#img8)
+
+Am Samstag begeisterte der Linux-Kritiker,
 Betriebssystem-Experte und Minix-Erfinder Andrew S. Tanenbaum mit einem
 humorvollen wie fundertierten und hochinteressanten Vortrag zu eben
 jenem Minix. Er gestaltete seinen Beitrag sehr anschaulich und mit
 vielen Brückenschlägen zu Linux und Windows.
 
-</p>
 Ebenfalls am Samstag hielt Sebastian Kügler seinen sehr gut besuchten
 Vortrag zu KDE4, indem er auch einen Einblick in die aktuelle
 Entwicklerversion gab.
 
-</p>
 Am Sonntag gehörte dem PHP-Erfinder Rasmus Lerdorf die Bühne, der mit
 einem Vortrag zur Skalierbarkeit, Performance und Sicherheit von PHP
 aufbot. Auch er konnte mit einer unterhaltvollen Darbietung überzeugen,
 in der er die Frameworks kritisierte und diverse Entwicklungstechniken
 empfahl.
 
-</p>
 Auch nicht zu verachten war am frühen Morgen der Vortag von Lenz
 Grimmer, der eine Einführung in Bazaar gab.
 
-</p>
 ### Fazit
 
-</p>
 Man kann sagen, dass die Welt der Freien Software sich gut präsentiert
 hat und dem sich ausweitenden Kreis der Interessierten an ihren
 Produkten Gelegenheit zum Einblick geboten hat. Mit etwa 1200 Besuchern
@@ -161,8 +135,4 @@ Kubuntu war die Veranstaltung sehr erfolgreich und wir kommen auch 2009
 sicher gerne wieder. Der vorzumerkende Termin ist der **22. und
 23.08.2009**.
 
-</p>
 Alle Bilder: <http://www.kubuntu-de.org/bilder/events/froscon-2008>
-
-</p>
-

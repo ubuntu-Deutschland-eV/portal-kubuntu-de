@@ -4,11 +4,9 @@ Author: Monika Eggers
 Tags: Kubuntu-de.org
 Slug: jahresruckblick-2008-im-zeichen-von-kde4
 
-[[![Screenshot von KDE4 im
-Winter-Look](http://wiki.kubuntu-de.org/images/thumb/KDE4_Winter.jpg/180px-KDE4_Winter.jpg){.thumbimage
-width="180"
-height="113"}](http://wiki.kubuntu-de.org/Bild:KDE4_Winter.jpg "Screenshot von KDE4 im Winter-Look")]{.inline
-.inline-right}Wieder einmal ist ein aufregendes Jahr rund um Kubuntu,
+[![Screenshot von KDE4 im Winter-Look](http://wiki.kubuntu-de.org/images/thumb/KDE4_Winter.jpg/180px-KDE4_Winter.jpg)](http://wiki.kubuntu-de.org/Bild:KDE4_Winter.jpg "Screenshot von KDE4 im Winter-Look")
+
+Wieder einmal ist ein aufregendes Jahr rund um Kubuntu,
 KDE und natürlich Kubuntu-de.org vorübergezogen. Es gab für uns viel aus
 den Projekten zu berichten und natürlich auch einiges neues und
 interessantes aus der Community selbst. Wir waren wieder auf vielen
@@ -16,7 +14,6 @@ Messen mit einem eigenen Stand vertreten und haben auch einige
 Vortragsslots gefüllt. Über das ganze Jahr haben uns Releases von
 Kubuntu und KDE sowie Amarok und Koffice begleitet.
 
-</p>
 Das Jahr begann mit der Onlinestellung unserer [Team
 Maillingliste](../../../../nachrichten/kubuntu/kubuntu-de-org/mailingliste-von-kubuntu-de-org-ist-online "http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-de-org/mailingliste-von-kubuntu-de-org-ist-online") und der Eröffnung unseres [eigenen
 Wikis](../../../../nachrichten/kubuntu/kubuntu-de-org/kubuntu-de-org-wiki-ge-ffnet "http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-de-org/kubuntu-de-org-wiki-ge-ffnet"). Seit Januar können wir schon einige Artikel vorweisen und durch
@@ -29,9 +26,6 @@ Linux
 Tagen](../../../../nachrichten/veranstaltungen/nachlese-chemnitzer-linux-tage-2008 "http://www.kubuntu-de.org/nachrichten/veranstaltungen/nachlese-chemnitzer-linux-tage-2008"), in deren Rahmen auch ein Interview mit [Tobias
 König](../../../../nachrichten/sonstiges/interview-tobias-k-nig-ber-die-entwicklung-von-akonadi "http://www.kubuntu-de.org/nachrichten/sonstiges/interview-tobias-k-nig-ber-die-entwicklung-von-akonadi") entstand, welches über den Stand der Akonadi Entwicklung
 berichtet.
-
-</p>
-<!--break--><!--break-->
 
 Ende März wurde dann das [Kubuntu-de.org Bugteam
 gegründet](../../../../nachrichten/kubuntu/kubuntu-de-org/kubuntu-de-org-bugteam-gegr-ndet "http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-de-org/kubuntu-de-org-bugteam-gegr-ndet"), welches im Laufe des Jahres noch für die ein oder andere gute
@@ -65,7 +59,6 @@ Programme](http://wiki.kubuntu-de.org/Team:Redaktion/ArtikelKDE4Themen "http://w
 mit Intrepid Ibex nur noch KDE 4.1 und nicht mehr KDE 3.5 ausgeliefert
 wird.
 
-</p>
 Auch über Kubuntu selbst gab es einiges zu berichten. Im April wurde,
 wie geplant, mit Hardy Heron 8.04 eine Ubuntu Long Time Support (LTS)
 Version veröffentlicht. Aufgrund des Wechsels bei KDE von Version 3 auf
@@ -76,14 +69,8 @@ Heron](../../../../nachrichten/kubuntu/kubuntu-8-04-hardy-heron-freigegeben "htt
 31. Oktober wurde die aktuelle Kubuntu Version [Intrepid Ibex 8.10
 veröffentlicht](../../../../nachrichten/kubuntu/kubuntu-8-10-intrepid-ibex-erschienen "http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-8-10-intrepid-ibex-erschienen"). Hier wird auch die aktuelle KDE 4.1 Version ausgeliefert.
 
-</p>
-[[![Screenshot von KDE4 mit Amarok
-2](http://wiki.kubuntu-de.org/images/thumb/KDE4_Amarok2.jpg/180px-KDE4_Amarok2.jpg){.thumbimage
-width="180"
-height="113"}](http://wiki.kubuntu-de.org/Bild:KDE4_Amarok2.jpg "Screenshot von KDE4 mit Amarok 2")]{.inline
-.inline-right}
+[![Screenshot von KDE4 mit Amarok2](http://wiki.kubuntu-de.org/images/thumb/KDE4_Amarok2.jpg/180px-KDE4_Amarok2.jpg)](http://wiki.kubuntu-de.org/Bild:KDE4_Amarok2.jpg "Screenshot von KDE4 mit Amarok 2")
 
-</p>
 Für die erste Meldung des Jahres sorgte das KDE Team mit der
 Veröffentlichung der lang erwarteten [KDE
 4](../../../../nachrichten/software/kde/kde-4-0-mit-kubuntu-paketen-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-0-mit-kubuntu-paketen-erschienen")Version. Ende Juli erschien mit [KDE
@@ -103,7 +90,6 @@ von KDE
 Entwicklungsstand von [Koffice
 2](../../../../nachrichten/software/kde/koffice/koffice-2-beta-3-mit-kubuntu-paketen-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/koffice/koffice-2-beta-3-mit-kubuntu-paketen-erschienen") berichtet, welches im Moment als Beta Version vorliegt.
 
-</p>
 Auch im Jahr 2009 werden wir wieder über viel Wissenswertes rund um
 Kubuntu, KDE und Amarok berichten. Ausserdem sind schon jetzt wieder
 einige Messen, wie zB die Chemnitzer Linux Tage, fest eingeplant. Mit
@@ -118,6 +104,3 @@ Lieblingsdistributions oder der Kubuntu-de.org Community zu helfen, kann
 sich gerne per IRC, Forum oder Mail melden. Wir freuen uns über jede
 Hilfe, damit wir auch im neuen Jahr weiter wachsen und neue Projekte in
 Angriff nehmen können.
-
-</p>
-
