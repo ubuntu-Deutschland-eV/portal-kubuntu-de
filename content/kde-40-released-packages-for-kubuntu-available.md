@@ -5,7 +5,7 @@ Tags: English
 Slug: kde-40-released-packages-for-kubuntu-available
 
 [![Bild:KDE.png](http://wiki.kubuntu-de.org/images/Kde.png){width="100"
-height="100"}](http://wiki.kubuntu-de.org/images/Kde.png "Bild:KDE4-Plasma.png"){.image}
+height="100"}](http://wiki.kubuntu-de.org/images/Kde.png "Bild:KDE4-Plasma.png")
 
 
 [ A Vision Becomes Reality]{.mw-headline}
@@ -35,7 +35,7 @@ blog](http://www.kdedevelopers.org/node/3174 "http://www.kdedevelopers.org/node/
 release cycle interations.
 
 
-### [![Bild:KDE4-Plasma.png](http://wiki.kubuntu-de.org/images/KDE4-Plasma.png){width="160" height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Plasma.png "Bild:KDE4-Plasma.png"){.image} [![Bild:KDE4-Plasma2.png](http://wiki.kubuntu-de.org/images/KDE4-Plasma2.png){width="160" height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Plasma2.png "Bild:KDE4-Plasma2.png"){.image}[![Bild:KDE4-Konqueror.png](http://wiki.kubuntu-de.org/images/KDE4-Konqueror.png){width="160" height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Konqueror.png "KDE4-Konqueror.png"){.image} {#bildkde4-plasma.png-bildkde4-plasma2.pngbildkde4-konqueror.png align="center"}
+### [![Bild:KDE4-Plasma.png](http://wiki.kubuntu-de.org/images/KDE4-Plasma.png){width="160" height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Plasma.png "Bild:KDE4-Plasma.png") [![Bild:KDE4-Plasma2.png](http://wiki.kubuntu-de.org/images/KDE4-Plasma2.png){width="160" height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Plasma2.png "Bild:KDE4-Plasma2.png")[![Bild:KDE4-Konqueror.png](http://wiki.kubuntu-de.org/images/KDE4-Konqueror.png){width="160" height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Konqueror.png "KDE4-Konqueror.png") {#bildkde4-plasma.png-bildkde4-plasma2.pngbildkde4-konqueror.png align="center"}
 
 
 <address>
@@ -213,10 +213,10 @@ Trolltech has already announced that Phonon will be integrated into the
 next Qt releases.
 
 
-### [](http://wiki.kubuntu-de.org/Bild:KDE4-Systemeinstellungen.png "Bild:KDE4-Systemeinstellungen.png"){.image}
+### [](http://wiki.kubuntu-de.org/Bild:KDE4-Systemeinstellungen.png "Bild:KDE4-Systemeinstellungen.png")
 
 
-### [![Bild:KDE4-Systemeinstellungen.png](http://wiki.kubuntu-de.org/images/KDE4-Systemeinstellungen.png){width="160" height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Systemeinstellungen.png "Bild:KDE4-Systemeinstellungen.png"){.image}[![Bild:KDE4-Solid.png](http://wiki.kubuntu-de.org/images/KDE4-Solid.png){width="160" height="100"}](http://wiki.kubuntu-de.org/images/KDE4-Solid.png)[![Bild:KDE4-Phonon.png](http://wiki.kubuntu-de.org/images/KDE4-Phonon.png){width="160" height="100"}](http://wiki.kubuntu-de.org/images/KDE4-Phonon.png) {#bildkde4-systemeinstellungen.pngbildkde4-solid.pngbildkde4-phonon.png align="center"}
+### [![Bild:KDE4-Systemeinstellungen.png](http://wiki.kubuntu-de.org/images/KDE4-Systemeinstellungen.png){width="160" height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Systemeinstellungen.png "Bild:KDE4-Systemeinstellungen.png")[![Bild:KDE4-Solid.png](http://wiki.kubuntu-de.org/images/KDE4-Solid.png){width="160" height="100"}](http://wiki.kubuntu-de.org/images/KDE4-Solid.png)[![Bild:KDE4-Phonon.png](http://wiki.kubuntu-de.org/images/KDE4-Phonon.png){width="160" height="100"}](http://wiki.kubuntu-de.org/images/KDE4-Phonon.png) {#bildkde4-systemeinstellungen.pngbildkde4-solid.pngbildkde4-phonon.png align="center"}
 
 
 ###  
@@ -325,9 +325,9 @@ available. The panel can also configured in limited ways at this time.
 <div align="center">
 
 [![Bild:KDE4-Dophin-gruppiert.png](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-gruppiert.png){width="160"
-height="100"}](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-gruppiert.png "Bild:KDE4-Systemeinstellungen.png"){.image}[![Bild:KDE4-Dolphin-Spalten.png](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-Spalten.png){width="160"
-height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Dolphin-Spalten.png "Bild:KDE4-Dolphin-Spalten.png"){.image}[![Bild:KDE4-Dolphin-Symbole.png](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-Symbole.png){width="160"
-height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Dolphin-Symbole.png "Bild:KDE4-Dolphin-Symbole.png"){.image}
+height="100"}](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-gruppiert.png "Bild:KDE4-Systemeinstellungen.png")[![Bild:KDE4-Dolphin-Spalten.png](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-Spalten.png){width="160"
+height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Dolphin-Spalten.png "Bild:KDE4-Dolphin-Spalten.png")[![Bild:KDE4-Dolphin-Symbole.png](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-Symbole.png){width="160"
+height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Dolphin-Symbole.png "Bild:KDE4-Dolphin-Symbole.png")
 
 </div>
 
@@ -415,9 +415,9 @@ will be offered for selection.
 <div align="center">
 
 [![Bild:KDE4-Krunner.png](http://wiki.kubuntu-de.org/images/KDE4-Krunner.png){width="160"
-height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Krunner.png "Bild:KDE4-Systemeinstellungen.png"){.image}[![Bild:KDE4-Okular.png](http://wiki.kubuntu-de.org/images/KDE4-Okular.png){width="160"
-height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Okular.png "Bild:KDE4-Systemeinstellungen.png"){.image}[![Bild:KDE4-Kwin.png](http://wiki.kubuntu-de.org/images/KDE4-Kwin.png){width="160"
-height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Kwin.png "Bild:KDE4-Systemeinstellungen.png"){.image}
+height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Krunner.png "Bild:KDE4-Systemeinstellungen.png")[![Bild:KDE4-Okular.png](http://wiki.kubuntu-de.org/images/KDE4-Okular.png){width="160"
+height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Okular.png "Bild:KDE4-Systemeinstellungen.png")[![Bild:KDE4-Kwin.png](http://wiki.kubuntu-de.org/images/KDE4-Kwin.png){width="160"
+height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Kwin.png "Bild:KDE4-Systemeinstellungen.png")
 
 </div>
 
