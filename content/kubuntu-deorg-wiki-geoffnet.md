@@ -16,7 +16,7 @@ Registrierungsseite](http://www.kubuntu-de.org/registrieren/) ein
 Benutzerkonto angelegt hat, muss dieses nicht in das Wiki übertragen
 lassen.
 
-</p>
+
 Im Wiki soll zukünftig eine hochwertige, auf Kubuntu-Nutzer
 zugeschnittene Dokumentation entstehen, die den Kubuntu Anwender von der
 Installation bis zum eingerichteten System begleitet. Für die Erstellung
@@ -24,7 +24,7 @@ der Dokumentation benötigt das Wikiteam noch einige Helfer. Wer
 mithelfen möchte, sollte sich auf der Mailingliste <team@kubuntu-de.org>
 melden oder uns im IRC Kanal \#kubuntu-de.org besuchen.
 
-</p>
+
 Das Wiki diente dem Team von kubuntu-de.org bisher dazu, die Arbeit zu
 koordinieren. Da sich das Team vor einige Zeit aber vollständig geöffnet
 hat und auch immer mehr Helfer aus der Community zu uns stoßen, um uns
@@ -32,5 +32,5 @@ zu unterstützen, wurde es notwendig das Wiki ebenfalls zu öffnen. Heute
 stellt es die zentrale Kollaborationsplattform für das gesamte Projekt
 dar.
 
-</p>
+
 <!--break--><!--break-->

@@ -8,7 +8,7 @@ Nach harter Arbeit veröffentlichten die Entwickler von Kubuntu heute die
 neueste Version von Kubuntu. 8.10 "Intrepid Ibex" bringt viele neue
 Features sowie den vollkommen neuen KDE 4 Desktop.
 
-</p>
+
 Entsprechend der Namensgebung enthält die aktuelle Freigabe viele
 Änderungen, allerdings sind einige Funktionen noch nicht für KDE 4
 verfügbar. Benutzer, die darauf nicht verzichten möchten, können auch
@@ -19,20 +19,20 @@ sie lohnt. Wer den Umstieg nicht scheut, findet im Kubuntu Wiki eine
 [Anleitung zur Migration von KDE 3 auf KDE
 4](https://wiki.kubuntu.org/Kubuntu/KDE3-KDE4Migration "kubuntu:Kubuntu/KDE3-KDE4Migration"){.extiw}.
 
-</p>
-</p>
+
+
 <!--break--><!--break-->
 
 ### []{.mw-headline}
 
-</p>
+
 ### [KDE 4!]{.mw-headline}
 
-</p>
+
 Kubuntu bringt den neu entwickelten Desktop, KDE 4, in der aktuellen
 Version 4.1.2 mit.
 
-</p>
+
 In der Standardeinstellung hat die Benutzeroberfläche Plasma ein
 angepasstes Angebot von Widgets. Diese bringen die beste Konfiguration
 seit KDE 4 zusammen mit vielen Ergänzungen mit. Das
@@ -40,68 +40,68 @@ seit KDE 4 zusammen mit vielen Ergänzungen mit. Das
 Plasmoid im Panel beispielsweise bietet einen direkten Zugriff auf die
 Dateien im Home-Verzeichnis.
 
-</p>
+
 Zudem wurden die Tooltips des Taskmanagers aus der aktuellen
 Entwicklerversion von KDE 4 zurückportiert.
 
-</p>
+
 KWin Desktop-Effekte sind standardmäßig aktiviert:
 
-</p>
+
 In KDE 4 stellt KWin nun die glänzenden neuen Desktopeffekte bereit, vom
 Standardschatten und Transparenz über die Wabbelige Fenster bis hin zum
 Fensterumschalter mit dem Coverswitch-Effekt. Diese Effekte werden
 automatisch aktiviert, sofern die Grafikkarte diese unterstützt.
 
-</p>
+
 Spezieller Dateimanager
 
-</p>
+
 Dolphin wurde in KDE 4 weiter verbessert: Einige neue Funktionen, viele
 Fehlerbereinigungen und etliche kleine Details machen Dolphin zu einem
 sehr leistungsfähigen Dateimanager. Wie auch in den vorangegangen
 Freigaben ist es weiterhin möglich Konqueror für die Dateiverwaltung zu
 verwenden.
 
-</p>
-</p>
+
+
 ### [ Adept 3.0]{.mw-headline}
 
-</p>
+
 Ein neuer Desktop braucht eine neue Software zur Paketverwaltung. Adept
 3.0 wird diesem Anspruch gerecht.
 
-</p>
+
 Adept 3.0 bringt eine frische KDE 4 Oberfläche mit, die sehr viel
 stabiler, flinker und ressourcenschonender ist.
 
-</p>
-</p>
+
+
 ### [ Apport und Aktualisierungsbenachrichtigung]{.mw-headline}
 
-</p>
+
 Die völlig neue Aktualisierungsbenachrichtigung von KDE dient nun als
 Hinweisgeber über neue Pakete sowie Programmabstürze. Die aktuelle
 Version weist den Benutzer auch darauf hin, wenn das System nach einem
 Update neu gestartet werden muss.
 
-</p>
-</p>
+
+
 ### [ Unterstützung von Multimediatasten für KMix]{.mw-headline}
 
-</p>
+
 In Intrepid Ibex werden nun auch die Multimediatasten, die diverse
 Tastaturen anbieten, von KMix unterstützt.
 
-</p>
-</p>
+
+
 ### [ Kubuntu Integration]{.mw-headline}
 
-</p>
+
 Alle wichtigen Kubuntu Werkzeuge wurden besser in KDE 4 integriert oder
 nach PyKDE4 portiert:
 
-</p>
+
 -   GDebiKDE - das Frontend für die Installation von \*.deb
     Paketdateien.
 -   Jockey-KDE - die Verwaltungssoftware für propritäre Treiber.
@@ -115,18 +115,18 @@ nach PyKDE4 portiert:
 -   Guidance Power Manager
 -   Apport - der Absturzmanager ist nun standardmäßig installiert.
 
-</p>
+
 ### []{.mw-headline}
 
-</p>
+
 ### [Bekannte Probleme]{.mw-headline}
 
-</p>
+
 Es gibt noch einige bekannte Fehler, die noch mit Kubuntu 8.10 auftreten
 können. Diese sind der Dienlichkeit willen an dieser Stelle mit
 möglichen Workarounds dokumentiert.
 
-</p>
+
 -   Es kann sein, dass nach einem Upgrade von KDE 3 Icons durcheinander
     gebracht werden, wenn das Theme manuell umgestellt worden ist. Dies
     kann umgehen werden, wenn das Icon Theme in den System Einstellungen
@@ -145,13 +145,13 @@ möglichen Workarounds dokumentiert.
     Problem baldmöglichst zu beheben
     (<https://launchpad.net/bugs/280997>).
 
-</p>
 
-</p>
+
+
 [ In eigener Sache]{.mw-headline}
 ---------------------------------
 
-</p>
+
 Anläßlich der Kubuntu 8.10 Intrepid Ibex Freigabe möchten wir nochmal
 auf die
 [Wiki-Aktion](../../../../nachrichten/kubuntu/kubuntu-de-org/mach-das-wiki-fit-fuer-kubuntu-8-10-intrepid-ibex-und-kde-4 "http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-de-org/mach-das-wiki-fit-fuer-kubuntu-8-10-intrepid-ibex-und-kde-4") hinweisen. Gewünscht sind Beiträge zum Wiki bezüglich des neuen
@@ -159,8 +159,8 @@ KDE 4-Desktops und auch der damit gegebenen Programme. Dies ist
 sicherlich ein Anlass bei der Aktion mitzumachen und einen von drei
 Preisen zu gewinnen.
 
-</p>
-<!--</p><p>NewPP limit report</p><p>Preprocessor node count: 26/1000000</p><p>Post-expand include size: 187/2097152 bytes</p><p>Template argument size: 0/2097152 bytes</p><p>Expensive parser function count: 0/100</p><p>--><!--</p><p>NewPP limit report</p><p>Preprocessor node count: 26/1000000</p><p>Post-expand include size: 187/2097152 bytes</p><p>Template argument size: 0/2097152 bytes</p><p>Expensive parser function count: 0/100</p><p>--><!-- Saved in parser cache with key wt_db_wk:pcache:idhash:2960-0!1!0!!de!2!edit=0 and timestamp 20081031074940 --><!-- Saved in parser cache with key wt_db_wk:pcache:idhash:2960-0!1!0!!de!2!edit=0 and timestamp 20081031074940 -->
+
+<!--NewPP limit report</p><p>Preprocessor node count: 26/1000000</p><p>Post-expand include size: 187/2097152 bytes</p><p>Template argument size: 0/2097152 bytes</p><p>Expensive parser function count: 0/100</p><p>--><!--</p><p>NewPP limit report</p><p>Preprocessor node count: 26/1000000</p><p>Post-expand include size: 187/2097152 bytes</p><p>Template argument size: 0/2097152 bytes</p><p>Expensive parser function count: 0/100</p><p>--><!-- Saved in parser cache with key wt_db_wk:pcache:idhash:2960-0!1!0!!de!2!edit=0 and timestamp 20081031074940 --><!-- Saved in parser cache with key wt_db_wk:pcache:idhash:2960-0!1!0!!de!2!edit=0 and timestamp 20081031074940 -->
 
 <div class="printfooter">
 
@@ -169,5 +169,5 @@ Von
 
 </div>
 
-</p>
+
 

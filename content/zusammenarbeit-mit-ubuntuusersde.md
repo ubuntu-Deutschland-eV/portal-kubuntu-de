@@ -10,10 +10,10 @@ kubuntu-de.org ist als Externe eingeladen! &lt;3 Wir bekommen Hilfe mit
 Drupal und mit unserem Server im Allgemeinen. Beide sind
 upgradebedürftig.
 
-</p>
+
 Diese Nachricht kann [im
 Forum](http://forum.kubuntu-de.org/index.php?topic=18096.0) diskutiert
 werden.
 
-</p>
+
 

@@ -14,25 +14,25 @@ Aufruf und die Ankündigung des Pakets ist, dass der Platz auf der
 Kubuntu Installations CD rar geworden ist, weswegen neue Programme nicht
 mehr aufgenommen werden können.
 
-</p>
+
 Das Projekt wurde aufgrund einens Wunsches aus der Community (konkret
 von ovn mzungu) begonnen, der weitere Programme auf der CD forderte. Da
 dies zur Zeit jedoch nicht möglich ist, wurde als Alternative "Kubuntu
 Extras" geplant und eine Wiki Seite eingerichtet, auf der jeder seine
 favorisierte Anwendungen oder einen Kommentar hinterlassen kann.
 
-</p>
+
 <!--break--><!--break-->
 
 ### Mitmachen
 
-</p>
+
 Die Wiki Seite befindet sich im offiziellen [Ubuntu
 Wiki](https://wiki.ubuntu.com/KubuntuExtras "https://wiki.ubuntu.com/KubuntuExtras") und ist daher in englischer Sprache. Dies sollte jedoch kein
 größeres Problem darstellen, da die Namen der Programme überall gleich
 sind und die Funktionsweise eines Wikis weit bekannt sein dürfte.
 
-</p>
+
 Um seinen Wunsch Ausdruck verleihen zu können, benötigt man zunächst
 einen Wiki- bzw. Launchpad Account. Wer bereits angemeldet ist, kann
 sich einfach einloggen und über den Link "editieren" die Wiki Seite
@@ -50,32 +50,32 @@ alphabetisch in den entsprechenden Bereich ein, ein Häckchen soll dann
 nicht gesetzt werden (die Nennung zählt als eine Stimme). Die Anzahl der
 Stimmen ist nicht begrenzt.
 
-</p>
+
 Da im Wiki eine Versionsverwaltung vorhanden ist, ist Angst vor
 Fehlbedienung unbegründet, Änderungen sind nachvollziehbar und ältere
 Versionen können wieder hergestellt werden. Dennoch sollte sorgfältig
 mit dem System gearbeitet werden und u.a. eine Zusammenfassung der
 Änderung in das entsprechende Feld eingetragen werden.
 
-</p>
+
 Bei Fragen und Problemen ist die deutschsprachige Kubuntu Community im
 IRC Kanal \#kubuntu-de auf irc.freenode.net wie auch im hiesigen Forum
 gerne hilfsbereit.
 
-</p>
+
 ### weiterführende Links
 
-</p>
+
 -   [Wikiseite
     KubuntuExtras](https://wiki.ubuntu.com/KubuntuExtras "https://wiki.ubuntu.com/KubuntuExtras"){.external
     .text}
-    </p>
-    <p>
+    
+    
 -   [Blogeintrag von
     nixterval](http://blog.nixternal.com/2007.10.27/request-for-kubuntu-users/ "http://blog.nixternal.com/2007.10.27/request-for-kubuntu-users/"){.external
     .text}
-    </p>
-    <p>
+    
+    
 
-</p>
+
 

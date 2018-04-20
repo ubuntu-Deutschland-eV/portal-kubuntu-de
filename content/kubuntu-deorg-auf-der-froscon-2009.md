@@ -14,7 +14,7 @@ Die deutschsprachige Kubuntu-Community wird - wie auch in den Vorjahren
 [Amarok](http://amarok.kde.org "http://amarok.kde.org")
 und [Qt](http://qt.nokia.com/ "http://qt.nokia.com/").
 
-</p>
+
 Der
 [Eintritt](http://www.froscon.de/eintritt.html "http://www.froscon.de/eintritt.html") für beide Veranstaltungstage beträgt fünf Euro.
 [Programm-Highlights](http://programm.froscon.org/2009/ "http://programm.froscon.org/2009/") sind die Keynotes von
@@ -24,15 +24,15 @@ Source Communites am Sonntag. Darüber hinaus besteht das umfassende
 Programm aus Vorträgen unterschiedlichster Bereiche von A wie
 Administration bis W wie Web.
 
-</p>
+
 <!--break--><!--break-->
 
 Wir freuen uns Interessierte und bekannte Gesichter an unserem Stand
 begrüßen zu dürfen.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0") diskutiert werden.
 
-</p>
+
 

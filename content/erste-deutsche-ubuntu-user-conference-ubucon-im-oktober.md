@@ -14,12 +14,12 @@ Distributionen zu vertiefen,  Erfahrungen mit anderen Community
 Mitgliedern auszutauschen und neue Anregungen für die Arbeit auf lokaler
 Ebene mitzunehmen.
 
-</p>
+
 Der Call for Papers für das Vortragsprogramm hat am 11.07. begonnen und
 wird bis zum 11.08. gehen.
 
-</p>
+
 [www.ubucon.de](http://www.ubucon.de/)
 
-</p>
+
 <!--break--><!--break-->

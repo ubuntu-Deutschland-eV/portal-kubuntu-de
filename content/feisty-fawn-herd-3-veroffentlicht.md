@@ -12,7 +12,7 @@ wird einige Verbesserungen in Bezug auf die Hardware Unterstützung von
 Laptops, Desktops und High-End Servern mit sich bringen und es werden
 offensiv einige ziemlich neue Desktop Technologien eingeführt.
 
-</p>
+
 <!--break--><!--break-->
 
 Herd 3 ist die Dritte einer Serie von CD Images, die während des Feisty
@@ -21,35 +21,35 @@ aus den Images erstellt, die sich als stabil und fehlerfrei erwiesen
 haben. Sie stellen sehr aktuelle Momentaufnahmen von Feisty Fawn,
 Kubuntu 7.04 dar.
 
-</p>
+
 Herd 3 Veröffentlichungen können unter folgender URL heruntergeladen
 werden.
 
-</p>
-> -   <http://cdimage.ubuntu.com/kubuntu/releases/feisty/>
->     </p>
->     <p>
->
-> </p>
-> <p>
 
-</p>
+> -   <http://cdimage.ubuntu.com/kubuntu/releases/feisty/>
+>     
+>     
+>
+> 
+> 
+
+
  
 
-</p>
+
 **Achtung:** Dies ist eine Alpha Version. Vorabveröffentlichungen von
 Feisty sind **nicht** für ein stabiles System geeignet. Vorabversionen
 von Feisty **sind** für Kubuntu Entwickler und Nutzer, die beim Testen
 und Beheben von Fehlern helfen wollen gedacht.
 
-</p>
+
 Mehr Informationen sind hier zu finden: 
 
-</p>
+
 > -   <https://wiki.kubuntu.org/FeistyFawn/Herd3/Kubuntu>(englisch)
 >
-> </p>
-> <p>
+> 
+> 
 
-</p>
+
 

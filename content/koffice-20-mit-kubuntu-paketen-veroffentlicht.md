@@ -14,17 +14,17 @@ für Entwickler und als Möglichkeit der Gemeinschaft eine Vorschau zu
 zeigen. Das Team rät demnach auch noch selber davon ab, KOffice als
 Standard Office-Suite in Linuxdistributionen einzusetzen.
 
-</p>
+
 Wie bei KDE 4.0 ist es auch bei KOffice so, das Version 2.0 noch nicht
 alle Funktionen beinhaltet, die KOffice 1.6 geboten hat. Die fehlenden
 Fähigkeiten werden in den kommenden Versionen 2.1 und 2.2 nachgereicht.
 
-</p>
+
 <!--break--><!--break-->
 
 Folgende Komponenten sind Bestandteil von KOffice2:
 
-</p>
+
        * KWord - Textverarbeitung
        * KSpread - Tabellenkalkulator
        * KPresenter - Präsentations Manager
@@ -38,23 +38,23 @@ mit Version 2.1 verfügbar sein. Kvivo, der Editor für Flowcharts, ist
 momentan ohne Betreuung weshalb diese Veröffentllichung noch unbestimmt
 ist.
 
-</p>
+
 KOffice ist plattformunabhängig und steht neben Linux auf für Windows
 und Mac zur Verfügung. Zur Zeit wird noch an der Portierung für Solaris
 und in andere Unixoide Betriebssysteme gearbeitet.
 
-</p>
+
 **Installation**
 
-</p>
+
 Pakete für Kubuntu 9.04 Jaunty Jackalope sind über die Backport Quelle
 erhältlich. Weitere Hinweise hierzu gibt es im Artikel
 [Paketquellen](http://wiki.kubuntu-de.org/Konfiguration/Programme_installieren/Paketmanagement/Paketquellen "http://wiki.kubuntu-de.org/Konfiguration/Programme_installieren/Paketmanagement/Paketquellen").
 
-</p>
+
 Auch die aktuelle Entwicklerversion ist mit entsprechenden Paketen
 ausgestattet. Hat man bereits koffice-kde4 installiert, so reicht eine
 einfache Aktualisierung.
 
-</p>
+
 

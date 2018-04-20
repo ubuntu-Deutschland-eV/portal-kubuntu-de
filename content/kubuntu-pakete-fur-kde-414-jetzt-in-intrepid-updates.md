@@ -12,11 +12,11 @@ Unterteilung der Quellen gibt es
 [hier](/Konfiguration/Programme_installieren/Paketmanagement/Paketquellen "Konfiguration/Programme installieren/Paketmanagement/Paketquellen")
 im Wiki.
 
-</p>
+
 Die Intrepid Update Quellen sind standardmässig aktiviert, so dass z.B.
 mit einem einfachen
 
-</p>
+
      sudo apt-get update sudo apt-get upgrade 
 
 die Pakete auf einem bestehenden Intrepidsystem installiert werden
@@ -24,5 +24,5 @@ können. Im Gegensatz zu den KDE 4.2 Paketen aus dem Entwickler
 Paketarchiv handelt es sich hierbei um offizielle Kubuntupakete, die
 auch ausreichend getestet wurden.
 
-</p>
+
 <!--break--><!--break-->

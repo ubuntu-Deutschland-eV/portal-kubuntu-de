@@ -13,7 +13,7 @@ Software integrieren, sondern sich voll auf die Behebung von Fehlern
 konzentrieren. Das Team hofft auf viele Rückmeldungen von Benutzern,
 insbesondere zur neuen Benutzeroberfläche.
 
-</p>
+
 Zu den größten Neuerungen in der Version 2 von KOffice zählt die
 Umstellung auf Qt4. Ausserdem wird das ISO-standardisierte
 Dokumentenformat ODF nativ unterstützt und bietet so die Möglichkeit der
@@ -28,25 +28,25 @@ in KWord oder die Verwendung von Diagrammen in Karbon. Dies bietet auch
 für die Zukunft neue Möglichkeiten sich auf bestimmte Benutzergruppen
 wie beispielsweise Kinder zu konzentrieren.
 
-</p>
+
 <!--break--><!--break-->
 
 KOffice 2 ist nicht nur für Linux verfügbar, sondern auch für Windows
 und OS X. Weiterhin sind Pakete für Solaris und weitere Unix-Varianten
 geplant.
 
-</p>
+
 Für Kubuntu 8.10 Intrepid Ibex stehen schon jetzt die Pakete der Beta 1
 bereit und können über das kubuntu-member-kde4 Paketarchiv installiert
 werden. Dazu muss folgende Zeile in die Datei /etc/apt/sources.list
 eingetragen werden:
 
-</p>
+
     http://ppa.launchpad.net/kubuntu-members-kde4/ubuntu intrepid main
 
 Danach kann KOffice2 mittels
 
-</p>
+
 ``` {.shell}
 apt-get install koffice-kde4
 ```
@@ -54,8 +54,8 @@ apt-get install koffice-kde4
 installiert werden. Die Pakete für Hardy sollen in Kürze veröffentlicht
 werden.
 
-</p>
+
  
 
-</p>
+
 

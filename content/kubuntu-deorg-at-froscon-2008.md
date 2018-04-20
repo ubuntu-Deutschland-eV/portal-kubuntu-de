@@ -22,17 +22,17 @@ Asian restaurant adjacent to the hotel and the subsequent informal
 meeting in the hotel's bar helped us get in the mood for the convention
 weekend.
 
-</p>
+
 ### Saturday
 
-</p>
+
 Early the next day the event itself began and just like the year before
 Kubuntu was thematically placed in between Amarok and KDE. Both projects
 presented brand new software, like an up to date development snapshot of
 KDE4 or the just released first beta version of the popular music player
 Amarok 2.
 
-</p>
+
 <!--break--><!--break-->
 
 [[![](http://www.kubuntu-de.org/files/bilder/012_5.img_assist_custom.jpg){.image
@@ -45,7 +45,7 @@ Kubuntu and there really seems to be a never ending demand for these
 stable version of Kubuntu we showed off the development version 8.10 on
 a netbook, to demonstrate that KDE and Kubuntu can be utilized flexibly.
 
-</p>
+
 Our personal highlight that day was being featured in a radio interview
 from [Radio Tux](http://cms.radiotux.de/ "http://cms.radiotux.de/") on
 Kubuntu and the project Kubuntu-de.org. We were obviously happy about
@@ -55,10 +55,10 @@ to tell folks about us and Kubuntu. You can
 [download](http://cms.radiotux.de/index6.php "http://cms.radiotux.de/index6.php")
 the interview (German) from the Radio Tux website.
 
-</p>
+
 ### Saturday Night
 
-</p>
+
 [[![](http://www.kubuntu-de.org/files/bilder/013_5.img_assist_custom.jpg){.image
 .image-img_assist_custom width="151"
 height="113"}](http://www.kubuntu-de.org/bilder/events/froscon-2008#img12)]{.inline
@@ -68,17 +68,17 @@ had been well provided for the whole day, since the organizers supplied
 food and drink continuously. We'd have to say that we were very well
 looked after, and thanks a lot for that!
 
-</p>
+
 The social event itself consisted of barbecue and the consumption of a
 certain beer imitate ("Kölsch"), which ─ not least because of the very
 small glasses in which it is served ─ was regarded sceptically at first,
 but then consumed in growing quantities. Lots of conversations
 developed, often with members of other projects.
 
-</p>
+
 ### Sunday
 
-</p>
+
 [[![](http://www.kubuntu-de.org/files/bilder/021_4.img_assist_custom.jpg){.image
 .image-img_assist_custom width="151"
 height="113"}](http://www.kubuntu-de.org/bilder/events/froscon-2008?page=1#img4)]{.inline
@@ -87,7 +87,7 @@ decline. While part of the team took care of the guests at our booth the
 others headed over to the KDE Dev area, to present a closer look at
 Amarok 2, Kubuntu and Kubuntu-de.org to a smaller audience.
 
-</p>
+
 That's where Lydia Pintscher (Nightrose) and Sven Krolhas (sven423) held
 a presentation about Amarok 2. Marcus Czeslinski (Czessi) introduced
 Kubuntu, first by talking about its history and then by giving an
@@ -96,10 +96,10 @@ development were shown as well. Finally Thomas David (nemphis) gave an
 account on the development of our community from its beginnings to the
 present day.
 
-</p>
+
 ### Keynotes and Talks
 
-</p>
+
 In addition to the attendance of many great open source projects,
 FrOSCon is remarkable for the extensive schedule of presentations from a
 wide range of topics. Since we had shown up as a large group we were
@@ -109,11 +109,11 @@ represent the community and Kubuntu at FrOSCon 2009, since you won't
 have to take care of the booth the whole time, you can visit the
 presentations and events as well.
 
-</p>
+
 Surely this year's highlights were the keynotes held by popular
 speakers.
 
-</p>
+
 [[![](http://www.kubuntu-de.org/files/bilder/009_5.img_assist_custom.jpg){.image
 .image-img_assist_custom width="151"
 height="113"}](http://www.kubuntu-de.org/bilder/events/froscon-2008#img8)]{.inline
@@ -123,24 +123,24 @@ his audience with a well-founded and highly interesting presentation
 about Minix. Vividly fashioned, his contribution often linked to Linux
 and Windows topics.
 
-</p>
+
 On the same day Sebastian Kügler held his well attended presentation
 about KDE4, where he also showed off the current development version.
 
-</p>
+
 On Sunday PHP inventor Rasmus Lerdorf took the stage and talked about
 scalability, performance and security of PHP. He, too, delivered an
 entertaining presentation in which he criticized several frameworks and
 recommended certain development techniques.
 
-</p>
+
 Last but not least Lenz Grimmer's presentation in the early morning has
 to be mentioned, where he gave an introduction to Bazaar.
 
-</p>
+
 ### Conclusion
 
-</p>
+
 To sum it up, the world of free software was represented well and the
 growing circle of people interested in its products was given a great
 chance to have a closer look. Also, with about 1200 visitor attending
@@ -150,9 +150,9 @@ therefore for Kubuntu as a whole, and rest assured that we will gladly
 return in 2009 when FrOSCon will be held on **22. and 23. of August**.
 See you there!
 
-</p>
+
 Also see: [FrOSCon 2008
 gallery](http://www.kubuntu-de.org/bilder/events/froscon-2008 "http://www.kubuntu-de.org/bilder/events/froscon-2008")
 
-</p>
+
 

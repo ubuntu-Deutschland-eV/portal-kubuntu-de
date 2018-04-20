@@ -10,14 +10,14 @@ Desktop-Durchbruch?](http://www.pro-linux.de/umfragen/2/138/verhilft-valve-linux
 Nun ist die Spiele-Plattform nativ mit einer wachsenden Anzahl an
 Linux-Titeln da.
 
-</p>
+
 [Steam für Linux](http://store.steampowered.com/sale/linux_release/)
 
-</p>
+
 [![Steam.png](http://wiki.kubuntu-de.org/images/thumb/Steam.png/500px-Steam.png){width="500"
 height="292"}](http://wiki.kubuntu-de.org/Datei:Steam.png)
 
-</p>
+
 <!--break--><!--break-->
 
 Bis zum 21. Februar 2013 lassen sich aus diesem Anlass alle dort für
@@ -27,10 +27,10 @@ wurden. Darunter einige Kultspiele, auch bekannt durch nicht mehr
 erhältliche Humble-Bundles – und weitere, aktuellere Titel. Einen Blick
 drauf zu werfen lohnt immerhin!
 
-</p>
+
 Interessante Infos
 
-</p>
+
 -   Bei Steam handelt es sich laut
     [Wikipedia](http://de.wikipedia.org/wiki/Steam) um den größten
     Anbieter für Online-Spiele.
@@ -44,15 +44,15 @@ Interessante Infos
     aktuellen Windows-Usern, die wissen wollen was Linux eigentlich ist,
     und wie es unter Windows nun eigentlich startet…
 
-</p>
+
 Eine Community-Wiki-Seite findet sich
 [hier](http://wiki.ubuntuusers.de/Steam).
 
-</p>
-</p>
+
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?topic=17006.msg109838#msg109838)
 diskutiert werden.
 
-</p>
+
 

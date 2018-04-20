@@ -9,7 +9,7 @@ Martin Gräßlin, seit 5 Jahren Mitentwickler von KWin, hat in seinem
 bekannt gegeben, dass er ab Januar bei [Blue
 Systems](http://blue-systems.com/) anfangen wird.
 
-</p>
+
 <!--break--><!--break-->
 
 Er war immer der Meinung das KWin mindestens einen Vollzeit-Entwickler
@@ -19,17 +19,17 @@ wichtigsten Bestandteil vom KDE Plasma Workspaces ist, freut er sich nun
 bei Blue Systems als fest angestellter Programmierer an KWin arbeiten zu
 können.
 
-</p>
+
 Vor allem in Hinsicht auf kommende Entwicklungen wie Qt5 und Wayland,
 werde noch mehr Entwicklerzeit benötigt. Aus diesem Grund meint er, dass
 momentan ein guter Zeitpunkt wäre, sich dem Entwicklerteam
 anzuschließen. Es sei eine interessante und herausfordernde Arbeit und
 diene der Zukunft von freien Desktops.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0) diskutiert
 werden.
 
-</p>
+
 

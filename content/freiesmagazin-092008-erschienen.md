@@ -18,7 +18,7 @@ Bildern](http://freiesmagazin.de/mobil/freiesMagazin-2008-09-bilder.html)
 man immer die aktuelle und alle bisher erschienenen Mobil-Ausgaben.
 Inhalte der Ausgabe 09/2008 sind u.a.
 
-</p>
+
 -   GNU Emacs - ein mächtiger Editor
 -   Sawfish - Rückkehr eines GNOME-Urgesteins
 -   Plasma, der neue KDE-Desktop
@@ -26,7 +26,7 @@ Inhalte der Ausgabe 09/2008 sind u.a.
 -   Die Welt von Chrome erschlage
 -   Veranstaltungskalender, News, Leserbriefe, u.a.
 
-</p>
+
 <!--break--><!--break-->
 
 Das vollständige Inhaltsverzeichnis findet man auf der [Webseite der
@@ -39,5 +39,5 @@ jeden Monat an die neue Ausgabe erinnert werden will, kann auch den
 drei Ausgaben von freiesMagazin abgerufen werden, ältere Ausgaben findet
 man im [Archiv](http://www.freiesmagazin.de/archiv).
 
-</p>
+
 

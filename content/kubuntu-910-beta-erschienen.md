@@ -23,7 +23,7 @@ oder auch ein Mikroblogging Plasmawidget.
 Alle Neuerungen können [im
 Wiki](https://wiki.kubuntu.org/KarmicKoala/Beta/Kubuntu "https://wiki.kubuntu.org/KarmicKoala/Beta/Kubuntu") eingesehen werden.
 
-</p>
+
 <!--break--><!--break-->
 
 **Diese Version ist eine Vorabversion und sollte nicht produktiv
@@ -31,7 +31,7 @@ eingesetzt werden.**Die Version richtet sich an Tester und
 Interessierte, die gebeten werden alle Fehler zu
 [melden](http://bugs.launchpad.net/ubuntu "http://bugs.launchpad.net/ubuntu").
 
-</p>
+
 In der Betaversion gibt es noch Probleme mit dem KDM Logout, wodurch es
 nicht möglich ist, sich abzumelden und als neuer Benutzer wieder
 anzumelden. Dies kann wie folgt umgangen werden können:  
@@ -47,9 +47,9 @@ ein.
 Ausserdem kann im Moment mit KPackageKit keine Software installiert
 werden.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0") diskutiert werden.
 
-</p>
+
 

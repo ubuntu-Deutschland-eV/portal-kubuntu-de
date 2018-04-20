@@ -7,7 +7,7 @@ Slug: kubuntu-denet-baut-aus
 Unser Team ist stolz, Ihnen das neue Portal der deutschsprachigen
 Kubuntu Community auf kubuntu-de.net präsentieren zu dürfen.
 
-</p>
+
 Natürlich können Sie weiterhin in unserem [Forum](/forum) Ihre Fragen
 und Kommentare zu Kubuntu und der Community loswerden und aktuelle
 Kubuntu-Pakete aus unserem [Archiv](http://packages.kubuntu-de.net/)
@@ -18,16 +18,16 @@ leicht gekürzten Fassung des Ubuntu Weekly Newsletter, unser [Kubuntu
 Weekly Newsletter](/portal/kubuntu-weekly-news) und andere aktuelle
 [Nachrichten.](/portal/nachrichten)
 
-</p>
+
 <!--break-->
 
 Soviel können wir Ihnen auch noch verraten: es sind noch mehr Neuerungen
 in Planung!
 
-</p>
+
 Das Team
 
-</p>
+
 Carlos Diener (emonkey)  
 
 Marcus Czeslinski (Czessi)  
@@ -62,5 +62,5 @@ Daniel Prien (Daniel-S-P)
 
 Georg Lickleder (GeorLi)  
 
-</p>
+
 

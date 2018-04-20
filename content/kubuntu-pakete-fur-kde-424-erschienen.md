@@ -10,11 +10,11 @@ Die Aktualisierung korrigiert ausschließlich Fehler und das vor allem in
 KMail, KHTML und Okular. Eine Übersicht aller Änderungen kann dem
 [Changelog](http://www.kde.org/announcements/changelogs/changelog4_2_3to4_2_4.php "http://www.kde.org/announcements/changelogs/changelog4_2_3to4_2_4.php") entnommen werden.
 
-</p>
+
 In unserem Wiki ist eine
 [Anleitung](http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.04_auf_KDE_4.2.4_aktualisieren "http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.04_auf_KDE_4.2.4_aktualisieren") zu finden, mit deren Hilfe man Kubuntu 9.04 auf KDE 4.2.4
 aktualisieren kann.
 
-</p>
-</p>
+
+
 <!--break--><!--break-->

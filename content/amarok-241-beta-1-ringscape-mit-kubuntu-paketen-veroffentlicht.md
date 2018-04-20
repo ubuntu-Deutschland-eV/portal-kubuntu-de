@@ -19,13 +19,13 @@ Veränderungen kann dem
 [Changelog](http://amarok.kde.org/en/releases/2.4.1/beta/1) entnommen
 werden.
 
-</p>
+
 Das Entwicklerteam weist ausdrücklich darauf hin, dass es sich um eine
 Veröffentlichung in Beta-Qualität handelt und dass Fehler,
 möglicherweise auch schwerwiegende, zu erwarten sind. Dennoch freuen sie
 sich auf das Feedback der ersten Tester.
 
-</p>
+
 <!--break--><!--break-->
 
 Die gegenwärtig in der Entwicklung befindliche Version von Kubuntu,
@@ -33,20 +33,20 @@ Natty Narwhal, wird über die normale Systemaktualisierung mit der neuen
 Version versorgt. Für das stabile Kubuntu 10.10, Maverick Meerkat, kann
 Amarok 2.4.1 Beta 1 über das Backports-Beta-PPA bezogen werden.
 
-</p>
+
 Eine Anleitung zum Hinzufügen des
 [Backports-Beta-PPA](http://wiki.kubuntu-de.org/Konfiguration/Programme_installieren/Paketmanagement/Paketquellen/Maverick/BackportsBetaPPA)
 ist im Wiki von Kubuntu-de.org zu finden.
 
-</p>
+
 Fehler in der Paketierung sollten gegen [kubuntu-ppa im
 Launchpad](https://bugs.launchpad.net/kubuntu-ppa) gemeldet werden.
 Fehler der Software im [KDE-Bugtracker](http://bugs.kde.org/)
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0) diskutiert
 werden.
 
-</p>
+
 

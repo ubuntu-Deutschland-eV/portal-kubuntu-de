@@ -10,9 +10,9 @@ aus der Linuxwelt  werden unter anderem die Themen "Ubuntu-Geschichte im
 Blick: Warty Warthog", "K3b 1.0 Funktionsübersicht" und "Ice, Ice, Buntu
 - die Minimalinstallation" behandelt. 
 
-</p>
+
 Diese Ausgabe kann im PDF-Format von der Webseite des freienMagazins
 heruntergeladen werden: <http://www.elyps.de/freiesMagazin-2007-05.html>
 
-</p>
+
 <!--break--><!--break-->

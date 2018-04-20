@@ -11,7 +11,7 @@ Mix aus Vorträgen, Workshops und Diskussionsrunden, in dessen
 Mittelpunkt dabei Intrepid Ibex steht. In diesem Rahmen finden einige
 Aktionen statt, wie etwa Wiki- und Übersetzungssprints.
 
-</p>
+
 Spezifisch auf Kubuntu und auch auf kubuntu-de.org wird Arthur Schiwon
 (aka Blizzz) mit seinem Vortrag am Samstag Abend eingehen. Weitere
 Themengebiete sind unter anderem Shell-Programmierung,
@@ -20,12 +20,12 @@ Blender. Zudem findet am Samstag Abend auch erneut das Social Event
 statt, in dem bei geselligem Beisammensein lockere Unterhaltungen
 geführt und Kontakte vertieft und geknüpft werden können.
 
-</p>
+
 <!--break--><!--break-->
 
 Der Eintritt ist auch dieses Mal frei, um eine Anmeldung wird aber
 gebeten. Das Programm, den Anfahrtsweg, ein Besucherwiki und weiter
 Informationen gibt es auf der [Ubucon-Homepage](http://ubucon.de/).
 
-</p>
+
 

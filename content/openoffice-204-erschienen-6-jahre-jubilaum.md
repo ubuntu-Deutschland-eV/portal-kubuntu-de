@@ -11,28 +11,28 @@ Drucken, sowie das Kopieren des Inhalts der Datei unterbinden kann. Neu
 integriert ist auch ein LaTex-Filter, durch den ein direkter Export zu
 vollführen ist.
 
-</p>
+
 <!--break--><!--break-->
 
 Verschachtelte Abfragen von SQL-Abfragen sind nun in Base möglich. Eine
 verbesserte Add-ins Verwaltung und Erweiterung der Modifikationsoptionen
 für benutzerdefinierte Pfade erfreuen zum weiteren.
 
-</p>
+
 Pakete für Edgy sind bereits im offiziellen main Repository drin. Dapper
 Pakete sind bisher keine aufgetaucht. Auch geole stellt zur Zeit nur die
 Version 2.0.3 zur Verfügung:
 
-</p>
+
 <http://www.geole.info/Debs-fuer-Ubuntu-Dapper.16.0.html>
 
-</p>
+
 Es ist jedoch anzunehmen das dort bald aktualisierte Pakete auftauchen.
 
-</p>
+
 Weitere Informationen:  
 
 <http://de.openoffice.org/presse/pressemitteilung_20061013.html>
 
-</p>
+
 

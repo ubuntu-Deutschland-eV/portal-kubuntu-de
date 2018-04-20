@@ -12,7 +12,7 @@ der Seite
 [bugs.kde.org](http://bugs.kde.org/ "http://bugs.kde.org:") einzutragen und mitzuhelfen, dass KDE 4 bald, die von den
 vorherigen Versionen bekannte Qualität, erreicht.
 
-</p>
+
 KDE 4 RC2 installiert sich in das Verzeichnis /usr/lib/kde4 und kann
 daher neben einem bestehenden KDE 3 installiert werden.  
 
@@ -20,12 +20,12 @@ daher neben einem bestehenden KDE 3 installiert werden.
 CD](http://kubuntu.org/~jriddell/cds/kubuntu-kde4-rc2.iso "KDE 4 LiveCD")
 möglich.
 
-</p>
+
 <!--break--><!--break-->
 
 Anleitung:
 
-</p>
+
 -   Zuerst müssen eventuell vorhandene Pakete einer vorherigen KDE 4
     Installation entfernt werden, da sie nicht mehr kompatibel sind mit
     KDE 4 RC2 (apt-get remove kdelibs5 kde4base-data kde4libs-data)
@@ -43,15 +43,15 @@ Anleitung:
     DISPLAY=:1; xterm in der Konsole ausführen und startkde in dem
     Xerphyr xterm eingeben.
 
-</p>
+
 Die benötigten Pakete werden auch in die Backports-Repositorien von
 "Gutsy Gibbon", und in die derzeitige Entwicklungsversion von Kubuntu
 "Hardy Heron" heraufgeladen.
 
-</p>
+
 Die Ankündigung auf der englischen Seite ist unter
 [www.kubuntu.org](http://kubuntu.org/announcements/kde4-rc1.php) zu
 finden.
 
-</p>
+
 

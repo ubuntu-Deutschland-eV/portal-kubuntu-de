@@ -9,7 +9,7 @@ dem Codenamen "Nerrivik" veröffentlicht. Während der diesjährigen
 Akademy wurde eine Menge Arbeit investiert und viele neue Funktionen
 implementiert sowie einige Bugs der Alpha 2 behoben.
 
-</p>
+
 Zu den wichtigsten Neuerungen zählt, dass neue Skriptinginterface mit
 QtSkript Unterstützung. Ein weiteres Highlight ist Amaroks File Tracking
 (kurz AFT). Hiermit werden sämtliche Dateibezogene Informationen, z.B.
@@ -21,7 +21,7 @@ Trayicon, zwischen Pause und Wiedergabe zu wechseln. Sämtliche
 Neuerungen findet man im [offiziellen Release
 Announcement](http://amarok.kde.org/de/node/543).
 
-</p>
+
 <!--break--><!--break-->
 
 Pakete für Kubuntu findet man - wie üblich - in den [Paketquellen von
@@ -35,11 +35,11 @@ von Amarok 2 genutzt hat. Die Datei collection.db befindet sich im
 Verzeichnis \~/.kde/share/apps/amarok (KDE 3.5.9) bzw.
 \~/.kde4/share/apps/amarok (KDE 4).
 
-</p>
+
 **![](http://wiki.kubuntu-de.org/images/Dialog-warning-22.png)Warnung!
 Amarok 2 Beta ist für Entwickler und Tester gedacht und sollte nicht auf
 Produktivsystemen installiert werden. Softwarefehler sollten beim [KDE
 Bugtracker](http://bugs.kde.org) gemeldet werden.**
 
-</p>
+
 

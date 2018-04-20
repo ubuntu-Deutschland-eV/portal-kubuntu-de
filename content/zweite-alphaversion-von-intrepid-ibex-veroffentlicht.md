@@ -14,20 +14,20 @@ endgültigen Version von Intrepid Ibex im Oktober 2008 ist also noch
 genug Zeit um Fehler in der Desktopumgebung zu korrigieren und
 Anpassungen für Kubuntu vorzunehmen.
 
-</p>
+
 Zwar sollte der Installationsvorgang frei von groben Fehlern sein, aber
 dort und auch in anderen Bereichen sind sicher noch zahlreiche Fehler
 vorhanden. Diese können auf [Launchpad](https://launchpad.net), dem
 Bugtracker von Ubuntu, berichtet werden.
 
-</p>
+
 **![](http://wiki.kubuntu-de.org/images/Dialog-warning-22.png)Warnung:**
 Kubuntu 8.10 Intrepid Ibex Alpha 2 ist eine reine Test- und
 Entwicklerversion. Sie ist AUF KEINEN FALL für den produktiven Einsatz
 gedacht, da Stabilität und Datensicherheit nicht garantiert werden
 können.
 
-</p>
+
 <!--break--><!--break-->
 
 Wer sich an der Entwicklung von Kubuntu 8.10 Intrepid Ibex beteiligen
@@ -36,10 +36,10 @@ möchte, kann sich die Installations-CD vom
 oder einem der zahlreichen
 [Spiegelserver](http://wiki.ubuntu.com/Mirrors) herunterladen.
 
-</p>
+
 Ein Upgrade von Hardy Heron sollte mit einer entsprechenden Anpassung
 der Paketquellen möglich sein. Fehlerberichte können auch hier an den
 Bugtracker von Ubuntu gesendet werden.
 
-</p>
+
 

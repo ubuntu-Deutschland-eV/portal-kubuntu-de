@@ -58,40 +58,40 @@ Download via BitTorrent
 Zur Entlastung der Downloadserver kann der Download via BitTorrent
 erfolgen. Dies erfordert, dass ein BitTorrent-Client installiert ist.
 
-</p>
+
 <table width="100%" cellspacing="2" cellpadding="2">
-</p>
-<p>
+
+
 <tbody>
-</p>
-<p>
+
+
 <tr style="border: 1px solid rgb(179, 200, 243); background-color: rgb(225, 235, 255);">
-</p>
-<p>
+
+
 <td width="150" align="left">
  
 
 </td>
-</p>
-<p>
+
+
 <td width="150" align="left">
 **<small>DVD</small>**
 
 </td>
-</p>
-<p>
+
+
 </tr>
-</p>
-<p>
+
+
 <tr class="even">
-</p>
-<p>
+
+
 <td>
 **<small>BitTorrent</small>**
 
 </td>
-</p>
-<p>
+
+
 <td>
 [![](/themes/kubuntu/images/mini_download.png)](http://cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso.torrent)
 [<small>i386</small>](http://cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso.torrent)
@@ -99,56 +99,56 @@ erfolgen. Dies erfordert, dass ein BitTorrent-Client installiert ist.
 [<small>amd64</small>](http://cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso.torrent)
 
 </td>
-</p>
-<p>
+
+
 </tr>
-</p>
-<p>
+
+
 </tbody>
-</p>
-<p>
+
+
 </table>
-</p>
-</p>
+
+
 Download via http / ftp
 -----------------------
 
-</p>
-<!--<p> Es wird empfohlen, einen Server in der Nähe zu wählen.</p> --><!--<p> Es wird empfohlen, einen Server in der Nähe zu wählen.</p> -->
+
+<!-- Es wird empfohlen, einen Server in der Nähe zu wählen. --><!--<p> Es wird empfohlen, einen Server in der Nähe zu wählen.</p> -->
 
 <table width="100%" cellspacing="2" cellpadding="2">
-</p>
-<p>
+
+
 <tbody>
-</p>
-<p>
+
+
 <tr style="border: 1px solid rgb(179, 200, 243); background-color: rgb(225, 235, 255);">
-</p>
-<p>
+
+
 <td width="150" align="left">
  
 
 </td>
-</p>
-<p>
+
+
 <td width="150" align="left">
 **<small>DVD</small>**
 
 </td>
-</p>
-<p>
+
+
 </tr>
-</p>
-<p>
+
+
 <tr class="even">
-</p>
-<p>
+
+
 <td>
 **<small>Ubuntu Master</small>**
 
 </td>
-</p>
-<p>
+
+
 <td>
 [![](/themes/kubuntu/images/mini_download.png)](http://cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso)
 [<small>i386</small>](http://cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso)
@@ -156,99 +156,99 @@ Download via http / ftp
 [<small>amd64</small>](http://cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso)
 
 </td>
-</p>
-<p>
-</tr>
-</p>
-<!--        <tr class="odd"></p><p>            <td><strong><small>Ubuntu Deutschland</small></strong></td></p><p>            <td>         <a href="http://de.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://de.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><small>i386</small></a>        <a href="http://de.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://de.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><small>amd64</small></a>       </td></p><p>   </tr></p><p>        <tr class="even"></p><p>            <td><strong><small>Ubuntu Schweiz</small></strong></td></p><p>      <td>         <a href="http://ch.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://ch.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><small>i386</small></a>        <a href="http://ch.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://ch.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><small>amd64</small></a>       </td></p><p>   </tr></p><p>        <tr class="odd"></p><p>            <td><strong><small>Ubuntu Östereich</small></strong></td></p><p>            <td>         <a href="http://at.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://at.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><small>i386</small></a>        <a href="http://at.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://at.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><small>amd64</small></a>       </td></p><p>    </tr> --><!--        <tr class="odd"></p><p>            <td><strong><small>Ubuntu Deutschland</small></strong></td></p><p>            <td>         <a href="http://de.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://de.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><small>i386</small></a>        <a href="http://de.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://de.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><small>amd64</small></a>       </td></p><p> </tr></p><p>        <tr class="even"></p><p>            <td><strong><small>Ubuntu Schweiz</small></strong></td></p><p>      <td>         <a href="http://ch.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://ch.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><small>i386</small></a>        <a href="http://ch.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://ch.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><small>amd64</small></a>       </td></p><p>   </tr></p><p>        <tr class="odd"></p><p>            <td><strong><small>Ubuntu Östereich</small></strong></td></p><p>            <td>         <a href="http://at.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://at.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><small>i386</small></a>        <a href="http://at.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://at.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><small>amd64</small></a>       </td></p><p>    </tr> --><!--<tr style="border: 1px solid rgb(179, 200, 243); background-color: rgb(225, 235, 255);"></p><p>            <td align="center" colspan="5">Mirror Deutschland</td></p><p>        </tr></p><p>        <tr class="odd"></p><p>            <td><strong><small>Uni Kaiserslautern</small></strong></td></p><p>            <td>         <a href="http://ftp.uni-kl.de/pub/linux/ubuntu.iso/kubuntu/quantal/kubuntu-12.10-desktop-i386.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://ftp.uni-kl.de/pub/linux/ubuntu.iso/kubuntu/quantal/kubuntu-12.10-desktop-i386.iso"><small>i386</small></a>        <a href="http://ftp.uni-kl.de/pub/linux/ubuntu.iso/kubuntu/quantal/kubuntu-12.10-desktop-amd64.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://ftp.uni-kl.de/pub/linux/ubuntu.iso/kubuntu/quantal/kubuntu-12.10-desktop-amd64.iso"><small>amd64</small></a>       </td></p><p>            </p><p>            <td>&nbsp; <!-- Mac --><!--<tr style="border: 1px solid rgb(179, 200, 243); background-color: rgb(225, 235, 255);"></p><p>            <td align="center" colspan="5">Mirror Deutschland</td></p><p>        </tr></p><p>        <tr class="odd"></p><p>            <td><strong><small>Uni Kaiserslautern</small></strong></td></p><p>            <td>         <a href="http://ftp.uni-kl.de/pub/linux/ubuntu.iso/kubuntu/quantal/kubuntu-12.10-desktop-i386.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://ftp.uni-kl.de/pub/linux/ubuntu.iso/kubuntu/quantal/kubuntu-12.10-desktop-i386.iso"><small>i386</small></a>        <a href="http://ftp.uni-kl.de/pub/linux/ubuntu.iso/kubuntu/quantal/kubuntu-12.10-desktop-amd64.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://ftp.uni-kl.de/pub/linux/ubuntu.iso/kubuntu/quantal/kubuntu-12.10-desktop-amd64.iso"><small>amd64</small></a>       </td></p><p>            </p><p>            <td>&nbsp; <!-- Mac -->
 
-<p>
-<!--</p><p>        </tr>--><!--</p><p>        </tr>-->
+
+</tr>
+
+<!--        <tr class="odd">            <td><strong><small>Ubuntu Deutschland</small></strong></td></p><p>            <td>         <a href="http://de.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://de.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><small>i386</small></a>        <a href="http://de.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://de.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><small>amd64</small></a>       </td></p><p>   </tr></p><p>        <tr class="even"></p><p>            <td><strong><small>Ubuntu Schweiz</small></strong></td></p><p>      <td>         <a href="http://ch.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://ch.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><small>i386</small></a>        <a href="http://ch.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://ch.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><small>amd64</small></a>       </td></p><p>   </tr></p><p>        <tr class="odd"></p><p>            <td><strong><small>Ubuntu Östereich</small></strong></td></p><p>            <td>         <a href="http://at.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://at.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><small>i386</small></a>        <a href="http://at.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://at.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><small>amd64</small></a>       </td></p><p>    </tr> --><!--        <tr class="odd"></p><p>            <td><strong><small>Ubuntu Deutschland</small></strong></td></p><p>            <td>         <a href="http://de.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://de.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><small>i386</small></a>        <a href="http://de.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://de.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><small>amd64</small></a>       </td></p><p> </tr></p><p>        <tr class="even"></p><p>            <td><strong><small>Ubuntu Schweiz</small></strong></td></p><p>      <td>         <a href="http://ch.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://ch.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><small>i386</small></a>        <a href="http://ch.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://ch.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><small>amd64</small></a>       </td></p><p>   </tr></p><p>        <tr class="odd"></p><p>            <td><strong><small>Ubuntu Östereich</small></strong></td></p><p>            <td>         <a href="http://at.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://at.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-i386.iso"><small>i386</small></a>        <a href="http://at.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://at.cdimage.ubuntu.com/kubuntu/releases/trusty/release/kubuntu-14.04.3-desktop-amd64.iso"><small>amd64</small></a>       </td></p><p>    </tr> --><!--<tr style="border: 1px solid rgb(179, 200, 243); background-color: rgb(225, 235, 255);"></p><p>            <td align="center" colspan="5">Mirror Deutschland</td></p><p>        </tr></p><p>        <tr class="odd"></p><p>            <td><strong><small>Uni Kaiserslautern</small></strong></td></p><p>            <td>         <a href="http://ftp.uni-kl.de/pub/linux/ubuntu.iso/kubuntu/quantal/kubuntu-12.10-desktop-i386.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://ftp.uni-kl.de/pub/linux/ubuntu.iso/kubuntu/quantal/kubuntu-12.10-desktop-i386.iso"><small>i386</small></a>        <a href="http://ftp.uni-kl.de/pub/linux/ubuntu.iso/kubuntu/quantal/kubuntu-12.10-desktop-amd64.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://ftp.uni-kl.de/pub/linux/ubuntu.iso/kubuntu/quantal/kubuntu-12.10-desktop-amd64.iso"><small>amd64</small></a>       </td></p><p>            </p><p>            <td>&nbsp; <!-- Mac --><!--<tr style="border: 1px solid rgb(179, 200, 243); background-color: rgb(225, 235, 255);"></p><p>            <td align="center" colspan="5">Mirror Deutschland</td></p><p>        </tr></p><p>        <tr class="odd"></p><p>            <td><strong><small>Uni Kaiserslautern</small></strong></td></p><p>            <td>         <a href="http://ftp.uni-kl.de/pub/linux/ubuntu.iso/kubuntu/quantal/kubuntu-12.10-desktop-i386.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://ftp.uni-kl.de/pub/linux/ubuntu.iso/kubuntu/quantal/kubuntu-12.10-desktop-i386.iso"><small>i386</small></a>        <a href="http://ftp.uni-kl.de/pub/linux/ubuntu.iso/kubuntu/quantal/kubuntu-12.10-desktop-amd64.iso"><img border="0" src="/themes/kubuntu/images/mini_download.png" alt="" /></a>        <a href="http://ftp.uni-kl.de/pub/linux/ubuntu.iso/kubuntu/quantal/kubuntu-12.10-desktop-amd64.iso"><small>amd64</small></a>       </td></p><p>            </p><p>            <td>&nbsp; <!-- Mac -->
+
+
+<!--        </tr>--><!--</p><p>        </tr>-->
 
 </tbody>
-</p>
-<p>
+
+
 </table>
-</p>
-</p>
+
+
 MD5 Prüfsummen
 --------------
 
-</p>
+
 Mit den MD5-Prüfsummen kann man sicherstellen, dass der Download
 fehlerfrei vollzogen wurde.
 
-</p>
+
 <table width="100%" cellspacing="2" cellpadding="2">
-</p>
-<p>
+
+
 <tbody>
-</p>
-<p>
+
+
 <tr style="border: 1px solid rgb(179, 200, 243); background-color: rgb(225, 235, 255);">
-</p>
-<p>
+
+
 <td align="left">
  
 
 </td>
-</p>
-<p>
+
+
 <td width="200" align="left">
 **<small>i386</small>**
 
 </td>
-</p>
-<p>
+
+
 <td width="200" align="left">
 **<small>amd64</small>**
 
 </td>
-</p>
-<p>
+
+
 <td width="80" align="left">
 **<small>MD5/GPG</small>**
 
 </td>
-</p>
-<p>
+
+
 </tr>
-</p>
-<p>
+
+
 <tr class="even">
-</p>
-<p>
+
+
 <td>
 **<small>DVD</small>**
 
 </td>
-</p>
-<p>
+
+
 <td>
 <small>fa703d6db3bef9543f98112f6852f06f</small>
 
 </td>
-</p>
-<p>
+
+
 <td>
 <small>8ba4b4262cc8e451b22e00a9b71dfc4d</small>
 
 </td>
-</p>
-<p>
+
+
 <td>
 [![](/themes/kubuntu/images/mini_download.png)](http://cdimage.ubuntu.com/kubuntu/releases/trusty/release/MD5SUMS) /  
 [![](/themes/kubuntu/images/mini_download.png)](http://cdimage.ubuntu.com/kubuntu/releases/trusty/release/MD5SUMS.gpg)
 
 </td>
-</p>
-<p>
+
+
 </tr>
-</p>
-<p>
+
+
 </tbody>
-</p>
-<p>
+
+
 </table>
-</p>
+
 

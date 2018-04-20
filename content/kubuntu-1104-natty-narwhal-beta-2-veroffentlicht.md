@@ -22,7 +22,7 @@ bzw. [Alpha
 3](http://wiki.kubuntu-de.org/Team:Redaktion/Nachrichten/Kubuntu_11.04_Natty_Narwhal_Alpha_3_ver%C3%B6ffentlicht)
 beschrieben.
 
-</p>
+
 Von den bekannten Problemen seit der Beta 1 sind die meisten behoben
 worden. Gegenwärtig besteht lediglich noch das Problem, dass der
 Installer nach einer OEM-Installation installiert bleibt. Dies betrifft
@@ -30,7 +30,7 @@ allerdings nur Personen oder Firmen, die Kubuntu auf zahlreichen
 Rechnern automatisiert aufspielen. Nichtsdestotrotz können in der
 Vorab-Version weitere Fehler auftreten.
 
-</p>
+
 <!--break--><!--break-->
 
 HINWEIS: Dies ist die Vorabveröffentlichung einer Beta Version.
@@ -41,24 +41,24 @@ Anwendern genutzt werden die beim Testen, Fehler berichten und bei der
 Fehlerbereinigung helfen wollen. Bitte nutzen Sie diese Version nicht
 auf einem produktivem System.
 
-</p>
+
 Diese Beta-Version kann von folgender URL heruntergeladen werden:
 
-</p>
+
      http://releases.ubuntu.com/kubuntu/natty 
 
 Um von Kubuntu 10.10 upzugraden folgt man den Instruktionen auf:
 
-</p>
+
      https://help.ubuntu.com/community/NattyUpgrades/Kubuntu (englisch) 
 
 Auf jeden Fall sollte man das CD Image vor der Installation prüfen! Die
 MD5 Prüfsumme findet man neben den CD Images.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0) diskutiert
 werden.
 
-</p>
+
 

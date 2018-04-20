@@ -11,7 +11,7 @@ Benachrichtigungsbereich und die Möglichkeit Konqueror auf WebKit
 umzustellen. Auch das automatische Anordnen von Fenstern wurde
 verbessert.
 
-</p>
+
 Es wird wieder darum gebeten, dass Benutzer auftretende Fehler im
 [Bugtrackingsystem](http://bugs.kde.org "http://bugs.kde.org") von KDE
 [melden](/Fehler_melden "Fehler melden"). Die Pakete für Lucid Lynx
@@ -19,16 +19,16 @@ können aus dem Kubuntu-Beta-PPA installiert werden, wie in unserem Wiki
 [beschrieben
 wird](http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_10.04_auf_KDE_4.5_aktualisieren "Installation/Upgrade/Kubuntu 10.04 auf KDE 4.5 aktualisieren").
 
-</p>
+
 <!--break--><!--break-->
 
 **Achtung: Diese Version richtet sich ausschließlich an Tester und ist
 nicht für den produktiven Einsatz gedacht!**
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

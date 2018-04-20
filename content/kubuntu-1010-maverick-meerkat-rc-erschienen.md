@@ -24,7 +24,7 @@ bereit, weiterhin bittet das Kubuntu Team um
 [Feedback](https://wiki.kubuntu.org/MaverickMeerkat/RC/Kubuntu/Feedback "https://wiki.kubuntu.org/MaverickMeerkat/RC/Kubuntu/Feedback")
 (englisch).
 
-</p>
+
 Es gibt in dieser Version noch einige [bekannte
 Probleme](https://wiki.ubuntu.com/MaverickMeerkat/TechnicalOverview#Known%20issues "https://wiki.ubuntu.com/MaverickMeerkat/TechnicalOverview#Known%20issues")
 (englisch). Besonders hervorzuheben ist hier ein Problem, das dazu
@@ -33,29 +33,29 @@ führt, dass bestimmte Netbooks mit Atom N450 CPU und einem NM10 Chipsatz
 einem Kernel update nach dem Release behoben. Bis dahin gibt es einen
 Workaround welcher im obigen Link beschrieben ist.
 
-</p>
+
 <!--break--><!--break-->
 
 **Achtung: Diese Version richtet sich an Tester und ist nicht für den
 produktiven Einsatz gedacht!**
 
-</p>
+
 []{#Veranstaltungshinweise}  
 
 ### [ Veranstaltungshinweise]{.mw-headline}
 
-</p>
+
 Im deutschsprachigen Raum ist uns bislang eine [Release
 Party](http://ubuntu-berlin.de/maverick-release-party "http://ubuntu-berlin.de/maverick-release-party")
 bekannt, die am 23.10. ab 16 Uhr in Berlin statt finden wird. Zuvor wird
 vom 15. bis zum 17.10. in Leipzig die deutschsprachige [Ubuntu Community
 Konferenz](http://ubucon.de/ "http://ubucon.de/") veranstaltet.
 
-</p>
-</p>
+
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

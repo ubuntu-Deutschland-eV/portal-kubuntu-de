@@ -7,7 +7,7 @@ Slug: interview-harald-sitter-uber-amarok-und-kde-4
 [![Harald Sitter auf dem LinuxTag 2007](http://www.kubuntu-de.org/files/bilder/LinuxTag2007_038_0.jpg){width="240" height="160"}](http://www.kubuntu-de.org/bilder/events/linuxtag-2007?page=1&img=7)Apachelogger im Interview mit kubuntu-de.org
 =================================================================================================================================================================================================================================================
 
-</p>
+
 <address>
 *Hinweis: The English Translation could be found
 [here](http://www.kubuntu-de.org/english/interview-harald-sitter-about-amarok-and-kde-4).
@@ -16,7 +16,7 @@ Slug: interview-harald-sitter-uber-amarok-und-kde-4
 zu finden. )*
 
 </address>
-</p>
+
 Harald Sitter, auch bekannt als apachelogger, wurde vor einiger Zeit zum
 [Kubuntu MOTU
 ernannt](https://lists.ubuntu.com/archives/ubuntu-devel/2007-November/024826.html "https://lists.ubuntu.com/archives/ubuntu-devel/2007-November/024826.html") und arbeitet in seiner Freizeit als Projektmanager beim
@@ -26,7 +26,7 @@ und was in Bezug auf [KDE
 4](http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-0-mit-kubuntu-paketen-erschienen)
 bei Kubuntu 8.04 Hardy Heron zu erwarten ist.
 
-</p>
+
 **kubuntu-de.org:** Kannst du kurz beschreiben, wer du bist und was du
 für Kubuntu so treibst?  
 
@@ -34,7 +34,7 @@ für Kubuntu so treibst?
 Österreicher und einer der Kubuntu MOTUs (also verantwortlich für die
 Verwaltung des größten Paketbereichs der Ubuntu-Archive).
 
-</p>
+
 **kubuntu-de.org:** Was heißt denn MOTU und in welchen Projekten bist du
 sonst noch aktiv?  
 
@@ -43,7 +43,7 @@ oberwichtige Person ;-). Ansonsten bin ich auch bei
 [KDE](http://www.kde.de) tätig, und bin Projektmanager bei
 [Amarok](http://amarok.kde.org/de).
 
-</p>
+
 <!--break--><!--break-->
 
 **kubuntu-de.org:** Amarok ist ein gutes Thema. Warum sollte eigentlich
@@ -60,7 +60,7 @@ eine Version 2 schon vor langer Zeit gerechtfertigt gewesen. Man muss
 sich nur die Menge an neuen Funktionen in Amarok 1.4 ansehen. Ich finde
 das ist der pure Wahnsinn.
 
-</p>
+
 Jedenfalls ist es uns durch das neue KDE und das neue Qt möglich, noch
 viel weiter zu gehen, als wir das mit Amarok 1 konnten. Bestes Beispiel
 sind wohl die neuen Web-Services. Durch das neu entwickelte Framework
@@ -70,13 +70,13 @@ oder [Ampache](http://ampache.org/ "http://ampache.org") erreicht werden, tatsä
 Webseiten unnötig werden - was ganz im Zeichen unseres Plans der
 Übernahme der Weltherrschaft steht :-D.
 
-</p>
+
 KDE 4 ermöglicht es uns natürlich auch, Amarok 2 auf Linux, Mac und
 Windows zu veröffentlichen. Das ist ein wichtiger Punkt. Seit ich beim
 Team bin (und das sind auch schon mindestens 4 Jahre), haben wir immer
 wieder Anfragen über Amarok auf Windows/Mac erhalten.
 
-</p>
+
 **kubuntu-de.org:** Welches ist denn dein Lieblingsfeature in Amarok 1
 und welches wird es in Amarok 2 sein?  
 
@@ -85,7 +85,7 @@ Kontext-Informationen, welche in Amarok 2 viel größere Aufmerksamkeit
 bekommen und auch grafisch hübscher aufbereitet sein werden, als in
 Amarok 1.
 
-</p>
+
 **kubuntu-de.org:** Du bist ja derzeit sehr engagiert in der Entwicklung
 von Kubuntu. Wir haben dir ja unter anderem die [Pakete für KDE
 4.0.1](http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-0-1-mit-paketen-f-r-kubuntu-erschienen)
@@ -99,7 +99,7 @@ eines bei Amarok gelernt habe, dann wie man richtig feiert. Gelegentlich
 soll es auch vorkommen, dass ich lerne, aber das eher
 selten. [![](http://www.kubuntu-de.org/files/bilder/LinuxTag2007_039_0.jpg){width="240"}](http://www.kubuntu-de.org/bilder/events/linuxtag-2007?page=1&img=8)
 
-</p>
+
 **kubuntu-de.org:** KDE 4 ist ja momentan noch recht unvollständig. Wie
 wollt ihr es schaffen, dass sich die KDE 3 Programme nahtlos in den
 Desktop einfügen? Gerade was die Einstellungen angeht, ist da ja noch
@@ -115,7 +115,7 @@ Winterschlaf. Wir haben speziellen Wert darauf gelegt, dass sich vor
 allem bei den Einstellungen die verschiedenen Versionen nicht in die
 Haare bekommen.
 
-</p>
+
 Was die Systemeinstellungen angeht, wissen wir selbst noch nicht genau
 wie wir das regeln (ich habe sowieso generell wenig Ahnung was ich
 überhaupt bei Kubuntu mache ;-). Wir werden allerdings wohl keinen
@@ -126,7 +126,7 @@ lässt sich sagen, dass wir aktuell zu fünft unter Hochdruck
 ausschließlich an KDE 4 feilen, um für 8.04 den geilsten, genialsten,
 fantastischsten Desktop überhaupt zu erstellen.
 
-</p>
+
 **kubuntu-de.org:** Die Kritik an KDE 4.0 war ja nicht zu überhören.
 Woran lag das deiner Meinung nach? Hatten die Nutzer zu hohe
 Erwartungen?  
@@ -139,7 +139,7 @@ sind. Auch wird das gesamte Potential der neuen Platform zu nicht einmal
 und Jahren eine der genialsten Desktop-Umgebungen werden, die es jemals
 gegeben hat.
 
-</p>
+
 Die Kritik war allerdings auch zum Teil selbst gemacht. Vor allem
 Plasma, welches ja als Desktop der elementarste Bestandteil von KDE 4
 ist, war ganz einfach nicht bereit für eine Veröffentlichung. In den
@@ -151,7 +151,7 @@ verbessert. Ich rechne damit, dass 4.0.3 (welches vermutlich in Kubuntu
 8.04 verwendet wird) einen einsatzfähigen Desktop für die meisten
 Benutzer darstellen kann.
 
-</p>
+
 **kubuntu-de.org:** Ok, dann sag uns zum Abschluss noch, welches dein
 Lieblingsprogramm von KDE 4 ist und warum.  
 
@@ -163,17 +163,17 @@ dieser Frage: Oxygen. Erst Oxygen macht KDE 4 zu dem was es ist: Ein
 durch und durch hübsches System mit einheitlichem, extrem scharfen
 Aussehen.
 
-</p>
+
 **kubuntu-de.org:** Harald, wir danken dir für dieses Interview und
 natürlich auch für die gute Arbeit an Kubuntu und KDE.  
 
 **Harald:** Danke für das Verarbeiten meiner wahnsinnigen Gedankengänge.
 FREE SOFTWARE RULEZ! :D
 
-</p>
+
 []{#Interview:_Harald_Sitter_.28apachelogger.29_speaks_about_Amarok_and_KDE_4}
 
-</p>
 
-</p>
+
+
 

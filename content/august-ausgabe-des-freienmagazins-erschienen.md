@@ -18,7 +18,7 @@ Bildern](http://freiesmagazin.de/mobil/freiesMagazin-2008-08-bilder.html)
 man immer die aktuelle und alle bisher erschienenen Mobil-Ausgaben.
 Inhalte der Ausgabe 08/2008 sind u.a.
 
-</p>
+
 -   Ein erster Blick auf KDE 4.1
 -   Ubuntu 8.04 LTS - Ubuntu für drei Jahre
 -   Versionsverwaltung mit Git
@@ -26,7 +26,7 @@ Inhalte der Ausgabe 08/2008 sind u.a.
 -   Interview mit Projektmitarbeitern von easys GNU/Linux
 -   Veranstaltungskalender, News, Leserbriefe, u.a.
 
-</p>
+
 <!--break--><!--break-->
 
 Das vollständige Inhaltsverzeichnis findet man auf der [Webseite der
@@ -39,5 +39,5 @@ jeden Monat an die neue Ausgabe erinnert werden will, kann auch den
 drei Ausgaben von freiesMagazin abgerufen werden, ältere Ausgaben findet
 man im [Archiv](http://www.freiesmagazin.de/archiv).
 
-</p>
+
 

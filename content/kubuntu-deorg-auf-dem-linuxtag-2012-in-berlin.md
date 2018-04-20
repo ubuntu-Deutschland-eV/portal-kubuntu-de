@@ -9,7 +9,7 @@ in Berlin einen Stand gesichert. Wir versuchen den Besuchern Kubuntu
 näher zu bringen und würden uns freuen, wenn Ihr uns besuchen kommt (der
 LinuxTag geht noch bis Samstag).
 
-</p>
+
 <!--break--><!--break-->
 
 Dieses Jahr haben wir zusammen mit [Ubuntu](http://ubuntuusers.de) und
@@ -18,10 +18,10 @@ umgestaltet haben. Falls Ihr noch Tickets braucht, meldet euch bei
 Monika per Mail unter Monika ÄT kubuntu-de.org, denn wir haben noch 7
 Tickets zu verschenken.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0) diskutiert
 werden.
 
-</p>
+
 

@@ -12,20 +12,20 @@ veröffentlicht. KOffice 2.1 richtet sich in erster Linie an Entwickler,
 Tester und experimentierfreudige Anwender. Es wird davon abgeraten, die
 Programme in diesem Stadium als Hauptanwendungen zu verwenden.
 
-</p>
+
 Im Vergleich zur letzten, als Entwicklerversion veröffentlichten 2.0,
 wurden alle Anwendungen weiter ausgebaut und verbessert. Die
 Grafikanwendungen **Krita** (Bildbearbeitung) und **Karbon**
 (Vektorgrafik) sollen sogar bereits in einem guten Zustand und von allen
 Programmen der Suite am weitesten gediehen sein.
 
-</p>
+
 <!--break--><!--break-->
 
 Im Allgemeinen wurde viel Wert auf die Unterstützung des ODF-Standards
 gelegt und ausführliche Tests dazu durchgeführt.
 
-</p>
+
 In **KWord** gibt es eine neue Implementation der Tabellen, welche die
 Möglichkeiten der alten 1.6er Version übersteigt. So können Tabellen
 länger als eine Seite, sowie ineinander verschachtelt sein. Allerdings
@@ -34,20 +34,20 @@ dieses soll in der kommenden Version möglich werden. Darüber hinaus
 wurde eine umfassende Änderungsverfolgung und die farbliche Darstellung
 der Änderungen eingeführt.
 
-</p>
+
 Die Anwendungen **KSpread** und **KPresenter** genießen im wesentlichen
 Fehlerkorrekturen nebst einigen neuen Funktionen. In **KPlato** wurden
 diverse Manipulationsmöglichkeiten für Ressourcen, Währungen und
 Arbeitstypen eingeführt. Außerdem unterstützt es nun Offline-Arbeiten.
 
-</p>
+
 **Karbon** wurden einige neue Effekte und Filter hinzugefügt, welche
 auch miteinander kombiniert werden können. Zudem können PDF-Dokumente
 importiert werden. Für **Krita** gibt es neue Pinsel, dazu eine
 unendliche Leinwand sowie eine Art Druckempfindlichkeit, die anhand der
 Mausgeschwindigkeit gesteuert wird.
 
-</p>
+
 Neben dem Comeback des Formel-Shapes (Shapes sind eine Art Plugins, die
 überall in KOffice eingesetzt werden können, im Prinzip ist jedes
 Element ein Shape) wurden beim Chart Shape Fehlerkorrekturen
@@ -55,23 +55,23 @@ durchgeführt und das Bild-Shape erfuhr allgeime Verbesserungen.
 Schließlich wurde massiv am Import von Microsoft Powerpoint und
 Microsoft Word Dokumenten gearbeitet.
 
-</p>
+
 Ausführliche Informationen, Screenshots und Highlights sind der
 [offiziellen
 Ankündigung](http://www.koffice.org/news/koffice-2-1-released/ "http://www.koffice.org/news/koffice-2-1-released/")
 zu entnehmen.
 
-</p>
+
 In der Entwicklerausgabe vom kommenden Kubuntu Lucid Lynx werden die
 neuen Pakete per Systemupdate eingespielt. Für Kubuntu 9.10 stehen
 Pakete im Backports-PPA zur Verfügung, in unserem Wiki gibt es eine
 Anleitung zum Upgrade bzw. zur [Installation von KOffice
 2.1](http://wiki.kubuntu-de.org/Installation/Upgrade/KOffice2 "http://wiki.kubuntu-de.org/Installation/Upgrade/KOffice2").
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

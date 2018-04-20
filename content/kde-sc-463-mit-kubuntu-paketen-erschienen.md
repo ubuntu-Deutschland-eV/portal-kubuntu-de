@@ -17,20 +17,20 @@ werden mit dieser Version nicht bereitgestellt. Das
 wesentlichen um Fehlerkorrekturen in Juk, Kopete und Konsole handelt.
 Eine vollständige Liste kann dem SVN oder Git Log entnommen werden.
 
-</p>
+
 KDE SC 4.6.3 ist der verstorbenen Tochter von KDE Entwickler Daniel
 Nicoletti gewidmet.
 
-</p>
+
 <!--break--><!--break-->
 
 Für Nutzer von Kubuntu 11.04 Natty Narwhal steht die aktuelle
 KDE-Version über das Kubuntu Updates PPA zur Verfügung.
 
-</p>
+
 Das PPA fügt man mit
 
-</p>
+
 ``` {.shell}
 sudo apt-add-repository ppa:kubuntu-ppa
 ```
@@ -40,15 +40,15 @@ die Aktualisierung allerdings von den KDE Entwicklern empfohlen wird und
 zumindest für Nutzer, die sowieso schon auf 4.6 setzen, sicher sein
 sollte.
 
-</p>
+
 Fehler in der Paketierung sollen im [Launchpad gegen
 kubuntu-ppa](https://bugs.launchpad.net/kubuntu-ppa) gemeldet werden.
 Fehler der Software direkt im [KDE Bugtracker](http://bugs.kde.org/).
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0) diskutiert
 werden.
 
-</p>
+
 

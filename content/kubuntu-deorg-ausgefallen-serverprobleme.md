@@ -6,7 +6,7 @@ Slug: kubuntu-deorg-ausgefallen-serverprobleme
 
 Hallo,
 
-</p>
+
 wie ihr sicher bemerkt habt, war Kubuntu-de.org vorhin nicht
 erreichbar.  
 
@@ -16,13 +16,13 @@ die Ursache zu ermitteln.
 Wir bedauern den Ausfall - und wünschen euch noch ein schönes
 Wochenende.
 
-</p>
+
 Euer Team von Kubuntu-de.org
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?topic=16190.0) diskutiert
 werden.
 
-</p>
+
 

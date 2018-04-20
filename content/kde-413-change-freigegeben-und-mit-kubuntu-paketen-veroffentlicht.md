@@ -11,7 +11,7 @@ zahlreicher Fehler für die neue Generation des fortgeschrittenen und
 mächtigen freien Desktops. Kubuntu liefert seit heute das Update für
 Kubuntu 8.10 in den Backport-Quellen aus.
 
-</p>
+
 <!--break--><!--break-->
 
 Einen wesentlich Anteil an Fehlerkorrekturen und Bereinigungen gab es in
@@ -23,7 +23,7 @@ vollständig zu sein. Alle Einzelheiten sind den SVN-Changelogs zu
 entnehmen; diese sind auf der gerade erwähnten Seite zu den einzelnen
 Programmen verlinkt.
 
-</p>
+
 Wenn die Backport-Quellen aktiviert sind, wird der Update automatisch
 angezeigt, sobald die nächste Prüfung auf neue Pakete stattfindet. Wie
 gewohnt kann dies auch manuell über den Paketmanager erledigt werden.
@@ -31,5 +31,5 @@ Sollten die Backports nicht aktiviert sein, übernimmt man den
 entsprechenden Eintrag aus unserer
 [Quellen-Übersicht](http://wiki.kubuntu-de.org/Baustelle/Sources.list_Intrepid "http://wiki.kubuntu-de.org/Baustelle/Sources.list_Intrepid") in die /etc/apt/sources.list.
 
-</p>
+
 

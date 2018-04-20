@@ -6,10 +6,10 @@ Slug: anleitung
 Anleitung zum Anmelden
 ======================
 
-</p>
+
 1.  Schritt 1 ─ Anmeldedaten
 
-    </p>
+    
     1.  Aufrufen vom [Tagzania
         Anmeldeformular](http://www.tagzania.com/register)
     2.  Im Feld Username den Benutzernamen eingeben.
@@ -19,21 +19,21 @@ Anleitung zum Anmelden
     5.  Optional: Email-Adresse eingeben (empfohlen).
     6.  Registrieren anklicken.
 
-    </p>
-    <p>
+    
+    
 2.  Schritt 2 ─ Standort
 
-    </p>
+    
     1.  Dem Link "Starten Sie hier Ihre Dinge zu posten" folgen.
     2.  Im Feld "Suche" die Standordaten eingeben (Beispiele sind
         angegeben).
     3.  Suche anklicken.
 
-    </p>
-    <p>
+    
+    
 3.  Schritt 3 ─ Profil
 
-    </p>
+    
     1.  Im Feld "Titel" den Schriftzug angeben, welcher beim Überfliegen
         des Markers mit der Maus angezeigt wird (am besten den
         Benutzernamen).
@@ -45,8 +45,8 @@ Anleitung zum Anmelden
         werden.
     5.  Speichern anklicken
 
-    </p>
-    <p>
+    
+    
 
-</p>
+
 

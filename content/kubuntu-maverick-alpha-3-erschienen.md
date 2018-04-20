@@ -16,23 +16,23 @@ nicht anders zu erwarten gibt es eine Reihe an bereits bekannten
 Fehlern, so startet zum Beispiel KDM, wenn von der Live CD genutzt,
 nicht richtig und der Installer wird auf dem Desktop nicht angezeigt.
 
-</p>
+
 Weitere Details können der [technischen Übersicht für Maverick
 Meerkat](https://wiki.ubuntu.com/MaverickMeerkat/TechnicalOverview "https://wiki.ubuntu.com/MaverickMeerkat/TechnicalOverview")
 und der
 [Veröffentlichungsankündigung](https://wiki.kubuntu.org/MaverickMeerkat/Alpha3/Kubuntu "https://wiki.kubuntu.org/MaverickMeerkat/Alpha3/Kubuntu")
 entnommen werden.
 
-</p>
+
 <!--break--><!--break-->
 
 **Achtung: Alpha Versionen sind nicht für den Einsatz auf
 Produktivsystemen gedacht.**
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

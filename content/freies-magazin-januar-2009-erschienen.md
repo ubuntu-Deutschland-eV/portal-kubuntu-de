@@ -11,7 +11,7 @@ zulässt, ist das Magazin auch per [HTTP-Zugriff auf das
 FTP-Verzeichnis](http://www.freiesmagazin.de/ftp/2009/freiesMagazin-2009-01.pdf)
 zu erreichen.
 
-</p>
+
 Auch diesen Monat gibt es wieder eine HTML-Ausgabe für Mobilgeräte [ohne
 Bilder](http://freiesmagazin.de/mobil/freiesMagazin-2009-01.html) und
 [mit
@@ -19,12 +19,12 @@ Bildern](http://freiesmagazin.de/mobil/freiesMagazin-2009-01-bilder.html)
 (ca. 2,3 MB). Unter der Adresse <http://freiesmagazin.de/mobil/> findet
 man immer die aktuelle und alle bisher erschienenen Mobil-Ausgaben.
 
-</p>
+
 <!--break--><!--break-->
 
 Inhalte der Ausgabe 01/2009 sind u.a.
 
-</p>
+
 -   Installation und Einrichtung von Avant Window Navigator
 -   Projektvorstellung Opera
 -   Das neue „Sonnensystem“ - Ein Blick auf OpenSolaris 2008.11
@@ -32,13 +32,13 @@ Inhalte der Ausgabe 01/2009 sind u.a.
 -   Die zehnte Fedora-Ausgabe vorgestellt
 -   Veranstaltungskalender, News, Leserbriefe und vieles mehr
 
-</p>
+
 Das vollständige Inhaltsverzeichnis findet man auf der [Webseite der
 aktuellen Ausgabe](http://www.freiesmagazin.de/freiesMagazin-2009-01).
 Leserbriefe mit Lob, Kritik, Anregungen oder Fragen können an die
 [Redaktion](http://www.freiesmagazin.de/kontakt) geschickt werden.
 
-</p>
+
 Wer jeden Monat an die neue Ausgabe erinnert werden will, kann auch den
 [RSS- Feed](http://www.freiesmagazin.de/rss.xml) abonnieren. Auf der
 [Magazin-Seite](http://www.freiesmagazin.de/magazin) können die letzten
@@ -47,12 +47,12 @@ drei Ausgaben von
 abgerufen werden, ältere Ausgaben findet man im
 [Archiv](http://www.freiesmagazin.de/archiv).
 
-</p>
+
 Zusätzlich hat
 [freies]{style="font-weight: bold; color: rgb(115, 115, 115);"}[Magazin]{style="color: rgb(255, 102, 0);"}
 auch [eine Umfrage
 gestartet](http://www.freiesmagazin.de/freiesmagazin-umfrage-startet)
 und bittet alle Leser daran teilzunehmen.
 
-</p>
+
 

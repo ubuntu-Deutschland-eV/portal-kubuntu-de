@@ -14,12 +14,12 @@ interessantes und reichhaltiges Vortragsprogramm. Vorträge fanden in
 drei Sälen parallel zu einem breitgestreuten Themengebiet statt. So
 waren Vorträge für den Einsteiger und den Profi mit dabei.
 
-</p>
+
 <!--break--><!--break-->
 
 <div>
 
-</p>
+
 Zu den für den Kubuntu Nutzer interessantesten Vortägen zählten mit
 Sicherheit die zu Kubuntu, [Amarok](http://amarok.kde.org/) und KDE4.
 Den Anfang dabei machten Lydia Pintscher (Nightrose) und Marcus
@@ -35,7 +35,7 @@ rege Fragerunde schloß den Vortrag ab.[![Plakat der Ubucon 2007 in
 Krefeld](http://czessi.kubuntu-de.org/drupal5/files/Image/pictures/ubucon-plakat_2.png){width="199"
 height="276"}](http://czessi.kubuntu-de.org/drupal5/files/Image/pictures/ubucon-plakat.png)
 
-</p>
+
 Die Präsentation von compiz durch Nick Bauermeister (aka Forlong) war
 einer der längsten Vorträge, da etliche, aber längst nicht alle,
 Funktionen gezeigt wurden, die den einen oder anderen Besucher in großes
@@ -46,7 +46,7 @@ wurden auch später noch Fragen beantwortet und Hilfestellungen gegeben.
 Wie z.B. beim Social Event im "Cafe Journal", wo Nick Bauermeister
 compiz auf dem einen oder anderen Laptop noch zum Laufen bringen durfte.
 
-</p>
+
 Leider waren beim Social Event nicht so viele Personen anwesend, wie
 erst erhofft, aber es war trotzdem sehr interessant. Man konnte sich mal
 in Ruhe mit anderen austauschen, bevorzugte Themen waren Linux
@@ -55,7 +55,7 @@ konnte. Trotz der wenigen KDE-User, haben sich diese trotzdem behaupten
 können und sind nicht von der Menge bekehrt worden. Kubuntu und Amarok
 haben sich dann auch an einem Tisch zusammen gefunden.
 
-</p>
+
 Der Sonntag begann früh mit einem Vortrag über
 [Linux4Afrika](http://www.linux4afrika.de). Im Anschluß folgte der
 bereits angekündigte [Amarok
@@ -68,7 +68,7 @@ noch ein Einblick in das Amarok Team selbst gegeben. Dort wurde deutlich
 gemacht, daß das Amarok Team ein offenes aber auch eng verbundenes Team
 ist, in der ein inniges Verhältnis gepflegt wird.
 
-</p>
+
 Kurze Zeit später begann einer der am meist besuchten Vorträge der
 Ubucon, der KDE4 Vortrag von Sebastian Kügler (sebas). Nach einer kurzen
 Einführung über KDE und dessen Geschichte gab Sebas einen Einblick
@@ -78,7 +78,7 @@ aber bis vor kurzem, nicht viel fürs Auge zeigen konnte. Im Anschluß
 präsentierte man einen aktuellen KDE4 Snapshot, der einiges an genialen
 Neuerungen zeigte.
 
-</p>
+
 Parallel zu KDE4 hielt Ernesto Ruge (TheInfinity) seinen Vortrag zu
 "ubuntu smallserver", (K)ubuntu in kleinen Unternehmen und Vereinen. Die
 Diskussionsrunde zu dem Vortrag, fand doch recht guten Anklang, auch
@@ -87,33 +87,33 @@ gereicht, dass beschlossen wurde, einen Wiki-Bereich einzurichten, in
 dem jeder seine Meinung oder Vorschläge geben kann, wie man dieses oder
 jenes Problem lösen könnte. 
 
-</p>
+
 Wer dachte, dass die Kernel-Programmierung weit weg sei, dürfte sich
 dann während des Vortrages "Kernel-Programmierung" doch gewundert haben.
 Es ist nämlich für jeden möglich seine eigenen Module zu schreiben, wenn
 man nur etwas Ahnung vom Programmieren hat, wie Jürgen Quade anhand
 simpler Beispiele demonstrierte.
 
-</p>
+
 Die Ubucon endete mit dem Closing-Event. Dort wurde beschlossen, dass es
 nächstes Jahr wieder eine Ubucon geben wird. Alles in Allem war es ein
 großer Erfolg und fand viel Anklang.
 
-</p>
-<p>
+
+
 
 </div>
 
-</p>
+
 <div>
 
-</p>
+
 #### Interessante Links:
 
-</p>
+
 -   <a href="http://www.ubucon.de/">Ubucon Homepage  
-   </p>
-    <p>
+   
+    
     </a>
 -   [Ubucon
     Wiki](http://linuxwiki.de/Ubucon2007/Feedback "http://linuxwiki.de/Ubucon2007/Feedback"){.external
@@ -126,10 +126,10 @@ großer Erfolg und fand viel Anklang.
     .text} (PDF) bereitgestellt von Nightrose
 -   IRC: \#ubucon-de auf irc.freenode.net
 
-</p>
-<p>
+
+
 
 </div>
 
-</p>
+
 

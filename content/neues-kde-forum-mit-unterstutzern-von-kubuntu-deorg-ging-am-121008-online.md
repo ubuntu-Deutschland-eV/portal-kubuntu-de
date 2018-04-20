@@ -11,7 +11,7 @@ Vorschlag von den bisherigen Pflegern wurde beschlossen ein neues Forum
 aufzubauen, dass zudem an einem zentralen Ort bereit gehalten wird. Der
 Aufbau geschieht unter der Federführung von Rob la Lau und Ingo Malchow.
 
-</p>
+
 So ist seit heute das KDE-spezifische Forum unter
 [forum.kde.org](http://forum.kde.org/ "http://forum.kde.org") erreichbar. Unterstützung erfährt das neu zusammengestellte Team
 von Mitgliedern von kubuntu-de.org: Arthur Schiwon (blizzz) ist dort als
@@ -19,7 +19,7 @@ von Mitgliedern von kubuntu-de.org: Arthur Schiwon (blizzz) ist dort als
 (neversfelde), der allerdings aus privaten Gründen eine Auszeit nehmen
 muss und erst später wieder dazustoßen wird.
 
-</p>
+
 <!--break--><!--break-->
 
 Die Sprache des Forums ist aufgrund des internationalen Charakters
@@ -32,9 +32,9 @@ aber ist es nicht möglich, aus einer anderen Sprache ins Englische zu
 posten. Die Forumsoftware selbst kann u.a. auf Deutsch eingestellt
 werden.
 
-</p>
+
 Als Software wird MyBB verwendet, das zeitgleich mit dem Roll-out unter
 eine freie Lizenz (GPL3) gestellt wird.
 
-</p>
+
 

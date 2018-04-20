@@ -12,7 +12,7 @@ Verfügung.
 **Es handelt sich um Entwicklerversionen, die nicht für den produktiven
 Einsatz gedacht sind.**
 
-</p>
+
 Jede der Betas von Amarok, KDEvelop und KOffice ist für das in Bälde
 erscheinende Kubuntu 10.04 Lucid Lynx verfügbar. Die Beta Version von
 Amarok wurde auf Karmic portiert und ist damit aus dem [Kubuntu Karmic
@@ -20,7 +20,7 @@ Koala 9.10 Beta
 PPA](/Konfiguration/Programme_installieren/Paketmanagement/Paketquellen/Karmic/BetaPPA "Konfiguration/Programme installieren/Paketmanagement/Paketquellen/Karmic/BetaPPA")
 erhältlich.
 
-</p>
+
 <!--break--><!--break-->
 
 In unserem Wiki befindet sich eine [Anleitung zum Hinzufügen vom Kubuntu
@@ -29,10 +29,10 @@ PPA](/Konfiguration/Programme_installieren/Paketmanagement/Paketquellen/Lucid/Be
 Nach einem Update kann man bereits installierte Programmversionen
 aktualisieren oder die obigen Anwendungen installieren.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

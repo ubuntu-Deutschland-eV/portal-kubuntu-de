@@ -11,7 +11,7 @@ verschiedenen Autoren, wobei Neversfelde mit 14 Werken heraussticht.
 Eine Übersicht der teilnehmenden Artikel befindet sich auf dieser
 [Wiki-Seite](http://wiki.kubuntu-de.org/Kategorie:Wettbewerb "http://wiki.kubuntu-de.org/Kategorie:Wettbewerb").
 
-</p>
+
 Einige Schöpfungen machen aber auch an anderen Stellen auf sich
 aufmerksam: Jaros Artikel zu
 [KWallet](http://wiki.kubuntu-de.org/Kubuntu_benutzen/Dienstprogramme/KWallet "Kubuntu benutzen/Dienstprogramme/KWallet")
@@ -27,7 +27,7 @@ erfahren, die wohl zum offiziellen Handbuch erhoben wird. Hier wird noch
 Hilfe bei der [Übersetzung ins
 Englische](http://forum.kubuntu-de.org/index.php?topic=11399 "http://forum.kubuntu-de.org/index.php?topic=11399") benötigt.
 
-</p>
+
 <!--break--><!--break-->
 
 Den drei Juroren Harald Sitter, Lydia Pintscher und Ingo Malchow liegen
@@ -36,5 +36,5 @@ Sobald sie entschieden haben, wer die Gewinner des KDE T-Shirts, der
 Tasse und des Mousepads sind, werden wir dies an dieser Stelle bekannt
 geben.
 
-</p>
+
 

@@ -10,7 +10,7 @@ vertreten. Die Betreuung des Standes übernahmen Markus (mindspin),
 Thomas (datten), Alexander (Xander) und Marcus
 ([Czessi](http://www.czessi.de/)).  
 
-<p>
+
 <center>
 [![](/files/PL07/01.jpg)](/bilder/events/practical-linux-2007#img0)    
 [![](/files/PL07/08.jpg)](/bilder/events/practical-linux-2007#img7)    
@@ -19,14 +19,14 @@ Thomas (datten), Alexander (Xander) und Marcus
 </center>
   
 
-</p>
+
 Am Vorabend gab es ein
 [Come2gether](http://www.practical-linux.de/statisch/social_event.html)
 in der Brauerei "Alt-Giessen", wo man sich bereits vorher Kennenlernen
 oder auch Wiedersehen konnte. Bis in den frühen Morgen wurde angeregt
 diskutiert.
 
-</p>
+
 <!--break--><!--break-->
 
 Die Veranstaltung war gut besucht und neben
@@ -39,7 +39,7 @@ Stände von [Kubuntu](http://www.kubuntu-de.org/) und
 [Sidux](http://www.sidux.com/) zählten zu den am meist besuchten der
 Veranstaltung. Auch ein Stand für Linux Fanartikel hat nicht gefehlt.
 
-</p>
+
 Ferner gab es eine große Auswahl an
 [Vorträgen](http://www.practical-linux.de/statisch/vortraege.html) und
 [Workshops](http://www.practical-linux.de/statisch/musik_workshop.html).
@@ -48,7 +48,7 @@ Datenschutz, Bürgerrechte", "Software-Patente - Die dritte Runde läuft"
 und "Wozu braucht man eigentlich Windows" von Dipl.-Ing. Klaus Knopper
 zu den interessantesten Vorträgen.  
 
-<p>
+
 <center>
 [![](/files/PL07/14.jpg)](/bilder/events/practical-linux-2007#img13)    
 [![](/files/PL07/15.jpg)](/bilder/events/practical-linux-2007#img14)    
@@ -57,7 +57,7 @@ zu den interessantesten Vorträgen.
 </center>
   
 
-</p>
+
 Der
 [Workshop-Bereich](http://www.practical-linux.de/statisch/musik_workshop.html)
 stand ganz unter dem Motto Musik und fand in den Räumlichkeiten des
@@ -69,7 +69,7 @@ die Programme im Detail vorzustellen. Später wurden mit Freiwilligen und
 JAD Tonaufnahmen gemacht. Das daraus entstandene Stück wird es demnächst
 auch zum Download geben.
 
-</p>
+
 Als Highlight konnte natürlich das neue [Kubuntu 7.10 "Gutsy
 Gibbon"](http://www.kubuntu-de.org/kubuntu-7-10-gutsy-gibbon-erschienen)
 präsentiert werden, aber auch die Beta 3 von KDE 4.0 wurde vorgeführt.
@@ -77,16 +77,16 @@ Dazu wurden allgemeine, sowie spezielle Fragen beantworten und auch für
 Probleme mit [Kubuntu](http://www.kubuntu-de.org/) konnten Lösungen
 gegeben werden.
 
-</p>
+
 Da das Social Event abgesagt wurde, haben wir den Abend gemeinsam mit
 [Sidux](http://www.sidux.com/) und Appleonkel von
 [openSUSE](http://de.opensuse.org/) verbracht und die durch die
 Zeitumstellung geschenkte Stunde wurde intensiv mit Brainstorming zu
 kommenden Messen verbracht.
 
-</p>
+
 Weitere Bilder sind hier verfügbar:
 <http://www.kubuntu-de.org/bilder/events/practical-linux-2007>
 
-</p>
+
 

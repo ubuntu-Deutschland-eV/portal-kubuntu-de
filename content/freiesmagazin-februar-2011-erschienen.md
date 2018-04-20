@@ -14,7 +14,7 @@ Bereichen Linux und Open Source mit.
 
 ### Inhalt der Ausgabe 02/2011
 
-</p>
+
 -   VirtualBox und KVM
 -   Kernel-Crash-Analyse unter Linux
 -   Der Januar im Kernelrückblick
@@ -27,12 +27,12 @@ Bereichen Linux und Open Source mit.
 -   Dritter freiesMagazin-Programmierwettbewerb beendet
 -   Veranstaltungskalender und Leserbriefe
 
-</p>
+
 <!--break--><!--break-->
 
 ### Downloads
 
-</p>
+
 -   [PDF-Version](http://www.freiesmagazin.de/ftp/2011/freiesMagazin-2011-02.pdf)
     (1537 KB)
 -   [Mobil-Version mit
@@ -42,7 +42,7 @@ Bereichen Linux und Open Source mit.
     Bilder](http://www.freiesmagazin.de/mobil/freiesMagazin-2011-02.html)
     (279 KB)
 
-</p>
+
 Unter der Adresse <http://freiesmagazin.de/mobil/> findet man immer die
 aktuelle und alle bisher erschienenen Mobil-Ausgaben. Auf der
 [Magazin-Seite](http://www.freiesmagazin.de/magazin) können die letzten
@@ -53,12 +53,12 @@ abgerufen werden, ältere Ausgaben findet man im
 
 ### Kontakt
 
-</p>
+
 Wer jeden Monat an die neue Ausgabe erinnert werden will, kann auch den
 [RSS-Feed](http://www.freiesmagazin.de/rss.xml) abonnieren. Leserbriefe
 mit Lob, Kritik, Anregungen oder Fragen und neue Artikelvorschläge
 können an die [Redaktion](http://www.freiesmagazin.de/kontakt) geschickt
 werden.
 
-</p>
+
 

@@ -13,17 +13,17 @@ Komponenten der Office Suite zu Gute kam. Eine Übersicht der getätigten
 [Changelog](http://www.koffice.org/changelogs/koffice-2-0-2-changelog/ "http://www.koffice.org/changelogs/koffice-2-0-2-changelog/") (englisch) zu entnehmen. Seit diesem Donnerstag stehen Pakete für
 Kubuntu bereit.
 
-</p>
+
 Dies wird die letzte Wartungsfreigabe bis zur Freigabe von KOffice 2.1
 sein, welche voraussichtlich im Oktober 2009 erscheinen wird. Die
 Installation von KOffice 2.0.2 auf Kubuntu kann anhand dieser
 [Anleitung](http://wiki.kubuntu-de.org/Kubuntu_benutzen/Bueroprogramme/KOffice2#Installation "http://wiki.kubuntu-de.org/Kubuntu_benutzen/Bueroprogramme/KOffice2#Installation") durchgeführt werden.
 
-</p>
+
 <!--break--><!--break-->
 
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0") diskutiert werden.
 
-</p>
+
 

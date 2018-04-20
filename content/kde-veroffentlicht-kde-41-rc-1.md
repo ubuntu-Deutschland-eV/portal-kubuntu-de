@@ -11,7 +11,7 @@ letzten Fehler zu korrigieren. Deshalb werden Änderungen nur noch
 vorgenommen, wenn es sich um Fehlerkorrekturen handelt; neue Funktionen
 werden nicht mehr hinzugefügt.
 
-</p>
+
 KDE 4.1 bringt zahlreiche Änderungen und neue Anwendungen im Vergleich
 zu KDE 4.0. Die Desktopoberfläche wurde stark verbessert, Software für
 die Persönliche Informationsverwaltung portiert und noch vieles andere
@@ -28,7 +28,7 @@ werden. Erste Abhilfe schaffen einige Treiberoptionen, die auf einer
 KDE](http://techbase.kde.org/User:Lemma/GPU-Performance "http://techbase.kde.org/User:Lemma/GPU-Performance")
 dokumentiert sind.
 
-</p>
+
 <!--break--><!--break-->
 
 Hinweis: KDE 4.1 RC 1 ist eine Entwickler- und Testversion und richtet
@@ -36,17 +36,17 @@ sich an diesen Personenkreis, damit noch vorhandene Fehler gefunden und
 beseitigt werden können. Für eine Nutzung auf Produktivsystemen ist
 diese Veröffentlichung nicht vorgesehen!
 
-</p>
+
 Installation
 ------------
 
-</p>
+
 Pakete für Kubuntu Hardy Heron sind über das persönliche Paketarchiv der
 Kubuntu Entwickler verfügbar. Die Pakete werden in das Verzeichnis
 "/usr/lib/kde4" installiert, sodass eine problemlose Installation neben
 einem bestehenden KDE 3 gewährleistet ist.
 
-</p>
+
 Um die Pakete zu installieren muss die Zeile "deb
 <http://ppa.launchpad.net/kubuntu-members-kde4/ubuntu> hardy main" zur
 sources.list hinzugefügt und ein vollständiges Update der Paketquellen
@@ -56,7 +56,7 @@ erst das Paket "kubuntu-kde4-desktop" installieren. Da einige Pakete
 noch nicht vollständig gebaut wurden, empfiehlt es sich in den nächsten
 Tagen häufiger nach Updates zu sehen.
 
-</p>
+
 Da KDE 4.1 RC eine Testversion ist, sind Fehler zu erwarten! Sie ist
 nicht für den produktiven Einsatz gedacht. Etwaige Probleme, die mit den
 Paketen zusammenhängen könnten, sollten im IRC Kanal \#kubuntu-kde4 auf
@@ -65,5 +65,5 @@ Probleme mit den Paketen von Fehlern in KDE selbst zu unterscheiden.
 Fehlerberichte sollten in den [Bugtracker von
 KDE](http://bugs.kde.org "http://bugs.kde.org") eingetragen werden.
 
-</p>
+
 

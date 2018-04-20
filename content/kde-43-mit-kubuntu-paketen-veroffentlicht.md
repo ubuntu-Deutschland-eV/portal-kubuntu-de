@@ -13,7 +13,7 @@ der Desktop-Shell Plasma und dem Fenstermanager KWin, optimiert die
 Dateiverwaltung Dolphin, den umfangreichen KRunner und poliert die
 Systemeinstellungen auf.
 
-</p>
+
 Dazu wurden zahlreiche Anwendungen auf Vordermann gebracht und in
 einigen Fällen auch erstmalig auf KDE 4 portiert. Weitere Bestandteile
 und Technologien wurden voran getrieben, darunter neue
@@ -24,7 +24,7 @@ PolicyKit sollen Anwendungen, auf sichere und einheitliche Verweise, bei
 Bedarf priviligierte Rechte erlangen können und nicht zuletzt wurde auch
 weiter intensiv an Akonadi selbst gearbeitet.
 
-</p>
+
 <!--break--><!--break-->
 
 Änderungen und Neuheiten werden in der [offiziellen
@@ -32,20 +32,20 @@ Bekanntmachung](http://kde.org/announcements/4.3/index.php "http://kde.org/annou
 [Installationsanleitung](http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.04_auf_KDE_4.3_aktualisieren "http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.04_auf_KDE_4.3_aktualisieren") für Jaunty befindet sich in unserem Wiki, Pakete für die nächste
 Kubuntu-Version Karmic werden als Systemupdate angeboten.
 
-</p>
+
 ~~**Achtung**: kubuntu.org empfiehlt momentan auch das "Staging PPA"
 zusätzlich zu nutzen:~~
 
-</p>
+
 *deb <http://ppa.launchpad.net/kubuntu-ppa/staging/ubuntu> jaunty main*
 
-</p>
+
 Die Probleme sind in den Backports behoben. Wer das Staging-PPA
 eingebunden hat, sollte es schellstmöglich wieder entfernen.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0") diskutiert werden.
 
-</p>
+
 

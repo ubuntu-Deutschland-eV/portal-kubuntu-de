@@ -10,10 +10,10 @@ herzlich eingeladen. Über den Termin wird noch
 [Themen](http://wiki.kubuntu-de.org/Meetings:2013-02) kann noch
 erweitert werden.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0) diskutiert
 werden.
 
-</p>
+
 <!--break--><!--break-->

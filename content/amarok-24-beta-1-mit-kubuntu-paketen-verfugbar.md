@@ -19,14 +19,14 @@ Informationen und Covern direkt in den Meta-Feldern der Dateien. Das
 Amarok-Team bittet insbesondere dort um Tests und Fehlerberichten bei
 auftretenden Rroblemen.
 
-</p>
+
 Sowohl für diese Version als auch für die stabile Variante wird neben
 Amarok über das untenstehende Repository auch
 [KDE](http://www.kde.org "http://www.kde.org") SC 4.6 Beta 1
 installiert. Es ist somit Vorsicht geboten und auf Produktivsystemen
 unbedingt von der Aktualisierung abzusehen.
 
-</p>
+
 <!--break--><!--break-->
 
 Fehler der Paketierung sollen gegen [kubuntu-ppa im
@@ -34,20 +34,20 @@ Launchpad](https://bugs.launchpad.net/kubuntu-ppa "https://bugs.launchpad.net/ku
 gemeldet werden, Probleme mit der Software selbst im [KDE
 Bugtracker](http://bugs.kde.org "http://bugs.kde.org").
 
-</p>
+
 Für Maverick befinden sich die Pakete im Kubuntu Beta PPA. Das
 Repository kann mittels
 
-</p>
+
 **sudo add-apt-repository ppa:kubuntu-ppa/ppa**
 
-</p>
+
 hinzugefügt werden.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

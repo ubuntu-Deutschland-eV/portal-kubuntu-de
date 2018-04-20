@@ -15,14 +15,14 @@ Intrepid Ibex bietet die englischsprachige
 neueste Variante aktualisieren, eine Anleitung hierzu kann in unserem
 [Wiki](http://wiki.kubuntu-de.org/Installation/Upgrade/8.10_auf_9.04 "http://wiki.kubuntu-de.org/Installation/Upgrade/8.10_auf_9.04") gefunden werden.
 
-</p>
+
 Freuen kann man sich auch auf ein Interview mit dem Kubuntu Entwickler
 Jonathan "JontheEchidna" Thomas, welches wir passend zur Freigabe der
 finalen Version veröffentlichen werden. Natürlich laden wir auch wieder
 zu Diskussionen über die neue Version in unserem
 [Forum](http://forum.kubuntu-de.org "http://forum.kubuntu-de.org") und in unserem IRC-Kanal \#kubuntu-de-offtopic auf Freenode ein.
 
-</p>
+
 <!--break--><!--break-->
 
 Wie üblich bitten die Entwickler um
@@ -31,9 +31,9 @@ Wie üblich bitten die Entwickler um
 wir im IRC-Kanal \#kubuntu-de-bugs gerne zur Seite, um Fehlerberichte zu
 erstellen.
 
-</p>
+
 **Achtung**: Kubuntu 9.04 ist immer noch in einem Entwicklungsstadium
 und ist **nicht** für Produktivsysteme geeignet.
 
-</p>
+
 

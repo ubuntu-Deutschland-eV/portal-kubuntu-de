@@ -11,7 +11,7 @@ eingespielt und uns diese Neujahrsüberraschung beschert. digiKam
 ermöglicht den Bilder-Transfer von Digitalkameras, elementare
 Bildbearbeitung, Verwaltung und auch Veröffentlichung in einem.
 
-</p>
+
 Das ofenfrische digiKam bietet einiges an neuen Funktionen. Ein
 First-Run-Assistant hilft beim erstmaligen Einrichten. Tag-Filter,
 Datenbank-Statistik, Metadaten-Vorlagen und Batch-Queue-Manager sind
@@ -24,17 +24,17 @@ als ein Blick Wert, zumal auch wieder unzählige Bugs gefixt wurden.
 Nähere Details zum Release bietet die [offizielle
 Ankündigung](http://www.digikam.org/drupal/node/491 "http://www.digikam.org/drupal/node/491").
 
-</p>
+
 <!--break--><!--break-->
 
 In unserem Wiki befindet sich eine Anleitung zur [Installation von
 digiKam 1.0 unter Kubuntu
 9.10](http://wiki.kubuntu-de.org/Installation/Upgrade/DigiKam1.0 "http://wiki.kubuntu-de.org/Installation/Upgrade/DigiKam1.0").
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?topic=13267.0 "http://forum.kubuntu-de.org/index.php?topic=13267.0")
 diskutiert werden.
 
-</p>
+
 

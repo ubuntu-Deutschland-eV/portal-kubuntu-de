@@ -10,7 +10,7 @@ soll im August erscheinen. Seit der ersten Beta vor etwa 2 Wochen wurden
 Veröffentlichung wird weiterhin viel getestet um ein grundsolides KDE SC
 4.5 ausliefern zu können.
 
-</p>
+
 Die Kubuntu-Pakete können aus dem Beta-PPA-Repository installiert
 werden. Im Wiki liegt eine [Anleitung zur Installation von KDE SC 4.5.
 Beta
@@ -19,12 +19,12 @@ vor. **Achtung: Es handelt sich hierbei um eine Entwicklerversion, die
 nicht für den produktiven Einsatz gedacht ist.** Die nächste produktiv
 nutzbare KDE-Version wird KDE SC 4.5 werden.
 
-</p>
+
 <!--break--><!--break-->
 
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

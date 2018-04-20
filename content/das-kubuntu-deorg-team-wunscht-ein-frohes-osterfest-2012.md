@@ -8,10 +8,10 @@ Das Team von Kubuntu-de.org wünscht allen Usern ein frohes und
 gesegnetes Osterfest sowie viel Spaß beim Suchen der Ostereier. Am
 26.04.2012 erscheint die nächste LTS-Version von Kubuntu.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?topic=16438.msg106935#new)
 diskutiert werden.
 
-</p>
+
 <!--break--><!--break-->

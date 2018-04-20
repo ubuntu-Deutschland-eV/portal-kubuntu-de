@@ -13,7 +13,7 @@ for October 2007. kubuntu-de.org held an interview with Jonathan
 Riddell, project lead of kubuntu about KDE 4 and future kubuntu
 releases.
 
-</p>
+
 **q:** Jonathan, many kubuntu users seem to be eager to get KDE 4 a soon
 as possible. Can you give us a look behind the set?''  
 
@@ -37,7 +37,7 @@ However they're very unstable, and not usable for every day work at all.
  Also the packages do not currently have any dependencies on them, so
 you need to install these manually.
 
-</p>
+
 **q:** Kubuntu 6.10 contains packages for KDE 4 for developers. Do you
 think there will be soon test versions for common users, too?  
 
@@ -53,14 +53,14 @@ and decibel libraries which are now needed by KDE 4.
 Users are welcome to try out the packages but I really don't recommend
 them for use except as a good way to find bugs and start fixing them.
 
-</p>
+
 **q:** Recently, there were reports in the press that sounded like the
 publication  or discussion of milestones for a release plan. When do
 you  
 
 estimate KDE 4 might be released?
 
-</p>
+
 **Jonathan Riddell:** Previously I had hoped for last October which
 would be KDE's 10th birthday.  I was obviously well off, so maybe I
 should guess a release around our 11th birthday  :)  
@@ -71,23 +71,23 @@ already for Kubuntu with Ubiquity and other apps now using Qt 4 but many
 apps such as Adept and Guidance depend on KDE functionality so it is not
 possible to port them until KDE 4 becomes more stable.
 
-</p>
+
 **q:** When KDE 4 will be released, which Kubuntu would likely contain
 it, 7.10 or rather 8.04?
 
-</p>
+
 **Jonathan Riddell:** I suspect KDE 4 won't be stable enough to be
 default desktop for 7.10.  8.04 it should be but it's possible that 8.04
 will be our next LTS release and I don't want our first KDE 4 as default
 release to also be an LTS release.  Either way we'll have packages and
 ISOs of KDE 4 available as soon as sanely possible for everyone to try.
 
-</p>
+
 Thank you for the Interview
 
-</p>
+
 a german version is
 [here](http://www.kubuntu-de.org/nachrichten/software/kde/kde4-und-kubuntu)
 
-</p>
+
 

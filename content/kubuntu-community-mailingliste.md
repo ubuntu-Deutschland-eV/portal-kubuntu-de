@@ -9,5 +9,5 @@ Neben IRC und Forum haben wir nun auch eine
 effektiver gestalten zu können. Wir hoffen auf viele aktive Mitglieder
 und zahlreiche Beiträge.
 
-</p>
+
 

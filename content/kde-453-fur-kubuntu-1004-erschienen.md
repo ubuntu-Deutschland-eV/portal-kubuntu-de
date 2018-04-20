@@ -11,7 +11,7 @@ Optimierungen. Eine Verbesserung ist KSharedDataCache wodurch das Laden
 der Icons beschleunigt werden sollen. Außerdem wurden die
 Geschwindigkeit von Kwin optimiert.
 
-</p>
+
 Fehler in der Paketierung sollten gegen kubuntu-ppa im
 [Launchpad](https://bugs.launchpad.net/kubuntu-ppa "https://bugs.launchpad.net/kubuntu-ppa")
 gemeldet werden. Fehler in der Software im
@@ -22,15 +22,15 @@ beziehen. In Kubuntu 10.10 ist die Version schon länger verfügbar. Man
 kann Kubuntu 4.5.3 hier nutzen, indem man das [Updates PPA
 aktiviert](http://wiki.kubuntu-de.org/Konfiguration/Programme_installieren/Paketmanagement/Paketquellen/Lucid/UpdatesPPA "http://wiki.kubuntu-de.org/Konfiguration/Programme_installieren/Paketmanagement/Paketquellen/Lucid/UpdatesPPA").
 
-</p>
+
 <!--break--><!--break-->
 
 Dank an Markus Zimmermann für das Erstellen der Pakete.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

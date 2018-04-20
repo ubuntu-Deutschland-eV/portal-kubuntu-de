@@ -9,7 +9,7 @@ conference and exhibition for Free Software, Linux, and Open Source.
 This years premiere was organised in partnership with the "Messe Berlin"
 (Berlin's exhibition organisation).
 
-</p>
+
 <div align="center">
 
 ![](http://www.kubuntu-de.org/files/LT07/LinuxTag2007_001_1.jpg)
@@ -18,7 +18,7 @@ This years premiere was organised in partnership with the "Messe Berlin"
 
 </div>
 
-</p>
+
 In building 12, our members from the German speaking Kubuntu community
 shared a booth together with the Ubuntu and Edubuntu communities as well
 as the Linux4Afrika project. We presented to the visitors probably the
@@ -32,7 +32,7 @@ that, we had no choice, but to distribute Edgy CDs with a printed notice
 helping the recipients to find the website for the upgrade to Feisty.
 Nevertheless, they were taken with pleasure by the visitors.
 
-</p>
+
 <!--break--><!--break-->
 
 Not only 80 more projects presented themselves at the LinuxTag, but also
@@ -42,7 +42,7 @@ showed QT4.3 and the Greenphone which was given away in a lottery.
 During the whole period of the exhibition visitors had the opportunity
 to participate in a multitude of workshops and presentations,
 
-</p>
+
 <div align="center">
 
 ![](http://www.kubuntu-de.org/files/LT07/LinuxTag2007_012_1.jpg) ![](http://www.kubuntu-de.org/files/LT07/LinuxTag2007_041_1.jpg)
@@ -50,7 +50,7 @@ to participate in a multitude of workshops and presentations,
 
 </div>
 
-</p>
+
 Sebastian Kuegler (sebas) gave an impressive presentation about KDE 4.
 He explained, how it will be possible to run QT3 based software on the
 KDE4 desktop. He also showed that it will be possible to spell check
@@ -61,14 +61,14 @@ new Amorak 2.0. Especially high praises among the multitude of workshops
 and presentations was given to a report about the LiMux project, which
 is the Linux migration for Munich's City Council and Administration.
 
-</p>
+
 The last day of the exhibition had the slogan "Ubuntu Love Day".
 Sebastian Kuegler and Paul Sladen demonstrated the installation of
 (K)Ubuntu. Community manager Jono Bacon presented Ubuntu and our
 community. Malcolm Yates and Thorsten Spindler were among others who
 gave presentations.
 
-</p>
+
 With all the technical information, socialising was not forgotten. Part
 of our team met, partly the first time in person, already on the day
 before the opening of the LinuxTag. On May 30th, we roamed together with
@@ -80,7 +80,7 @@ day, Ubuntu-Berlin organised an Ubuntu barbecue in the venue called
 "Kulturfabrik". It was an amazing conclusion to a the overall impressive
 conference.
 
-</p>
+
 <div align="center">
 
 ![](http://www.kubuntu-de.org/files/LT07/LinuxTag2007_072_1.jpg)
@@ -89,7 +89,7 @@ conference.
 
 </div>
 
-</p>
+
 In conclusion, the LinuxTag 2007 was an absolute success. The interest
 into Kubuntu was amazingly high. As it is confirmed on the official
 website of the LinuxTag, 9600 visitors came. According to a survey, 94%
@@ -98,10 +98,10 @@ of them were satisfied with what was presented to them. LinuxTag and
 event will occur again in Germany's capital in 2008, as 90% of the
 people surveyed indicated that they would return for this event.
 
-</p>
+
 A huge thank you to the LinuxTag, the "Messe Berlin" and all who have us
 supported in such tremendous fashion. More photographs from the LinuxTag
 can be found at <http://www.kubuntu-de.org/bilder/events/linuxtag-2007>,
 
-</p>
+
 

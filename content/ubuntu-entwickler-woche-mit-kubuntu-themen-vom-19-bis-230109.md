@@ -15,7 +15,7 @@ Die Eröffnungsveranstaltung wird in den Sprachen Deutsch, Englisch,
 Französisch, Italienisch und Spanisch gehalten, alle übrigen Sitzungen
 werden in englischer Sprache geführt.
 
-</p>
+
 Veranstaltungsort ist der Kanal \#ubuntu-classroom im IRC-Netzwerk
 Freenode. Die Eröffnungsveranstaltung in deutscher Sprache wird aus nahe
 liegenden Gründen allerdings im Kanal \#ubuntu-classroom-de durchgeführt
@@ -23,7 +23,7 @@ werden. Die Veranstaltung beginnt täglich jeweils um 17:00 MEZ
 (entspricht 16 Uhr UTC), die letzte Einheit endet jeweils um 22 Uhr (21
 Uhr UTC).
 
-</p>
+
 <!--break--><!--break-->
 
 Am Montag stehen neben der bereits erwähnten Eröffnungsveranstaltung die
@@ -47,7 +47,7 @@ Am letzen Tag werden schließlich noch Testen von Paketen mit piuparts,
 python-apt, Bazaar und Launchpad, Paketierung von Kernel-Modulen mit
 DKMS sowie Xubuntu besprochen.
 
-</p>
+
 Der [ausführliche
 Zeitplan](https://wiki.ubuntu.com/UbuntuDeveloperWeek "https://wiki.ubuntu.com/UbuntuDeveloperWeek") mit [genaueren
 Beschreibungen](https://wiki.ubuntu.com/UbuntuDeveloperWeek/Sessions "https://wiki.ubuntu.com/UbuntuDeveloperWeek/Sessions") zu den einzelnen Sitzungen steht im Ubuntu Wiki zur Verfügung.
@@ -55,5 +55,5 @@ Wer nicht weiß wie man in das IRC kommt, sollte diese [Anleitung in
 unserem
 Wiki](http://wiki.kubuntu-de.org/Team:IRC "http://wiki.kubuntu-de.org/Team:IRC") befolgen.
 
-</p>
+
 

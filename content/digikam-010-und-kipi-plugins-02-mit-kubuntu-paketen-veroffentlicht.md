@@ -14,14 +14,14 @@ wurde auch die Datenbankanbindung komplett auf Qt4-SQL umgestellt.
 Außerdem wurden alle X11-Bibliotheksabhängigkeiten entfernt, wodurch die
 Software jetzt auch auf Windows und MacOS X portiert werden kann.
 
-</p>
+
 Neben digiKam wurde, nahezu zeitgleich, auch mit der neuesten Version
 von den Kipi-Plugins 0.20 das KDE4-Zeitalter eingeläutet. Bei den neuen
 Funktionen ist neben den KDE4-/Qt4-Umstellungen das neue Facebook-Plugin
 zu erwähnen, womit es möglich ist, direkt Fotos auf Facebook zu
 exportieren. Auch das SmugMug- und das Flickr-Plugin wurden erweitert.
 
-</p>
+
 <!--break--><!--break-->
 
 In beiden Releases wurden neben neuen Funktionen natürlich auch viele
@@ -30,22 +30,22 @@ und Informationen zu den Versionen, können auf den Projektseiten für
 [digiKam](http://www.digikam.org/drupal/node/434 "http://www.digikam.org/drupal/node/434") bzw.
 [Kipi-Plugins](http://www.digikam.org/drupal/node/433 "http://www.digikam.org/drupal/node/433") eingesehen werden.
 
-</p>
+
 Die neuen Versionen von digiKam und den Kipi-Plugins können unter Jaunty
 wie üblich mit
 
-</p>
+
      sudo apt-get update
      sudo apt-get upgrade
 
 aktualisiert werden, vorausgesetzt, dass die Pakete digiKam und
 Kipi-Plugins bereits installiert sind. Die Pakete können mittels
 
-</p>
+
      sudo apt-get install digikam kipi-plugins
 
 installiert werden. **Jaunty befindet im Moment noch in einer
 Entwicklerversion und ist nicht für den produktiven Einsatz geeignet!**
 
-</p>
+
 

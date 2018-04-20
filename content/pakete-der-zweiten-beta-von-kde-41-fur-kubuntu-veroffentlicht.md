@@ -13,25 +13,25 @@ einzutragen, damit die endgültige Veröffentlichung möglichst stabil
 wird, denn KDE 4.1 soll auch für den ganz normalen Benutzer geeignet
 sein, der bislang auf KDE 3.5 vertraut hat.
 
-</p>
+
 [![](http://wiki.kubuntu-de.org/images/Kde-4.1-beta2-gwenview-klein.png)](http://wiki.kubuntu-de.org/images/Kde-4.1-beta2-gwenview.png)[![](http://wiki.kubuntu-de.org/images/Kde-4.1-beta2-dolphin-klein.png)](http://wiki.kubuntu-de.org/images/Kde-4.1-beta2-dolphin.png)[![](http://wiki.kubuntu-de.org/images/Kde-4.1-beta2-games-klein.png)](http://wiki.kubuntu-de.org/images/Kde-4.1-beta2-games.png)
 
-</p>
+
 **![](http://wiki.kubuntu-de.org/images/Dialog-warning-22.png)Hinweis:**
 KDE 4.1 Beta 2 ist eine Entwickler- und Testversion und richtet sich an
 diesen Personenkreis, damit noch vorhandene Fehler gefunden und
 beseitigt werden können. Für eine Nutzung auf Produktivsystemen ist
 diese Veröffentlichung nicht vorgesehen!
 
-</p>
+
 <!--break--><!--break-->
 
 []{#Highlights_von_KDE_4.1_Beta_2}
 
-</p>
+
 ### [ Highlights von KDE 4.1 Beta 2]{.mw-headline}
 
-</p>
+
 Seit nunmehr einem Monat widmen sich die Entwickler von KDE nur noch der
 Stabilisierung und Fehlerbereinigung, weshalb keine neuen Funktionen
 seit der letzten Testversion eingeflossen sind. Allerdings hat sich seit
@@ -55,13 +55,13 @@ bereits komplett in Python geschrieben. Eine vollständige Übersicht über
 die neuen Funktionen von KDE 4.1 bietet die [Techbase von
 KDE](http://techbase.kde.org/Schedules/KDE4/4.1_Release_Goals "http://techbase.kde.org/Schedules/KDE4/4.1_Release_Goals") (Engl.).
 
-</p>
+
 []{#KDE_4.1_Beta_2_unter_Kubuntu_8.04_Hardy_Heron_installieren}
 
-</p>
+
 ### [ KDE 4.1 Beta 2 unter Kubuntu 8.04 Hardy Heron installieren]{.mw-headline}
 
-</p>
+
 Pakete für Kubuntu Hardy Heron sind verfügbar über das persönliche
 Paketarchiv der Kubuntu Entwickler. Um die Pakete zu installieren muss
 die Zeile "deb <http://ppa.launchpad.net/kubuntu-members-kde4/ubuntu>
@@ -72,7 +72,7 @@ installiert hatte, muss erst das Paket "kubuntu-kde4-desktop"
 installieren. Da einige Pakete noch nicht vollständig gebaut wurden,
 empfiehlt es sich in den nächsten Tagen häufiger nach Updates zu sehen.
 
-</p>
+
 Da KDE 4.1 Beta 2 eine Testversion ist, sind Fehler zu erwarten! Sie ist
 nicht für den produktiven Einsatz gedacht. Etwaige Probleme, die mit den
 Paketen zusammenhängen könnten, sollten im IRC Kanal \#kubuntu-kde4 auf
@@ -82,5 +82,5 @@ Fehlerberichte sollten in den [Bugtracker von
 KDE](http://bugs.kde.org/ "http://bugs.kde.org/")
 eingetragen werden.
 
-</p>
+
 

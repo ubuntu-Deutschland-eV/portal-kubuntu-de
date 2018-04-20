@@ -13,17 +13,17 @@ können der [englischsprachigen
 Veröffentlichungsankündigung](http://www.kde.org/announcements/changelogs/changelog4_4_3to4_4_4.php "http://www.kde.org/announcements/changelogs/changelog4_4_3to4_4_4.php")
 entnommen werden.
 
-</p>
+
 Die Kubuntu-Pakete können über das Updates PPA installiert werden. Eine
 Anleitung hierfür befindet sich in unserem
 [Wiki](http://wiki.kubuntu-de.org/Installation/Upgrade/KDE4.4.4 "http://wiki.kubuntu-de.org/Installation/Upgrade/KDE4.4.4").
 
-</p>
+
 <!--break--><!--break-->
 
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

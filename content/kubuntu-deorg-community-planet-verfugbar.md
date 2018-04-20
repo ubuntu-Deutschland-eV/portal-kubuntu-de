@@ -20,5 +20,5 @@ dieser
 [Anleitung](http://www.kubuntu-de.org/hackergotchi-mit-gimp-erstellen)
 erstellt werden kann.
 
-</p>
+
 <!--break--><!--break-->

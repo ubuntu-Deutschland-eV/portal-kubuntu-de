@@ -11,7 +11,7 @@ ist (z.B. standardmäßig in der linken oberen Ecke "Fenster zeigen - Alle
 Arbeitsflächen"), so fängt sie an, blau zu leuchten. Je näher der Zeiger
 der Ecke kommt, desto intensiver.
 
-</p>
+
 Das ist nützlich, um neuen User\_innen deutlich zu machen, dass das
 Bewegen des Mauszeigers in eine Bildschirmecke eine Auswirkung haben
 wird. Erfahrene Nutzer\_innen möchten das blaue Glühen vielleicht
@@ -21,14 +21,14 @@ Fensterverwaltung …". Wechsle auf das Tab "Alle Effekte" und such nach
 dem Arbeitsflächeneffekt "Bildschirmkante". Häkchen entfernen, Klick auf
 "Anwenden", fertig.
 
-</p>
+
 Zur Erinnerung: Die Aktionen lassen sich den Bildschirmecken im selben
 Dialog zuordnen. Wähle dazu auf der linken Seite "Bildschirmränder".
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?topic=17315.0) diskutiert
 werden.
 
-</p>
+
 

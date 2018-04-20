@@ -15,14 +15,14 @@ Weiterentwicklung immer schwieriger und schwerfälliger wurde. Zudem
 konnte auf diese Weise direkt für KDE 4 entwickelt werden, was einer
 Portierung der Version 1.4 vorgezogen wurde.
 
-</p>
+
 Neben der zuvor erwähnten neu gestalteten Benutzeroberfläche sind u.a.
 weitere Fähigkeiten das Framework für Internetdienste, eine überholte
 Skript-API und Plugin-Unterstützung. Erwähnenswert ist natürlich auch
 der Gebrauch von KDE 4 eigenen Technologien wie Solid, Phonon und
 Plasma.
 
-</p>
+
 <!--break--><!--break-->
 
 Durch die jetzige Aufteilung der Oberfläche können noch mehr
@@ -41,7 +41,7 @@ werden, die den festgelegten Kriterien entsprechen. Alle Neuerungen
 können der [offiziellen
 Ankündigung](http://amarok.kde.org/en/releases/2.0 "http://amarok.kde.org/en/releases/2.0") entnommen werden.
 
-</p>
+
 Ein besonderes Augenmerk legen die Entwickler auf die Feststellung, dass
 diese Veröffentlichung von Amarok 2.0 ein Anfang und kein Endpunkt ist.
 Der Mediaplayer wird wie auch KDE 4 noch intensiv weiterentwickelt. Dies
@@ -57,35 +57,35 @@ Menge Skripte, welche Amarok bereichern. Die Anbindung von tragbaren
 Medienplayern wird erst nach Arbeiten an den unterliegenden
 KDE-Schichten, somit in einer späteren Freigabe, möglich sein.
 
-</p>
+
   
 
-</p>
+
 []{#Installation}  
 
 ### [ Installation]{.mw-headline}
 
-</p>
+
 **Hinweis:** Wer bereits eine Vorversion von Amarok 2 installiert hat,
 erhält die neue Version automatisch mit den Systemaktualisierungen,
 sofern das entsprechende PPA freigeschaltet ist.
 
-</p>
+
 1.  Man muss die Zeile **deb
     <http://ppa.launchpad.net/kubuntu-members-kde4/ubuntu> intrepid
     main** der /etc/apt/sources.list hinzufügen und danach folgende
     Kommandos ausführen:
-    </p>
-    <p>
-2.  </p>
+    
+    
+2.  
         sudo apt-get update
 
-3.  </p>
+3.  
         sudo apt-get install amarok-kde4
 
-</p>
+
 **Warnung:** Die Installation von amarok-kde4 entfernt die alte KDE 3
 Version (1.4.10)
 
-</p>
+
 

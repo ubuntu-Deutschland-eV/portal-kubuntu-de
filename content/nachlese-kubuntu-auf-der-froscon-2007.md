@@ -11,7 +11,7 @@ Messeauftritten auch ein Stand von kubuntu-de.org nicht fehlen.
 Pünktlich am frühen Morgen versammelten sich die ersten von uns um den
 Stand aufzubauen.
 
-</p>
+
 <div align="center">
 
 ![](http://www.kubuntu-de.org/files/FrOSCon07/01.jpg.png)
@@ -20,7 +20,7 @@ Stand aufzubauen.
 
 </div>
 
-</p>
+
 Erfreulicherweise befanden wir uns direkt neben KDE und Amarok, so dass
 wir die Höhepunkte der Qt Szene gemeinsam präsentieren konnten. Als
 einzigen Gast in "unserem Sektor" des Veranstaltungsgebäudes durften wir
@@ -28,7 +28,7 @@ das musikalische Projekt Jad begrüßen, so dass unsere Präsentation, von
 der ein oder anderen Rückkoppelung abgesehen, auch noch die richtige
 Atmosphäre bekam.
 
-</p>
+
 <!--break--><!--break-->
 
 Die Umgebung der FrOSCon ist offensichtlich eine Gegend, in denen
@@ -38,7 +38,7 @@ auch einen guten Draht zu den Organisatoren entwickeln. An dieser Stelle
 danken wir datten alias Thomas Erdmann und motti, auch bekannt als Sven
 Herfs, für ihren Einsatz vor Ort auch schon vor der Veranstaltung.
 
-</p>
+
 Die von Canonical gesponsorten Werbeposter sind nach dem Linux Tag in
 Berlin auf die Reise zur Akademy nach Schottland gegangen. Wir konnten
 wohl unsere Sorge darum kaum verbergen, dass wir völlig ohne unser
@@ -50,7 +50,7 @@ in die Vollen greifen, sondern auch mit vielen weitergegebenen CDs
 (garniert mit unserer Visitenkarte) auf Kubuntu, Kubuntu-de.org und KDE
 aufmerksam machen.
 
-</p>
+
 Aus Sicht eines Standbetreuers kann man mit absoluter Sicherheit
 behaupten, dass unser Stand zu den schönsten gehört hat. Das mag
 natürlich auch an den zahlreichen schicken KDE Fan Artikeln auf dem
@@ -63,7 +63,7 @@ gegenüber der Sidux Stand zu finden war, an dem unsere Webcam aufgebaut
 werden konnte. Wir haben uns natürlich nicht Lumpen lassen und ihre
 Kamera bei uns aufgebaut.
 
-</p>
+
 <div align="center">
 
 ![](http://www.kubuntu-de.org/files/FrOSCon07/15.jpg.png)
@@ -72,7 +72,7 @@ Kamera bei uns aufgebaut.
 
 </div>
 
-</p>
+
 Wir haben uns trotz aller Spezialisierung auf Kubuntu dazu entschieden
 auch Ubuntu CDs an die Massen weiter zu reichen, denn am Ende stammen
 wir ja doch aus dem selben Haus. Und gerade diese Tatsache hat zu vielen
@@ -85,7 +85,7 @@ der freien Software und den Vorteil von Diskussion und Vielfalt in der
 Entwicklung näher zu bringen. Es kann mit Gewissheit behauptet werden,
 dass der ein oder andere neue \*ubuntu Nutzer gewonnen werden konnte.
 
-</p>
+
 Weil die Entwickler von KDE mit zahlreichen interessanten Vorträgen
 betraut waren, u.a. hat sebas (Sebastian Kügler) einen Einblick in die
 Entwicklung der neuen KDE Version gegeben, und deshalb nur bedingt
@@ -100,7 +100,7 @@ um Vorgängerversion und den geplanten Nachfolger gleichzeitig den
 Besuchern zum Anschauen und Ausprobieren zur Verfügung zu stellen. Wir
 bedanken uns für die Unterstützung bei Thomas Braun.
 
-</p>
+
 Erst der Geruch nach Würstchen und Kölsch, der das Social Event unter
 dem Motto "Kölsch 0,2, Web 2.0", am Samstag Abend einleitete lies das
 Interesse langsam erlahmen. Auch wir mussten einsehen, dass wir bei
@@ -109,7 +109,7 @@ Das Wolfsgeheul der Amarok Crew lockte uns dann auch tatsächlich endlich
 nach draußen zu einer sehr gelungenen Open Air Party, die im Hinblick
 auf den nächsten Tag viel zu spät ein Ende gefunden hat.
 
-</p>
+
 Der folgende Sonntag fing daher auch viel zu zeitig an und es stand zu
 befürchten, dass eine lahme und verkaterte Gemeinschaft von KDE Nutzern
 eine schlechte Vorstellung abliefern würde. Die Rettung nahte dann
@@ -121,10 +121,10 @@ anregender "Club Mate". Man muss den Organisatoren und Helfern der
 FrOSCon für diese familiäre und dennoch interessante Veranstaltung ein
 großes Kompliment machen.
 
-</p>
+
 Kubuntu kommt sicherlich auch im nächsten Jahr wieder.  
 
   
 
-</p>
+
 

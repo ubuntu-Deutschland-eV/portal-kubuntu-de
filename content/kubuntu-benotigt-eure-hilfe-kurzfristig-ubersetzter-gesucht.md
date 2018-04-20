@@ -9,11 +9,11 @@ nicht übersetzt. Jeder weiss sicher noch wie schwierig der Anfang mit
 Kubuntu war, deshalb brauchen wir jede Hilfe um die Dokumentation von
 Kubuntu im *khelpcenter*, der Hilfe im kMenu, zu gestalten.
 
-</p>
+
 Das geht auch durchaus kurzfristig - z.B. an diesem Wochenende oder
 Anfang der Woche.
 
-</p>
+
 <!--break--><!--break-->
 
 Wer helfen will benötigt einen Launchpad Account. Die Aufgabenverteilung
@@ -26,22 +26,22 @@ Informationen dazu im Forum oder im IRC. Wir freuen uns über Hilfe im
 Endspurt. Nächste Deadline ist der 15. April damit die Übersetzung noch
 rechtzeitig zum 1. Update für Lucid Lynx bereit gestellt werden kann.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?topic=13639 "http://forum.kubuntu-de.org/index.php?topic=13639")
 diskutiert werden.
 
-</p>
+
 [![Bearbeitungsstand beim Schreiben dieser Newsmeldung. Rot=Nicht
 übersetzt Grün=Keine Änderung gegenüber der Vorversion. Aktuell hier:
 https://translations.launchpad.net/ubuntu/lucid/+lang/de/+index?start=825&batch=75](http://wiki.kubuntu-de.org/images/2010-04-10launchpad_translation_needed.jpg){width="330"
 height="482"}](http://wiki.kubuntu-de.org/images/2010-04-10launchpad_translation_needed.jpg "Bearbeitungsstand beim Schreiben dieser Newsmeldung. Rot=Nicht übersetzt Grün=Keine Änderung gegenüber der Vorversion. Aktuell hier: https://translations.launchpad.net/ubuntu/lucid/+lang/de/+index?start=825&batch=75")
 
-</p>
+
 *Bild:* Bearbeitungsstand beim Schreiben dieser Newsmeldung. Rot=Nicht
 übersetzt Grün=Keine Änderung gegenüber der Vorversion. Aktueller Stand
 ist
 [hier](https://translations.launchpad.net/ubuntu/lucid/+lang/de/+index?start=825&batch=75 "https://translations.launchpad.net/ubuntu/lucid/+lang/de/+index?start=825&batch=75").
 
-</p>
+
 

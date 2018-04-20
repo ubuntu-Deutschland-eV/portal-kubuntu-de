@@ -15,7 +15,7 @@ Benachrichtigungsbereich und zusätzlich kann Konqueror nun mit WebKit
 betrieben werden. Allerdings fehlt, wie schon angekündigt, die neue
 Version von KDE-PIM, welche mit Version 4.5.1 nachgereicht werden soll.
 
-</p>
+
 Fehler in den Paketen für Lucid LTS sollten gegen
 [kubuntu-ppa](https://bugs.edge.launchpad.net/kubuntu-ppa "https://bugs.edge.launchpad.net/kubuntu-ppa")
 im Launchpad gemeldet werden, Fehler der Software direkt im [KDE
@@ -23,25 +23,25 @@ Bugtracker](http://bugs.kde.org/ "http://bugs.kde.org/"). Nutzer der
 Kubuntu Version 10.04 LTS können die Pakete über das Kubuntu Backports
 PPA beziehen. Die entsprechende Quelle fügt man mit:
 
-</p>
+
 <!--break--><!--break-->
 
 `sudo apt-add-repository ppa:kubuntu-ppa/backports`
 
-</p>
+
 hinzu.
 
-</p>
+
 KDE SC 4.5 Pakete sind außerdem für die aktuelle Entwicklerversion
 Maverick verfügbar.
 
-</p>
+
 Ein Dank geht an alle Ninjas für das Paketieren.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

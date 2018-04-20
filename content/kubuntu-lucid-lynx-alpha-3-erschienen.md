@@ -15,7 +15,7 @@ Ausserdem wird mit Kubuntu 10.04 auch der Kubuntu Netbook Remix
 offiziell freigegeben. Weiterhin wird noch an einer besseren KDE
 Integration des Firefox gearbeitet.
 
-</p>
+
 Die CD-Abbilder mit [Kubuntu 10.04 Alpha 3 können
 heruntergeladen](http://cdimage.ubuntu.com/kubuntu/releases/lucid/alpha-3/ "http://cdimage.ubuntu.com/kubuntu/releases/lucid/alpha-3/")
 werden. Die Entwickler bitten darum, für auftretende Fehler
@@ -27,12 +27,12 @@ Wiki](https://wiki.kubuntu.org/LucidLynx/Alpha3/Kubuntu "https://wiki.kubuntu.or
 **Achtung dies ist eine Vorabversion und richtet sich an Tester. Diese
 Version ist nicht für den produktiven Einsatz geeignet.**
 
-</p>
+
 <!--break--><!--break-->
 
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

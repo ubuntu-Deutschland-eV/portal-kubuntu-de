@@ -18,5 +18,5 @@ unterschiedlichen Ubuntu-Projekte von Server bis Netbookremix. Das volle
 Programm der Ubuntu OpenWeek findet sich [in der
 Orginalankündigung](http://fridge.ubuntu.com/node/1702 "http://fridge.ubuntu.com/node/1702").
 
-</p>
+
 

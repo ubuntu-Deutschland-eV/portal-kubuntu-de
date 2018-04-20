@@ -11,7 +11,7 @@ und steht zum Download bereit. Von nun an werden Einstellungen des KDE 4
 Desktops im Ordner .kde gespeichert, womit eine Rückkehr zu KDE 3 nicht
 mehr ohne weiteres möglich sein wird.
 
-</p>
+
 Mit der fünften Alpha ist gleichzeitig der sogenannte "[Feature
 Freeze](https://wiki.ubuntu.com/FeatureFreeze)" in Kraft getreten. Es
 werden daher, bis auf eventuelle Ausnahmen, keine neuen Funktionen,
@@ -22,7 +22,7 @@ geschafft: Hier ist der Wechsel auf die Kernel Version 2.6.27 zu nennen
 und die neue Version von Xorg 7.4, die es ermöglichen soll, dass viele
 Nutzer keine xorg.conf mehr anpassen müssen.
 
-</p>
+
 <!--break--><!--break-->
 
 Aber auch auf dem Desktop hat sich einiges getan. KDE kommt in der neuen
@@ -41,18 +41,18 @@ kommt in der Version 3.0 Beta 1 zum Einsatz. Die
 Aktualisierungsbenachrichtung von Adept benutzt nun Apport, um
 automatisierte Fehlerberichte bei Abstürzen zu generieren.
 
-</p>
+
 Tester können sich die [aktuelle CD vom
 Hauptserver](https://wiki.kubuntu.org/IntrepidIbex/Alpha5/Kubuntu) oder
 einem der zahlreichen [Spiegelserver](http://wiki.ubuntu.com/Mirrors)
 herunterladen.
 
-</p>
+
 **![](http://wiki.kubuntu-de.org/images/Dialog-warning-22.png)Warnung:
 Kubuntu 8.10 Intrepid Ibex Alpha 5 ist eine reine Test- und
 Entwicklerversion. Sie ist AUF KEINEN FALL für den produktiven Einsatz
 gedacht, da Stabilität und Datensicherheit nicht garantiert werden
 können.**
 
-</p>
+
 

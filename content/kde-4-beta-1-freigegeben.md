@@ -18,17 +18,17 @@ einmal eindeutig davor gewarnt, ohne das nötige Know-How KDE 4 nutzen zu
 wollen. Auch diese Beta-Pakete sind weiter nur für Entwickler gedacht
 und eignen sich keinesfalls für den Einsatz auf einem Produktivsystem.
 
-</p>
+
 Die Pakete sind für 7.04 in
 [feisty-backports](https://help.ubuntu.com/community/UbuntuBackports)
 verfügbar und können mit dem Adept Manager installiert werden. Dazu
 wählt man unter ''Paketquellen verwalten'' auf dem Reiter ''Updates''
 die Auswahlbox ''Nicht unterstützte Aktualisierungen'' an.
 
-</p>
+
 ### Anleitung:
 
-</p>
+
 -   Vergewissert euch, dass ihr
     [feisty-backports](https://help.ubuntu.com/community/UbuntuBackports)
     aktiviert habt oder Gutsy läuft.
@@ -36,14 +36,14 @@ die Auswahlbox ''Nicht unterstützte Aktualisierungen'' an.
 -   Diese KDE-4-Pakete werden nach /usr/lib/kde4 installiert, führt
     deshalb folgende Befehle aus:
 
-    </p>
+    
     -   export LD\_LIBRARY\_PATH=/usr/lib/kde4/lib
     -   export KDEDIR=/usr/lib/kde4
     -   export PATH=/usr/lib/kde4/bin:\$PATH
     -   export KDEHOME=\~/.kde4
 
-    </p>
-    <p>
+    
+    
 -   Um zu vermeiden, für eine vollwertige Sitzung einen zweiten X-Server
     starten zu müssen, installiert xserver-xephyr und startet *Xephyr
     :1; export DISPLAY=:1; xterm*, führt dann *startkde* im Xephyr-xterm
@@ -55,23 +55,23 @@ die Auswahlbox ''Nicht unterstützte Aktualisierungen'' an.
     Anfang der /usr/lib/kde4/bin/startkde ein und startet im KDM eine
     neue Sitzung mit KDE 4.
 
-</p>
+
 Plasma, die neue Desktopoberfläche, scheint zu funktionieren und läuft
 ohne Probleme über kdesktop, allerdings fehlt es noch an einigen
 Funktionen, so dass Kicker noch nicht ersetzt wurde.
 
-</p>
+
 Weiterführende Links:
 
-</p>
+
 -   Vorlage
     (<http://wiki.kubuntu-de.org/Team/Redaktion/Nachrichten/02-08-07_KDE_4_Beta_1>)
 -   Offizielles Announcement
     (<http://www.kde.org/announcements/announce-4.0-beta1.php>)
 -   ProLinux (<http://www.kde.org/announcements/announce-4.0-beta1.php>)
 
-</p>
+
  
 
-</p>
+
 

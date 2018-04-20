@@ -12,18 +12,18 @@ diesem Monat anstehenden Veröffentlichung der nächsten \*ubuntu Version
 Ubuntu 7.10 sind allerdings auch zahlreiche weitere interessante Artikel
 geboten. u.a.:
 
-</p>
+
 -   Deutsche Ubuntu-Suchmaschine veröffentlicht
 -   Compiz nun doch als Standard in Gutsy Gibbon
 -   Angepasste Ubuntu-CDs von Dell
 -   Neuer Glanz für alte Kisten, die Zweite – Ubuntox
 
-</p>
+
 Ein vollständiges Inhaltverzeichnis kann
 [hier](http://www.freiesmagazin.de/freiesMagazin-2007-10) gefunden
 werden.
 
-</p>
+
 Da das monatlich erscheinde Magazin mittlerweile den beträchtlichen
 Umfang von 40 Seiten erreicht hat, ruft das Redaktionsteam auf der
 [Webseite](http://www.freiesmagazin.de/20070927-freiesmagazin-sucht-tatkraeftige-helfer)
@@ -34,5 +34,5 @@ Auch zahlreichere Leserbriefe sind gewünscht und können auf der dafür
 vorgesehenen [Kontaktseite](http://www.freiesmagazin.de/contact)
 aufgegeben werden.
 
-</p>
+
 <!--break--><!--break-->

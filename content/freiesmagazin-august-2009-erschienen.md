@@ -18,7 +18,7 @@ Bildern](http://freiesmagazin.de/mobil/freiesMagazin-2009-08-bilder.html)
 man immer die aktuelle und alle bisher erschienenen Mobil-Ausgaben.
 Inhalte der Ausgabe 08/2009 sind
 
-</p>
+
 <!--break--><!--break-->
 
 -   Kurze Vorstellung der elften Fedora-Ausgabe
@@ -37,7 +37,7 @@ Inhalte der Ausgabe 08/2009 sind
     sucht Unterstützung!
 -   Veranstaltungskalender
 
-</p>
+
 Das vollständige Inhaltsverzeichnis findet man auf der [Webseite der
 aktuellen Ausgabe](http://www.freiesmagazin.de/freiesMagazin-2009-08).
 Leserbriefe mit Lob, Kritik, Anregungen oder Fragen können an die
@@ -50,5 +50,5 @@ drei Ausgaben von
 abgerufen werden, ältere Ausgaben findet man im
 [Archiv](http://www.freiesmagazin.de/archiv).
 
-</p>
+
 

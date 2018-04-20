@@ -8,5 +8,5 @@ Seit einigen Tagen steht Kubuntu 13.10 Saucy Salamander zum Download
 bereit. Wie lief das Upgrade bei euch? Schreibt es uns im
 [Forum](http://forum.kubuntu-de.org/index.php?topic=17310.msg111261#msg111261)!
 
-</p>
+
 

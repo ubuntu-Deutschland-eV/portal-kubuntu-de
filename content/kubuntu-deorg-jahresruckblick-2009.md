@@ -14,7 +14,7 @@ berichten konnten, Interessante Nachrichten von den Entwicklern und aus
 der Community. Natürlich waren wir auch wieder auf verschiedenen Messen
 vertreten und haben dort Kubuntu repräsentiert.
 
-</p>
+
 Im Januar stand zunächst eine [Ubuntu-Entwickler
 Woche](http://www.kubuntu-de.org/nachrichten/veranstaltungen/ubuntu-entwickler-woche-mit-kubuntu-themen-vom-19-bis-23-01-09 "http://www.kubuntu-de.org/nachrichten/veranstaltungen/ubuntu-entwickler-woche-mit-kubuntu-themen-vom-19-bis-23-01-09")
 an, auf deren Agenda auch KDE Themen standen. Kurze Zeit später wurde
@@ -24,7 +24,7 @@ veröffentlicht, die erste Version die unter der
 [LGPL](http://de.wikipedia.org/wiki/GNU_Lesser_General_Public_License "http://de.wikipedia.org/wiki/GNU_Lesser_General_Public_License")
 freigegeben wurde.
 
-</p>
+
 <!--break--><!--break-->
 
 Ebenfalls im Januar erschien mit [KDE
@@ -46,7 +46,7 @@ wurde. Auf einem Meeting wurden die [Begriffe rund um
 KDE](http://www.kubuntu-de.org/nachrichten/software/kde/kde-definiert-sich-neu "http://www.kubuntu-de.org/nachrichten/software/kde/kde-definiert-sich-neu")
 neu definiert.
 
-</p>
+
 Auch bei Amarok konnten wir mit der [Version
 2.1](http://www.kubuntu-de.org/nachrichten/software/kde/amarok/amarok-2-1-mit-kubuntu-paketen-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/amarok/amarok-2-1-mit-kubuntu-paketen-erschienen")
 die nächste Stufe der Musikverwaltung ankündigen. Und auch dort gab es
@@ -65,7 +65,7 @@ Weihnachten konnten wir noch einige
 [Vorabversionen](http://www.kubuntu-de.org/nachrichten/software/kde/koffice/koffice-2-1-mit-kubuntu-paketen-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/koffice/koffice-2-1-mit-kubuntu-paketen-erschienen")
 für z.B. Amarok und Kdevelop für Kubuntu präsentieren.
 
-</p>
+
 Im Frühjahr erschien mit [Kubuntu 9.04 Jaunty
 Jackalope](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-9-04-jaunty-jackalope-erschienen "http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-9-04-jaunty-jackalope-erschienen")
 die erste Kubuntu Version des Jahres. Genauso planmäßig konnten wir im
@@ -81,7 +81,7 @@ dieses Projekts soll auch die Lokalisierungsproblematik bei Kubuntu
 angegangen werden. Das ganze soll beim kommenden LTS Release 10.04 Lucid
 Lynx erste Erfolge zeigen.
 
-</p>
+
 Aber auch wir von kubuntu-de.org haben einiges erlebt auf den
 verschiedenen Messen. Fast schon traditionell haben wir unser Messejahr
 auf den [Chemnitzer Linux
@@ -97,7 +97,7 @@ Aber auch auf unseren Webseiten hat sich einiges getan. Seit dem Sommer
 Kubuntu-de.org](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-de-org/kubuntu-de-org-im-neuen-outfit "http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-de-org/kubuntu-de-org-im-neuen-outfit")
 online.
 
-</p>
+
 Wer Interesse hat uns bei unserer Arbeit zu unterstützen, kann sich
 gerne über die verschiedenen Möglichkeiten wie
 [Forum](http://forum.kubuntu-de.org "http://forum.kubuntu-de.org"),
@@ -109,10 +109,10 @@ Verbesserungsvorschläge können so gerne abgegeben werden. Wir wünschen
 allen ein frohes und gesundes neues Jahr und freuen uns auf ein
 Interessantes neues Jahr.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

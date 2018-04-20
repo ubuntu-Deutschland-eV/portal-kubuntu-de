@@ -16,7 +16,7 @@ Another group we welcomed in our section of the building was the musical
 project Jad. Hence, our presentation was accompanied by nice background
 music, taking into account one or the other erratic feedback.
 
-</p>
+
 <div align="center">
 
 ![](http://www.kubuntu-de.org/files/FrOSCon07/01.jpg.png)
@@ -25,14 +25,14 @@ music, taking into account one or the other erratic feedback.
 
 </div>
 
-</p>
+
 The surroundings of the exhibition location has apparently quite a lot
 of Open Source Software users. Two of our volunteers are living close to
 it and therefore we had very good contacts to the event organisers. Many
 thanks to Thomas Erdmann (datten) and Sven Herfs (motti) for the
 contributions before and during the exhibition.
 
-</p>
+
 <!--break--><!--break-->
 
 There was some fear that the booth would look a little empty without the
@@ -51,7 +51,7 @@ of the opportunity to see our booth through our webcam. We were able to
 put up our webcam at the sidux booth opposite of us, while they placed
 their webcam on our booth.
 
-</p>
+
 Despite our focus on Kubuntu, we also distributed Ubuntu CDs at the
 exhibition we participate in. This, in particular, leads often to very
 interesting discussions. As usual, there have been debates about the
@@ -61,7 +61,7 @@ often develop into more far reaching topics of the spirit of the Open
 Source movement and the muliplicity of the developments in the
 community. Positively, these efforts gain new \*ubuntu users.
 
-</p>
+
 The KDE developers were responsible to give numerous very interesting
 presentations about KDE4. Sebastian Kügler (sebas) gave a very
 interesting introduction into this new KDE version. This meant a lack of
@@ -74,7 +74,7 @@ us to demonstrate to our visitor not only feisty, but also gutsy. The
 visitors had also the opportunity to use both versions themselves. Many
 thanks to Thomas Braun for his support.
 
-</p>
+
 <div align="center">
 
 ![](http://www.kubuntu-de.org/files/FrOSCon07/15.jpg.png)
@@ -83,7 +83,7 @@ thanks to Thomas Braun for his support.
 
 </div>
 
-</p>
+
 The social gathering on Saturday evening was introduced by the smell of
 barbeque and Kölsch (the local beer). The event had the motto "Kölsch
 0.2 (litre), Web 2.0". After the interest of the visitored had stalled
@@ -92,7 +92,7 @@ from our booth to the courtyard and enjoyed ourselves. This open air
 party was a very successful closure to the very successful day, even it
 ended far to late.
 
-</p>
+
 Henceforth, the Sunday morning came far to quick and it could have been
 feared that a hungover and tired community would not be capable of
 acceptable presentations anymore. However, the rescue came in form of a
@@ -101,12 +101,12 @@ energy to cope with an even higher number of visitors than the day
 before. Overall, the organisers and volunteers of the FrOSCon deserve
 many praises for this interesting and community building event.
 
-</p>
+
 Kubuntu will surely be represented again next year.
 
-</p>
+
 More photographs from the FrOSCon can be found at
 <http://www.kubuntu-de.org/bilder/events/froscon-2007>,
 
-</p>
+
 

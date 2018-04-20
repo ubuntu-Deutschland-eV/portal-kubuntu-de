@@ -8,5 +8,5 @@ v.l.n.r.: Joost Sander (thefisist), Mirjam Wäckerlin (Zerlinna), Marcus
 Czeslinski (Czessi), Robert Müller (comm\[A|n\]der), Monika Krug
 (Monika|K), Sabina Weiland (ypsila)
 
-</p>
+
 

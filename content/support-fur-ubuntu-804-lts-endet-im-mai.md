@@ -17,13 +17,13 @@ Support zur Verfügung. Eine Anleitung kann in der englischsprachigen
 [Dokumentation](https://help.ubuntu.com/community/LucidUpgrades)
 gefunden werden.
 
-</p>
-</p>
+
+
 <!--break--><!--break-->
 
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0) diskutiert
 werden.
 
-</p>
+
 

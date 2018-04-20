@@ -13,11 +13,11 @@ sich, so gibt es eine neue eigene Webseite
 .free}) und nun einen RSS Feed. Natürlich ist auch inhaltlich wieder
 einiges geboten:
 
-</p>
+
 -   Ein Vergleich der drei Bildbetrachter digiKam, KuickShow und gThumb
 -   Versionsverwaltung mit Subversion
 -   Ubuntu-Geschichte im Blick - Teil 5 mit Edgy Eft
 -   und vieles mehr ...
 
-</p>
+
 <!--break--><!--break-->

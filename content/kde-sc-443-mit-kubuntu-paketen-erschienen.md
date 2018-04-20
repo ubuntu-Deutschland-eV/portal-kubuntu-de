@@ -13,18 +13,18 @@ werden. Alle Änderungen können im
 [Changelog](http://www.kde.org/announcements/changelogs/changelog4_4_2to4_4_3.php "http://www.kde.org/announcements/changelogs/changelog4_4_2to4_4_3.php")
 nachgelesen werden.
 
-</p>
+
 Die Pakete für Lucid können über das Kubuntu Updates-PPA installiert
 werden. Wie man dieses PPA einbindet, kann in unserem
 [Wiki](http://wiki.kubuntu-de.org/Konfiguration/Programme_installieren/Paketmanagement/Paketquellen/Lucid/UpdatesPPA "http://wiki.kubuntu-de.org/Konfiguration/Programme_installieren/Paketmanagement/Paketquellen/Lucid/UpdatesPPA")
 nachgelesen werden.
 
-</p>
+
 <!--break--><!--break-->
 
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

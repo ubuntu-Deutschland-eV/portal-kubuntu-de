@@ -13,7 +13,7 @@ zulässt, ist das Magazin auch per [HTTP-Zugriff auf das
 FTP-Verzeichnis](http://www.freiesmagazin.de/ftp/2008/freiesMagazin-2008-06.pdf)
 zu erreichen. Inhalte der Ausgabe 06/2008 sind
 
-</p>
+
 -   Von Windows auf Linux-Dateien zugreifen
 -   Circular Applications Menu – Jetzt geht’s rund
 -   Firefox für Anfänger
@@ -21,12 +21,12 @@ zu erreichen. Inhalte der Ausgabe 06/2008 sind
 -   Das Linux-Befehle-Buch
 -   und vieles Andere mehr ...
 
-</p>
+
 Das vollständige Inhaltsverzeichnis findet man auf der [Webseite der
 aktuellen Ausgabe](http://www.freiesmagazin.de/freiesMagazin-2008-06).
 Auf der [Magazin-Seite](http://www.freiesmagazin.de/magazin) können die
 letzten drei Ausgaben von freiesMagazin abgerufen werden, ältere
 Ausgaben findet man im [Archiv](http://www.freiesmagazin.de/archiv).
 
-</p>
+
 <!--break--><!--break-->

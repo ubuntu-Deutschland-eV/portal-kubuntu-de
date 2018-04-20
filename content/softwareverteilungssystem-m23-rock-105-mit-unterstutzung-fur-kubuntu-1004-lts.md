@@ -6,7 +6,7 @@ Slug: softwareverteilungssystem-m23-rock-105-mit-unterstutzung-fur-kubuntu-1004-
 
 Gastbeitrag von Hauke Goos-Habermann.
 
-</p>
+
 <!-- <a class="FlattrButton" style="display:none;" rev="flattr;button:compact;" href="http://www.kubuntu-de.org/nachrichten/software/2052-softwareverteilungssystem-m23-rock-10-5-mit-unterstuetzung-fuer-kubuntu-10"></a> --><!-- <a class="FlattrButton" style="display:none;" rev="flattr;button:compact;" href="http://www.kubuntu-de.org/nachrichten/software/2052-softwareverteilungssystem-m23-rock-10-5-mit-unterstuetzung-fuer-kubuntu-10"></a> -->
 
 Die meisten Administratoren, die viele Rechner zu verwalten haben,
@@ -23,7 +23,7 @@ Administrator sich somit viele Wege zu den Rechnern ersparen kann.
 Moderne Softwareverteilungssysteme bringen zudem eine Vielzahl von
 weiteren Komponenten mit, die die Administration weiter vereinfachen.
 
-</p>
+
 Das OpenSource Softwareverteilungssystem
 [m23](http://m23.sourceforge.net) installiert und administriert in der
 gerade erschienenen Version m23 rock 10.5 nun auch Kubuntu-Clients.
@@ -32,7 +32,7 @@ von Kubuntu in Version 10.04. Zudem stehen Ubuntu und Xubuntu (ebenfalls
 in den LTS-Versionen), Linux Mint 9 in der KDE-Version sowie Debian als
 m23-Installations-Distribution zur Verfügung.
 
-</p>
+
 <!--break--><!--break-->
 
 Gesteuert wird m23 mit einem Webbrowser. Die Installation eines neuen
@@ -47,7 +47,7 @@ gleich auf mehreren Rechnern ausgeführt werden können. Das integrierte
 Client- und Serverbackup schützt durch regelmäßiges Sichern vor
 Datenverlusten.
 
-</p>
+
 Neben "realer Hardware" beherrscht m23 auch den Umgang mit virtuellen
 m23-Clients. Mittels der integrierten Virtualisierung können auf den
 m23-Clients und dem m23-Server weitere virtuelle m23-Clients angelegt
@@ -57,7 +57,7 @@ m23-Weboberfläche erweitern. Auch ist das Erstellen von Softwarepaketen
 zur Installation auf den Clients direkt aus der Oberfläche heraus
 möglich.
 
-</p>
+
 Um die Unterstützung für die neuen Distributionen zu erreichen, mussten
 viele Teile des m23-Quelltextes geändert werden. Diese wurden zwar
 ausgiebig getestet, was aber nicht bedeutet, dass nun auch alles auf
@@ -65,7 +65,7 @@ jedem System tadellos funktioniert. Daher bittet das m23-Projekt um
 Mithilfe, indem man Fehler und Ungereimtheiten direkt im Forum auf der
 m23-Seite meldet.
 
-</p>
+
 Die neue m23-Version ist als Update über die m23-Oberfläche oder via APT
 (beschrieben im
 [Installationsleitfaden](http://m23.sourceforge.net/PostNuke-0.750/html/index.php?id=1000000175&currentpath=home))
@@ -78,10 +78,10 @@ auch ein Forum zum Melden von Fehlern oder zum Stellen von Fragen sowie
 den m23-Newsletter, Handbücher, Quelltexte, Videos, Screenshots und
 vieles mehr.
 
-</p>
+
 Diese Nachricht kann im
 [kubuntu-de.org-Forum](http://forum.kubuntu-de.org/index.php?board=1.0)
 diskutiert werden.
 
-</p>
+
 

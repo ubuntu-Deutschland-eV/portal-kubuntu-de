@@ -13,7 +13,7 @@ denen der aktuell gespielte Künstler teilnehmen wird und eins das
 entsprechend ähnliche Künstler anzeigt. Beide Applets beziehen ihre
 Informationen aus der last.fm Datenbank.
 
-</p>
+
 Natürlich wurden auch jede Menge Fehler in dieser Version behoben, wobei
 ein grosser Teil der Programmierarbeiten wurde im Rahmen eines Sprints
 zusammen mit dem KDE Multimedia Team in Randa, Schweiz erledigt. Das
@@ -24,12 +24,12 @@ Kubuntu-Backports-PPA installieren. Eine genaue Anleitung dazu findet
 sich im
 [Wiki](http://wiki.kubuntu-de.org/Konfiguration/Programme_installieren/Paketmanagement/Paketquellen/Lucid/Backports "http://wiki.kubuntu-de.org/Konfiguration/Programme_installieren/Paketmanagement/Paketquellen/Lucid/Backports").
 
-</p>
+
 <!--break--><!--break-->
 
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

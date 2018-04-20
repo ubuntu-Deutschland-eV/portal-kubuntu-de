@@ -15,7 +15,7 @@ Kontact noch nicht die
 [Akonadi](http://pim.kde.org/akonadi/ "http://pim.kde.org/akonadi/") Resourcen, aber diese sind inzwischen schon soweit implementiert,
 dass sie von anderen Programmen genutzt werden könnten.
 
-</p>
+
 Die Plattformunabhängigkeit, die mit KDE 4.0 noch nicht realisiert
 werden konnte, ist nun auch in Form von ersten Testversionen für MacOS,
 Opensolaris und Windows verfügbar. Zwar sind diese Portierungen noch
@@ -28,7 +28,7 @@ Desktop von KDE 4, stark von diesen neuen Funktionen profitiert, aber
 erst kürzlich darauf portiert wurde, sind hier Stabilitätsprobleme zu
 erwarten.
 
-</p>
+
 <!--break--><!--break-->
 
 Pakete für Kubuntu sind bis jetzt noch nicht erschienen, wir werden
@@ -41,17 +41,17 @@ Anleitung](http://techbase.kde.org/Getting_Started/Build/KDE4 "http://techbase.k
 selbsverständlich frei zum [herunterladen
 verfügbar.](http://www.kde.org/info/4.0.71.php "http://www.kde.org/info/4.0.71.php")
 
-</p>
+
 Bis zum endgültigen Release der stabilen Version von KDE 4.1 bleiben den
 Entwicklern nur noch einige Monate: Der geplante Termin für die
 Veröffentlichung ist der 29. Juli 2008. Wer sich weiter über den Verlauf
 der Entwicklung informieren möchte, sollte einen Blick in den
 [Releaseplan](http://techbase.kde.org/Schedules/KDE4/4.1_Release_Schedule "http://techbase.kde.org/Schedules/KDE4/4.1_Release_Schedule") von KDE 4.1 werfen.
 
-</p>
+
 **WICHTIG: KDE 4.1 Alpha 1 ist eine reine Test- und Entwicklerversion.
 Sie ist AUF KEINEN FALL für den produktiven Einsatz gedacht, da
 Stabilität und Datensicherheit nicht garantiert werden können.**
 
-</p>
+
 

@@ -18,20 +18,20 @@ Bildern](http://www.freiesmagazin.de/mobil/freiesMagazin-2008-04-bilder.html)
 man immer die aktuelle und alle bisher erschienenen Mobil-Ausgaben.
 Highlights der aktuellen Ausgabe sind:
 
-</p>
+
 -   Motorola A1200 - Das tragbare Linux-System, Teil 1
 -   Firefox-Erweiterungen sichern mit CLEO
 -   Interview: Tobias König über die Entwicklung von Akonadi
 -   und vieles mehr ...
-    </p>
-    <p>
+    
+    
 -   Veranstaltungskalender, News, Leserbriefe, u.a.
 
-</p>
+
 Das vollständige Inhaltsverzeichnis findet man auf der [Webseite der
 aktuellen Ausgabe](http://www.freiesmagazin.de/freiesMagazin-2008-04).
 Leserbriefe mit Lob, Kritik, Anregungen oder Fragen können wie immer an
 die [Redaktion](http://www.freiesmagazin.de/kontakt) geschickt werden.
 
-</p>
+
 <!--break--><!--break-->

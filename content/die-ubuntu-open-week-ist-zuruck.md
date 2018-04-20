@@ -13,13 +13,13 @@ Launchpad, das Desktop Team und viele mehr. Jede dieser Sitzungen wird
 von führenden Mitgliedern der Ubuntu Community veranstaltet, die ihre
 Erfahrungen und ihr Wissen teilen.
 
-</p>
+
 Es sind zudem einige Fragestunden mit Mark Shuttleworth geplant und Jono
 Bacon wird ebenfalls in den Sitzungen anwesend sein. Die letzte Ubuntu
 Open Week war ein riesiger Spaß und diese UOW wird unglaublich werden.
 
-</p>
+
 Mehr Informationen (engl.): <https://wiki.ubuntu.com/UbuntuOpenWeek>
 
-</p>
+
 <!--break--><!--break-->

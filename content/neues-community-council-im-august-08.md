@@ -13,10 +13,10 @@ des Community Betreuers, der Verwendung der Spendengelder, sowie einem
 Veto-Recht hinsichtlich Entscheidungen, die dem Ziel des Projektes
 "kubuntu-de.org" entgegen stehen.
 
-</p>
+
 ### Das neue Community Council
 
-</p>
+
 Die Wahl zur jetzigen Amtszeit endete mit der Deadline am 06. August um
 12:00 Uhr. Aus dem alten CC stand Marcus Czeslinski (Czessi) nicht mehr
 zur Verfügung. Die übrigen Mitglieder des alten CC wurden wiedergewählt
@@ -27,14 +27,14 @@ Das neue CC besteht aus Robert Müller (commander), Ralph Janke
 (txwikinger), Thomas David (nemphis), Christian Mangold (neversfelde)
 und Dirk Barrois (PTS). Als Teamsprecher fungiert weiterhin Ralph Janke.
 
-</p>
+
 Wir möchten uns an dieser Stelle nochmal bei Marcus Czeslinski für seine
 hervorragende und zeitintensive Arbeit im Team bedanken.
 
-</p>
+
 ### Der neue Community-Betreuer
 
-</p>
+
 In den Tagen nach der Wahl hat das neu formierte CC den zuletzt
 verwaisten Posten des Community-Betreuers vergeben. Die Position
 übernimmt nun Arthur Schiwon (blizzz).  
@@ -43,18 +43,18 @@ Der Community Betreuer ist erster Ansprechpartner für alle an der
 Mitarbeit Interessierten und stellt das Bindeglied zwischen Team und
 Community dar.
 
-</p>
+
 ### Siehe auch
 
-</p>
+
 -   [Wikiseite des Community
     Council](http://wiki.kubuntu-de.org/Team:CC "http://wiki.kubuntu-de.org/Team:CC")
-    </p>
-    <p>
+    
+    
 -   [Wikiseite der Community
     Betreuung](http://wiki.kubuntu-de.org/Team:Community_Betreuung "http://wiki.kubuntu-de.org/Team:Community_Betreuung")
-    </p>
-    <p>
+    
+    
 
-</p>
+
 

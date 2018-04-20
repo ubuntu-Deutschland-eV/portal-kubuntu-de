@@ -25,20 +25,20 @@ sondern z.B. "Audio CD". Als Ausgabegerät wird statt "CD/DVD Brenner"
 das entsprechende Medium ("Leere CD-R") angezeigt. Ermöglicht wird dies
 über K3bs neuen MediaCache, der die Medien in den Laufwerken überwacht.
 
-</p>
+
 Weitere interessante Neuerungen sind unter anderem:
 
-</p>
+
 -   Erweiterte Integration in den Desktop und Zugriff über Amarok oder
     Konqueror. Das Anlegen von Bookmarks im Dateisystem erleichtert die
     Navigation beim Erstellen von Medien.
-    </p>
-    <p>
+    
+    
 -   Verbesserungen beim Ripping von Audio CDs. K3b lädt automatisch die
     Metadaten der Audio CD und zeigt sie im rechten Navigationsfenster
     an.
-    </p>
-    <p>
+    
+    
 -   Erweitertes Umbenennen von Audiodateien. Mit dieser Funktion lassen
     sich mehereren Stücken erweiterte Informationen (Künstlername,
     Album) hinzufügen.
@@ -46,7 +46,7 @@ Weitere interessante Neuerungen sind unter anderem:
     "Rechtsklick" können Musikstücke zusammengefügt, getrennt oder
     geschnitten werden.
 
-</p>
+
 Sanders zeigt sich in dem Artikel sehr angetan von K3b 1.0. Zwar
 vermisst er Fähigkeit, DVDs zu komprimieren, was in späteren Versionen
 hinzugefügt werden soll, aber für ihn ist K3b 1.0 "...kein
@@ -55,14 +55,14 @@ schon ausgezeichnet war, an Reife gewinnen kann." Nach Auskunft von
 Maintainer Sebastian Trüg wird K3b-1.0 noch in dieser  Woche (KW11)
 freigegeben.
 
-</p>
+
 Der Originalartikel (auf Englisch):
 <http://applications.linux.com/article.pl?sid=07/03/05/181224>
 
-</p>
+
 Diese Nachricht kann
 [hier](http://forum.kubuntu-de.org/index.php?topic=7950.0) im Forum
 diskutiert werden.
 
-</p>
+
 

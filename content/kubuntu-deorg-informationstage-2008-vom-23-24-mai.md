@@ -12,7 +12,7 @@ von kubuntu-de.org lädt die deutschsprachige Kubuntu-Gemeinschaft zu den
 Informationstagen](http://wiki.kubuntu-de.org/Team:Informationstage) am
 23. und 24.5. im Kanal *\#kubuntu-de.org* auf *irc.freenode.org* ein.
 
-</p>
+
 Ein großes Projekt wie kubuntu-de.org, das allein auf freiwilligen
 Helfern aufbaut, ist darauf angewiesen neuen Helfern die Tätigkeiten
 näher zu bringen und mit den Nutzern ins Gespräch zu kommen. Zu diesem
@@ -21,7 +21,7 @@ Zweck werden an den Abenden des 23. und 24.5. im Chat im IRC Kanal
 Kubuntu-de.org und seine verschiedenen Bereiche vorstellen und
 Anleitungen geben wie man konkret helfen kann.
 
-</p>
+
 Der erste Abend dient ganz der Vorstellung von Kubuntu-de.org, der
 Struktur des Teams und der Arbeit in den verschiedenen Bereichen, wie z.
 B. dem Forum oder dem Messeteam. Am darauffolgenden Tag werden
@@ -32,19 +32,19 @@ großes technisches Können erlernen kann, die aber für die Distribution
 Kubuntu von erheblicher Bedeutung sind und keinesfalls unterschätzt
 werden sollten.
 
-</p>
+
 <!--break--><!--break-->
 
 Wer sich für eines dieser Themen interessiert sollte am 23. und 24.5. ab
 19:00 in den Kanal \#kubuntu-de.org auf irc.freenode.org kommen.
 
-</p>
+
 Genauere Informationen über die Vorträge und das Programm finden sich
 auf der [Wikiseite der Kubuntu-de.org
 Informationstage](http://wiki.kubuntu-de.org/Team:Informationstage "http://wiki.kubuntu-de.org/Team:Informationstage").
 
-</p>
+
 []{#Pressemitteilungen.2F_Nachrichten_f.C3.BCr_andere_Websites}
 
-</p>
+
 

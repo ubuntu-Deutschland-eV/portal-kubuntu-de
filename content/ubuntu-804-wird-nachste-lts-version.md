@@ -20,10 +20,10 @@ werden wird.
 
 Quellen:
 
-</p>
+
 -   <http://derstandard.at/?url=/?id=2968964>
 -   <http://www.pro-linux.de/news/2007/11478.html>
 
-</p>
-</p>
+
+
 

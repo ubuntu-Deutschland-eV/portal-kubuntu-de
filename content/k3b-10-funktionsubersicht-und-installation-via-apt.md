@@ -13,18 +13,18 @@ Open Source Gemeinschaft wurde das Projekt über die Jahre immer weiter
 fortgeführt und stellt heute eines der grundlegenden und besten
 Programme des K Desktop Environment dar.
 
-</p>
+
 Die aktuelle Version hat es gerade noch rechtzeitig ins kommende Kubuntu
 7.04 "Feisty Fawn" geschafft. Über unser Paketarchiv können mit der
 DVD-Rip Funktion ausgestattete Pakete für Dapper, Edgy und Feisty
 installiert werden. Mehr dazu unten im Abschnitt  **Kubuntu Pakete**.
 
-</p>
+
 Eine Bildergalerie, in der die Funktionen von K3B 1.0 gezeigt werden,
 steht [hier](http://www.kubuntu-de.org/bilder/screenshots/k3b-1-0) zu
 Verfügung.
 
-</p>
+
 <!--break--><!--break-->
 
 K3b bietet eine bequeme und funktionsreiche, graphische
@@ -43,18 +43,18 @@ automatischen Erkennung von optimalen Einstellungen, die abhängig von
 der Situation sind, zur Verfügung stehen. Alles dies macht K3b zu einem
 perfekten Werkzeug, um hin und wieder mal eine CD oder DVD zu brennen.
 
-</p>
+
 Die Fähigkeiten von k3b (Übersetzung des [Changelog](http://k3b.plainblack.com/k3b-news/k3b-1.0-announcement)):
 ---------------------------------------------------------------------------------------------------------------
 
-</p>
+
 <h3>
 Medienorientierte Benutzeroberfläche  
 
-</p>
-<p>
+
+
 </h3>
-</p>
+
 Anders als die meisten anderen CD- und DVD Anwendungen zeigt die
 Benutzeroberfläche von k3b keine Geräte an, sondern Datenträger. Deshalb
 kann man in k3b einen Datenträger zum Brennen oder Auslesen auswählen.
@@ -67,10 +67,10 @@ Benutzung von tollen Funktionen, wie zum Beispiel, von der automatischen
 Anpassung der Größe von Projekten bis zum Einfügen eines leeren
 Datenträgers.
 
-</p>
+
 ### Kontinuierliche Übersicht über die Datenträger
 
-</p>
+
 K3b zeigt detaillierte Datenträgerinformationen an: Den Verzeichnisbaum,
 als Teil von k3bs eigenem Dateimanager, zeigt jedes erreichbare Gerät
 an. Wenn die Maus über einen Eintrag bewegt wird, zeigt ein schickes
@@ -79,10 +79,10 @@ den Datenträger können über das Kontextmenü abgefragt werden. Die
 Datenträgerübersicht zeigt das volle Inhaltsverzeichnis sowie auch
 CD-Texteinträge an.
 
-</p>
+
 ### Das Erzeugen von benutzerdefinierten CDs und DVDs
 
-</p>
+
 K3b bietet eine Vielzahl von CD- und DVD-Projekten an. Innerhalb von K3b
 ist ein Projekt eine benutzerdefinierte Sammlung von Dateien, die in
 einem bestimmten Format auf CD oder DVD gebrannt wird. Die
@@ -98,7 +98,7 @@ einzige Unterschied ist die Tatsache, dass alles auf einem virtuellen
 Dateisystem stattfindet, welches nur dann erzeugt wird, wenn es auf CD
 oder DVD gebrannt wird.
 
-</p>
+
 Das Audio-CD Projekt ist ohne Zweifel eines der beliebtesten innerhalb
 K3bs. Mit ihm werden Audio-CDs erstellt, die dann in jedem beliebigen
 CD-Spieler abgehört werden können. Man muss nur eine Anzahl von
@@ -111,14 +111,14 @@ persönliche CDs erstellt werden. K3b unterstützt den Benutzer sogar beim
 Suchen nach Metadaten wie zum Beispiel Titel und Interpret durch Zugriff
 auf die Internetdatenbanken CDDB und Musicbrainz.
 
-</p>
+
 ### Werkzeuge für alles was man bei CDs und DVDs benötigt
 
-</p>
+
 Unabhängig von den Projekten von K3b, bietet es auch noch einige
 Werkzeuge für andere Aufgaben an.
 
-</p>
+
 -   Das Kopieren von CDs und DVDs: Daten-CDs und -DVDs, Audio- und
     gemischte CDs, Video-DVDs und selbst Mehrsitzungs-CDs und -DVDs
     können mit einer einfachen und benutzerfreundlichen
@@ -133,10 +133,10 @@ Werkzeuge für andere Aufgaben an.
     nimmt automatisch alle notwendige Umwandlungen in seinen CD und DVD
     Brennwerkzeugen vor
 
-</p>
+
 ### Das Extrahieren eines einzelnes Liedes von einer Audio-CD
 
-</p>
+
 Um das Extrahieren eines einzelnen Liedes von einer Audio-CD und die
 Umwandlung in ein digitales Format wie MP3 oder Ogg Vorbis zu
 ermöglichen, bietet K3b eine Audio-Rippingfunktion an. Dies kann
@@ -154,20 +154,20 @@ Prozesses daran welche CD zum jeweiligen Zeitpunkt wieder eingeführt
 werden muss um das Brennen zu ermöglichen. Ein sehr benutzerfreundlicher
 Weg eigene CDs zu erstellen.
 
-</p>
+
 ### Das Erstellen von persönlichen K3b Standardeinstellungen
 
-</p>
+
 Wie schon vorher erwähnt, kann jede Einstellung in K3b verändert werden
 und damit den persönlichen Bedürfnissen angepasst werden. Um
 sicherzustellen, dass diese Einstellungen niemals verloren werden,
 sondern immer wiederbenutzt werden, kann man sie als persönliche
 Standardeinstellungen nach jeder Veränderung speichern.
 
-</p>
+
 ### Integration in andere ausgezeichnete KDE Programme
 
-</p>
+
 Einige der besten KDE Programme integrieren das Brennen mit K3b in der
 eigenen Programmoberfläche. K3b bietet eine Integration in Konqueror,
 welche es erlaubt Projekte direkt zu erstellen und Abbilddateien via
@@ -184,18 +184,18 @@ konzentrieren. Die Entwickler danken allen für Ihre Bemühungen. Es ist
 für sie eine Ehre die Gelegenheit zu haben mit solch guten Werkzeugen zu
 arbeiten.
 
-</p>
+
 ### Kubuntu Pakete
 
-</p>
+
 Kubuntu-de.org stellt aktuelle, um die DVD-Rip Funktion erweiterte,
 K3b-Pakete für Feisty, Edgy und Dapper bereit, welche von Hand oder
 direkt über die Quellenliste installiert werden können.
 
-</p>
+
 #### Installaition per Hand:
 
-</p>
+
 -   Die Pakete ***k3b, libk3b2, libk3b-mp3 und k3b-i18n*** von
     [hier](http://packages.kubuntu-de.org/k3b) herunterladen und in ein
     Verzeichnis speichern.
@@ -203,10 +203,10 @@ direkt über die Quellenliste installiert werden können.
     &lt;verzeichnisname&gt;***)
 -   Pakete mit dpkg installieren (***dpkg -i \*.de***b)
 
-</p>
+
 #### Installation mit Adept
 
-</p>
+
 -   Adept starten
 -   unter ***View =&gt; Manage Repositories*** die Zeile " ***deb
     <http://archive.kubuntu-de.org/ubuntu> &lt;kubuntu version&gt; main
@@ -217,8 +217,8 @@ direkt über die Quellenliste installiert werden können.
     und k3b-i18n*** zur Installation auswählen
 -   mit ***Apply Changes*** K3B installieren
 
-</p>
+
 **Viel Erfolg mit K3B 1.0**
 
-</p>
+
 

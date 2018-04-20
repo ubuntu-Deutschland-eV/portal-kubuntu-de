@@ -11,7 +11,7 @@ Beta und wird direkt von dem einzigen Release-Kandidaten am 16. April
 abgelöst. Die finale Version soll dann eine Woche später am 23. April
 erscheinen.
 
-</p>
+
 Jaunty bringt jede Menge Neuerungen mit. So ist [KDE
 4.2.1](../../../../nachrichten/software/kde/kde-4-2-1-mit-kubuntu-paketen-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-1-mit-kubuntu-paketen-erschienen") enthalten, mit der neusten Version von Qt 4.5. Neu ist auch
 KPackageKit, das neue Paketverwaltungsprogramm, welches Adept ersetzt
@@ -27,7 +27,7 @@ selbst hinzuzufügen. Eine Liste der Änderungen in Jaunty kann auch im
 [Kubuntu
 Wiki](https://wiki.kubuntu.org/JauntyJackalope/Beta/Kubuntu "https://wiki.kubuntu.org/JauntyJackalope/Beta/Kubuntu") eingesehen werden.
 
-</p>
+
 <!--break--><!--break-->
 
 In der Betaversion gibt es auch bekannte Probleme, so ist von der
@@ -40,7 +40,7 @@ Nachfragen zu dem eingegebenen Passwort auf. Außerdem kann es sein, dass
 die Partionierung ein Problem anzeigt, weil die CD gemountet ist. Diese
 Fehler sollen aber bis zur finalen Version behoben sein.
 
-</p>
+
 Ein Upgrade von Intrepid ist nach [dieser
 Anleitung](http://wiki.kubuntu-de.org/Installation/Upgrade/8.10_auf_9.04 "Installation/Upgrade/8.10 auf 9.04")
 möglich. Eine Aktualisierung von Dapper oder Hardy ist nur schrittweise
@@ -50,10 +50,10 @@ folgen, sollte aber beachten. dass das Upgrade von KDE 3 zu diversen
 Problemen führen kann. Einzelheiten können den
 Aktualisierungsanleitungen entnommen werden.
 
-</p>
+
 **Achtung:** Kubuntu 9.04 Beta ist immer noch keine vollständig stabile
 Version und sollte auf keinen Fall in Produktivumgebungen eingesetzt
 werden!
 
-</p>
+
 

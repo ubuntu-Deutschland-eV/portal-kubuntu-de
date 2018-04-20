@@ -16,25 +16,25 @@ extra der "Feature Freeze" (also die Sperre für neue Features) für
 dieses Wartungsrelease außer Kraft gesetzt, da der Zweig sich inzwischen
 als hinreichend stabil bewiesen hat.
 
-</p>
+
 Welche Veränderungen es seit KDE 3.5.8 noch in das Wartungsrelease
 geschafft haben, kann dem offiziellen (englischen)
 [Changelog](http://www.kde.org/announcements/changelogs/changelog3_5_8to3_5_9.php "http://www.kde.org/announcements/changelogs/changelog3_5_8to3_5_9.php") entnommen werden.
 
-</p>
+
 <!--break--><!--break-->
 
 [ Installation der Pakete]{.mw-headline}
 ----------------------------------------
 
-</p>
+
 Für
 [Kubuntu](http://kubuntu.org/announcements/kde-359.php "http://kubuntu.org/announcements/kde-359.php") sind Pakete für die stabile Version 7.10 und natürlich für die
 aktuelle Entwicklerversion Hardy Heron verfügbar.  Um KDE 3.5.9 für
 Kubuntu 7.10 Gutsy Gibbon zu installieren, müssen die folgenden Schritte
 ausgeführt werden:
 
-</p>
+
 -   Die Paketquelle "deb
     <http://ppa.launchpad.net/kubuntu-kde-3.5.9/ubuntu> gutsy main" zur
     Datei /etc/apt/sources.list hinzufügen.
@@ -43,10 +43,10 @@ ausgeführt werden:
 -   Nach einem neuen Anmelden darf man sich über ein aktualisiertes KDE
     3 freuen.
 
-</p>
+
 KDE 3.5.9 ist bereits Teil der aktuellen Entwicklungs- und Testversion
 von Kubuntu Hardy Heron. Um die neuen Pakete einzuspielen reicht also
 ein normales Update.
 
-</p>
+
 

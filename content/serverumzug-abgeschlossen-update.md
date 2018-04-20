@@ -13,8 +13,8 @@ Wir möchten uns noch einmal für eventuelle Unannehmlichkeiten
 entschuldigen und bitten darum auftretende Fehler im IRC auf Freenode im
 Kanal \#kubuntu-de.org oder auf der Team Mailingliste zu melden.
 
-</p>
+
 **Update:** Die letzten kleineren Probleme mit dem Wiki sind ausgemerzt.
 
-</p>
+
 

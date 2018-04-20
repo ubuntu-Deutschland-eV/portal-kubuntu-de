@@ -18,20 +18,20 @@ Informationen sind in den [Release
 Notes](http://www.mozilla.com/en-US/firefox/2.0.0.2/releasenotes/) zu
 finden.
 
-</p>
+
 Weiterführende Informationen:
 
-</p>
+
 > -   [ProLinux](http://www.pro-linux.de/news/2007/10880.html)
 > -   [Mozilla](http://www.mozilla.com) (englisch)
 >
-> </p>
-> <p>
+> 
+> 
 
-</p>
+
 Diese Nachricht kann
 [hier](http://forum.kubuntu-de.org/index.php?topic=7789.0) im Forum
 diskutiert werden.
 
-</p>
+
 <!--break--><!--break-->

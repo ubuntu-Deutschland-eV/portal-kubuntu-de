@@ -9,5 +9,5 @@ Wiki angekündigt, das Aprilmeeting von kubuntu-de.org statt, und zwar um
 [\#kubuntu-de.org](irc://irc.freenode.net:8001/kubuntu-de.org) auf dem
 Server irc.freenode.net.
 
-</p>
+
 

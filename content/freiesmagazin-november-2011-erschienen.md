@@ -11,17 +11,17 @@ Zeitschrift, die sich mit den Themen Linux und Open Source in deutscher
 Sprache beschäftigt. Sie erscheint monatlich im PDF-Format und als
 HTML-Version.
 
-</p>
+
 [![FreiesMagazin-2011-11
 Titel.png](http://wiki.kubuntu-de.org/images/FreiesMagazin-2011-11_Titel.png){width="600"
 height="424"}]
 
-</p>
+
 <!--break--><!--break-->
 
 Schwerpunkte dieser Ausgabe sind:
 
-</p>
+
 -   Die Entwicklung von Spielen, Geschichten und Programmen mit
     „Ren'Py”, einem Paket das seit längerer Zeit in den Ubuntu-Quellen
     vorhanden ist und das einem bei der plattformübergreifenden
@@ -33,13 +33,13 @@ Schwerpunkte dieser Ausgabe sind:
     sich Ubuntu-Entwickler -Enthusiasten und Neugierige trafen,
     gemeinsam feierten und sich austauschten und informierten.
 
-</p>
+
 Sowie weitere, teilweise spannende oder hilfreiche Artikel:
 
-</p>
+
 ### [Inhalt der Ausgabe 11/2011]{#Inhalt_der_Ausgabe_11.2F2011 .mw-headline}
 
-</p>
+
 -   Ubuntu und Kubuntu 11.10
 -   Erweitertes RC-System von OpenBSD
 -   Der Oktober im Kernelrückblick
@@ -55,10 +55,10 @@ Sowie weitere, teilweise spannende oder hilfreiche Artikel:
 -   Rezension: NetBeans Platform 7 – Das umfassende Handbuch
 -   Veranstaltungskalender
 
-</p>
+
 ### [Downloads]{#Downloads .mw-headline}
 
-</p>
+
 -   [PDF-Version](http://www.freiesmagazin.de/ftp/2011/freiesMagazin-2011-11.pdf)
     (3705 KB)
 -   [HTML-Version mit
@@ -68,14 +68,14 @@ Sowie weitere, teilweise spannende oder hilfreiche Artikel:
     Bilder](http://www.freiesmagazin.de/mobil/freiesMagazin-2011-11.html)
     (239 KB)
 
-</p>
+
 Unter der Adresse <http://freiesmagazin.de/mobil/> finden sich auch
 ältere Ausgaben.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?topic=16172) diskutiert
 werden
 
-</p>
+
 

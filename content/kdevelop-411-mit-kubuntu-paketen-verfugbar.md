@@ -14,29 +14,29 @@ zu Grunde liegenden Komponenten "kdevplatform" und "kdevelop" ein, dabei
 spielten Korrekturen in der Benutzeroberfläche die größte Rolle, neben
 der Beseitigung einiger Abstürze und der Git-Unterstützung.
 
-</p>
+
 Nutzer der Kubuntu 10.10 Veröffentlichung können KDevelop 4.4.1 aus dem
 Backports PPA installieren. Das Repository kann mittels
 
-</p>
+
 <!--break--><!--break-->
 
 **sudo add-apt-repository ppa:kubuntu-ppa/ppa**
 
-</p>
+
 hinzugefügt werden.
 
-</p>
+
 Wer Probleme mit der Paketierung hat, soll diese gegen [kubuntu-ppa im
 Launchpad](https://bugs.launchpad.net/kubuntu-ppa "https://bugs.launchpad.net/kubuntu-ppa")
 melden. Fehler der Software selbst hingegen sollen im [KDE
 Bugtracker](http://bugs.kde.org "http://bugs.kde.org") eingetragen
 werden.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

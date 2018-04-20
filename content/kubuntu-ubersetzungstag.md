@@ -15,12 +15,12 @@ kann. Dies kann durch aktive Mitarbeit an den Übersetzungen geschehen,
 sowie durch Erstellung von Bugreports über noch nicht übersetzte
 Bereiche.
 
-</p>
+
 Insbesondere die Zusammenarbeit mit KDE und das Zurückgeben der
 Übersetzungen aus Kubuntu an KDE soll durch diese Aktion verbessert
 werden. Der Termin wurde bewusst so früh im Entwicklungszeitraum
 gewählt, damit bis zur Veröffentlichung von Kubuntu 9.10 Karmic Koala im
 Oktober ein möglichst gutes Ergbenis erreicht wird.
 
-</p>
+
 <!--break--><!--break-->

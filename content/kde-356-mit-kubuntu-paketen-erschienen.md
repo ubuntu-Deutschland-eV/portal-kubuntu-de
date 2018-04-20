@@ -12,53 +12,53 @@ verbessert, Vorlagen für KMail Nachrichten und neue Menüs für Kontact,
 welche die Arbeit mit ToDos und dem Terminkalender vereinfachen,
 stehennun zur Verfügung.
 
-</p>
+
 Wer Kubuntu Edgy Eft 6.10 verwendet kann mit den offiziellen Paketen von
 Jonathan Riddell upgraden.
 
-</p>
+
 <!--break--><!--break-->
 
 Dazu muss lediglich sein Schlüssel importiert,
 
-</p>
+
 *            
 <http://people.ubuntu.com/~jriddell/kubuntu-packages-jriddell-key.gpg%C2%A0%C2%A0%C2%A0>
        *
 
-</p>
+
 *             sudo apt-key add kubuntu-packages-jriddell-key.gpg*
 
-</p>
+
  
 
-</p>
+
 und eine der folgenden Quellen in die Datei /etc/apt/sources.list
 eintragen werden:
 
-</p>
+
 *            deb <http://kubuntu.org/packages/kde-356> edgy main       
    *
 
-</p>
+
 *            deb
 <ftp://bolugftp.uni-bonn.de/pub/kde/stable/3.5.6/kubuntu> edgy main   
        *
 
-</p>
+
 *            deb
 <http://www.mirrorservice.org/sites/ftp.kde.org/pub/kde/stable/3.5.6/kubuntu>
 edgy main           *
 
-</p>
+
 *            deb
 <http://mirror.cc.columbia.edu/pub/software/kde/stable/3.5.6/kubuntu>
 edgy main*
 
-</p>
+
  
 
-</p>
+
 Ankündigung von Kubuntu.org:  
 
 <http://kubuntu.org/announcements/kde-356.php>  
@@ -71,5 +71,5 @@ Das komplette Changelog in englisch:
 
 <http://www.kde.org/announcements/changelogs/changelog3_5_5to3_5_6.php>
 
-</p>
+
 

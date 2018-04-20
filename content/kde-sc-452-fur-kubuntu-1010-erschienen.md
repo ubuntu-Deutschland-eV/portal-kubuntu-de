@@ -12,7 +12,7 @@ Optimierungen. Eine Verbesserung ist KSharedDataCache wodurch das Laden
 der Icons beschleunigt werden sollen. Ausserdem wurden Verbesserungen in
 Kwin eingebracht.
 
-</p>
+
 Fehler in der Paketierung sollten gegen kubuntu-ppa im
 [Launchpad](http://launchpad.net "http://launchpad.net") gemeldet
 werden. Fehler in der Software im [KDE
@@ -22,15 +22,15 @@ Kubuntu 10.10 können die Pakete über das [Kubuntu Updates PPA
 beziehen. Es sind keine Pakete für Kubuntu 10.04 LTS geplant. Wer KDE
 4.5.2 nutzen will, muss daher auf Maverick Meerkat aktualisieren.
 
-</p>
+
 <!--break--><!--break-->
 
 Vielen Dank an Jonathan und Rohan für ihre Hilfe mit den Paketen.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

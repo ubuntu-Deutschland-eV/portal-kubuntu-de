@@ -9,10 +9,10 @@ Zeit](http://www.zeit.de/digital/internet/2011-11/linux-thorvalds-interview).
 Außerdem spricht er über Vertrauen bei der Entwicklung von freier
 Software.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0) diskutiert
 werden.
 
-</p>
+
 

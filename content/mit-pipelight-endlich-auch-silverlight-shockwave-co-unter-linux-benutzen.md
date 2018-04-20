@@ -10,9 +10,9 @@ können auch wir Linux-Nutzer\_innen endlich WatchEver und ähnliche
 Videodienste genießen oder in Shockwave programmierte Spiele im Browser
 spielen :-) .
 
-</p>
+
 [Im Forum über diese Nachricht
 diskutieren](http://forum.kubuntu-de.org/index.php?topic=17753.msg113432#msg113432)
 
-</p>
+
 

@@ -15,5 +15,5 @@ Applications 15.12 und basiert auf dem Linux-Kernel Version 4.4.0.
 Xenial Xerus wird als LTS Version zum ersten mal 3 Jahre mit Updates und
 Support versorgt.
 
-</p>
+
 

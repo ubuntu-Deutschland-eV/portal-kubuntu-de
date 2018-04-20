@@ -14,7 +14,7 @@ Kubuntu
 10.10](http://www.kubuntu.org/news/kde-4.6-rc-2 "http://www.kubuntu.org/news/kde-4.6-rc-2")
 zur Verfügung, sowie für die aktuelle Entwicklerversion Kubuntu 11.04.
 
-</p>
+
 Änderungen zu diesem Veröffentlichungskandidaten beziehen sich
 ausschließlich auf letzte Fehlerkorrekturen und den Feinschliff. Treten
 keine "Showstopper" mehr auf wird diese Freigabe dem finalen KDE SC 4.6
@@ -24,7 +24,7 @@ Verlautbarung zum KDE SC 4.6 RC
 2](http://kde.org/announcements/announce-4.6-rc2.php "http://kde.org/announcements/announce-4.6-rc2.php")
 nachzulesen (englisch).
 
-</p>
+
 <!--break--><!--break-->
 
 Fehler in der Paketierung sollen gegen
@@ -33,25 +33,25 @@ gemeldet werden, während Fehler in der Software selbst direkt an den
 [KDE Bugtracker](http://bugs.kde.org "http://bugs.kde.org") geschickt
 werden sollen.
 
-</p>
+
 **Achtung diese Version ist nicht für den produktiven Einsatz
 geeignet!**
 
-</p>
+
 Wer die Software testen möchte kann sie sich über das Kubuntu-Beta-PPA
 unter 10.10 ([Anleitung Beta
 PPA](http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_10.10_auf_KDE_4.6_aktualisieren "http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_10.10_auf_KDE_4.6_aktualisieren"))
 installieren.
 
-</p>
+
 Wer auch KDE PIM 4.6 (Kontact, KMail, etc.) testen möchte braucht noch
 das experimentelle PPA ([Anleitung Experimental
 PPA](http://wiki.kubuntu-de.org/Konfiguration/Programme_installieren/Paketmanagement/Paketquellen/Maverick/ExperimentalPPA "http://wiki.kubuntu-de.org/Konfiguration/Programme_installieren/Paketmanagement/Paketquellen/Maverick/ExperimentalPPA")).
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

@@ -8,13 +8,13 @@ Heute ist die
 <a href="ftp://ftp.freiesmagazin.de/2009/freiesMagazin-2009-10.pdf">Oktoberausgabe  
 
 von
-[freies]{style="font-weight: bold; color: rgb(115, 115,<br /></p><p>115);"}[Magazin]{style="color: rgb(255, 102,<br /></p><p>0);"}</a>
+[freies]{style="font-weight: bold; color: rgb(115, 115,<br />115);"}[Magazin]{style="color: rgb(255, 102,<br /></p><p>0);"}</a>
 erschienen. Falls man hinter einer Firewall sitzt, die FTP nicht
 zulässt, ist das Magazin auch per [HTTP-Zugriff auf das
 FTP-Verzeichnis](http://www.freiesmagazin.de/ftp/2009/freiesMagazin-2009-10.pdf)
 zu erreichen.
 
-</p>
+
 Auch diesen Monat gibt es wieder eine HTML-Ausgabe für Mobilgeräte [ohne
 Bilder](http://freiesmagazin.de/mobil/freiesMagazin-2009-10.html) und
 [mit
@@ -22,12 +22,12 @@ Bildern](http://freiesmagazin.de/mobil/freiesMagazin-2009-10-bilder.html)
 (ca. 1,3 MB). Unter der Adresse <http://freiesmagazin.de/mobil/> findet
 man immer die aktuelle und alle bisher erschienenen Mobil-Ausgaben.
 
-</p>
+
 <!--break--><!--break-->
 
 Inhalte der Ausgabe 10/2009 sind
 
-</p>
+
 -   Grundbegriffe der Virtualisierung
 -   Gefahren von Fremdquellen am Beispiel PPA
 -   Der September im Kernel-Rückblick
@@ -39,27 +39,27 @@ Inhalte der Ausgabe 10/2009 sind
 -   41\. DANTE-Mitgliedertagung in Esslingen
 -   Veranstaltungskalender und Leserbriefe
 
-</p>
+
 Vor allem auf den [zweiten
 Programmierwettbewerb](http://www.freiesmagazin.de/20090927-zweiter-programmierwettbewerb-gestartet),
 der am 27. September gestartet wurde und bis Mitte Dezember läuft, soll
 besonders hingewiesen werden.
 
-</p>
+
 Das vollständige Inhaltsverzeichnis findet man auf der [Webseite der
 aktuellen Ausgabe](http://www.freiesmagazin.de/freiesMagazin-2009-10).
 Leserbriefe mit Lob, Kritik, Anregungen oder Fragen können an die
 [Redaktion](http://www.freiesmagazin.de/kontakt) geschickt werden.
 
-</p>
+
 Wer jeden Monat an die neue Ausgabe erinnert werden will, kann auch den  
 
 [RSS-Feed](http://www.freiesmagazin.de/rss.xml) abonnieren. Auf der
 [Magazin-Seite](http://www.freiesmagazin.de/magazin) können die letzten
 drei Ausgaben von
-[freies]{style="font-weight: bold;<br /></p><p>color: rgb(115, 115, 115);"}[Magazin]{style="color: rgb(255,<br /></p><p>102, 0);"}
+[freies]{style="font-weight: bold;<br />color: rgb(115, 115, 115);"}[Magazin]{style="color: rgb(255,<br /></p><p>102, 0);"}
 abgerufen werden, ältere Ausgaben findet man im
 [Archiv](http://www.freiesmagazin.de/archiv).
 
-</p>
+
 

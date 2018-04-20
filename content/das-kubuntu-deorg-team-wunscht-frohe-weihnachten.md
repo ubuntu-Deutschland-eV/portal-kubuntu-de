@@ -11,16 +11,16 @@ Tür. Dieses Jahr ist viel passiert, wir haben uns neu aufgestellt, KDE
 SC 4.6.x und KDE SC 4.7.4 sind herausgekommen, und in unserem Projekt
 gibt es immer noch viel zu tun.
 
-</p>
+
 Das Kubuntu-de.org-Team wünscht Euch ein frohes und gesegnetes
 Weihnachtsfest, sowie einen erfolgreichen Übergang ins neue Jahr.
 
-</p>
+
 <!--break--><!--break-->
 
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?topic=16277) diskutiert
 werden.
 
-</p>
+
 

@@ -12,7 +12,7 @@ Freeze (neue Funktionen werden nicht mehr hinzugefügt) ist für den 19.
 Februar 2009 datiert. **Vorversionen von Jaunty sind nicht für den
 produktiven Einsatz geeignet!**
 
-</p>
+
 Neben der Beta 2 von KDE 4.2 gibt es zahlreiche neue Programme sowie
 viele aktualisierte Versionen und auch Korrekturen ärgerlicher Fehler.
 Einzug erhalten hat zudem Powerdevil, der den Zugriff auf
@@ -20,7 +20,7 @@ Stromeinstellungen über KRunner ermöglicht. Der Powerdevil ersetzt den
 Guidance Power Manager, der jedoch in den Quellen (Universe) verfügbar
 bleibt.
 
-</p>
+
 <!--break--><!--break-->
 
 Dies alles sind jedoch Merkmale einer Vorversion von Kubuntu, demzufolge
@@ -30,9 +30,9 @@ berichten](https://launchpad.net/distros/ubuntu/+filebug "https://launchpad.net/
 allgemeine
 [Rückmeldungen](https://wiki.kubuntu.org/JauntyJacalope/Alpha2/Kubuntu/Feedback "https://wiki.kubuntu.org/JauntyJacalope/Alpha2/Kubuntu/Feedback").
 
-</p>
+
 Kubuntu 9.04 Jaunty Jackalope Alpha 2 kann
 [hier](http://cdimage.ubuntu.com/kubuntu/releases/jaunty/alpha-2/ "http://cdimage.ubuntu.com/kubuntu/releases/jaunty/alpha-2/") herunter geladen werden.
 
-</p>
+
 

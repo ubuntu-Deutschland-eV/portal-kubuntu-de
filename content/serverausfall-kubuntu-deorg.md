@@ -15,13 +15,13 @@ der Firma Hetzner auf den kubuntu-de.org umziehen soll. Wer sich bei
 dieser Aktion helfend einbringen möchte, kann sich gerne im Forum oder
 IRC(\#kubuntu-de.org auf freenode) bei uns melden.
 
-</p>
-</p>
+
+
 <!--break--><!--break-->
 
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?topic=14659.0 "http://forum.kubuntu-de.org/index.php?topic=14659.0")
 diskutiert werden.
 
-</p>
+
 

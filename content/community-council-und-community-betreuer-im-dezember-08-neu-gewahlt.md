@@ -17,24 +17,24 @@ stehen könnten.
 
 Es wurden folgende Teammitglieder in das neue CC gewählt:
 
-</p>
--   txwikinger
-    </p>
-    <p>
--   PTS
-    </p>
-    <p>
--   Blizzz
-    </p>
-    <p>
--   mcas
-    </p>
-    <p>
--   neversfelde
-    </p>
-    <p>
 
-</p>
+-   txwikinger
+    
+    
+-   PTS
+    
+    
+-   Blizzz
+    
+    
+-   mcas
+    
+    
+-   neversfelde
+    
+    
+
+
 <!--break--><!--break-->
 
 Die Ernennung des Community Betreuers und des Teamsprechers fand auf dem
@@ -49,5 +49,5 @@ Betreuer](http://wiki.kubuntu-de.org/Team:Community_Betreuung "http://wiki.kubun
 [Forum](http://forum.kubuntu-de.org "http://forum.kubuntu-de.org") oder
 [IRC](http://wiki.kubuntu-de.org/Team:IRC "http://wiki.kubuntu-de.org/Team:IRC") anfragen.
 
-</p>
+
 

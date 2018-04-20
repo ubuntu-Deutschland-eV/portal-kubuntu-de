@@ -21,13 +21,13 @@ auch ein ContextView Applet um sich Alben anzusehen.
 
 Weiterhin wurden auch die DBus und QTScript APIs verbessert.
 
-</p>
+
 Natürlich sind auch eine Menge Bugfixes in dieses Release eingeflossen.  
 
 Alle Änderungen sind in der [offiziellen Release
 Ankündigung](http://amarok.kde.org/en/node/529 "http://amarok.kde.org/en/node/529") aufgeführt.
 
-</p>
+
 Pakete der aktuellen Alphaversion sind über das [Paketarchiv von Project
 Neon](http://www.kubuntu-de.org/nachrichten/software/kde/amarok/project-neon-amarok-2-pakete-f-r-kubuntu "http://www.kubuntu-de.org/nachrichten/software/kde/amarok/project-neon-amarok-2-pakete-f-r-kubuntu") verfügbar.  
 
@@ -35,5 +35,5 @@ Fehler, die in dieser Version auftreten, sollten beim [KDE
 Bugtracker](http://bugs.kde.org "http://bugs.kde.org")
 gemeldet werden.
 
-</p>
+
 

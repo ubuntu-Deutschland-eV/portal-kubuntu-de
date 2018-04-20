@@ -8,7 +8,7 @@ In Berlin traf man sich dieses Jahr zum Linuxtag, Europas führende Messe
 und Konferenz zum Thema Freie Software, Linux und Open Source. Zusammen
 mit dem Partner "Messe Berlin" wurde diese Premiere organisiert.
 
-</p>
+
 <div align="center">
 
 ![](http://www.kubuntu-de.org/files/LT07/LinuxTag2007_001_1.jpg)
@@ -17,7 +17,7 @@ mit dem Partner "Messe Berlin" wurde diese Premiere organisiert.
 
 </div>
 
-</p>
+
   Wir von der deutschsprachigen Kubuntu-Community hatten mit der Ubuntu-
 und Edubuntu-Community, sowie Linux4Afrika einen gemeinsamen Stand in
 Halle 12 und konnten den Besuchern die wohl beste auf KDE basierende
@@ -31,7 +31,7 @@ nur noch Edgy-CDs mit Handzettel zum Hinweis auf den Downloadlink der
 aktuellen Version verteilen, die aber bei den Besuchern trotzdem regen
 Zuspruch fanden.
 
-</p>
+
 <!--break--><!--break-->
 
 Auf dem Linuxtag präsentierten sich über 80 weitere freie Projekte, aber
@@ -41,7 +41,7 @@ und Trolltech präsentierte QT 4.3 und das Greenphone, welches danach
 auch verlost wurde. Ferner fanden über den gesamten Messezeitraum
 diverse Vorträge und Workshops parallel an verschiedenen Orten statt.
 
-</p>
+
 <div align="center">
 
 ![](http://www.kubuntu-de.org/files/LT07/LinuxTag2007_012_1.jpg) ![](http://www.kubuntu-de.org/files/LT07/LinuxTag2007_041_1.jpg)
@@ -49,7 +49,7 @@ diverse Vorträge und Workshops parallel an verschiedenen Orten statt.
 
 </div>
 
-</p>
+
 Von Sebastian Kuegler (sebas)  wurde ein beeindruckender Vortrag zum
 Thema KDE 4 gehalten, dabei erklärte er unter anderem wie QT3 basierende
 Programme unter KDE4 laufen werden und zeigte, dass die
@@ -61,13 +61,13 @@ Amarok-Scripting und DCOP, und Sven Krohlas präsentierte das neue Amarok
 fand der Bericht des LiMux-Projekts über die Linux-Migration in der
 Münchner Verwaltung besondere Beachtung
 
-</p>
+
 Der letzte Tag stand unter dem Motto Ubuntu Love Day. Sebastian Kuegler
 und Paul Sladen zeigten, wie man (K)Ubuntu installiert und Community
 Manager Jono Bacon stellte Ubuntu und unsere Community vor. Dazu kamen
 Vorträge von Malcolm Yates, Thorsten Spindler und anderen.
 
-</p>
+
 Auch das Zwischenmenschliche kam natürlich nicht zu kurz, so traf sich
 ein Teil unseres Teams zum Teil erstmals persönlich schon am Tag vor der
 Eröffnung des LinuxTags in der eigens angemieteten Wohnung. Am 30.05.
@@ -79,7 +79,7 @@ Trolltech lud uns, sowie andere Projekte (KDE, Debian, Fedora, ...) am
 organisierte Ubuntu-Grill in der Kulturfabrik statt, ein wahrlich
 krönender Abschluss.
 
-</p>
+
 <div align="center">
 
 ![](http://www.kubuntu-de.org/files/LT07/LinuxTag2007_072_1.jpg)
@@ -88,7 +88,7 @@ krönender Abschluss.
 
 </div>
 
-</p>
+
 Fazit: Der LinuxTag 2007 war ein voller Erfolg und auch das Interesse an
 Kubuntu war enorm groß. Wie auf der offiziellen Internetseite
 nachzulesen ist, kamen etwa 9.600 Besucher, von denen laut Messeumfrage
@@ -97,13 +97,13 @@ längerfristigen Vertrag geschlossen, so dass auch 2008 die Veranstaltung
 wieder in der Hauptstadt stattfinden wird. 90% der Befragten erklärten,
 auch im kommenden Jahr wieder kommen zu wollen.
 
-</p>
+
 Ein großes Dankeschön dem LinuxTag, der "Messe Berlin" und allen, die
 uns so weitreichend unterstützt haben.
 
-</p>
+
 Weitere Bilder vom LinuxTag:
 <http://www.kubuntu-de.org/bilder/events/linuxtag-2007>
 
-</p>
+
 

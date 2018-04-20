@@ -18,7 +18,7 @@ Wettbewerb zwischen den unterschiedlichen lokalen Communities und den
 einzelnen Teilnehmern der Aktion, der in einer
 [Statistik](http://daniel.holba.ch/5-a-day-stats/ "http://daniel.holba.ch/5-a-day-stats/") beobachtet werden kann.
 
-</p>
+
 Das Bugteam von Kubuntu-de.org leistet hier schon seit geraumer Zeit
 hervorragende Arbeit und steht nicht umsonst an erster Stelle der
 Statistik. Allein 800 der inzwischen über 2000 bearbeiteten
@@ -29,7 +29,7 @@ Kubuntu Entwickler Jonathan
 Riddell](http://www.kdedevelopers.org/node/3538 "http://www.kdedevelopers.org/node/3538") anschließen und diesen beiden und natürlich allen Mitarbeitern im
 Bugteam herzlich gratulieren!
 
-</p>
+
 <!--break--><!--break-->
 
 Das Bearbeiten von Fehlerberichten ist ein gute Möglichkeit sich für
@@ -45,12 +45,12 @@ etwas Zeit leicht zu bewerkstelligen. Wie wichtig die Bugarbeit nicht
 nur für Kubuntu ist, zeigt auch ein [Blogeintrag von Marc
 Shuttleworth](http://www.markshuttleworth.com/archives/145 "http://www.markshuttleworth.com/archives/145").
 
-</p>
+
 Um den ersten Einstieg ins Bugteam und das Bearbeiten von
 Fehlerberichten zu erleichtern wurde die englische Website zu der Aktion
 ins [Deutsche
 übersetzt.](http://wiki.kubuntu-de.org/Team:Bugreports/Mithelfen/5-a-day "http://wiki.kubuntu-de.org/Team:Bugreports/Mithelfen/5-a-day") Weitere Hilfe ist im [IRC-Kanal
 \#kubuntu-de-bugs](http://wiki.kubuntu-de.org/Team:IRC "http://wiki.kubuntu-de.org/Team:IRC") zu finden.
 
-</p>
+
 

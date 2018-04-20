@@ -16,7 +16,7 @@ zu erstellen. Diese sollen, in die im Sommer erscheinende, KDE Version
 ist, zeigen die wunderschönen Hintergrundbilder von KDE 4, die auch aus
 einem solchen Wettbewerb hervorgegangen sind.
 
-</p>
+
 Die Teilnahmefrist endet am 9. April 2008 um 18:00 UTC. Bis dahin
 sollten die Beiträge in die Rubrik [**Plasma
 Themes**](http://kde-look.org/index.php?xcontentmode=76 "http://kde-look.org/index.php?xcontentmode=76")[ auf][www.kde-look.org](http://kde-look.org/index.php?xcontentmode=76 "http://kde-look.org/index.php?xcontentmode=76") hochgeladen werden; am besten als .tar.gz Datei des
@@ -28,16 +28,16 @@ Karbon, etc. möglich. Eine einfache Schritt-für-Schritt Anleitung auf
 Englisch findet sich unter
 [techbase.kde.org](http://techbase.kde.org/index.php?title=Development/Tutorials/Plasma/Theme "http://techbase.kde.org/index.php?title=Development/Tutorials/Plasma/Theme").
 
-</p>
+
 An Regeln gibt es folgendes zu beachten: Die Themes müssen unter LGPL,
 oder einer anderen freien Lizenz, die kompatibel zur GPL ist,
 veröffentlich werden. Außerdem wird wert gelegt auf eine konsistente und
 vollständige Erscheinung des Themes. Das Plasma Team wünscht sich
 zahlreiche und originelle Beiträge!
 
-</p>
+
 Weitere Informationen können der englischen Ankündigung auf
 [dot.kde.org](http://dot.kde.org/1206097090/ "http://dot.kde.org/1206097090/") entnommen werden.
 
-</p>
+
 <!--break--><!--break--><!-- Saved in parser cache with key kubuntu_wiki:pcache:idhash:2580-0!1!0!!en!2 and timestamp 20080401202928 --><!-- Saved in parser cache with key kubuntu_wiki:pcache:idhash:2580-0!1!0!!en!2 and timestamp 20080401202928 -->

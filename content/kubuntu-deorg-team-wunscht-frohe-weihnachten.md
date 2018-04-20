@@ -10,10 +10,10 @@ height="120"}](/Datei:Christmas_bells.png) Das Kubuntu-de.org
 Team wünscht Euch und Euren Familien ein frohes,besinnliches
 Weihnachtsfest und einen guten Start ins neue Jahr.
 
-</p>
+
 Eure Grüße können im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0) mitgeteilt
 werden.
 
-</p>
+
 

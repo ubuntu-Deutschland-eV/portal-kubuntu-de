@@ -11,7 +11,7 @@ zulässt, ist das Magazin auch per [HTTP-Zugriff auf das
 FTP-Verzeichnis](http://www.freiesmagazin.de/ftp/2010/freiesMagazin-2010-01.pdf)
 zu erreichen.
 
-</p>
+
 Auch diesen Monat gibt es wieder eine HTML-Ausgabe für Mobilgeräte [ohne
 Bilder](http://freiesmagazin.de/mobil/freiesMagazin-2010-01.html) und
 [mit
@@ -19,12 +19,12 @@ Bildern](http://freiesmagazin.de/mobil/freiesMagazin-2010-01-bilder.html)
 (ca. 4,2 MB). Unter der Adresse <http://freiesmagazin.de/mobil/> findet
 man immer die aktuelle und alle bisher erschienenen Mobil-Ausgaben.
 
-</p>
+
 <!--break--><!--break-->
 
 Inhalte der Ausgabe 01/2010 sind
 
-</p>
+
 -   Kurze Vorstellung der zwölften Fedora-Ausgabe
 -   Raus aus der Ubuntu-Paketabhängigkeitshölle
 -   Der Dezember im Kernelrückblick
@@ -36,13 +36,13 @@ Inhalte der Ausgabe 01/2010 sind
 -   Abschluss des zweiten Programmierwettbewerbs
 -   Veranstaltungskalender und Leserbriefe
 
-</p>
+
 Das vollständige Inhaltsverzeichnis findet man auf der [Webseite der
 aktuellen Ausgabe](http://www.freiesmagazin.de/freiesMagazin-2010-01).
 Leserbriefe mit Lob, Kritik, Anregungen oder Fragen können an die
 [Redaktion](http://www.freiesmagazin.de/kontakt) geschickt werden.
 
-</p>
+
 Wer jeden Monat an die neue Ausgabe erinnert werden will, kann auch den
 [RSS-Feed](http://www.freiesmagazin.de/rss.xml) abonnieren.  
 
@@ -52,5 +52,5 @@ letzten drei Ausgaben von
 abgerufen werden, ältere Ausgaben findet man im
 [Archiv](http://www.freiesmagazin.de/archiv).
 
-</p>
+
 

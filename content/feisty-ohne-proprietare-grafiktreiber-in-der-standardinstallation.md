@@ -11,7 +11,7 @@ nicht enthalten sein werden. Selbstverständlich werden die unfreien
 Treiber aber, wie in den vorherigen Veröffentlichungen, einfach
 nachinstallierbar sein, falls der Nutzer dies wünscht.
 
-</p>
+
 <!--break--><!--break-->
 
 Der Technische Vorstand von Ubuntu hält damit weiter an seiner
@@ -24,7 +24,7 @@ notwendig sind, da freie Alternativen vorhanden sind. In diesem
 Zusammenhang will Ubuntu den freien Nvidia Treiber "Nouveau" genauer
 beobachten und auch unterstützen.
 
-</p>
+
 Um mit neuen 3D Technologien dennoch auf der Höhe der Zeit zu bleiben
 wurde zusätzlich beschlossen eine neue Möglichkeit zu schaffen, diese
 Effekte zu aktivieren. Zwar wurden Bedenken hinsichtlich des
@@ -32,18 +32,18 @@ Fortschrittes von Beryl und Co. geäußert, den Nutzern soll aber eine
 einfache Methode zur Verfügung stehen ihren Desktop entsprechend zu
 erweitern.
 
-</p>
+
 -   die Entscheidung des Technischen Vorstandes ist
     [hier](https://lists.ubuntu.com/archives/ubuntu-announce/2007-February/000098.html "Entscheidung des Vorstandes")
     (englisch) zu finden.
 -   weitere Informationen bei
     [ProLinux](http://www.pro-linux.de/news/2007/10836.html "ProLinux").
-    </p>
-    <p>
+    
+    
 
-</p>
+
 Diese Nachricht kann im [Forum](/forum/index.php?topic=7720.0 "Forum")
 diskutiert werden.
 
-</p>
+
 

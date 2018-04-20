@@ -11,28 +11,28 @@ Forward" freigegeben. Die Entwicklung soll sich von nun an auf Version
 erscheinen wird. Das neue Amarok bringt viele Fehlerkorrekturen und
 einige neue Funktionen mit sich:
 
-</p>
+
 <!--breal--><!--breal-->
 
 -   die Unterstützung für benutzerdefinierte Song Label bietet eine
     weitere Möglichkeit die Musiksammlung zu organisieren.
-    </p>
-    <p>
+    
+    
 -   den Magnatune Redownload Manager mit dem gekaufte Musik immer
     wieder, auch in anderen Formaten heruntergeladen werden kann
 -   verbesserte Soundqualität, wenn man den Equalizer mit Xine benutzt
 -   Cover werden nun auch in der Sammlungsübersicht angezeigt
 
-</p>
+
 Eine vollständige Übersicht über alle neuen Funktionen und Korrekturen
 gibt es [hier](http://amarok.kde.org/content/view/10/66/ "ChangeLog") .
 
-</p>
+
 Amarok 1.4.5, vorerst nur für Edgy, ist über das Kubuntu-de.net
 Repository erhältlich. Weiterführende Informationen sind
 [hier](http://packages.kubuntu-de.net/amarok "Repository") zu finden. 
 
-</p>
+
 <div align="center">
 
 [![145release\_small.jpg](/files/Image/nachrichten/software/kde/amarok/amarok-145/145release_small.jpg){width="200"
@@ -40,5 +40,5 @@ height="133"}](/files/Image/nachrichten/software/kde/amarok/amarok-145/145releas
 
 </div>
 
-</p>
+
 

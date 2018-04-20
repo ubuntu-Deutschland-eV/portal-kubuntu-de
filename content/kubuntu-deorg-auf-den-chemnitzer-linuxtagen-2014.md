@@ -11,5 +11,5 @@ Andererseits mit einem [Workshop zum Thema
 Grundeinstellungen](http://chemnitzer.linux-tage.de/2014/de/vortraege/detail/250).
 Besucht uns recht zahlreich!
 
-</p>
+
 

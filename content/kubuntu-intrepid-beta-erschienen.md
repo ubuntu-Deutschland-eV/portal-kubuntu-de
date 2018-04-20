@@ -10,7 +10,7 @@ Dazwischen liegt zudem noch ein Release Candidat (Freigabekandidat), was
 einen letzten Test darstellt und eine Woche vor der geplanten
 Veröffentlichung des fertigen Kubuntu 8.10 freigegeben wird.
 
-</p>
+
 Für die neuste Version von Kubuntu wird nicht nur die aktuellste KDE
 Version (4.1.2) mitgeliefert, sondern auch die Kubuntu eigenen Tools
 wurden besser in KDE4 integriert. Hier sind vor allem Adept 3.0 und
@@ -19,20 +19,20 @@ portiert; in diesem Zuge wurde auch die Bedienoberfläche neu konzipiert,
 zugleich benötigt es nun weniger Ressourcen als sein Vorgänger und ist
 gleichzeitig wesentlich robuster.
 
-</p>
+
 <!--break--><!--break-->
 
 Als Kernel wird die 2.6.27er Version genutzt. Darüber hinaus gibt es
 natürlich noch etliche neue Versionen anderer Programme sowie zahlreiche
 Fehlerkorrekturen.
 
-</p>
+
 Das zu diesem Zeitpunkt noch nicht offiziell erschienene KDE 4.1.2
 bringt der Natur des Pflegereleases entsprechend zahlreiche Korrekturen
 und kleine Verbesserungen mit. Im einzelnen besonders zu nennen sind
 Verbesserungen in:
 
-</p>
+
 -   Konqueror, hinsichtlich der Performance, dem Rendering und der
     Benutzung selbst
 -   Plasma, bezüglich der Stabilität, dem Rendering und der Benutzung
@@ -41,27 +41,27 @@ Verbesserungen in:
     Metadaten
 -   KMail im Bezug auf die Stabilität und Benutzung
 
-</p>
+
 Zusätzlich sind von nun an die KDE 4 eignen Desktopeffekte in Kubuntu
 standardmässig aktiviert, dazu unterstützt KMix jetzt Multimediatasten
 um die Lautstärke zu regeln.
 
-</p>
+
 Von diesem Release erhoffen sich die Entwickler eine Menge Feedback um
 auch die letzten Fehler zu beseitigen.
 
-</p>
+
 **Warnung: Kubuntu 8.10 Intrepid Ibex Beta 1 ist eine reine Test- und
 Entwicklerversion. Sie ist AUF KEINEN FALL für den produktiven Einsatz
 gedacht, da Stabilität und Datensicherheit nicht garantiert werden
 können.**
 
-</p>
+
 Wer mithelfen möchte Intrepid Ibex den letzten Schliff zu geben, kann
 sich die Installations CD vom folgenden Server oder einem passenden
 Mirror herunterladen:
 
-</p>
+
        * http://cdimage.ubuntu.com/kubuntu/releases/intrepid/beta/
 
 Ein Upgrade von Hardy Heron sollte unbedingt nach dieser
@@ -70,5 +70,5 @@ den
 [\[1\]](https://bugs.launchpad.net/ubuntu "https://bugs.launchpad.net/ubuntu"){.external
 .autonumber}Bugtracker von Ubuntu gesendet werden.
 
-</p>
+
 

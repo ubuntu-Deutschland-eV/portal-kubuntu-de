@@ -14,7 +14,7 @@ neuen Version verschaffen möchten. Wer Fehler findet sollte diese direkt
 [melden](http://bugs.kde.org "http://bugs.kde.org")
 damit diese noch bis zur finalen Version behoben werden können.
 
-</p>
+
 Zu den Highlights gehören die Änderungen an KWin und Plasma. So sind die
 Composite Effekte in Abhängigkeit von der Hardwareunterstützung
 aktiviert und es wurden neue Effekte hinzugefügt. Ebenso gibt es neue
@@ -23,7 +23,7 @@ Plasmoids können in Ruby oder Python erstellt werden, darüber hinaus
 wurde die Unterstützung von JavaScript und MacOS X Dashboards Widgets
 verbessert.
 
-</p>
+
 <!--break--><!--break-->
 
 Natürlich wurden auch die Applikationen weiter verbessert, so kann der
@@ -36,22 +36,22 @@ Weitere Informationen liefert das [offizielle
 Announcement](http://www.kde.org/announcements/announce-4.2-beta1.php "http://www.kde.org/announcements/announce-4.2-beta1.php") und der [Feature
 Plan](http://techbase.kde.org/Schedules/KDE4/4.2_Feature_Plan "http://techbase.kde.org/Schedules/KDE4/4.2_Feature_Plan").
 
-</p>
+
 Dieser ersten Beta-Version soll noch eine weitere Beta Mitte Dezember
 folgen. Im Januar soll schließlich ein Release Candidate folgen, ehedem
 am 27. Januar die finale Version freigegeben wird.
 
-</p>
+
 Pakete für Kubuntu 9.04 Jaunty Jackalope (Alpha 1!) stehen bereit und
 werden über das gewöhnliche Update eingespielt. Für die aktuelle Version
 Kubuntu 8.10 Intrepid Ibex wird es von der ersten Beta keine Pakete
 geben, für die kommende Zweite sind aber nicht-unterstützte Pakete aus
 PPA-Quellen geplant.
 
-</p>
+
 **Warnung**: KDE 4.2 Beta 1 ist eine reine Test- und Entwicklerversion.
 Sie ist AUF KEINEN FALL für den produktiven Einsatz gedacht, da
 Stabilität und Datensicherheit nicht garantiert werden können.
 
-</p>
+
 

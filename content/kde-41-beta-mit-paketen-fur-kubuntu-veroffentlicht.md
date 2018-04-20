@@ -19,7 +19,7 @@ geworden. Kontact und zahlreiche andere Anwendungen wurden portiert, und
 an allen Ecken und Enden gibt es Verbesserungen der Stabilität und
 Funktionalität.
 
-</p>
+
 <div align="center">
 
 [![](http://wiki.kubuntu-de.org/images/Kde-svn-korganizer-kmail-preview.png){width="160"
@@ -29,21 +29,21 @@ height="100"}](http://wiki.kubuntu-de.org/images/Kde-svn-panel-krunner-add.widge
 
 </div>
 
-</p>
+
 **Hinweis:** KDE 4.1 Beta ist eine Entwickler- und Testversion und
 richtet sich an diesen Personenkreis, damit noch vorhandene Fehler
 gefunden und beseitigt werden können. Für eine Nutzung auf
 Produktivsystemen ist diese Veröffentlichung nicht vorgesehen!
 
-</p>
+
 <!--break--><!--break-->
 
 []{#Neues_in_KDE_4.1_Beta}
 
-</p>
+
 ### [ Neues in KDE 4.1 Beta]{.mw-headline}
 
-</p>
+
 Das wichtigste zuerst: Plasma die Arbeitsoberfläche von KDE 4 ist
 erwachsen geworden. Es gibt viele neue Möglichkeiten zur
 Personalisierung und Konfiguration. Dazu zählt, dass mehrere auch in der
@@ -55,7 +55,7 @@ und einige neue Effekte wurden eingepflegt, wie die "wackelnden" Fenster
 und der "Cover-Switch" Effekt, der beim Wechseln zwischen Programmen
 durch ALT+TAB gezeigt wird.
 
-</p>
+
 Einige der größten noch ausstehenden Portierungen wurden abgeschlossen:
 Kontact und mit ihm alle Programme der KDE-PIM Suite wurden auf KDE 4
 portiert, und werden in der Version 4.1 zum ersten mal veröffentlicht.
@@ -64,13 +64,13 @@ Firmen interessant sind, z.B. eine bessere Unterstützung für mehrere
 Kalender und Zeitzonen. Ausserdem wurden neue Komponenten wie
 KTimeTracker oder die Notizanwendugn KJots hinzugefügt.
 
-</p>
+
 [![](http://wiki.kubuntu-de.org/images/Kde-svn-dolphin-preview.png){width="160"
 height="100"}](http://wiki.kubuntu-de.org/images/Kde-svn-dolphin.png)[![](http://wiki.kubuntu-de.org/images/Kde-svn-wobbly-windows-snow-preview.png){width="160"
 height="100"}](http://wiki.kubuntu-de.org/images/Kde-svn-wobbly-windows-snow.png)[![](http://wiki.kubuntu-de.org/images/Kde-svn-gwenview-okular-preview.png){width="160"
 height="100"}](http://wiki.kubuntu-de.org/images/Kde-svn-gwenview-okular.png)
 
-</p>
+
 Aber auch schon portierte Programme wurden verbessert. Dazu gehört
 Konqueror, der eine Sitzungsverwaltung erhalten hat und durch ein
 verbessertes, weicheres Scrollen auffällt. Gwenview wurde ein neuer
@@ -83,13 +83,13 @@ gibt es eine neue verbesserte Oberfläche für "Neue Sachen abholen".
 Zudem wurde Zeroconf, für die Netzwerkkonfiguration in die KDE-Spiele
 integriert.
 
-</p>
+
 []{#Verbesserungen_im_Herz_von_KDE}
 
-</p>
+
 ### [ Verbesserungen im Herz von KDE]{.mw-headline}
 
-</p>
+
 Natürlich sind auch die KDE-Kernbibliotheken und die Infrastruktur von
 KDE 4 weiterentwickelt und optimiert worden. Dazu zählt vor allem die
 Verbesserung der Geschwindigkeit in KHTML, sowie die Integration von
@@ -102,13 +102,13 @@ Netzwerkverwaltung wurde so erweitert, dass verschiedene Netzwerkmanager
 angesprochen werden können. Ausserdem werden nun die Spezifikationen von
 freedesktop.org für Meldungsfenster und Lesezeichen eingehalten.
 
-</p>
+
 []{#KDE_4.1_Beta_1_installieren}
 
-</p>
+
 ### [ KDE 4.1 Beta installieren]{.mw-headline}
 
-</p>
+
 Pakete für Kubuntu Hardy Heron sind verfügbar über das persönliche
 Paketarchiv der Kubuntu Entwickler. Um die Pakete zu installieren muss
 folgende Zeile "deb
@@ -116,7 +116,7 @@ folgende Zeile "deb
 sources.list hinzugefügt und ein vollständiges Update der Paketquellen
 und ein Upgrade durchgeführt werden.
 
-</p>
+
 Wer KDE 4 noch nicht installiert hatte, muss erst das Paket
 "kubuntu-kde4-desktop" installieren. Das neu hinzugekommene Kontact kann
 mittels des Pakets "kdepim-kde4" installiert werden. Es wird empfohlen
@@ -124,18 +124,18 @@ alle Einstellungen im Verzeichnis \~/.kde4 zu sichern, und dieses
 Verzeichnis vor der Installation zu löschen, um Komplikationen mit nicht
 kompatiblen Konfigurationen auszuschließen.
 
-</p>
+
 Etwaige Fehler oder Probleme können gerne im IRC Kanal \#kubuntu-kde4
 auf irc.freenode.org disktutiert werden. Dies wird den Entwicklern
 helfen Probleme von KDE selbst von Fehlern in den Paketen zu
 unterscheiden. Fehlerberichte sollten natürlich auch im [Bugtracker von
 KDE](http://bugs.kde.org) gemeldet werden.
 
-</p>
+
 Wer lieber selbst kompiliert kann den vollständige Quellcode von KDE
 4.0.80 - so die offizielle Versionsnummer - von der [KDE-Homepage
 herunterladen](http://www.kde.org/info/4.0.80.php "http://www.kde.org/info/4.0.80.php"), und sich anhand der [detaillierten Anleitungen zum
 Kompilieren](http://techbase.kde.org/Getting_Started/Build/KDE4 "http://techbase.kde.org/Getting_Started/Build/KDE4") KDE 4.1 Beta selbst bauen.
 
-</p>
+
 

@@ -16,7 +16,7 @@ vorzuführen und Hilfestellungen bei Problemen mit und um Kubuntu zu
 geben. Nebenbei gab es auch die Gelegenheit zwei sehr interessante
 Vorträge über das kommende KDE 4.0 zu hören.           
 
-</p>
+
 <div align="center">
 
 [![comm@nder, emu und Czessi vor dem Kubuntu-Stand auf dem
@@ -25,12 +25,12 @@ Stand von
 Kubuntu](http://www.kubuntu-de.org/files/Dresden-07/007.jpg)](http://www.kubuntu-de.org/bilder/events/linux-info-tag-dresden-2007#img6)[![Banner
 des Linux-Info-Tags im neuen Gebäude der Informatik Fakultät der
 TU-Dresden](http://www.kubuntu-de.org/files/Dresden-07/010.jpg)](http://www.kubuntu-de.org/bilder/events/linux-info-tag-dresden-2007#img9)
-</p>
-<p>
+
+
 
 </div>
 
-</p>
+
 Der Linux-Info-Tag Dresden ist eine eher kleine Veranstaltung, die von
 der örtlichen [Linux-User-Group](http://lug-dd.schlittermann.de/%20)
 organisiert wird, und die es trotz ihrer eher geringen Größe immer
@@ -41,7 +41,7 @@ In der neuen Informatik-Fakultät der TU-Dresden, wo diesmal die
 Veranstaltung ihren Ort gefunden hatte, stellte sich schnell eine sehr
 familiäre Atmosphäre ein, in der sich die Besucher sehr wohlfühlten.
 
-</p>
+
 <!--break--><!--break-->
 
 Der Stand von Kubuntu-de.org war - wie ihr auf den Fotos sehen könnt -
@@ -63,7 +63,7 @@ war sehr interessant, und der Vertreter von
 [CaCert](http://www.cacert.org/index.php?lang=de_DE) hatte am späten
 Nachmittag dann doch noch einiges zu tun um alle Anfragen abzuarbeiten.
 
-</p>
+
 Neben der deutschen Kubuntu Gemeinschaft und [KDE](http://www.kde.de/)
 war natürlich die [Linux-User-Group](http://lug-dd.schlittermann.de/)
 Dresden vertreten. Außerdem waren noch die AG DSN,
@@ -74,7 +74,7 @@ findet sich auf der [Homepage des
 Linux-Info-Tag](http://www.linux-info-tag.de/)s unter der Rubrik "Stände
 & Demos".
 
-</p>
+
 Vorträge und Workshops gab es zahlreiche und sehr Interessante in allen
 Schwierigkeitsgraden. Für die Einsteiger gab es eine Einführung in das
 Arbeiten mit Wikipedia und einen OpenOffice.org-Workshop. Für die
@@ -88,7 +88,7 @@ Möglichkeit sich in einem Workshop mit der Programmierung von
 Plasma-Applets zu beschäftigen während gleich zwei Vorträge aus
 unterschiedlicher Perspektive KDE 4 vorstellten.
 
-</p>
+
 Die Besucher konnten sich bei dem hervorragenden und engagierten Vortrag
 von Jos Poortvliet über KDE und im speziellen über das kommende KDE 4
 informieren. Jos wurde nicht müde zu betonen, dass KDE immer noch 55-60%
@@ -109,7 +109,7 @@ zeigen, dass das was unter KDE 3 ein simpler "Ordneröffner" ist unter
 KDE 4 zu einem mächtigen und einfach zu bedienenden Dateimanager wird,
 der sich nahtlos in die Desktopumgebung einfügt.
 
-</p>
+
 Der Vortrag des KDE-Entwicklers Tobias König hingegen warf einen eher
 technischen Blick unter die Motorhaube des kommenden KDE 4. Nach einem
 kleinen Rückblick in die Geschichte von KDE wurden die verschiedenen
@@ -117,16 +117,16 @@ Frameworks wie Plasma, Strigi, Phonon oder Akanodi detailliert
 vorgestellt und mit kleinen Codesnippets die einfache Anwendung dieser
 KDE-Bestandteile erläutert.
 
-</p>
+
 <div align="center">
 
 [![](http://www.kubuntu-de.org/files/Dresden-07/013.jpg)](http://www.kubuntu-de.org/bilder/events/linux-info-tag-dresden-2007#img12)[![](http://www.kubuntu-de.org/files/Dresden-07/026.jpg)](http://www.kubuntu-de.org/bilder/events/linux-info-tag-dresden-2007#img25)[![](http://www.kubuntu-de.org/files/Dresden-07/044.jpg)](http://www.kubuntu-de.org/bilder/events/linux-info-tag-dresden-2007?page=1#img13)
-</p>
-<p>
+
+
 
 </div>
 
-</p>
+
 Für Kubuntu war der Linux-Info-Tag ein voller Erfolg, das
 Kubuntu-de.org-Team konnte viele CDs verteilen, zahlreiche Probleme
 lösen und Fragen beantworten. Die Veranstaltung zeigte auch, dass KDE
@@ -138,5 +138,5 @@ feine Veranstaltung, die sich in den neuen Räumlichkeiten in den
 nächsten Jahren sicher wachsender Beliebtheit erfreuen wird - Und
 natürlich wird Kubuntu auch wieder dabei sein.
 
-</p>
+
 

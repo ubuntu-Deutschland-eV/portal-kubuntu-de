@@ -10,7 +10,7 @@ verökffentlicht. Die Version ist nach der gleichnamigen
 KDE-Entwicklerkonferenz benannt, die kürzlich in San Diego, USA, statt
 fand.
 
-</p>
+
 Überaus zeitnah sind ebenfalls Pakete für Kubuntu im Umlauf. In unserem
 Wiki befindet sich eine [Installationsanleitung für KDE 4.4 RC 2 unter
 Kubuntu
@@ -18,16 +18,16 @@ Karmic](http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.10_auf_KDE_SC_
 Pakete für die Entwicklerversion Kubuntu Lucid Lynx werden über die
 Systemupdates angeboten.
 
-</p>
+
 <!--break--><!--break-->
 
 **Achtung: Diese Vorabversion richtet sich ausschließlich an Tester und
 ist nicht für den produktiven Einsatz gedacht!**
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

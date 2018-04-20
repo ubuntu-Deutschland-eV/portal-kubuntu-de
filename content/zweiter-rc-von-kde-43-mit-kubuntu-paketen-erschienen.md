@@ -15,23 +15,23 @@ und bitten um
 Ankündigung
 (engl.)](http://kde.org/announcements/announce-4.3-rc2.php "http://kde.org/announcements/announce-4.3-rc2.php") entnommen werden.
 
-</p>
+
 **Diese Version ist nicht für Endanwender gedacht! Sie sollte nur von
 testbereiten Nutzern verwendet werden, um mögliche Fehler zu finden. Es
 gibt einen Bug der dazu führt, dass während des Updates X abstürzt! Die
 Installation wird im Hintergrund dennoch durchgeführt, ist sie fertig
 ist ein Neustart durchzuführen.**
 
-</p>
+
 <!--break--><!--break-->
 
 Eine Installationsanleitung für KDE 4.3 RC2 unter Kubuntu 9.04 befindet
 sich im
 [Wiki](http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.04_auf_KDE_4.3_aktualisieren "http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.04_auf_KDE_4.3_aktualisieren").
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0") diskutiert werden.
 
-</p>
+
 

@@ -21,37 +21,37 @@ die sich vor allem an besonders kleine Bildschirme anpasst und sich
 stärker nach den Speicherbesonderheiten von Flashdisks in Netbooks
 richtet.
 
-</p>
+
 []{#Das_neue_Kubuntu-Logo:}  
 
 ### [Das neue Kubuntu-Logo:]{.mw-headline}
 
-</p>
+
 [![Datei:Kubuntu plymouth
 splash.png](http://wiki.kubuntu-de.org/images/Kubuntu_plymouth_splash.png){width="320"
 height="230"}](http://wiki.kubuntu-de.org/images/Kubuntu_plymouth_splash.png "Datei:Kubuntu plymouth splash.png")
 
-</p>
+
 <!--break--><!--break-->
 
 []{#KDE_4.4.2_auf_einem_frisch_installiertem_System:}  
 
 ### [KDE 4.4.2 auf einem frisch installiertem System:]{.mw-headline}
 
-</p>
+
 [![Datei:Wee-desktop.png](http://wiki.kubuntu-de.org/images/Wee-desktop.png){width="300"
 height="188"}](/Datei:Wee-desktop.png "Datei:Wee-desktop.png")
 
-</p>
+
 []{#Ein_Bild_der_Netbook-Ausgabe_von_Kubuntu:}  
 
 ### [Ein Bild der Netbook-Ausgabe von Kubuntu:]{.mw-headline}
 
-</p>
+
 [![Datei:Wee-netbook.png](http://wiki.kubuntu-de.org/images/Wee-netbook.png){width="300"
 height="176"}](/Datei:Wee-netbook.png "Datei:Wee-netbook.png")
 
-</p>
+
 **Achtung: Diese Version ist eine Testversion und sollte nicht für ein
 Produktivsystem verwendet werden.** Wer bei den letzten Tests helfen
 will, kann sich direkt die [ISO
@@ -64,10 +64,10 @@ Plasma-Miniprogramm installiert. Dazu genügt ein Rechtsklick auf den
 Desktop, danach kann man unter "Miniprogramme hinzufügen" nach
 "feedback" suchen.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?topic=13672.0")
 diskutiert werden.
 
-</p>
+
 

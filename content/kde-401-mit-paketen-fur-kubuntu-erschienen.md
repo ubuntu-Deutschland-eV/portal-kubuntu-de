@@ -7,7 +7,7 @@ Slug: kde-401-mit-paketen-fur-kubuntu-erschienen
 Erstes Wartungsrelease für KDE 4 erschienen![![Bild:KDE.png](http://wiki.kubuntu-de.org/images/Kde.png){width="100" height="100"}](http://wiki.kubuntu-de.org/images/Kde.png "Bild:KDE4-Plasma.png")
 ============================================================================================================================================================================================================
 
-</p>
+
 Das [KDE-Projekt](http://www.kde.org/ "http://www.kde.org") hat heute mit der Versionsnummer 4.0.1 das [erste Wartungsrelease
 der KDE
 4](http://www.kde.org/announcements/announce-4.0.1.php "http://www.kde.org/announcements/announce-4.0.1.php") Reihe freigegeben und es sind bereits Pakete für Kubuntu 7.10
@@ -26,16 +26,16 @@ einiges geleistet, so ist KDE 4.0.1 nun auch in Dänisch, Friesisch,
 Kasachisch und Tschechisch verfügbar. Insgesamt sind es damit schon fast
 50 Sprachen, in die KDE 4 übersetzt wurde. 
 
-</p>
+
 Update: Das Paket kdelibs5 sollte nicht entfernt werden!
 
-</p>
+
 <!--break--><!--break-->
 
 [ Installation der Pakete]{.mw-headline}
 ----------------------------------------
 
-</p>
+
 Wer unter Kubuntu 7.10 Gutsy Gibbon oder Hardy Heron bereits KDE 4.0
 installiert hat, braucht nur mit dem Paketmanager seiner Wahl (z.B.
 Adept oder apt-get) ein Upgrade durchzuführen. Für alle Anderen hier
@@ -43,11 +43,11 @@ nochmal die Anleitung: Wer schon Hardy Heron installiert hat muss nur
 das Paket kde4-core installieren. Für Gutsy Gibbon ist ein wenig mehr zu
 beachten:
 
-</p>
+
 KDE 4.0.1 installiert sich in das Verzeichnis /usr/lib/kde4 und kann
 daher neben einem bestehenden KDE 3 installiert werden.
 
-</p>
+
 -   Zuerst müssen eventuell vorhandene Pakete einer vorherigen KDE 4
     Installation entfernt werden, da sie nicht mehr kompatibel sind mit
     KDE 4 (apt-get remove kde4base-data kde4libs-data)
@@ -66,22 +66,22 @@ daher neben einem bestehenden KDE 3 installiert werden.
     DISPLAY=:1; xterm in der Konsole ausführen und startkde in dem
     Xerphyr xterm eingeben.
 
-</p>
+
 Eine detaillierte Liste aller Änderungen seit dem Release von KDE 4.0
 ist im englischen
 [Changelog](http://www.kde.org/announcements/changelogs/changelog4_0to4_0_1.php "http://www.kde.org/announcements/changelogs/changelog4_0to4_0_1.php") einzusehen.
 
-</p>
+
 Informationen über KDE 4 im allgemeinen ist in unserer [Ankündigung für
 die Version
 4.0](../../../../nachrichten/software/kde/kde-4-0-mit-kubuntu-paketen-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-0-mit-kubuntu-paketen-erschienen") ersichtlich und auf der deutschen Seite von
 [KDE](http://kde.org/announcements/4.0/index-de.php "http://kde.org/announcements/4.0/index-de.php").
 
-</p>
+
 [ So geht es weiter mit KDE 4]{.mw-headline}
 --------------------------------------------
 
-</p>
+
 Wie schon
 [angekündigt](../../../../nachrichten/software/kde/releasefahrplan-f-r-kde-4 "http://www.kubuntu-de.org/nachrichten/software/kde/releasefahrplan-f-r-kde-4") wird KDE nun jeden Monat ein Wartungsrelease für KDE 4
 herausbringen, bis vorraussichtlich am 29. Juli das nächste große
@@ -91,5 +91,5 @@ informieren möchte, kann diese dem [Feature
 Plan](http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Feature_Plan "http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Feature_Plan") und der Festlegung der [Release
 Ziele](http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Release_Goals "http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Release_Goals") entnehmen.
 
-</p>
+
 

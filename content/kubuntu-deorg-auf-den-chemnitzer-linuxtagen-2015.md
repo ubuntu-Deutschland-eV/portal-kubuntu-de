@@ -9,5 +9,5 @@ auf den [Chemnitzer Linuxtagen](https://chemnitzer.linux-tage.de/2015)
 vertreten - mit einem Stadt und [einem
 Vortrag](https://chemnitzer.linux-tage.de/2015/de/programm/beitrag/422).
 
-</p>
+
 

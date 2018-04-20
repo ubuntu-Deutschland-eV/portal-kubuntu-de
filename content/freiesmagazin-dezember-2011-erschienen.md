@@ -11,12 +11,12 @@ Welt behandelt.
 [![Freiesmagazin-2011-12.png](http://wiki.kubuntu-de.org/images/Freiesmagazin-2011-12.png){width="600"
 height="424"}]
 
-</p>
+
 <!--break--><!--break-->
 
 ### [Inhalt der Ausgabe 12/2011]{#Inhalt_der_Ausgabe_12.2F2011 .mw-headline}
 
-</p>
+
 -   Pardus 2011.2
 -   Unity
 -   Der November im Kernelrückblick
@@ -33,11 +33,11 @@ height="424"}]
 -   Rezension: CouchDB
 -   Veranstaltungskalender und Leserbriefe
 
-</p>
-</p>
+
+
 ### [Downloads]{#Downloads .mw-headline}
 
-</p>
+
 -   [PDF-Version](http://www.freiesmagazin.de/ftp/2011/freiesMagazin-2011-12.pdf)(3679
     KB)
 -   [HTML-Version mit
@@ -47,14 +47,14 @@ height="424"}]
     Bilder](http://www.freiesmagazin.de/mobil/freiesMagazin-2011-12.html)(362
     KB)
 
-</p>
+
 Ältere Ausgaben von freiesMagazin finden Sie im
 [Archiv](http://www.freiesmagazin.de/archiv)
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?topic=16246.0) diskutiert
 werden.
 
-</p>
+
 

@@ -11,7 +11,7 @@ Funktionen. Diese finden sich unter anderem in den Bereichen Podcasts
 und gespeicherten Wiedergabelisten und in der Unterstützung von USB
 Massenspeichern, einschließlich MP3 Playern.
 
-</p>
+
 Nachdem die Entwicklung von Amarok 2 weit voran geschritten ist, haben
 sich die Entwickler dazu entschlossen, auch neue experimentelle
 Funktionen einzubauen, welche sich über die nächsten Version noch
@@ -20,7 +20,7 @@ und eine neue Toolbar. Die Neuerungen basieren auf Anregungen und
 Rückmeldungen der Nutzer, das Amarok Team bittet darum Feedback zu
 geben.
 
-</p>
+
 <!--break--><!--break-->
 
 Die neue Version kann unter Karmic Koala über das Backports PPA
@@ -29,10 +29,10 @@ wird. Benutzer einer Vorabversion von Lucid können, wegen des momentanen
 Beta Freezes über das Experimental PPA die neueste Amarok Version
 installieren. Genauere Angaben hierzu finden sich in unserem Wiki.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?topic=13544.0")
 diskutiert werden.
 
-</p>
+
 

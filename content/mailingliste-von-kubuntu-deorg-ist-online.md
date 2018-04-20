@@ -7,7 +7,7 @@ Slug: mailingliste-von-kubuntu-deorg-ist-online
 Das Team von kubuntu-de.org freut sich, bekanntgeben zu dürfen, dass die
 Team-Mailingliste online ist, und bereit dazu rege genutzt zu werden!
 
-</p>
+
 Um eine gute Kommunikation innerhalb des Teams zu gewährleisten, sollten
 sich alle derzeitigen Mitarbeiter (und solche die es werden wollen) der
 [Launchpad-Gruppe
@@ -17,7 +17,7 @@ kubuntu-de.org](https://launchpad.net/%7Ekubuntu-de.org "https://launchpad.net/~
 sollten sich auch alle anderen, die Interesse daran haben an
 kubuntu-de.org mitzuarbeiten, eintragen.
 
-</p>
+
 <!--break--><!--break-->
 
 Die Liste soll in naher Zukunft das zentrale Kommunikationsmedium werden
@@ -29,9 +29,9 @@ wird und wo noch Hilfe gebraucht wird. Interessenten können sich auf der
 Mailingliste mit dem Team von kubuntu-de.org vertraut machen, und
 interessante Aufgaben finden.
 
-</p>
+
 Kubuntu-de.org kann jede Hilfe gebrauchen und wir freuen uns über neue
 Mitstreiter!
 
-</p>
+
 <!--break--><!--break-->

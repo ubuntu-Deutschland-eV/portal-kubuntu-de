@@ -14,7 +14,7 @@ und Open Source mit.
 
 ### Inhalt der Ausgabe 03/2010
 
-</p>
+
 -   Mandriva Linux 2010
 -   Der Februar im Kernelrückblick
 -   Pimp my Desktop
@@ -27,12 +27,12 @@ und Open Source mit.
 -   Python – kurz & gut
 -   Veranstaltungskalender und Leserbriefe
 
-</p>
+
 <!--break--><!--break-->
 
 ### Downloads
 
-</p>
+
 -   [PDF-Version per
     FTP](ftp://ftp.freiesmagazin.de/2010/freiesMagazin-2010-03.pdf)
     (1906 KB)
@@ -46,7 +46,7 @@ und Open Source mit.
     Bilder](http://www.freiesmagazin.de/mobil/freiesMagazin-2010-03.html)
     (262 KB)
 
-</p>
+
 Unter der Adresse <http://freiesmagazin.de/mobil/> findet man immer die
 aktuelle und alle bisher erschienenen Mobil-Ausgaben. Auf der
 [Magazin-Seite](http://www.freiesmagazin.de/magazin) können die letzten
@@ -57,12 +57,12 @@ abgerufen werden, ältere Ausgaben findet man im
 
 ### Kontakt
 
-</p>
+
 Wer jeden Monat an die neue Ausgabe erinnert werden will, kann auch den
 [RSS-Feed](http://www.freiesmagazin.de/rss.xml) abonnieren. Leserbriefe
 mit Lob, Kritik, Anregungen oder Fragen und neue Artikelvorschläge
 können an die [Redaktion](http://www.freiesmagazin.de/kontakt) geschickt
 werden.
 
-</p>
+
 

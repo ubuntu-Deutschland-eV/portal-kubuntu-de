@@ -17,7 +17,7 @@ Bildern](http://www.freiesmagazin.de/mobil/freiesMagazin-2008-02-bilder.html)
 (ca. 1.3 MB). Unter der Adresse <http://freiesmagazin.de/mobil/> findet
 man immer die aktuelle Mobil-Ausgabe. Inhalte der Ausgabe 02/2008 sind
 
-</p>
+
 -   Micropolis - Wir bauen uns eine Stadt
 -   Mozilla Firefox 3 - The next Generation
 -   HardInfo - Hardwareinformationen anzeigen
@@ -25,7 +25,7 @@ man immer die aktuelle Mobil-Ausgabe. Inhalte der Ausgabe 02/2008 sind
 -   Hinter der Bühne: Interview mit Damian Pietras
 -   Veranstaltungskalender, News, Leserbriefe, u.a.
 
-</p>
+
 Das vollständige Inhaltsverzeichnis finden man auf der [Webseite der
 aktuellen Ausgabe](http://www.freiesmagazin.de/freiesMagazin-2008-02).
 Leserbriefe mit Lob, Kritik, Anregungen oder Fragen können wie immer an
@@ -38,5 +38,5 @@ drei Ausgaben von
 abgerufen werden, ältere Ausgaben findet man im
 [Archiv](http://www.freiesmagazin.de/archiv).
 
-</p>
+
 <!--break--><!--break-->

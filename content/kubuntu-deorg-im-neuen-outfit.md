@@ -23,16 +23,16 @@ künftig die Möglichkeit hat das Design zu verändern, eine Anleitung, wie
 man dies machen kann existiert leider noch nicht, wird aber im Laufe des
 Tages veröffentlicht.
 
-</p>
+
 Freuen würden wir uns über Feedback im
 [Forum](http://forum.kubuntu-de.org/index.php?topic=12487) und wir
 danken natürlich all denen, die so viel Energie, Zeit und Geduld in das
 "Kubuntu Corporate" Design gesteckt haben.
 
-</p>
+
 **Update**: Die Anleitung wie man selbst Fehler korrigieren kann bzw.
 das Layout mitgestalten kann gibt es
 [hier](http://wiki.kubuntu-de.org/Neversfelde:Kubuntu-de.org_gestalten).
 
-</p>
+
 

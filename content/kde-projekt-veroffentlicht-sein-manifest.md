@@ -9,7 +9,7 @@ Die KDE-Community hat ein
 das KDE-Projekt genauer definiert und dessen Ziele auflistet. Zusätzlich
 werden die Grundsätze der KDE-Community beschrieben.
 
-</p>
+
 <!--break--><!--break-->
 
 Das Manifest möchte dabei nicht die Gemeinschaft in eine bestimmte Rolle
@@ -18,10 +18,10 @@ inoffiziell befolgt werden. Viel mehr soll es helfen, dass sich die
 KDE-Gemeinschaft besser mit dem Projekt und ihren Zielen identifizieren
 kann.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0) diskutiert
 werden.
 
-</p>
+
 

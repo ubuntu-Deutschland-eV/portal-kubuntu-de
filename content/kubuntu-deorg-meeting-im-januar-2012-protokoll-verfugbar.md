@@ -6,10 +6,10 @@ Slug: kubuntu-deorg-meeting-im-januar-2012-protokoll-verfugbar
 Das Januar-Meeting ist vorbei, es gibt ein
 [Protokoll](http://wiki.kubuntu-de.org/Meetings:2012-01#Protokoll).
 
-</p>
+
 Es kann [im
 Forum](http://forum.kubuntu-de.org/index.php?topic=16126.msg106302#msg106302)
 diskutiert werden.
 
-</p>
+
 

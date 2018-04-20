@@ -7,7 +7,7 @@ Slug: calligra-24-freigegeben
 [![Calligra.png](http://wiki.kubuntu-de.org/images/Calligra.png){width="250"
 height="177"}]
 
-</p>
+
 <a href="http://flattr.com/thing/634893/Calligra-2-4-freigegeben" target="_blank">  
 
 ![Flattr
@@ -16,7 +16,7 @@ Mittwoch ist die erste stabile Version der umfangreichen KDE-Bürosuite
 [Calligra](http://www.calligra.org/) (ehemals KOffice) veröffentlicht
 worden.
 
-</p>
+
 <!--break--><!--break-->
 
 Calligra versucht neben den üblichen Büroanwendungen
@@ -24,17 +24,17 @@ Calligra versucht neben den üblichen Büroanwendungen
 grafischen Bereich (Malprogramm,Vektorgrafiken) und Projektmanagement
 (Projektplanung) abzudecken.
 
-</p>
+
 Den ersten Überblick über Umfang und Möglichkeiten der Office-Suite,kann
 man sich auf der
 [Projektseite](http://www.calligra.org/tour/calligra-suite/)
 verschaffen.
 
-</p>
+
 Um Calligra auf der aktuellen Kubuntu-Version 11.10 installieren zu
 können,muss das Backport-PPA hinzugefügt werden
 
-</p>
+
 ``` {.shell}
 sudo apt-add-repository ppa:kubuntu-ppa/backports
 ```
@@ -42,18 +42,18 @@ sudo apt-add-repository ppa:kubuntu-ppa/backports
 In der zukünftigen Kubuntu-Version 12.04 ist Calligra bereits in den
 Paketquellen und kann installiert werden.
 
-</p>
+
 Für PPA Pakete gilt selbstverständlich die übliche Warnung.
 
-</p>
+
 Fehler in der Paketierung sollen bitte auf [Launchpad gegen
 kubuntu-ppa](https://bugs.launchpad.net/kubuntu-ppa) gemeldet werden.
 Fehler der Software direkt im [KDE Bugtracker](http://bugs.kde.org/).
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0) diskutiert
 werden.
 
-</p>
+
 

@@ -18,11 +18,11 @@ erstellt. Auch die Podcast-Verwaltung hat viele neue Funktionen
 erhalten, so kann man sich jetzt z.B. die begleitenden HTML
 Informationen zu einem Podcast ansehen.
 
-</p>
+
 Um die Moodbar unter Kubuntu zu nutzen, reicht es das Paket moodbar zu
 installieren. Dafür muss das universe Repository aktiviert sein.
 
-</p>
+
 <!--break--><!--break-->
 
      sudo apt-get install moodbar 
@@ -32,10 +32,10 @@ Eine Anleitung zur [Installation Amarok 2.2.2 unter Kubuntu
 befindet sich im Wiki. In Kubuntu Lucid Lynx wird auf Amarok 2.2.2 über
 das Systemupdate aktualisiert.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

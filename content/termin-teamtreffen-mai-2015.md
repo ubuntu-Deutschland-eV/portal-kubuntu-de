@@ -10,5 +10,5 @@ Am Sonntag, den 03.05.2015, 19 Uhr findet das Meeting in
 Die Agenda ist [im Wiki](http://wiki.kubuntu-de.org/Meetings:2015-05)
 verfügbar.
 
-</p>
+
 

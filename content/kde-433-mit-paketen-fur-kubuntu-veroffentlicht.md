@@ -14,7 +14,7 @@ können dem [Changelog
 (englisch)](http://www.kde.org/announcements/changelogs/changelog4_3_2to4_3_3.php "http://www.kde.org/announcements/changelogs/changelog4_3_2to4_3_3.php")
 entnommen werden.
 
-</p>
+
 Diese Version bringt zahlreiche Verbesserungen – so sind einige Effekte
 und kleine Grafikschnitzer in KWin geglättet worden. JuK, Okular und
 viele andere Anwendungen erfahren Fehlerkorrekturen. Zudem sind
@@ -23,7 +23,7 @@ erweiterte Zugriffsmöglichkeiten. Im Hintergrund wird noch an der
 Anpassung aller Anwendungen auf den Akonadi-Dienst für Speicher und
 Zwischenspeicher gearbeitet.
 
-</p>
+
 <!--break--><!--break-->
 
 Im Wiki befindet sich eine Einleitung zum [Upgraden von Kubuntu 9.10 auf
@@ -33,13 +33,13 @@ KDE
 den Servern verfügbar kann noch etwas Zeit vergehen. Bei Unsicherheit
 wartet man besser 1, 2 Stunden mit dem Upgrade.**</br>
 
-</p>
+
 Für Jaunty wird es vermutlich keine Pakete geben.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

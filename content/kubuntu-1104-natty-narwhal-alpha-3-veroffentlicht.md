@@ -18,13 +18,13 @@ heruntergeladen](http://cdimage.ubuntu.com/kubuntu/releases/natty/alpha-3/ "http
 werden. **Diese Version ist eine Testerversion und sollte nicht für ein
 Produktivsystem verwendet werden.**
 
-</p>
+
 Speziell bei Kubuntu fließt bei der künftigen Version wieder ein
 funktionsfähiges Samba-Freigabesystem ein, dass einen Datenaustausch mit
 Windows-Rechner ermöglicht. Darüber hinaus gibt es ein neues Menü zur
 Sprachauswahl, dass sich in die Regionaleinstellungen integriert.
 
-</p>
+
 <!--break--><!--break-->
 
 Fortschritte hat die Druckereinrichtung gemacht, die mit vielen Updates
@@ -33,7 +33,7 @@ erkennen und einbinden kann. Die vielversprechende, aber noch junge
 Cloud-Lösung "ownCloud" ist paketiert und steht fortan zur Installation
 bereit.
 
-</p>
+
 Selbstverständlich wird die aktuelle Version der [KDE
 4.6](http://www.kubuntu-de.org/nachrichten/software/kde/2054-kde-sc-4-6-mit-kubuntu-paketen-erschienen "http://www.kubuntu-de.org/nachrichten/software/kde/2054-kde-sc-4-6-mit-kubuntu-paketen-erschienen")
 Desktopumgebung, mitsamt den KDE Anwendungen und Plasma Arbeitsflächen
@@ -41,19 +41,19 @@ ausgeliefert. Das Audio-Wiedergabe Backend in Phonon ist von nun an
 GStreamer, da es bessere Kompatibilität mit Ubuntu, dem künftigen HTML 5
 Video-Tag bietet sowie verbesserte Codec-Fähigkeiten mitbringt.
 
-</p>
+
 Für GTK-Anwendungen steht das neue GTK Oxygen-Theme bereit, dass für ein
 einheitlicheres Bild mit dem standardmäßigen KDE Design Oxygen sorgen
 soll. Auf der Installations-CD konnte zudem noch das Spiel Patience
 hinzugefügt werden.
 
-</p>
+
 Ein bekanntes Problem ist derzeit, dass das Schreiben der Datei
 /home/{USERNAME}/.local/share//user-places.xbel durch den kded-Dienst
 scheitert. Zudem stehen zur Zeit keine Installationsabbilder für die ARM
 Architektur zur Verfügung.
 
-</p>
+
 [Allgemeines
 Feedback](https://wiki.kubuntu.org/NattyNarwhal/Alpha3/Kubuntu/Feedback "https://wiki.kubuntu.org/NattyNarwhal/Alpha3/Kubuntu/Feedback")
 jeglicher Art wird begrüßt, sofern der [Code of
@@ -64,5 +64,5 @@ gemeldet werden. Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

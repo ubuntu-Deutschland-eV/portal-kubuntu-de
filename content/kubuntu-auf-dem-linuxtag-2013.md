@@ -8,10 +8,10 @@ Kubuntu-de.org ist diese Woche (Mittwoch bis Samstag) wieder auf dem
 [Linuxtag](http://www.linuxtag.org/2013/). Besucht uns an unserem Stand,
 den wir u.A. mit KDE teilen!
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?topic=17151.0) diskutiert
 werden.
 
-</p>
+
 

@@ -18,23 +18,23 @@ finalen Version um eine Woche nach hinten verschoben und soll jetzt am
 Ankündigung
 (engl.)](http://kde.org/announcements/announce-4.3-rc3.php "http://kde.org/announcements/announce-4.3-rc3.php") entnommen werden.
 
-</p>
+
 Diese Version ist nicht für Endanwender gedacht! Sie sollte nur von
 testbereiten Nutzern verwendet werden, um mögliche Fehler zu finden. Das
 [KDE-Team](http://www.kde.org "http://www.kde.org")
 ruft dazu auf, sämtliche [Fehler zu
 melden](http://bugs.kde.org "http://bugs.kde.org").
 
-</p>
+
 <!--break--><!--break-->
 
 Eine Installationsanleitung für KDE 4.3 RC3 unter Kubuntu 9.04 befindet
 sich im
 [Wiki](http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.04_auf_KDE_4.3_aktualisieren "http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.04_auf_KDE_4.3_aktualisieren").
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0") diskutiert werden.
 
-</p>
+
 

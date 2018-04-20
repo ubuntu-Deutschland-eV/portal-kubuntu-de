@@ -12,7 +12,7 @@ Ubuntu 9.04 veröffentlicht. Ubuntu und Kubuntu teilen sich den Unterbau
 und unterscheiden sich nur in der Desktopoberfläche; Ubuntu selbst nutzt
 Gnome und Kubuntu das K Desktop Environment.
 
-</p>
+
 Namentlich ist in Version 9.04 [KDE
 4.2.2](../../../../nachrichten/software/kde/kde-4-2-mit-kubuntu-paketen-veroeffentlicht "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-mit-kubuntu-paketen-veroeffentlicht") enthalten, welches viele Unzulänglichkeiten, die einige Nutzer in
 Version 4.1 noch bemängelt haben, beseitigt. KDE ist ein moderner
@@ -22,7 +22,7 @@ Arbeitsumgebung bietet. Basis für KDE 4.2.2 bietet dabei das neue Qt
 4.5, welches neben neuen Fähigkeiten auch eine schnellere
 Arbeitsumgebung garantiert.
 
-</p>
+
 <!--break--><!--break-->
 
 Daneben setzt Ubuntu nun auf Kernel 2.6.28. Selbstverständlich ist nicht
@@ -50,7 +50,7 @@ Prozessor genutzt wird. Somit kann Kubuntu jetzt noch besser auf Geräten
 – im wesentlichen auf den sogenannten Netbooks – mit diesem Prozessor
 genutzt werden.
 
-</p>
+
 Anwender, die bereits Kubuntu 8.10 nutzen können ihr System
 aktualisieren. Hierfür gibt es verschiedene Möglichkeiten, wobei
 folgende Anleitungen eine
@@ -62,12 +62,12 @@ finden Downloadmöglichkeiten für die Cds oder DVDs
 [hier](http://www.kubuntu.org/getkubuntu "http://www.kubuntu.org/getkubuntu") oder in deutscher Sprache
 [hier](http://www.kubuntu-de.org/download-kubuntu-9-04-jaunty-jackalope-herunterladen)
 
-</p>
+
 Detaillierte Informationen zu dieser Veröffentlichung können den
 englischsprachigen [Release
 Notes](https://wiki.kubuntu.org/JauntyJackalope/Final/Kubuntu "https://wiki.kubuntu.org/JauntyJackalope/Final/Kubuntu") entnommen werden. Bekannte Fehler sind unter anderem:
 
-</p>
+
 -   Bei manchen scheinen die freien ATI Treiber das System zu
     verlangsamen. Man sollte sicherstellen, dass der Paramater "virtual
     size" nicht zu hoch gewählt wird und "XXA" anstelle von "EXA"
@@ -87,7 +87,7 @@ Notes](https://wiki.kubuntu.org/JauntyJackalope/Final/Kubuntu "https://wiki.kubu
 -   Die Sieve Funktionalität in kmail ist fehlerhaft und sollte nicht
     genutzt werden.
 
-</p>
+
 Weitere bekannte Fehler können
 [hier](http://www.ubuntu.com/getubuntu/releasenotes/904 "http://www.ubuntu.com/getubuntu/releasenotes/904") und
 [hier](http://www.kubuntu.org/news/9.04-release "http://www.kubuntu.org/news/9.04-release") gefunden werden. Wie immer benötigen die Entwickler natürlich
@@ -99,10 +99,10 @@ Möglichkeit in \#kubuntu-de-bugs im Freenode Netzwerk jemanden zu
 bitten, eine Fehlermeldung zu übersetzen. Selbstverständlich werden hier
 auch allgemeine Fragen zu diesem Thema beantwortet.
 
-</p>
+
 In eigener Sache würden wir uns über Beiträge im
 [Wiki](http://wiki.kubuntu-de.org/ "http://wiki.kubuntu-de.org") freuen, die die vorhandenen Einträge aktualisieren und natürlich
 auch neue Programme erklären und beschreiben.
 
-</p>
+
 

@@ -14,7 +14,7 @@ gemeldet wurden, beseitigt. Neue Funktionen werden erst wieder in KDE
 4.1, von dem inzwischen die [1.
 Alphaversion](../../../../nachrichten/software/kde/erste-testversion-von-kde-4-1-freigegeben "http://www.kubuntu-de.org/nachrichten/software/kde/erste-testversion-von-kde-4-1-freigegeben") erschienen ist, integriert.
 
-</p>
+
 Viele Korrektekturen sind in die Rendering-Engine KHTML eingeflossen,
 wodurch der Umgang mit CSS3 stark verbessert wurde. Weitere Korrekturen
 wurden unter anderen an Kopete, dem Dateibetrachter Okular, den KDE
@@ -22,7 +22,7 @@ Games Paket und auch an PyKDE vorgenommen. Eine komplette Auflistung ist
 dem englischsprachigen
 [Changelog](http://www.kde.org/announcements/changelogs/changelog4_0_3to4_0_4.php "http://www.kde.org/announcements/changelogs/changelog4_0_3to4_0_4.php") zu entnehmen.
 
-</p>
+
 <!--break--><!--break-->
 
 Wie üblich stehen aktuelle KDE4 Pakete für Kubuntu bereit, welche über
@@ -31,33 +31,33 @@ Adept leicht zu installieren sind. Die Pakete werden nach
 parallel zu betreiben. Um KDE 4.0.4 zu installieren sind folgende
 Schritte nötig:
 
-</p>
+
 **ACHTUNG: Zur Zeit gibt es einige Probleme im Zusammenhang mit Qt 4.4!
 Nur Updaten wenn man bei der Fehlersuche helfen möchte.**
 
-</p>
+
 **Paketquellen aktivieren:**
 
-</p>
+
 -   In Adept über *Paketquellen Verwaltung* unter dem Reiter *Updates*
     die Option *Unsupported Updates* aktivieren
 
-</p>
+
 <strong>Update einer bereits vorhandenen KDE4 Installation:  
 
 </strong>
 
-</p>
+
 -   *Vollständige Aktualisierung* auswählen und *Änderungen anwenden*
 
-</p>
+
 <strong>Erstinstallation von KDE4:  
 
 </strong>
 
-</p>
+
 -   Das Paket *kubuntu-kde4-desktop* zu Installation auswählen und
     *Änderungen anwenden*
 
-</p>
+
 

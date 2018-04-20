@@ -9,16 +9,16 @@ interessante Artikel und Tutorials zum Thema Linux und Open Source
 dabei. Für Mobile Geräte werden zum ersten mal auch zwei EPUB-Versionen
 zum Download angeboten.
 
-</p>
+
 [![Freiesmagazin-2012-01.png](http://wiki.kubuntu-de.org/images/Freiesmagazin-2012-01.png){width="600"
 height="425"}]
 
-</p>
+
 <!--break--><!--break-->
 
 **Die Themen im Überblick**:
 
-</p>
+
 -   ReactOS
 -   Fedora 16
 -   Selbstgebacken: Kernel kompilieren nach Rezept
@@ -33,10 +33,10 @@ height="425"}]
 -   Gewinner des vierten Programmierwettbewerbs
 -   Leserbriefe und Veranstaltungen
 
-</p>
+
 **Downloadmöglichkeiten**:
 
-</p>
+
 -   [PDF-Version](http://www.freiesmagazin.de/ftp/2012/freiesMagazin-2012-01.pdf)
     (2659 KB)
 -   [EPUB-Version mit
@@ -52,17 +52,17 @@ height="425"}]
     Bilder](http://www.freiesmagazin.de/mobil/freiesMagazin-2012-01.html)
     (271 KB)
 
-</p>
+
 Viel Spass beim lesen!
 
-</p>
+
 Ältere Ausgaben von freiesMagazin finden Sie im
 [Archiv](http://www.freiesmagazin.de/archiv)
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0) diskutiert
 werden.
 
-</p>
+
 

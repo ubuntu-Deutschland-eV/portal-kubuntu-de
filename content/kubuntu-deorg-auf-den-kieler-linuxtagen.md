@@ -10,17 +10,17 @@ Live-USB-Stick mit Kubuntu Jaunty haben möchte, kann mit seinem leeren
 USB-Stick zum Stand kommen, er erhält dann innerhalb kürzester Zeit
 wahlweise ein bootbares 32- oder 64-bit-System.
 
-</p>
+
 Außerdem wird Monika Eggers vom kubuntu-de.org-Team einen
 [Vortrag](http://www.kieler-linuxtage.de/index.php?seite=programm.html#Einsteiger "http://www.kieler-linuxtage.de/index.php?seite=programm.html#Einsteiger") über den Umstieg von Windows auf Kubuntu halten, der sich vor
 allem an Einsteiger mit keinen oder geringen Vorkenntnissen richtet. Wir
 freuen uns auf euren Besuch!
 
-</p>
+
 <!--break--><!--break-->
 
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0") diskutiert werden.
 
-</p>
+
 

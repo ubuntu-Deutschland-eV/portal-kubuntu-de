@@ -13,20 +13,20 @@ Beta und KOffice 2.3 Beta 1 sind ab sofort für Kubuntu verfügbar. Fehler
 in der Paketierung sollten gegen kubuntu-ppa im Launchpad gemeldet
 werden. Fehler der Software im Bugtracker von KDE.
 
-</p>
+
 Nutzer von Kubuntu 10.10 können die Pakete aus dem Kubuntu Beta
 Backports PPA installieren. Da keine Pakete für Kubuntu 10.04 LTS
 geplant sind, kann man diese Software nur unter Kubuntu 10.10 testen.
 
-</p>
+
 <!--break--><!--break-->
 
 Vielen Dank an Jonathan, Felix und Rohan für die Hilfe mit den Paketen.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

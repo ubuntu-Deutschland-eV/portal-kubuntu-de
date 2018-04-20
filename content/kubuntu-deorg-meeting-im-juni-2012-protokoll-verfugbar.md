@@ -7,10 +7,10 @@ Slug: kubuntu-deorg-meeting-im-juni-2012-protokoll-verfugbar
 Das Juni-Meeting ist vorbei, es gibt ein
 [Protokoll](http://wiki.kubuntu-de.org/Meetings:2012-06#Protokoll).
 
-</p>
+
 Es kann [im
 Forum](http://forum.kubuntu-de.org/index.php?topic=16126.msg107808#msg107808)
 diskutiert werden.
 
-</p>
+
 

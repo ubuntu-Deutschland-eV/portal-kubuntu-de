@@ -7,7 +7,7 @@ Slug: serverumzug-von-kubuntu-deorg
 Die Webseiten der deutschsprachigen Kubuntu Community sind auf den neuen Server (fafnir) umgezogen
 --------------------------------------------------------------------------------------------------
 
-</p>
+
 Damit ist das Forum und das Wiki ab sofort wieder vollständig verfügbar.
 Für etwaige Unanehmlichkeiten, die durch die Umzugsarbeiten entstanden
 sind bitten wir um Verständnis, leider ist der Umzug nicht ganz so
@@ -17,7 +17,7 @@ Bots der Suchmaschinen nicht mehr ausgesperrt und kubuntu-de.org wird
 hoffentlich bald wieder in den Suchergebnissen von Google und Co.
 auftauchen.
 
-</p>
+
 Dass kubuntu-de.org schon seit längerer Zeit nicht mehr in den
 Suchergebnissen auftauchte,lag daran, dass der Hoster des alten Servers
 die Prozessorlast von kubuntu-de.org minimieren wollte, die durch die
@@ -27,5 +27,5 @@ neversfelde)](http://www.neversfelde.de) - eine neue Heimat gefunden,
 und kann dort dem hoffentlich weiterwachsenden Zustrom an neuen
 Besuchern und zukünftigen Mitgliedern der Community standhalten.
 
-</p>
+
 <!--break--><!--break-->

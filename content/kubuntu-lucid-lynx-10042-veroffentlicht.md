@@ -16,11 +16,11 @@ Wiki](https://wiki.ubuntu.com/LucidLynx/ReleaseNotes/ChangeSummary/10.04.2 "http
 [Downloadseite](http://www.kubuntu-de.org/download-kubuntu-10-04-lucid-lynx-herunterladen "http://www.kubuntu-de.org/download-kubuntu-10-04-lucid-lynx-herunterladen")
 heruntergeladen werden.
 
-</p>
-</p>
+
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 <!--break--><!--break-->

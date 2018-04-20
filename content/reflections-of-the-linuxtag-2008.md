@@ -6,26 +6,26 @@ Slug: reflections-of-the-linuxtag-2008
 
 <div class="content">
 
-</p>
+
 <address>
 **Note:** Das Original in deutsch ist
 [hier](../../../../nachrichten/veranstaltungen/nachlese-linuxtag-2008)
 zu finden (The german original can be found
 [here](../../../../nachrichten/veranstaltungen/nachlese-linuxtag-2008) )
 </address>
-</p>
-<p>
+
+
 
 </div>
 
-</p>
+
 LinuxTag 2008 in Berlin is over. 11,600 people from 31 countries
 attended it - more than the year before. The concurrent International
 Aeronautic Exhibition (Internationale Luftfahrtausstellung, ILA) was a
 strong competitor, as was the weather. At 30°C many people opted for the
 lakes rather than the air-conditioned halls.
 
-</p>
+
 [![Funkturm
 Berlin](http://www.kubuntu-de.org/files/bilder/001_4.thumbnail.jpg "Funkturm Berlin"){.image
 .image-thumbnail width="75"
@@ -43,14 +43,14 @@ Stand](http://www.kubuntu-de.org/files/bilder/010_4.thumbnail.jpg "Kubuntu Stand
 .image-thumbnail width="67"
 height="100"}](/bilder/events/linuxtag-2008/010)
 
-</p>
+
 The following chronological account shows the Linuxtag from the
 perspective of Kubuntu. We can only mention a small selection of the
 exhibitors, lectures and workshops. But we will tell you about the
 evenings after the exposition closed, which we spent mostly with Amarok
 and KDE.
 
-</p>
+
 <!--break--><!--break-->
 
 [[![](http://www.kubuntu-de.org/files/bilder/003_3.thumbnail.jpg){.image
@@ -71,7 +71,7 @@ Sebastian Kügler (sebas) and Aaron Seigo (aseigo) were already waiting.
 During eating and drinking we got to know each other and into the mood
 for the next days.
 
-</p>
+
 [[![A.
 Seigo](http://www.kubuntu-de.org/files/bilder/022_4.thumbnail.jpg "A. Seigo"){.image
 .image-thumbnail width="100"
@@ -88,7 +88,7 @@ enable everybody to compile KDE 4.1. The rush to see KDE 4 was so big
 that our installations were not enough and some of our notebooks were
 booted from live CDs.
 
-</p>
+
 During the day, the CDs finally arrived! Only one box for 32-bit and
 64-bit each, both with KDE 3.5, and a hand full of KDE 4 (32-bit only)
 CDs, but better than nothing. However, not enough to spread them out and
@@ -96,13 +96,13 @@ have every bypasser grab one, we "hid" them and only gave them to people
 who asked for one. Otherwise there would not have been left any on day
 2, from last year's experience.
 
-</p>
+
 Marc (serenity), member of the Kubuntu-de.org team, interviewed
 Sebastian Kügler of KDE e.V. together with RadioTux. Because the time
 was too short, Marc asked some more questions afterwards. The evening
 was spent at an Indian restaurant.
 
-</p>
+
 [[![](http://www.kubuntu-de.org/files/bilder/051_2.thumbnail.jpg){.image
 .image-thumbnail width="100"
 height="75"}](/bilder/events/linuxtag-2008/051)]{.inline
@@ -120,7 +120,7 @@ conversation with Aaron Seigo and we also got into contact with other
 projects. We all spent a very nice evening and at 3:30 a.m. the last of
 us were politely asked to go home.
 
-</p>
+
 [[![](http://www.kubuntu-de.org/files/bilder/095_1.thumbnail.jpg){.image
 .image-thumbnail width="100"
 height="67"}](/bilder/events/linuxtag-2008/095)]{.inline
@@ -139,7 +139,7 @@ clearly noticeable as well. Finally, Lydia Pintscher (Nightrose) and
 Harald Sitter (apachelogger) held their talk about KDE Multimedia. It
 became clear that KDE can deal perfectly with multimedia content.
 
-</p>
+
 The evening was great, too. Trolltech invited us and some other
 KDE-related projects for dinner (Trolltech and friends) into the
 Restaurant of the 12 Apostles in the city center of Berlin. The food was
@@ -153,7 +153,7 @@ either! One of the highlights was Stephan (\\sh - Kubuntu), Thomas
 (Trolltech), Daniel (danimo - KDE), Aaron (aseigo - KDE) and Jono
 (Ubuntu Community Manger) singing together.
 
-</p>
+
 [[![](http://www.kubuntu-de.org/files/bilder/135_1.thumbnail.jpg){.image
 .image-thumbnail width="100"
 height="75"}](/bilder/events/linuxtag-2008/135)]{.inline
@@ -166,7 +166,7 @@ about the topic "Master of the Universe: Ubuntu development and having
 fun" and Jono Bacon with "Standing On The Shoulders Of Giants: The
 Coming Of The Linux Desktop".
 
-</p>
+
 But everything has to come to its end and punctually at 6 p.m. the booth
 started to be taken down. The Ubuntu barbecue was a nice closure. It
 took place at the c-base, a U.F.O. that crashed some time ago in the
@@ -180,7 +180,7 @@ between the Kubuntu community and the Amarok people. The atmosphere was
 absolutely fantastic. Shortly after 2 a.m. the first people started to
 leave.
 
-</p>
+
 [![](http://www.kubuntu-de.org/files/bilder/206.thumbnail.jpg){.image
 .image-thumbnail width="100"
 height="67"}](/bilder/events/linuxtag-2008/206)
@@ -200,7 +200,7 @@ height="67"}](/bilder/events/linuxtag-2008/227)
 .image-thumbnail width="100"
 height="67"}](/bilder/events/linuxtag-2008/221)
 
-</p>
+
 Conclusion: The main problem was that there were no CDs delivered and
 that there wasn't even information that there would be no CDs. Only
 thanks to Paul Sladen we still got a couple by express delivery. Paul,
@@ -215,8 +215,8 @@ contacts were made and existing ones were deepened so that some of us
 will stay in regular contact. In the end everybody had collected new
 impulses, ideas and a lot of motivation.
 
-</p>
+
 Lots of thanks to everybody who participated and gave support.
 
-</p>
+
 

@@ -12,28 +12,28 @@ CC gewählt, ein Stich zwischen Ralph Janke und Robert Frießleben wurde
 durch die Einigung beider gelöst. Das neue CC besteht nun aus folgenden
 Mitgliedern:
 
-</p>
+
 -   Thomas David (nemphis)
 -   Christian Mangold (neversfelde)
 -   Marcus Asshauer (mcas)
 -   Arthur Schiwon (Blizzz)
 -   Robert Frießleben (commander)
 
-</p>
+
 <!--break--><!--break-->
 
 Ungeachtet dessen, dass Ralph Janke (txwikinger) nicht mehr im CC ist,
 konnten wir Ihn dennoch weiterhin als Teamsprecher gewinnen.
 
-</p>
+
 Zudem wurde die Entscheidung gefällt, dass Markus Kälin (Tscheesy) das
 Amt des
 [Community-Betreuers](http://wiki.kubuntu-de.org/Team:Community_Betreuung "http://wiki.kubuntu-de.org/Team:Community_Betreuung") von Franziska Tenzer (doilgheas) übernimmt.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0) diskutiert
 werden.
 
-</p>
+
 

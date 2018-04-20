@@ -14,18 +14,18 @@ behoben und auch das Problem, dass kded in verschiedenen Situationen
 die Änderungen bietet das [Changelog
 (englisch)](http://www.kde.org/announcements/changelogs/changelog4_3_4to4_3_5.php "http://www.kde.org/announcements/changelogs/changelog4_3_4to4_3_5.php").
 
-</p>
+
 Die Pakete können über die Backports bezogen werden. Alle Informationen
 zum richtigen Vorgehen können in unserem
 [Wiki](http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.10_auf_KDE_4.3.5_aktualisieren "http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.10_auf_KDE_4.3.5_aktualisieren")
 nachgelesen werden.
 
-</p>
+
 <!--break--><!--break-->
 
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

@@ -11,18 +11,18 @@ als auch für Nutzer\_innen der letzten LTS-Version
 drei Jahre Support hat (sowohl für die Desktop- als auch für die
 Serverversion).
 
-</p>
+
 Erzählt im Forum, wie es lief:
 <http://forum.kubuntu-de.org/index.php?topic=17542.0>
 
-</p>
+
 Welche Neuerungen es gibt, könnt ihr größtenteils in unserem älteren
 Artikel zur [Beta
 2](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-testversion/2190-kubuntu-14-04-trusty-tahr-beta-2)
 bereits nachlesen.
 
-</p>
+
 Und was ist eigentlich ein [Tahr](http://de.wikipedia.org/wiki/Tahre)?
 
-</p>
+
 

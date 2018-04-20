@@ -25,7 +25,7 @@ Alphafreigabe kann
 [hier](http://cdimage.ubuntu.com/kubuntu/releases/hardy/)
 heruntergeladen werden.
 
-</p>
+
 **Achtung:** Kubuntu 8.04 ist eine Alpha-Version. Diese sollte auf
 keinen Fall auf Systemen benutzt werden, die Stabilität erfordern.
 Vorversionen von Kubuntu 8.04 sind für Kubuntu Entwickler und Benutzer
@@ -36,13 +36,13 @@ Screenshots werden bald unter diese
 [Link](http://www.thecodingstudio.com/opensource/linux/?q=node/55) zur
 Verfügung stehen.
 
-</p>
+
 <!--break--><!--break-->
 
 Neues in Kubuntu Hardy Heron Alpha 1
 ------------------------------------
 
-</p>
+
 Die erste CD-Version von Hardy Heron bringt viele Updates sowie neue und
 aufregende Applikationen. Für die aktuelle Version von Kubuntu 8.04
 wurden die Standards der Benutzerfreundlichkeit verbessert und bereits
@@ -56,10 +56,10 @@ für alle Probleme, die euch auffallen einen Bugreport ins
 [Launchpad](https://launchpad.net/distros/ubuntu/+filebug), falls nicht
 schon einer existiert.
 
-</p>
+
 ### Kvkbd
 
-</p>
+
 [Kvkbd](http://www.kde-apps.org/content/show.php/Kvkbd?content=56019)
 ist eine virtuelle Bildschirmtastatur für KDE, welche für Benutzer mit
 eingeschränkten Bewegungsmöglichkeiten gedacht ist. Die aktuelle Version
@@ -68,10 +68,10 @@ Benutzern hilft, die nicht die Möglichkeit haben einen Rechts-Klick
 auszuführen. Auch hat der Nutzer nun die Möglichkeit die Position der
 Tastatur auf dem Bildschirm zu speichern und wieder herzustellen.
 
-</p>
+
 ### KDE Bluetooth
 
-</p>
+
 Das [KDE-Bluetooth-Framework](http://bluetooth.kmobiletools.org/)
 beinhaltet eine Vielzahl nützlicher Werkzeuge, welche auf dem Linux
 Bluetooth stack BlueZ basieren. Das Ziel von KDE Bluetooth ist einen
@@ -79,10 +79,10 @@ einfachen Zugriff auf die häufigsten Bluetooth Profile zu gewährleisten
 und den Datenaustausch mit Bluetoothfähigen Handys und PDAs so einfach
 wie möglich zu gestalten.
 
-</p>
+
 ### Compiz & KDE
 
-</p>
+
 Basierend auf dem KDE 3.5.4 [minipager
 applet](http://www.kde-apps.org/content/show.php?content=46021) für
 Kicker, wird es nun eine modifizierte Version geben, die besser mit
@@ -98,10 +98,10 @@ Auch wird es eine neue
 [Taskbar](http://www.kde-apps.org/content/show.php?content=49484) geben,
 die besser mit Compiz zusammenarbeitet als die derzeitige.
 
-</p>
+
 ### KNetworkManager
 
-</p>
+
 Der [KNetworkManager](http://en.opensuse.org/Projects/KNetworkManager)
 ist die KDE Benutzeroberfläche für den NetworkManager. Er bietet eine
 anspruchsvolle und intuitive Benutzeroberfläche, welche es Benutzern
@@ -109,10 +109,10 @@ ermöglicht leicht ihre Netzwerkumgebung zu wechseln. Die neuesten
 Updates für den KNetworkManager in Kubuntu 8.04 beinhaltet Unterstützung
 für PPP und KPPP und es wurde die Unterstüzung für PPTP aktiviert.
 
-</p>
+
 ### Kopete OTR Plugin
 
-</p>
+
 INFO: <http://kopete-otr.follefuder.org/>  
 
 Das OTR Plugin für Kopete wurde aktiviert und bietet nun die Möglichkeit
@@ -121,10 +121,10 @@ Kopete OTR Plugin, können nun verschlüsselte Chatsitzungen mit anderen
 Benutzer gestartet werden, deren Instant Messenger auch über eine die
 OTR Funktionalität verfügt.
 
-</p>
+
 ### KTorrent
 
-</p>
+
 [Ktorrent](http://ktorrent.org/), die BitTorrent-Anwendung von KDE, ist
 in Hardy Heron in der aktuellen Version 2.2.4 enthalten. Diese bringt
 eine verbesserte Benutzeroberfläche, sowie die Möglichkeit so viele
@@ -133,34 +133,34 @@ für Suchanfragen über das verbesserte Such-Plugin. Dazu gibt es nun die
 Möglichkeit vollständige Downloads in ein anderes Verzeichnis zu
 verschieben, und noch viele andere Verbesserungen....
 
-</p>
+
 ### Automatische Codec Installation in Kaffeine
 
-</p>
+
 Codecs (momentan libxine1-ffmpeg) werden automatisch installiert, wenn
 man das erste mal eine Datei mit Kaffeine öffnet. Zukünftige
 Implementierungen werden die automatische Installation von DVD-Codecs
 erlauben.
 
-</p>
+
 ### NTFS Support
 
-</p>
+
 Endlich ist auch in Kubuntu der NTFS Lese- und Schreibzugriff von Anfang
 an aktiviert.
 
-</p>
+
 ### LUKS Support
 
-</p>
+
 KIO Media unterstützt nun die Entschlüsselung und das Einbinden von
 verschlüsselten [LUKS Partitionen](http://luks.endorphin.org/).
 
-</p>
+
 Feedback
 --------
 
-</p>
+
 Das Kubuntu-Team würde sich freuen Rückmeldungen über Kubuntu 8.04 Hardy
 Heron Alpha 1 zu erhalten. Ist es genau, dass was ihr euch wünscht?
 einfach nur OK oder findet ihr es nicht gelungen? Jede - höfliche
@@ -168,5 +168,5 @@ formulierte - Rückmeldung (auf Englisch) ist erwünscht. Ihr könnt dem
 Kubuntu Team eure Meinung über folgende Seite zukommen lassen: [Kubuntu
 Feedback](https://wiki.kubuntu.org/HardyHeron/Alpha1/Kubuntu/Feedback).
 
-</p>
+
 

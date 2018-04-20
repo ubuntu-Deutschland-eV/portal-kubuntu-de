@@ -8,5 +8,5 @@ In der Nacht vom 31. Juli auf den 1. August 2009 wird kubuntu-de.org
 wegen Wartungsarbeiten für längere Zeit nicht erreichbar sein. Wir
 bitten eventuelle Unannehmlichkeiten zu entschuldigen.
 
-</p>
+
 

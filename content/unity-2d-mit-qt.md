@@ -16,7 +16,7 @@ Dadurch können einige Effekte auch ohne 3D Hardware umgesetzt werden.
 Die Zusammenarbeit mit [Qt](http://qt.nokia.com "http://qt.nokia.com")
 soll aber noch weitergehen.
 
-</p>
+
 <!--break--><!--break-->
 
 So ist geplant dconf Bindungen in
@@ -34,7 +34,7 @@ Oberflächen und auch die Portierung von uTouch auf
 [Qt](http://qt.nokia.com "http://qt.nokia.com") wird besonders
 hervorgehoben.
 
-</p>
+
 Wer jetzt Unity 2D ausprobieren möchte, kann es sich aus einem PPA
 installieren. Dafür sind folgende Schritte notwendig:  
 
@@ -44,10 +44,10 @@ installieren. Dafür sind folgende Schritte notwendig:
 
 **\* sudo apt-get install unity-2d-default-settings**
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?topic=14858.0 "http://forum.kubuntu-de.org/index.php?topic=14858.0")
 diskutiert werden.
 
-</p>
+
 

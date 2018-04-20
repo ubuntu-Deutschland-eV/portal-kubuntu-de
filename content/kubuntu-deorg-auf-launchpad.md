@@ -16,17 +16,17 @@ Mitglieder des Webteams besser die Übersicht behalten. Anregungen, die
 nichts mit dem Webteam zu tun haben, sollten dort allerdings nicht
 gemeldet werden, sondern im Forum.
 
-</p>
+
 <div align="left">
 
 </div>
 
-</p>
+
 Es existiert auch die Gruppe
 [kubuntu-de.org-team](https://launchpad.net/%7Ekubuntu-de.org "https://launchpad.net/~kubuntu-de.org"), die schon vor einiger Zeit erstellt wurde und alle Mitglieder
 des kubuntu-de.org Teams beinhaltet. Um Funktionen von Launchpad nutzen
 zu können muss man in Besitz eines
 [Accounts](https://launchpad.net/kubuntu-de.org-website/+login "https://launchpad.net/kubuntu-de.org-website/+login") sein.
 
-</p>
+
 <!--break--><!--break-->

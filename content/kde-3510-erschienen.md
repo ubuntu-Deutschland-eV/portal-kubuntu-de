@@ -14,12 +14,12 @@ Changelog](http://www.kde.org/announcements/changelogs/changelog3_5_9to3_5_10.ph
 den Kicker gibt es in der [Commit
 Übersicht](http://commit-digest.org/issues/2008-08-03/ "http://commit-digest.org/issues/2008-08-03/").
 
-</p>
+
 Ein Update von KDE 3.5.9 ist relativ risikolos, da die sehr strikten
 Regeln für die Aufnahme in KDE 3.5.10 lediglich kleinere Änderungen
 erlaubt.
 
-</p>
+
 Für Kubuntu 8.04 Hardy Heron stehen bereits Pakete im hardy-backports
 Repository zur Verfügung. Diese Pakete können z.B. über Adept
 installiert werden, hierfür muss selbstverständlich die Backports Quelle
@@ -29,5 +29,5 @@ Pakete noch nicht auf dem Server zur Verfügung stehen, so liegt das
 wahrscheinlich an der noch fehlenden Synchronisierung. ein späterer
 Versuch sollte dann alle Pakete aktualisieren.
 
-</p>
+
 

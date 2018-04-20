@@ -14,8 +14,8 @@ Jahr, durch [Kubuntu-de.org](http://www.kubuntu-de.org) vertreten und
 konnte den Besuchern die Distribution, sowie unsere Community
 präsentieren.
 
-</p>
-<p>
+
+
 <center>
 [![](http://www.kubuntu-de.org/files/bilder/01.thumbnail_4.jpg)](http://www.kubuntu-de.org/bilder/events/chemnitzer-linux-tage-2008#img0)
    
@@ -26,8 +26,8 @@ präsentieren.
 [![](http://www.kubuntu-de.org/files/bilder/13.thumbnail_4.jpg)](http://www.kubuntu-de.org/bilder/events/chemnitzer-linux-tage-2008#img12)
 
 </center>
-</p>
-</p>
+
+
 Mit über 2400 Besucher, 750 Online-Zuhörern, [87
 Vorträgen](http://chemnitzer.linux-tage.de/2008/vortraege/plan.html),
 [58
@@ -38,7 +38,7 @@ und vielen Helfern wurde nicht nur den linuxinteressierten Besuchern,
 sondern auch den Vortragenden, sowie Standbetreuern und Helfern ein
 einzigartiges Programm geboten.
 
-</p>
+
 <!--break--><!--break-->
 
 Für [Kubuntu](http://www.kubuntu-de.org) waren Monika Krug (Monika|K),
@@ -54,7 +54,7 @@ sich, sondern auch unser Community Projekt vorgestellt werden. Auch
 viele Probleme, die Anwender mit [Kubuntu](http://www.kubuntu-de.org)
 hatten, konnten gelöst werden.
 
-</p>
+
 Allein die viel zu wenigen [Kubuntu CDs](http://shipit.kubuntu.org)
 stellten sich als Problem heraus. Wie auch in den Jahren zuvor, hatte
 uns [Canonical](http://www.canonical.com) sehr viel weniger CDs
@@ -65,7 +65,7 @@ den ersten Veranstaltungstag überstanden hatten. Dadurch mussten wir mit
 Dankeschön an Canonical für die zur Verfügung gestellten CDs. Europa und
 Deutschland ist [KDE](http://www.kde.org)-Land!
 
-</p>
+
 Eine volle Wiedergabe des Programmes würde vollends den Rahmen dieser
 Nachlese sprengen. Deshalb sollen nur kurz die
 [Stände](http://chemnitzer.linux-tage.de/2008/live/ausstellung.html),
@@ -75,8 +75,8 @@ die für den [Kubuntu](http://www.kubuntu-de.org),
 [Ubuntu](http://www.ubuntu.com) und allgemeinen Linux Anwender
 interessant erscheinen, vorgestellt werden.
 
-</p>
-<p>
+
+
 <center>
 [![](http://www.kubuntu-de.org/files/bilder/78.thumbnail_0.jpg)](http://www.kubuntu-de.org/bilder/events/chemnitzer-linux-tage-2008?page=2#img17)
    
@@ -87,8 +87,8 @@ interessant erscheinen, vorgestellt werden.
 [![](http://www.kubuntu-de.org/files/bilder/24.thumbnail_4.jpg)](http://www.kubuntu-de.org/bilder/events/chemnitzer-linux-tage-2008#img23)
 
 </center>
-</p>
-</p>
+
+
 Direkt neben unserem Stand waren unsere Kollegen von
 [Ubuntu](http://chemnitzer.linux-tage.de/2008/live/detail.html?idx=89)
 und
@@ -122,7 +122,7 @@ Linux](http://chemnitzer.linux-tage.de/2008/live/detail.html?idx=97)“
 und „[Gaming with
 linuX-gamers.net](http://chemnitzer.linux-tage.de/2008/live/detail.html?idx=42)“.
 
-</p>
+
 Mit der stolzen Anzahl von [87
 Vorträgen](http://chemnitzer.linux-tage.de/2008/vortraege/plan.html) war
 das Programm dicht gefüllt. So stellte [Heiner
@@ -143,7 +143,7 @@ IT-Sicherheitstests durchführen, auswirkt, konnte man von [Thomas
 Feil](http://chemnitzer.linux-tage.de/2008/vortraege/detail.html?idx=185)
 erfahren.
 
-</p>
+
 Im
 [Workshop-Bereich](http://chemnitzer.linux-tage.de/2008/vortraege/workshops.html)
 zählten zu den interessantesten Themen für Einsteiger: „[Verschlüsselung
@@ -159,8 +159,8 @@ Anfänger](http://chemnitzer.linux-tage.de/2008/vortraege/detail.html?idx=109)�
 und „[PostgreSQL Hardcore Performance
 Tuning](http://chemnitzer.linux-tage.de/2008/vortraege/detail.html?idx=50)“.
 
-</p>
-<p>
+
+
 <center>
 [![](http://www.kubuntu-de.org/files/bilder/50.thumbnail_0.jpg)](http://www.kubuntu-de.org/bilder/events/chemnitzer-linux-tage-2008?page=1#img19)
    
@@ -171,8 +171,8 @@ Tuning](http://chemnitzer.linux-tage.de/2008/vortraege/detail.html?idx=50)“.
 [![](http://www.kubuntu-de.org/files/bilder/79.thumbnail_0.jpg)](http://www.kubuntu-de.org/bilder/events/chemnitzer-linux-tage-2008?page=2#img18)
 
 </center>
-</p>
-</p>
+
+
 Abschließend ist den Veranstaltern der [Chemnitzer
 Linux-Tage](http://chemnitzer.linux-tage.de/2008/info/) ein großes
 Dankeschön auszusprechen. Nicht nur dass die Veranstaltung wie auch in
@@ -194,10 +194,10 @@ Linux-Vorträgen](http://www.kubuntu-de.org/bilder/events/chemnitzer-linux-tage-
 entworfen. Anders hätte man diese Betreuung auch nicht ausdrücken
 können. **Vielen Dank**!
 
-</p>
+
 Weiterführende Links:
 
-</p>
+
 -   [Alle Bilder von
     Kubuntu-de.org](http://www.kubuntu-de.org/bilder/events/chemnitzer-linux-tage-2008)
 -   [Chemnitzer Linux-Tage
@@ -210,9 +210,9 @@ Weiterführende Links:
     Mitschnitte](http://chemnitzer.linux-tage.de/2008/vortraege/plan.html)
     (in kürze verfügbar)
 
-</p>
+
 » [*Kommentare im Kubuntu-de.org
 Forum*](http://forum.kubuntu-de.org/index.php?topic=10210.0)
 
-</p>
+
 

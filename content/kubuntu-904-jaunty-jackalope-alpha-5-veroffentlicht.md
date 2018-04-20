@@ -13,7 +13,7 @@ jetzt keine neue Funktionen mehr integriert sondern nur noch versucht
 möglichst viele Fehler zu beheben. **Vorversionen von Jaunty sind nicht
 für den produktiven Einsatz geeignet!**
 
-</p>
+
 Zu den Neuerungen in "Jaunty Jackalope" gehören Qt 4.5, im Moment als RC
 1, die neueste Qt-Freigabe von Qt Software (ehemals Trolltech). Diese
 Version ist die erste, die unter [LGPL
@@ -21,7 +21,7 @@ lizensiert](http://www.kubuntu-de.org/nachrichten/software/kde/qt-ueberall-qt-ab
 Außerdem ist mit [KDE
 4.2](http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-mit-kubuntu-paketen-veroeffentlicht "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-mit-kubuntu-paketen-veroeffentlicht") die neuste KDE Generation, mit allen Neuerungen, enthalten.
 
-</p>
+
 <!--break--><!--break-->
 
 Der Installer "Ubiquity" wurde massiv verbessert und auf PyKDE4
@@ -33,24 +33,24 @@ ein KDE4 Twitter-Client aufgenommen. Anleitungen zu
 [Wiki](http://wiki.kubuntu-de.org "http://wiki.kubuntu-de.org"). Neu ist auch das Network Plasmoid, welches den KNetworkManager
 ersetzen soll.
 
-</p>
+
 Darüber hinaus wurde Kdebluetooth aktualisiert und der Bug entfernt, der
 eine Koexistenz von KMail/Akonadi mit Amarok 2 verhinderte.
 
-</p>
+
 Bekannte Probleme gibt es im Moment mit dem Network Plasmoid, welches
 noch nicht standardmäßig auf dem Desktop liegt und eventuell eine
 drahtlose Netzwerkverbindung nicht zulässt, sowie Kmail Sieve-Skripten,
 welche die CPU-Auslastung hochschrauben können.
 
-</p>
+
 Das Dokumentations-Team von Kubuntu ruft erneut zur Mitarbeit an der
 Dokumentation auf. Die meisten Handbücher sind noch nicht auf die KDE
 4-Versionen umgeschrieben und daher werden dringend Helfer benötigt.
 Interessenten melden sich bitte bei [Richard
 Johnson](https://wiki.kubuntu.org/RichardJohnson "https://wiki.kubuntu.org/RichardJohnson").
 
-</p>
+
 Da sich Kubuntu noch in einem Entwicklungsstadium befindet, ist es sehr
 wahrscheinlich, dass noch weitere Probleme vorhanden sind. Daher ist
 jeder dazu angehalten, [Probleme zu
@@ -58,5 +58,5 @@ berichten](https://launchpad.net/distros/ubuntu/+filebug "https://launchpad.net/
 allgemeine
 [Rückmeldungen](https://wiki.kubuntu.org/JauntyJackalope/Alpha5/Kubuntu/Feedback "https://wiki.kubuntu.org/JauntyJackalope/Alpha5/Kubuntu/Feedback").
 
-</p>
+
 

@@ -18,10 +18,10 @@ und bitte darum, dass jemand deinen Artikel gegenliest und verbessert
 (redigiert) und, wenn er fertig ist, jemand mit einem User im Portal ihn
 dorthin kopiert.
 
-</p>
+
 Dieser Artikel kann im
 [Forum](http://forum.kubuntu-de.org/index.php?topic=17311.msg111263#msg111263)
 diskutiert werden.
 
-</p>
+
 

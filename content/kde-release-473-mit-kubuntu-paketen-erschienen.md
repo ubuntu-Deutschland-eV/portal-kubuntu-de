@@ -12,32 +12,32 @@ vorweisen kann und durch die Unterstützung von OpenGL ES (*OpenGL für
 Embedded Systems*) auf mobilen Geräten laufen. Außerdem wurde den Plasma
 Workspaces ein neues Netzwerkmanagement hinzugefügt.
 
-</p>
+
 Bei den KDE Anwendungen sind an erster Stelle die nun wieder verbesserte
 Einbindung von Kontact zu nennen. Die meisten Bereiche des Programms
 sind auf Akonadi portiert worden. Auch Dolphin und Marble haben einige
 Verbesserungen zu bieten. DigiKam 2 bringt Gesichtserkennung mit,
 Geotagging und die Versionierung von Fotos.
 
-</p>
+
 <!--break--><!--break-->
 
 Auch unter der Haube hat sich einiges getan. Hier ist Hauptsächlich
 Phonon, das Multimediabackend, zu nennen, welches deutliche Fortschritte
 gemacht hat.
 
-</p>
+
 Nutzer der Entwicklerversion 12.04 Precise Pangolin werden über das
 normale Systemupdate mit [KDE SC
 4.7.3](http://news.kde.org/2011/11/02/kdes-november-updates-improve-nepomuk-stability)
 versorgt. Für die stabile Variante 11.10 Oneiric Oncelot stehen Pakete
 im Kubuntu Update PPA zur Verfügung.
 
-</p>
+
 [![Testsoftware48x48.png](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png){width="48"
 height="48"}](/Datei:Testsoftware48x48.png)Das PPA fügt man mit
 
-</p>
+
 ``` {.shell}
 sudo apt-add-repository ppa:kubuntu-ppa/ppa
 ```
@@ -48,10 +48,10 @@ Fehler in der Paketierung sollen bitte auf [Launchpad gegen
 kubuntu-ppa](https://bugs.launchpad.net/kubuntu-ppa) gemeldet werden.
 Fehler der Software direkt im [KDE Bugtracker](http://bugs.kde.org/).
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?topic=16173) diskutiert
 werden.
 
-</p>
+
 

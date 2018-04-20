@@ -10,10 +10,10 @@ Arbeit als Vollzeitentwickler für Kubuntu ermöglichen. Alles soll
 ansonsten beim Alten bleiben, denn nach wie vor wird Kubuntu
 hauptsächlich von Freiwilligen entwickelt.
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0) diskutiert
 werden.
 
-</p>
+
 <!--break--><!--break-->

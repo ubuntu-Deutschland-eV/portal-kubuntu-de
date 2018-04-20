@@ -18,18 +18,18 @@ LTS](https://help.ubuntu.com/community/PreciseUpgrades/Kubuntu/10.04LTS)
 auf 12.04 LTS Beta 2 aktualisieren. (Beide Links sind englischsprachig,
 aber gut bebildert)
 
-</p>
+
 Diese Beta enthält auch eine technische Vorschau auf [Kubuntu
 Active](http://cdimage.ubuntu.com/kubuntu-active/releases/12.04/beta-2/).
 Kubuntu Active ist ein Kubuntu mit speziell an Tablets angepasster
 Oberfläche.
 
-</p>
+
 <!--break--><!--break-->
 
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?topic=16432.0) diskutiert
 werden.
 
-</p>
+
 

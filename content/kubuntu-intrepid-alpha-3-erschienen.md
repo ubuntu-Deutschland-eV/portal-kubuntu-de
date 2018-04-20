@@ -14,29 +14,29 @@ zahlreiche andere Softwareaktualisierungen vorgenommen. Die finale
 Version von Intrepid Ibex, inkl. KDE 4.1, soll im Oktober diesen Jahres
 veröffentlicht werden.
 
-</p>
+
 <!--break--><!--break-->
 
 Bis dahin gilt es so viele Bugs wie möglich zu finden und auf
 [Launchpad](http://launchpad.net "http://launchpad.net") zu melden, damit diese noch vor dem entgültigen Release behoben
 werden können.
 
-</p>
+
 Warnung: Kubuntu 8.10 Intrepid Ibex Alpha 3 ist eine reine Test- und
 Entwicklerversion. Sie ist AUF KEINEN FALL für den produktiven Einsatz
 gedacht, da Stabilität und Datensicherheit nicht garantiert werden
 können.
 
-</p>
+
 Wer sich an der Entwicklung von Kubuntu 8.10 Intrepid Ibex beteiligen
 möchte, kann sich die Installations-CDs vom
 [Hauptserver](http://cdimage.ubuntu.com/kubuntu/releases/intrepid/alpha-3/ "http://cdimage.ubuntu.com/kubuntu/releases/intrepid/alpha-3/") oder einem der zahlreichen
 [Spiegelserver](http://wiki.ubuntu.com/Mirrors "http://wiki.ubuntu.com/Mirrors") herunterladen.
 
-</p>
+
 Ein Upgrade von Hardy Heron sollte mit einer entsprechenden Anpassung
 der Paketquellen möglich sein. Fehlerberichte können auch hier an den
 Bugtracker von Ubuntu gesendet werden.
 
-</p>
+
 

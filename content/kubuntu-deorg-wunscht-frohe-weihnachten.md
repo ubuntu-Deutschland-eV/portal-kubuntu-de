@@ -19,13 +19,13 @@ wir einen Serverwechsel vollziehen und hoffen, damit dann eine stabile
 Plattform für die Zukunft zu haben. Ausserdem werden wir natürlich auch
 wieder persönlich auf Messen zu finden sein.
 
-</p>
-</p>
+
+
 <!--break--><!--break-->
 
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?topic=14675.0 "http://forum.kubuntu-de.org/index.php?topic=14675.0")
 diskutiert werden.
 
-</p>
+
 

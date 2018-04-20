@@ -14,7 +14,7 @@ die
 [LPI-Prüfungen](http://www.linuxtage.at/lpi/ "http://www.linuxtage.at/lpi/") besonders günstig ablegen, der weniger Erfahrene sich in der
 Expertenecke bei Problemen helfen lassen.
 
-</p>
+
 Besonders hinweisen wollen wir auf die Vorträge [Kubuntu für
 Noch-Windows-Nutzer](http://www.linuxtage.at/146/ "http://www.linuxtage.at/146/"), gehalten von Monika Krug aus dem Team von kubuntu-de.org, sowie
 auf [Erste Schritte in
@@ -26,8 +26,8 @@ werden ungefähr 250 Besucher erwartet. Den freien Eintritt ermöglichen
 die FH Joanneum Graz und
 [Sponsoren](http://www.linuxtage.at/sponsoren/ "http://www.linuxtage.at/sponsoren/").
 
-</p>
+
 Wir freuen uns auf Besucher am Stand von Kubuntu-de.org!
 
-</p>
+
 <!--break--><!--break-->

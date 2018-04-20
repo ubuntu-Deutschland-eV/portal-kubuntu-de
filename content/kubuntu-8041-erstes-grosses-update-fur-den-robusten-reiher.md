@@ -12,7 +12,7 @@ nun Firefox 3 in der endgültigen Version enthalten und auch das Programm
 Ubiquity, das für die Installation von Kubuntu zuständig ist, erhielt
 einige Fehlerkorrekturen.
 
-</p>
+
 Eine ausführlichere Liste der Fehlerkorrekturen ist in der [Ankündigung
 der
 Veröffentlichung](https://lists.ubuntu.com/archives/ubuntu-announce/2008-July/000112.html "https://lists.ubuntu.com/archives/ubuntu-announce/2008-July/000112.html") (Engl.) zu finden. Bekannte Probleme und Lösungen dazu können in
@@ -21,5 +21,5 @@ Notes](http://www.ubuntu.com/getubuntu/releasenotes/804 "http://www.ubuntu.com/g
 8.04.1 Hardy Heron können nun von der
 [Downloadseite](../../../../download-kubuntu-herunterladen-downloaden "http://www.kubuntu-de.org/download-kubuntu-herunterladen-downloaden") bezogen werden.
 
-</p>
+
 <!--break--><!--break-->

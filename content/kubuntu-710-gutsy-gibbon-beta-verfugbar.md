@@ -15,20 +15,20 @@ Installation proprietärer Treiber für Grafikkarten vereinfacht. Kubuntu
 von KDE4 noch voranschreitet. Allerdings ist es möglich, KDE4 parallel
 zu KDE 3.5.7 zu installieren.
 
-</p>
+
 **Achtung:** Die erschienene Version von Kubuntu 7.10 ist eine
 Beta-Version. Diese sollten nicht für Systeme benutzt werden, die
 Stabilität erfordern. Vorversionen von Kubuntu 7.10 sind für Kubuntu
 Entwickler und Benutzer gedacht, die beim Testen, Berichten und
 Beseitigen von Fehlern helfen wollen.
 
-</p>
+
 Screenshots sind hier verfügbar: \[WWW\]
 <http://www.thecodingstudio.com/opensource/linux/?q=node/55>
 
-</p>
+
 Eine ausführliche Beschreibung auf Englisch gibt es hier:
 <https://wiki.ubuntu.com/GutsyGibbon/Beta/Kubuntu>
 
-</p>
+
 <!--break--><!--break-->

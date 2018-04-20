@@ -14,18 +14,18 @@ Laut KDE-Entwickler Aaron Seigo soll es aber auch möglich sein durch
 entsprechende Optionen den alten Zustand wiederherzustellen und
 weiterhin Konqueror zu nutzen.
 
-</p>
+
 **Weitere Informationen:**
 
-</p>
+
 -   [ProLinux](http://www.pro-linux.de/news/2007/10878.html)
 -   [Dolphin Projektseite](http://enzosworld.gmxhome.de/news.html)
     (engl.)
 
-</p>
+
 Diese Nachricht kann
 [hier](http://forum.kubuntu-de.org/index.php?topic=7777.0) im Forum
 diskutiert werden.
 
-</p>
+
 <!--break--><!--break-->

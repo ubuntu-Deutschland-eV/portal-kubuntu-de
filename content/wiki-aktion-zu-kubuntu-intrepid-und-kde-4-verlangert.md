@@ -16,7 +16,7 @@ bisher eher weniger rege war und wir würden uns über Meinungen und
 Anregungen im
 [Forum](http://forum.kubuntu-de.org/index.php?topic=11184.msg76525#new "http://forum.kubuntu-de.org/index.php?topic=11184.msg76525#new") freuen.
 
-</p>
+
 Um eventuelle Hürden abzubauen bieten wir weiter zwei Veranstaltungen
 an, in welchen die Handhabung des Wikis erklärt wird und Artikel
 begonnen werden können. Diese finden am **04.12.2008** und am
@@ -29,7 +29,7 @@ teilzunehmen. Wer außerhalb der Veranstaltungen Hilfe braucht findet in
 Wer nicht weiß, wie man ins IRC kommt, findet
 [hier](http://wiki.kubuntu-de.org/Team:IRC "http://wiki.kubuntu-de.org/Team:IRC") eine Anleitung.
 
-</p>
+
 <!--break--><!--break-->
 
 Darüber hinaus gibt es noch eine Änderung im Modus: [kubuntu-de.org
@@ -38,10 +38,10 @@ Zugehörigkeit zu kubuntu-de.org jedoch als Handicap werten, da wir uns
 natürlich nicht selbst prämieren, allerdings auch Mitgliedern einen
 Anreiz bieten wollen Anleitungen für das Wiki zu schreiben.
 
-</p>
+
 Also auf gehts! Schreibe einen Artikel im Wiki zu einem oder mehreren
 Themen rund um Kubuntu 8.10 bzw. KDE 4 und gewinne ein T-Shirt, eine
 Tasse oder ein Mousepad sponsored by KDE.
 
-</p>
+
 

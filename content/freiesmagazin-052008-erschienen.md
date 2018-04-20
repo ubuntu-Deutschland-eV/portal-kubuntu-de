@@ -18,7 +18,7 @@ Bildern](http://www.freiesmagazin.de/mobil/freiesMagazin-2008-05-bilder.html)
 man immer die aktuelle und alle bisher erschienenen Mobil-Ausgaben.
 Inhalte der Ausgabe 05/2008 sind
 
-</p>
+
 -   Motorola A1200 - Das tragbare Linux-System, Teil 2
 -   Systemwiederherstellung
 -   Tipps und Tricks für den Alltag mit Linux
@@ -29,7 +29,7 @@ Inhalte der Ausgabe 05/2008 sind
 -   Interview mit Xubuntu-Entwickler Cody Somerville
 -   Veranstaltungskalender, News, Leserbriefe, u.a.
 
-</p>
+
 <!--break--><!--break-->
 
 Das vollständige Inhaltsverzeichnis findet man auf der [Webseite der
@@ -42,5 +42,5 @@ Wer jeden Monat an die neue Ausgabe erinnert werden will, kann auch den
 drei Ausgaben von freiesMagazin abgerufen werden, ältere Ausgaben findet
 man im [Archiv](http://www.freiesmagazin.de/archiv).
 
-</p>
+
 

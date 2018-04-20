@@ -7,12 +7,12 @@ Slug: kubuntu-in-version-1410-erschienen
 Es enthält KDE in Version 4.14 und eine technische Vorschau auf Plasma
 5.
 
-</p>
+
 Bei der Nutzung der technischen Vorschau sollte beachtet werden:
 
-</p>
+
 - es muss ein externes Repository aktiviert werden, wodurch es zu
 Fehlern kommen kann
 
-</p>
+
 

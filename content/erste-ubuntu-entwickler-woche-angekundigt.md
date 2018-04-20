@@ -11,14 +11,14 @@ ganze Woche lang spannende IRC-Sitzungen im Kanal \#ubuntu-classroom auf
 irc.freenode.org, in denen man lernen kann, wie man am besten die
 Entwicklung von Ubuntu vorantreiben kann. Es gibt Sitzungen um...
 
-</p>
+
 -   ... unterschiedliche Techniken für das Paketieren von Paketen zu
     lernen.
 -   ... zahlreiche Entwicklerteams besser kennenzulernen.
 -   ... spannende Fragen an die Kubuntu Entwickler und MOTUS zu stellen.
 -   ... und zahlreiche andere mehr...
 
-</p>
+
 Alle Ubuntu-Entwickler ─ und damit natürlich auch die Entwickler unserer
 Lieblingsdistribution Kubuntu ─ werden anwesend sein, um in die Arbeit
 mit Ubuntu einzuführen. Das Spektrum der Vorträge reicht vom Pakete
@@ -28,9 +28,9 @@ Lieblingsdistribution leisten möchte, sollte nicht zögern sich den
 [Terminplan](http://wiki.ubuntu.com/UbuntuDeveloperWeek "http://wiki.ubuntu.com/UbuntuDeveloperWeek") anzusehen, dann an den [Sitzungen
 teilzunehmen](http://wiki.ubuntu.com/UbuntuDeveloperWeek/JoiningIn "http://wiki.ubuntu.com/UbuntuDeveloperWeek/JoiningIn") und schließlich seinen Teil beizutragen!
 
-</p>
-</p>
+
+
 Hinweis: Die Sitzungen werden gänzlich in Englisch abgehalten.
 
-</p>
+
 <!--break--><!--break-->

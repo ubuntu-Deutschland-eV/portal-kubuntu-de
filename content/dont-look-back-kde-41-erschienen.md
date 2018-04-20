@@ -15,14 +15,14 @@ soweit sein, dass es dem Benutzer ähnliche Möglichkeiten bieten soll wie
 unter KDE 3. Eines der Highlights ist sicherlich die Portierung von
 KDE-PIM, dem Persönlichen Informationsmanager.
 
-</p>
-<p>
+
+
 <center>
 [![](http://wiki.kubuntu-de.org/images/Kde4.1-kdepim-160.png)](http://wiki.kubuntu-de.org/images/Kde4.1-kdepim-800.png)
 
 </center>
-</p>
-</p>
+
+
 <!--break--><!--break-->
 
 KDE 4.1 soll das erste Release sein, dass endbenutzer-tauglich sein
@@ -34,18 +34,18 @@ diesem Release viel Zeit investiert, um die Bibliotheken und Frameworks
 stabiler zu machen. Es ist geplant, dass mit KDE 4.2 die Software stabil
 genug ist für den Unternehmenseinsatz.
 
-</p>
-<p>
+
+
 <center>
 [![](http://wiki.kubuntu-de.org/images/Kde4.1-desktop-krunner-add_widget-160.png)](http://wiki.kubuntu-de.org/images/Kde4.1-desktop-krunner-add_widget-800.png) [![](http://wiki.kubuntu-de.org/images/Kde4.1-settings-160.png)](http://wiki.kubuntu-de.org/images/Kde4.1-system-settings-800.png)
 
 </center>
-</p>
-</p>
+
+
 Neues in KDE 4.1
 ----------------
 
-</p>
+
 Wie angekündigt gibt es viel neues mit KDE 4.1. Das wahrscheinlich
 wichtigste Programm der Freigabe dürfte wie oben schon erwähnt der
 Persönliche Informationsmanager, kurz PIM, sein. Somit ist es jetzt
@@ -65,11 +65,11 @@ mit Kubrik der süchtigmachende Würfel aus den 80igern wiederbelebt
 wurde, kommen auch mit KBreakout und KDiamond, einem Bejeweled-Klon,
 noch weitere Spieleklassiker zurück.
 
-</p>
+
 Verbesserungen in KDE 4.1
 -------------------------
 
-</p>
+
 Nicht nur viele neue Programme und Frameworks wurden in KDE 4.1
 integriert, auch wurden schon bestehende verbessert und weiter
 stabilisiert. So bietet nun Plasma dem Benutzer deutlich mehr
@@ -87,21 +87,21 @@ es jetzt möglich über ein kleines "+"-Zeichen im Rahmen um eine Datei
 diese zu markieren bzw. mit einem stattdessen erscheinendem "-"-Zeichen
 die Markierung aufzuheben.
 
-</p>
-<p>
+
+
 <center>
 [![](http://wiki.kubuntu-de.org/images/Kde4.1-dolphin-select-160.png)](http://wiki.kubuntu-de.org/images/Kde4.1-dolphin-select-800.png) [![](http://wiki.kubuntu-de.org/images/Kde4.1-desctop-grid-160.png)](http://wiki.kubuntu-de.org/images/Kde4.1-desctop-grid-800.png)
 
 </center>
-</p>
-</p>
+
+
 Der Konqueror bleibt natürlich in seiner Form als Dateimanager erhalten
 und verfügt über die meisten genannten Verbesserungen, wurde aber auch
 im Browserbereich ein wenig aufpoliert. So ist es jetzt möglich, die
 zuvor geöffneten Fenster/Tabs wieder zu öffnen und das Scrollverhalten
 wurde verbessert, so dass es nun sanfter wirkt.
 
-</p>
+
 Viele andere Programme wurden natürlich auch weiter verbessert und mit
 neuen Funktionen versehen. So besitzt Marble, der KDE-Globus, jetzt auch
 eine Integration von OpenStreetMap, so dass man auf freie Karten
@@ -114,18 +114,18 @@ es eine neue Vollbildansicht, eine Leiste mit Vorschaubildern, die auch
 in der neuen Vollbildansicht verfügbar ist und eine
 Bewertungsmöglichkeit von Bildern.
 
-</p>
-<p>
+
+
 <center>
 [![](http://wiki.kubuntu-de.org/images/Kde4.1-education-160.png)](http://wiki.kubuntu-de.org/images/Kde4.1-education-800.png) [![](http://wiki.kubuntu-de.org/images/Kde4.1-gwenview-160.png)](http://wiki.kubuntu-de.org/images/Kde4.1-gwenview-800.png)
 
 </center>
-</p>
-</p>
+
+
 Neues für Entwickler
 --------------------
 
-</p>
+
 Auch für Entwickler gibt es viele Neuigkeiten. So bietet das Kross
 Skripting Framework Unterstützung für QTScript, Java, PyQt und QtRuby.
 So wurde die Möglichkeit, Applikationen für KDE in Python oder Ruby zu
@@ -138,11 +138,11 @@ Entwicklerschnittstelle. Viel Zeit wurde auch bei Nepomuk investiert um
 die Integration in Anwendungen zu erleichtern. Außerdem wurde auch die
 Performance verbessert und es gibt neue Widgets für Nepomuk.
 
-</p>
+
 Was noch fehlt
 --------------
 
-</p>
+
 Auch bei KDE 4.1 sind noch nicht alle Programme, die von KDE 3 bekannt
 sind, portiert. Dazu zählt unter anderem das Brennprogramm K3b. Die
 Officesuite KOffice 2.0 und Amarok 2.0 sind schon als Alpha-Versionen
@@ -151,11 +151,11 @@ Kaffeine, digiKam und Konversation, die zum Teil auch noch dauern
 werden, da eine Menge Arbeit in die Anpassung auf neue Features wie
 Phonon gesteckt werden muss.
 
-</p>
+
 KDE4 Portierungen
 -----------------
 
-</p>
+
 Mit KDE 4.1 halten auch die Portierungen auf Mac OS X und Windows Einzug
 in die KDE-Familie gehalten. Für Mac OS X gibt es im Moment [Pakete von
 der KDE 4.1 Beta
@@ -171,11 +171,11 @@ noch von einem Einsatz in Produktivumgebungen abgesehen werden.
 Seit einiger Zeit ist auch eine Portierung auf OpenSolaris im Gange, die
 aber noch einige Probleme bereitet.
 
-</p>
+
 Bekannte Probleme
 -----------------
 
-</p>
+
 Leider gibt es immernoch Performance-Probleme mit den binären Nvidia
 Treibern und KDE4. Diese Probleme sind zwar an Nvidia gemeldet worden,
 aber noch gibt es keine neue Treiberversion, welche die Störfälle
@@ -185,11 +185,11 @@ gibt es Hinweise, die Anleitung dazu geben, wie die Geschwindikeit
 verbessert werden kann, wobei das nicht als abschliessende Lösung zu
 betrachten ist.
 
-</p>
+
 KDE 4.1 und Kubuntu
 -------------------
 
-</p>
+
 KDE 4.1 ist für die aktuelle Kubuntu Version Hardy Heron verfügbar und
 kann neben eine bestehende KDE 3 Installation betrieben werden. Das
 kommende Release von Intrepid Ibex, welches im Oktober erscheinen soll,
@@ -197,59 +197,59 @@ wird mit KDE 4.1 ausgeliefert, die Pakete für die Alpha Version stehen
 bereits zur Verfügung. Hier aber schon mal Installationshilfen für
 Ungeduldige und Neugierige:
 
-</p>
+
 ### Installation unter Kubuntu 8.04 Hardy Heron
 
-</p>
+
 Für Hardy stehen Pakete im KDE4-PPA zur Verfügung. Hier für muss
 folgende Zeile in die /etc/apt/sources.list hinzugefügt werden:
 
-</p>
+
     deb http://ppa.launchpad.net/kubuntu-members-kde4/ubuntu hardy main
 
 Danach müssen die Paketlisten neu eingelesen werden mit
 
-</p>
+
     sudo apt-get update
 
 Die KDE 4.1 Pakete lassen sich dann mit
 
-</p>
+
     sudo apt-get install kubuntu-kde4-desktop
 
 installieren
 
-</p>
+
 Ist bereits eine KDE 4 Installation vorhanden, genügt das gewohnte
 Update des Systems.
 
-</p>
+
 ### Installation unter Kubuntu 8.10 Intrepid Ibex
 
-</p>
+
 Bei Intrepid ist KDE4 schon integriert und wird automatisch die Pakete
 über das Update anbieten. Im Moment ist Intrepid noch in einem Alpha
 Stadium und nur für den Einsatz von Entwicklern und Testern gedacht. Bis
 zur Veröffentlichung von Intrepid im Oktober gibt es aber noch genug
 Zeit um Bugs zu melden und diese zu beheben.
 
-</p>
+
 Siehe auch
 ----------
 
-</p>
+
 -   [offizielle KDE
     Ankündigung](http://www.kde.org/announcements/4.1/index-de.php "http://www.kde.org/announcements/4.1/index-de.php")
-    </p>
-    <p>
+    
+    
 -   [offizielle Kubuntu
     Ankündigung](http://www.kubuntu.org/news/kde-4.1 "http://www.kubuntu.org/news/kde-4.1")
-    </p>
-    <p>
+    
+    
 -   [Interview mit Aaron Seigo bei
     Golem](http://www.golem.de/0807/61359.html "http://www.golem.de/0807/61359.html")  
-   </p>
-    <p>
+   
+    
 
-</p>
+
 

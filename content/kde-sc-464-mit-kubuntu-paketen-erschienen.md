@@ -18,16 +18,16 @@ wesentlichen um Fehlerkorrekturen in Dolphin, Plasma, Juk, Ark und KGpg
 handelt. Eine vollständige Liste kann dem SVN oder Git Log entnommen
 werden.
 
-</p>
+
 Für Nutzer von Kubuntu 11.04 Natty Narwhal steht die aktuelle
 KDE-Version über das Kubuntu Updates PPA zur Verfügung.
 
-</p>
+
 <!--break--><!--break-->
 
 Das PPA fügt man mit
 
-</p>
+
 ``` {.shell}
 sudo apt-add-repository ppa:kubuntu-ppa
 ```
@@ -37,34 +37,34 @@ die Aktualisierung allerdings von den KDE Entwicklern empfohlen wird und
 zumindest für Nutzer, die sowieso schon auf 4.6 setzen, sicher sein
 sollte.
 
-</p>
+
 ### [ Experimentelles Kontact2 verfügbar]{#Experimentelles_Kontact2_verf.C3.BCgbar .mw-headline}
 
-</p>
+
 Zudem ist auch Kontact2 erschienen. **Diese Freigabe ist von den
 Kubuntu-Entwicklern als experimentel eingestuft worden und kann nicht
 funktionieren und Daten vernichten.** Dieses Release ist in einem extra
 PPA. Bevor man das PPA hinzufügt sollte man ein Backup anlegen.
 
-</p>
+
 Das PPA fügt man mit
 
-</p>
+
 ``` {.shell}
 sudo apt-add-repository ppa:kubuntu-ppa/experimental
 ```
 
 hinzu.
 
-</p>
+
 Fehler in der Paketierung sollen im [Launchpad gegen
 kubuntu-ppa](https://bugs.launchpad.net/kubuntu-ppa) gemeldet werden.
 Fehler der Software direkt im [KDE Bugtracker](http://bugs.kde.org/).
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0) diskutiert
 werden.
 
-</p>
+
 

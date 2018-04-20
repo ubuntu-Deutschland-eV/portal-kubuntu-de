@@ -21,5 +21,5 @@ welche unsere Community so intensiv und vielfältig unterstützen.
 Gleichzeitig bitten wir darum, eventuelle, durch den Umzug verursachte
 Unannehmlichkeiten zu entschuldigen.
 
-</p>
+
 <!--break--><!--break-->

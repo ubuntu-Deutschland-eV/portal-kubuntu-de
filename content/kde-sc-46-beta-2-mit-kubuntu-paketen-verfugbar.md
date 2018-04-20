@@ -20,35 +20,35 @@ Akonadi Framework abgeschlossen wurde. Ausserdem bringt diese
 Veröffentlichung neue Versionen des Plasma Desktops und der Plasma
 Netbook Arbeitsfläche.
 
-</p>
+
 Fehler in der Paketierung sollen gegen
 [Launchpad](https://bugs.launchpad.net/kubuntu-ppa "https://bugs.launchpad.net/kubuntu-ppa")
 gemeldet werden, während Fehler in der Software selbst direkt an den
 [KDE Bugtracker](http://bugs.kde.org "http://bugs.kde.org") geschickt
 werden sollen.
 
-</p>
+
 <!--break--><!--break-->
 
 **Achtung diese Version ist nicht für den produktiven Einsatz
 geeignet!**
 
-</p>
+
 Wer die Software testen möchte kann sie sich über das Kubuntu-Beta-PPA
 unter 10.10 installieren.
 
-</p>
+
     ppa:kubuntu-ppa/beta 
 
 Wer auch KDE PIM 4.6 testen möchte braucht noch das experimentelle PPA
 
-</p>
+
     ppa:kubuntu-ppa/experimental 
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?topic=14586.0 "http://forum.kubuntu-de.org/index.php?topic=14586.0")
 diskutiert werden.
 
-</p>
+
 

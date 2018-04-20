@@ -7,7 +7,7 @@ Slug: kde-4-rc1-mit-kubuntu-paketen-verfugbar
 Der lang ersehnte Release-Kandidat von KDE 4 wurde veröffentlicht und es
 sind Pakete für Kubuntu 7.10 "Gutsy Gibbon" verfügbar.
 
-</p>
+
 Der Release-Kandidat von KDE 4 ist für Tester und Entwickler gedacht und
 nicht für den produktiven Einsatz! Der KDE Desktop hat in den letzten
 Wochen große Fortschritte gemacht, es ist aber zu beachten, dass wegen
@@ -16,7 +16,7 @@ Jeder ist dazu aufgefordert ensprechende Fehlerberichte auf der Seite
 [bugs.kde.org](http://bugs.kde.org/ "http://bugs.kde.org:") einzutragen und mitzuhelfen, dass KDE 4 bald, die von den
 vorherigen Versionen bekannte Qualität, erreicht.
 
-</p>
+
 KDE 4 RC1 installiert sich in das Verzeichnis /usr/lib/kde4 und kann
 daher neben einem bestehenden KDE 3 installiert werden.  
 
@@ -24,12 +24,12 @@ daher neben einem bestehenden KDE 3 installiert werden.
 CD](http://kubuntu.org/~jriddell/cds/kubuntu-kde4-20071126.iso "KDE 4 LiveCD")
 möglich.
 
-</p>
+
 <!--break--><!--break-->
 
 Anleitung:
 
-</p>
+
 -   Zuerst müssen eventuell vorhandene Pakete einer vorherigen KDE 4
     Installation entfernt werden, da sie nicht mehr kompatibel sind mit
     KDE 4 RC1 (apt-get remove kdelibs5)
@@ -41,14 +41,14 @@ Anleitung:
 -   Die entsprechenden Umgebungsvariablen exportieren, so dass sie auf
     /usr/lib/kde4 verweisen:
 
-    </p>
+    
     -   export LD\_LIBRARY\_PATH=/usr/lib/kde4/lib
     -   export KDEDIRS=/usr/lib/kde4
     -   export PATH=/usr/lib/kde4/bin/:\$PATH
     -   export KDEHOME=\~/.kde4
 
-    </p>
-    <p>
+    
+    
 -   Um das Starten eines zweiten X-Servers zu vermeiden, kann
     xserver-xephyr installiert werden. Danach Xephyr :1 & export
     DISPLAY=:1; xterm in der Konsole ausführen und startkde in dem
@@ -62,15 +62,15 @@ Anleitung:
     selbständige Sitzung von KDE 4 über den Anmeldungsmanager KDM
     gestartet werden.
 
-</p>
+
 Die benötigten Pakete werden auch in die Backports-Repositorien von
 "Gutsy Gibbon", und in die derzeitige Entwicklungsversion von Kubuntu
 "Hardy Heron" heraufgeladen.
 
-</p>
+
 Die Ankündigung auf der englischen Seite ist unter
 [www.kubuntu.org](http://kubuntu.org/announcements/kde4-rc1.php) zu
 finden.
 
-</p>
+
 

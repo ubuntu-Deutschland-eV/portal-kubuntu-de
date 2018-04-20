@@ -20,10 +20,10 @@ aktuellen Kubuntu bespielen zu lassen. Einfach einen leeren Stick
 mitbringen, sich kurz mit uns unterhalten und dann nach Hause und
 gefahrlos ausprobieren!
 
-</p>
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0) diskutiert
 werden.
 
-</p>
+
 <!--break--><!--break-->

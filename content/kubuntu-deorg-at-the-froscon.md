@@ -15,8 +15,8 @@ Our booth is right next to the ones of KDE and Amorak. More about the
 FrOSCon and our participation will be provided at this website in the
 very near future.
 
-</p>
+
 Our webcam is available at <http://webcam.kubuntu-de.org>.
 
-</p>
+
 <!--break--><!--break-->

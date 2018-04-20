@@ -11,7 +11,7 @@ zu finden (The german original can be found
 [here.](http://www.kubuntu-de.org/nachrichten/veranstaltungen/nachlese-chemnitzer-linux-tage-2008))
 
 </address>
-</p>
+
 In the tradition of 10 years, the [Chemnitzer
 Linux-Tage](http://chemnitzer.linux-tage.de/2008/info/) were held on the
 first March weekend. The [Chemnitzer
@@ -21,8 +21,8 @@ year, [Kubuntu](http://www.kubuntu.org) was represented by
 [Kubuntu-de.org](http://www.kubuntu-de.org). This meant that the
 visitors were able to see Kubuntu first hand.
 
-</p>
-<p>
+
+
 <center>
 [![](http://www.kubuntu-de.org/files/bilder/01.thumbnail_4.jpg)](http://www.kubuntu-de.org/bilder/events/chemnitzer-linux-tage-2008#img0)
    
@@ -33,8 +33,8 @@ visitors were able to see Kubuntu first hand.
 [![](http://www.kubuntu-de.org/files/bilder/13.thumbnail_4.jpg)](http://www.kubuntu-de.org/bilder/events/chemnitzer-linux-tage-2008#img12)
 
 </center>
-</p>
-</p>
+
+
 More than 2400 visitors, 750 online-listeners, [87
 presentations](http://chemnitzer.linux-tage.de/2008/vortraege/plan.html),
 [58
@@ -44,7 +44,7 @@ workshops](http://chemnitzer.linux-tage.de/2008/vortraege/workshops.html)
 and many, many volunteers participated. A unique program was offered to
 all of them.
 
-</p>
+
 <!--break--><!--break-->
 
 Monika Krug (Monika|K), Rober Müller
@@ -59,7 +59,7 @@ and introduced not only [Kubuntu](http://www.kubuntu.org), but also many
 of our community projects. In addition, many questions could be solved,
 which users of [Kubuntu](http://www.kubuntu.org) came to ask.
 
-</p>
+
 The only problem was the far too low number of [Kubuntu
 CDs](http://shipit.kubuntu.org) available. Similar to the years before,
 [Canonical](http://www.canonical.com) had made available far fewer CDs
@@ -69,7 +69,7 @@ second day only with 15 CDs. Nevertheless, a big thanks to Canonical for
 the provided CDs. Europe and Germany are
 [KDE](http://www.kde.org)-country!
 
-</p>
+
 To give a full account of the programme would make these reflections
 overflow. Therefore, we only want to shortly mention all the
 [booths](http://chemnitzer.linux-tage.de/2008/live/ausstellung.html),
@@ -79,8 +79,8 @@ and
 that are interesting or [Kubuntu](http://www.kubuntu.org),
 [Ubuntu](http://www.ubuntu.com) and the general linux user.
 
-</p>
-<p>
+
+
 <center>
 [![](http://www.kubuntu-de.org/files/bilder/78.thumbnail_0.jpg)](http://www.kubuntu-de.org/bilder/events/chemnitzer-linux-tage-2008?page=2#img17)
    
@@ -91,8 +91,8 @@ that are interesting or [Kubuntu](http://www.kubuntu.org),
 [![](http://www.kubuntu-de.org/files/bilder/24.thumbnail_4.jpg)](http://www.kubuntu-de.org/bilder/events/chemnitzer-linux-tage-2008#img23)
 
 </center>
-</p>
-</p>
+
+
 The neighbours to us were our colleagues from
 [Ubuntu](http://chemnitzer.linux-tage.de/2008/live/detail.html?idx=89)
 and
@@ -124,7 +124,7 @@ and “[Gaming with
 linuX-gamers.net](http://chemnitzer.linux-tage.de/2008/live/detail.html?idx=42)”
 were provided.
 
-</p>
+
 [87
 presentations](http://chemnitzer.linux-tage.de/2008/vortraege/plan.html)
 fully filled the programme. [Heiner
@@ -145,7 +145,7 @@ Feil](http://chemnitzer.linux-tage.de/2008/vortraege/detail.html?idx=185)
 informed about the meaning of the “hackerparagraph” and how it affects
 businesses that perform IT security checks.
 
-</p>
+
 In the [workshop
 area](http://chemnitzer.linux-tage.de/2008/vortraege/workshops.html),
 the most interesting subjects for beginners were: “[Encryption of
@@ -161,8 +161,8 @@ Beginners](http://chemnitzer.linux-tage.de/2008/vortraege/detail.html?idx=109)�
 and “[PostgreSQL Hardcore Performance
 Tuning](http://chemnitzer.linux-tage.de/2008/vortraege/detail.html?idx=50)”.
 
-</p>
-<p>
+
+
 <center>
 [![](http://www.kubuntu-de.org/files/bilder/50.thumbnail_0.jpg)](http://www.kubuntu-de.org/bilder/events/chemnitzer-linux-tage-2008?page=1#img19)
    
@@ -173,8 +173,8 @@ Tuning](http://chemnitzer.linux-tage.de/2008/vortraege/detail.html?idx=50)”.
 [![](http://www.kubuntu-de.org/files/bilder/79.thumbnail_0.jpg)](http://www.kubuntu-de.org/bilder/events/chemnitzer-linux-tage-2008?page=2#img18)
 
 </center>
-</p>
-</p>
+
+
 Finally, a big thanks to the organisers of the [Chemnitzer
 Linux-Tage](http://chemnitzer.linux-tage.de/2008/info/). This event was
 not only organised with an excellent quality offered by
@@ -193,10 +193,10 @@ Presentations](http://www.kubuntu-de.org/bilder/events/chemnitzer-linux-tage-200
 There was no other way to describe the impressive hospitality.
 **Thanks!**
 
-</p>
+
 Further links:
 
-</p>
+
 -   [All photographs by
     Kubuntu-de.org](http://www.kubuntu-de.org/bilder/events/chemnitzer-linux-tage-2008)
 -   [Chemnitzer Linux-Tage
@@ -209,9 +209,9 @@ Further links:
     Recordings](http://chemnitzer.linux-tage.de/2008/vortraege/plan.html)
     (available shortly)
 
-</p>
+
 » [*Comments in the Kubuntu-de.org
 Forum*](http://forum.kubuntu-de.org/index.php?topic=10210.0)
 
-</p>
+
 

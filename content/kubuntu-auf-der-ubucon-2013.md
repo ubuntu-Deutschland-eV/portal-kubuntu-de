@@ -7,15 +7,15 @@ Dieses Jahr fand die [Ubucon](http://ubucon.de/2013/programm) in
 Heidelberg statt, am vergangenen Wochenende (Freitag Abend bis Sonntag
 Nachmittag).
 
-</p>
+
 Es gab zwei Vorträge zum Thema Kubuntu/KDE, von Monika Eggers und von
 Martin Gräßlin. Von vielen Vorträgen können die Folien jetzt oder
 demnächst heruntergeladen werden.
 
-</p>
+
 Dieses Thema kann im
 [Kubuntu-de.org-Forum](http://forum.kubuntu-de.org/index.php?topic=17290)
 diskutiert werden.
 
-</p>
+
 

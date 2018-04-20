@@ -12,7 +12,7 @@ nicht mehr hinzugefügt) ist für den 19. Februar 2009 vorgesehen.
 **Vorversionen von Jaunty sind nicht für den produktiven Einsatz
 geeignet!**
 
-</p>
+
 Für diese Alpha wurde die KDE Version aktualisiert und liegt nun mit dem
 [KDE 4.2
 RC](http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-rc-und-kde-4-1-4-mit-kubuntu-paketen-freigegeben "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-rc-und-kde-4-1-4-mit-kubuntu-paketen-freigegeben") vor. Eine Änderung gibt es bezüglich des IRC-Clients: da
@@ -22,7 +22,7 @@ verzichtet werden soll, wird als IRC-Client nun
 auf Herz und Nieren zu prüfen und ggf.
 [Probleme](https://launchpad.net/distros/ubuntu/+filebug "https://launchpad.net/distros/ubuntu/+filebug") zu berichten.
 
-</p>
+
 <!--break--><!--break-->
 
 Schließlich wurde auch
@@ -32,7 +32,7 @@ KDE 4 portiert wird und bereits die Beta Phase erreicht hat, ist Digikam
 0.2.0 Beta in der Alpha 3 enthalten sein. Auch bei diesen Neuzugängen
 wird ausdrücklich darum gebeten, sie ausführlich zu testen.
 
-</p>
+
 Darüber hinaus findet die Kubuntu-Dokumentation wieder Einzug ins
 KHelpCenter, wobei der Nutzer aber feststellen wird, dass die Dokumente
 weitgehend nur für KDE 3 Anwendungen verfügbar sind. Das
@@ -41,7 +41,7 @@ diese auf den neuesten Stand zu bringen. Interessenten sind gebeten,
 sich bei [Richard
 Johnson](https://wiki.kubuntu.org/RichardJohnson "https://wiki.kubuntu.org/RichardJohnson") zu melden.
 
-</p>
+
 Dies alles sind jedoch Merkmale einer Vorversion von Kubuntu, demzufolge
 es wahrscheinlich ist, dass weitere Probleme vorhanden sind. Daher ist
 jeder dazu angehalten, [Probleme zu
@@ -49,9 +49,9 @@ berichten](https://launchpad.net/distros/ubuntu/+filebug "https://launchpad.net/
 allgemeine
 [Rückmeldungen](https://wiki.kubuntu.org/JauntyJackalope/Alpha3/Kubuntu/Feedback "https://wiki.kubuntu.org/JauntyJackalope/Alpha3/Kubuntu/Feedback").
 
-</p>
+
 Kubuntu 9.04 Jaunty Jackalope Alpha 3 kann
 [hier](http://cdimage.ubuntu.com/kubuntu/releases/jaunty/alpha-3/ "http://cdimage.ubuntu.com/kubuntu/releases/jaunty/alpha-3/") herunter geladen werden.
 
-</p>
+
 

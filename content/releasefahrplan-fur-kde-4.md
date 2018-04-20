@@ -12,7 +12,7 @@ werden, welches allein Fehlerbereinigungen enthält. Die Entwickler
 planen zudem alle 6 Monate eine Version mit neuen Features zu
 veröffentlichen.
 
-</p>
+
 Die nächste KDE-Freigabe mit neuen Features, KDE 4.1, soll im Juli
 erscheinen. Die Entwickler planen für diese Freigabe unter anderem
 Portierungen auf Mac, Windows und OpenSolaris, Unterstützung von Apple
@@ -21,10 +21,10 @@ basierendes KDE-PIM und viele kleinere Features. Nebenbei soll auch
 weiter an der Oberfläche gefeilt und die Geschwindigkeit verbessert
 werden.
 
-</p>
+
 Der Releasefahrplan soll Benutzern und Entwicklern von KDE wie auch
 Distributoren die Planung erleichtern. Dies könnte auch Kubuntu zu Gute
 kommen.
 
-</p>
+
 <!--break--><!--break-->

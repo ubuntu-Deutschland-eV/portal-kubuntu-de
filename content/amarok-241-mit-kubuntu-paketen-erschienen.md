@@ -19,32 +19,32 @@ wurden viele Fehler behoben, eine Übersicht kann in der [Ankündigung
 (englisch)](http://amarok.kde.org/en/releases/2.4.1) von Amarok
 nachgelesen werden.
 
-</p>
+
 Fehler in den Paketen sollen gegen das [Kubuntu
 PPA](https://bugs.launchpad.net/kubuntu-ppa), Fehler der Software im
 [Bugtracker von KDE](http://bugs.kde.org) gemeldet werden.
 
-</p>
+
 <!--break--><!--break-->
 
 Die Kubuntu-Pakete sind für die Versionen 11.04 (Natty) und die aktuelle
 Entwicklungsversion Oneric erschienen. Für Natty benötigt man das
 Kubuntu Backports Repository.
 
-</p>
+
 Das PPA fügt man mit
 
-</p>
+
 sudo apt-add-repository ppa:kubuntu-ppa
 
-</p>
+
 hinzu. Für PPA Pakete gilt selbstverständlich die übliche Warnung.
 
-</p>
-</p>
+
+
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0) diskutiert
 werden.
 
-</p>
+
 

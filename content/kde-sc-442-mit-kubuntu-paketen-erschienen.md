@@ -11,19 +11,19 @@ mögliche Abstürze in Plasma, Dolphin und Okular behoben und auch das
 Audioplayerplugin von KRunner wurde so überarbeitet, dass es nicht mehr
 einfriert.
 
-</p>
+
 Benutzer der Vorabversion der neuen Kubuntu-Version Lucid Lynx erhalten
 die Pakete direkt über das normale Update. Anwender von Kubuntu Karmic
 Koala spielen die Updates gemäß der [Installationsanleitung für KDE
 4.4.2](http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.10_auf_KDE_SC_4.4_aktualisieren "http://wiki.kubuntu-de.org/Installation/Upgrade/Kubuntu_9.10_auf_KDE_SC_4.4_aktualisieren")
 aus unserem Wiki ein.
 
-</p>
+
 <!--break--><!--break-->
 
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
 
-</p>
+
 

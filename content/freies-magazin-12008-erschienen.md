@@ -11,14 +11,14 @@ zulässt, ist das Magazin auch per [HTTP-Zugriff auf das
 FTP-Verzeichnis](http://www.freiesmagazin.de/ftp/2008/freiesMagazin-2008-01.pdf)
 zu erreichen. Inhalte der Ausgabe 01/2008 sind
 
-</p>
+
 -   Linspires Click'n'Run im Beta-Test
 -   57 geheime Ubuntu-Tricks mit Ubuntu Tweak
 -   Audio-Software - Teil 7 (FreeJ)
 -   Zauberei mit PSTricks - Teil 3
 -   Veranstaltungskalender, News, Leserbriefe, u.a.
 
-</p>
+
 Das vollständige Inhaltsverzeichnis finden man auf der [Webseite der
 aktuellen Ausgabe](http://www.freiesmagazin.de/freiesMagazin-2008-01).
 Leserbriefe mit Lob, Kritik, Anregungen oder Fragen können wie immer an
@@ -31,5 +31,5 @@ drei Ausgaben von
 abgerufen werden, ältere Ausgaben findet man im
 [Archiv](http://www.freiesmagazin.de/archiv).
 
-</p>
+
 <!--break--><!--break-->

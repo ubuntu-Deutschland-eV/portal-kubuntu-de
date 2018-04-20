@@ -7,7 +7,7 @@ Slug: interview-harald-sitter-about-amarok-and-kde-4
 [![Harald Sitter auf dem LinuxTag 2007](http://www.kubuntu-de.org/files/bilder/LinuxTag2007_038_0.jpg){width="240" height="160"}](http://www.kubuntu-de.org/bilder/events/linuxtag-2007?page=1&img=7)Apachelogger interviewed by kubuntu-de.org
 ===============================================================================================================================================================================================================================================
 
-</p>
+
 <address>
 *Note: Das Original in deutsch ist
 [hier](http://www.kubuntu-de.org/nachrichten/sonstiges/interview-harald-sitter-ber-amarok-und-kde-4)
@@ -15,7 +15,7 @@ zu finden (* *The german original could be found
 [here.](http://www.kubuntu-de.org/nachrichten/sonstiges/interview-harald-sitter-ber-amarok-und-kde-4))*
 
 </address>
-</p>
+
 Harald Sitter, also known as apachelogger, was [promoted to Kubuntu
 MOTU](https://lists.ubuntu.com/archives/ubuntu-devel/2007-November/024826.html "https://lists.ubuntu.com/archives/ubuntu-devel/2007-November/024826.html"){.external
 .text} not too long ago. He also works as a volunteer project manager
@@ -24,7 +24,7 @@ project](http://amarok.kde.org/ "http://amarok.kde.org"){.external
 .text}. We spoke with him about Amarok 2 and what can be expected from
 KDE 4 in Kubuntu 8.04 Hardy Heron.
 
-</p>
+
 **kubuntu-de.org:** Can you briefly describe who you are and in which
 areas of Kubuntu you are participate?  
 
@@ -32,7 +32,7 @@ areas of Kubuntu you are participate?
 citizen. I am one of the Kubuntu MOTUs who are responsible for the
 maintenance of the biggest packets archive for Ubuntu.
 
-</p>
+
 **kubuntu-de.org:** What is the meaning of MOTU? For which projects are
 you active?  
 
@@ -41,7 +41,7 @@ are the VIPs ;-). Additionally, I am the project manager of
 [Amarok](http://amarok.kde.org) and also work on
 [KDE](http://www.kde.org).
 
-</p>
+
 <!--break--><!--break-->
 
 **kubuntu-de.org:** Amarok is a good subject. What was the reason to
@@ -69,7 +69,7 @@ A very important argument because we have often received requests for
 Amarok on Windows/Mac since I have been in the Amarok team (which is for
 more than 4 years).
 
-</p>
+
 **kubuntu-de.org:** Do you have a favourite feature in Amarok 1 and
 which will be the favourite one in Amarok 2?  
 
@@ -78,7 +78,7 @@ context information. Obviously, this has been given far more attention
 in Amarok 2 and will also be a lot more beautiful regarding the
 graphical looks than in Amarok 1.
 
-</p>
+
 **kubuntu-de.org:** You are currently very involved in the development
 of Kubuntu. We have to thank you for the [packages for KDE
 4.0.1.](http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-0-1-mit-paketen-f-r-kubuntu-erschienen)
@@ -92,7 +92,7 @@ caught studying, but that is rather seldom the case.
 
  [![](http://www.kubuntu-de.org/files/bilder/LinuxTag2007_039_0.jpg){width="240"}](http://www.kubuntu-de.org/bilder/events/linuxtag-2007?page=1&img=8)
 
-</p>
+
 **kubuntu-de.org:** KDE 4 is not very complete at this time. How will
 you manage to integrate KDE 3 applications seemlessly into the desktop?
 In particular when you look at the settings, there is still lots to do.
@@ -114,7 +114,7 @@ solutions in our sleeves. In general, it can be said, that currently
 five people work under great pressure in order to deliver with 8.04
 greatest, most genius, and fantastic desktop that can be done.
 
-</p>
+
 **kubuntu-de.org:** There has been lots of criticism about KDE 4.0 that
 could not be ignored. What do you think has been the reason for it? Have
 the expectations of the users been to high?  
@@ -135,7 +135,7 @@ any case, 4.0.1 is already enormously improved. I anticipate that 4.0.3
 (which is likely the version to be used in Kubuntu 8.04) will be a fully
 usable desktop for most users.
 
-</p>
+
 **kubuntu-de.org:** At the end of this interview, please tell us what
 your favourite application for KDE 4 is and why you chose it.  
 
@@ -146,12 +146,12 @@ that most would not even have in their minds when laborating this
 question: Oxygen. Only Oxygen makes KDE 4 what it is: A seamlessly
 beautiful system with a uniform, and very edgy look and feel.
 
-</p>
+
 **kubuntu-de.org:** Harald, we thank you for this interview and
 obviously for all your good work for Kubuntu and KDE.  
 
 **Harald:** Thanks for working through my crazy thoughts. FREE SOFTWARE
 RULEZ! :D
 
-</p>
+
 

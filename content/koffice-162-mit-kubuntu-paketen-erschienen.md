@@ -19,32 +19,32 @@ finden.
 
 Weiter Informationen:  
 
-> </p>
+> 
 > -   [ProLinux](http://www.pro-linux.de/news/2007/10871.html)
 > -   [kubuntu.org](http://kubuntu.org/announcements/koffice-162.php)
 >     (englisch)
 > -   [koffice.org](http://www.koffice.org/) (englisch)
 >
-> </p>
-> <p>
+> 
+> 
 
   
 
-</p>
+
 Die Kubuntu Pakete sind mit Jonathan Riddells Schlüssel signiert, den
 man
 [hier](http://people.ubuntu.com/~jriddell/kubuntu-packages-jriddell-key.gpg)
 herunterladen und wie folgt hinzufügen kann:  
 
-> </p>
+> 
 > *sudo apt-key add kubuntu-packages-jriddell-key.gpg*
 >
-> </p>
-> <p>
+> 
+> 
 
   
 
-</p>
+
 Weiter muss noch eine der aufgelisteten Quellen der
 /etc/apt/sources.list hinzugefügt werden:  
 
@@ -58,7 +58,7 @@ Weiter muss noch eine der aufgelisteten Quellen der
     edgy main*
 -   *deb http://kubuntu.org/packages/koffice-162 edgy main*
 
-</p>
+
 Es ist zu beachten, dass diese Koffice Pakete nicht dem bestmöglichen
 Support unterliegen und möglicherweise nicht sofort mit
 Sicherheitsupdates versorgt werden.  

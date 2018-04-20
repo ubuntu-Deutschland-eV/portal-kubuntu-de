@@ -8,7 +8,7 @@ Heute wurde eine Zusammenarbeit zwischen Canonical Ltd und Linspire Inc,
 dem Entwickler des gleichnamigen kommerziellen Linux Betriebssystem für
 den Desktop, angekündigt.
 
-</p>
+
 Linspire basierte bisher auf Debian, wird aber in Zukunft Ubuntu als
 Grundlage für sein System benutzen und somit von dessen sechsmonatigen
 Freigabezyklus und der großen Benutzerfreundlichkeit von Ubuntu
@@ -17,7 +17,7 @@ verwenden, also ein Kubuntu Derivat sein. Die nächste Linspire Freigabe
 wird auf Feisty 7.04 basieren und im zweiten Quartal von 2007
 veröffentlicht werden.
 
-</p>
+
 <!--break--><!--break-->
 
 Im Gegenzug wird CNR, eine Anwendung zur Installation von Software, in
@@ -34,12 +34,12 @@ Es wird geplant, Teile der Open Source CNR Technologie in das
 wird, zu integrieren. Die bisherigen Installationsroutinen und
 Paketquellen werden aber nach wie vor Geltung behalten.
 
-</p>
+
 <em>  
 
 Weitere Informationen:</em>
 
-</p>
+
 -   News von [Ubuntu](http://www.ubuntu.com/news/LinspirePartnership)
 -   [Linspire
     Newsletter](http://www.linspire.com/linspire_letter_archives.php?id=40)
@@ -47,20 +47,20 @@ Weitere Informationen:</em>
     FAQ](http://wiki.freespire.org/index.php/Linspire_Canonical_Partnership_FAQ)
     zur Sache
 
-</p>
+
 <em>  
 
 Diese News kann im [Forum](/forum/index.php?topic=7672.0) diskutiert
 werden.</em>
 
-</p>
+
  
 
-</p>
+
  
 
-</p>
+
   
 
-</p>
+
 

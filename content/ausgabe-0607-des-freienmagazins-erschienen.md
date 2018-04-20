@@ -11,11 +11,11 @@ der alternative Browser "Kazehakase" vorgestellt. Weitere Themen sind:
 Backups mit Keep, Wacom Grafiktablett unter Linux, Einführung in LaTex
 Beamer.
 
-</p>
+
 Das freieMagazin ist ein monatlich erscheinendes Magazin mit Nachrichten
 und Artikeln rund um Linux, K/Ubuntu und Fedora. Die [aktuelle
 Ausgabe](http://www.elyps.de/freiesMagazin-2007-06.html "http://www.elyps.de/freiesMagazin-2007-06.html") sowie ältere Veröffentlichungen können auf der
 [Webseite](http://www.freies-magazin.de/ "http://www.freies-magazin.de/") der Redakton heruntergeladen werden.
 
-</p>
+
 <!--break--><!--break-->

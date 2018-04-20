@@ -15,7 +15,7 @@ Neon" soll die jeweils aktuellste Version von Amarok für normale Nutzer
 verfügbar machen, damit sich noch mehr Leute an der Entwicklung
 beteiligen oder Fehler testen und korrigieren können.
 
-</p>
+
 Momentan stehen nur Pakete für Kubuntu Hardy Heron zur Verfügung, aber
 es ist geplant auch andere Distributionen zu bedienen. Um dies zu
 erreichen, rufen die Entwickler die Paketbetreuer anderer Distributionen
@@ -23,7 +23,7 @@ auf sich an diesem Projekt zu beteiligen. Wer Pakete bauen kann, sollte
 sich im IRC auf irc.freenode.net im Raum \#rokymotion bei apachelogger
 melden.
 
-</p>
+
 <!--break--><!--break-->
 
 Beim Berichten von Fehlern bittet das Team von Amarok darum zu beachten,
@@ -31,10 +31,10 @@ dass nur Fehlerberichte akzeptiert werden, die leicht reproduzierbar und
 nicht offensichtlich sind. Am besten sind natürlich Fehlerberichte mit
 angehängtem Patch.
 
-</p>
+
 Die Installation unter Kubuntu Hardy Heron funktioniert folgendermaßen:
 
-</p>
+
 -   *deb <http://ppa.launchpad.net/project-neon/ubuntu> hardy main* in
     die Datei */etc/apt/sources.list* einfügen.
 -   Paketliste aktualisieren und mit dem grafischen Paketmanager Adept
@@ -42,17 +42,17 @@ Die Installation unter Kubuntu Hardy Heron funktioniert folgendermaßen:
 -   Amarok kann nun aus dem KMenü oder in der Konsole durch Eingabe von
     "amarok-nightly" gestartet werden
 
-</p>
+
 Da die Konfiguration im Verzeichnis \~/.amarok-nightly gespeichert wird,
 ist es möglich die stabile und die Entwicklerversion von Amarok parallel
 zu installieren.
 
-</p>
+
 **Warnung: Das Paket amarok-nightly enthält in der Entwicklung
 befindlichen Code, der teilweise vollkommen ungetest ist. Auch wenn sich
 die Amarok-Entwickler Mühe geben nichts anzustellen, kann es durchaus
 sein, dass dieses Paket das System zerstört. Eine Installation auf
 Produktivsystemen ist nicht empfehlenswert!**
 
-</p>
+
 

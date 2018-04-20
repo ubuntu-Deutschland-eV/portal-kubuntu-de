@@ -13,7 +13,7 @@ kritischen Fehler mehr behoben, keine Sicherheitsaktualisierungen mehr
 getätigt und die "Ubuntu Security Notices" werden keine Informationen
 mehr zu Ubuntu 6.10 enthalten.
 
-</p>
+
 Benutzer von Edgy Eft sollten deshalb möglichst bald auf die nächste
 Freigabe, Kubuntu 7.04 Feisty Fawn, oder die aktuelle Kubuntu Version,
 Gutsy Gibbon 7.10, aktualisieren. Ein direktes Update von 6.10 auf 7.10
@@ -22,5 +22,5 @@ ist nicht möglich. Es wird empfohlen schrittweise von [Version 6.10 auf
 [Version 7.04 auf 7.10](https://help.ubuntu.com/community/GutsyUpgrades)
 zu aktualisieren.
 
-</p>
+
 <!--break--><!--break-->
