@@ -9,8 +9,7 @@ eine neue Hauptversion der populären Software Compilation herausgegeben.
 
 
 
-[![KDE4.8.png](http://wiki.kubuntu-de.org/images/KDE4.8.png){width="500"
-height="400"}]
+[![KDE4.8.png](http://wiki.kubuntu-de.org/images/KDE4.8.png)]
 
 
 <!--break--><!--break-->
@@ -55,8 +54,7 @@ normale Systemupdate mit KDE 4.8 versorgt. Für die stabile Version 11.10
 Oneiric Ocelot stehen Pakete im Kubuntu Backports-PPA zur Verfügung.
 
 
-[![Testsoftware48x48.png](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png){width="48"
-height="48"}](/Datei:Testsoftware48x48.png)Das PPA fügt man mit
+[![Testsoftware48x48.png](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png)](/Datei:Testsoftware48x48.png)Das PPA fügt man mit
 
 
 ``` {.shell}

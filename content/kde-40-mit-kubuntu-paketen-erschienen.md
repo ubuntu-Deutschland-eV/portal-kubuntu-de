@@ -4,8 +4,7 @@ Author: Monika Eggers
 Tags: KDE
 Slug: kde-40-mit-kubuntu-paketen-erschienen
 
-[![Bild:KDE.png](http://wiki.kubuntu-de.org/images/Kde.png){width="100"
-height="100"}](http://wiki.kubuntu-de.org/images/Kde.png "Bild:KDE4-Plasma.png")
+[![Bild:KDE.png](http://wiki.kubuntu-de.org/images/Kde.png)](http://wiki.kubuntu-de.org/images/Kde.png "Bild:KDE4-Plasma.png")
 
 
 [Eine Vision wird Wirklichkeit]{.mw-headline}
@@ -34,7 +33,7 @@ Blog](http://www.kdedevelopers.org/node/3174 "http://www.kdedevelopers.org/node/
 Release-Zyklus.
 
 
-### [![Bild:KDE4-Plasma.png](http://wiki.kubuntu-de.org/images/KDE4-Plasma.png){width="160" height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Plasma.png "Bild:KDE4-Plasma.png") [![Bild:KDE4-Plasma2.png](http://wiki.kubuntu-de.org/images/KDE4-Plasma2.png){width="160" height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Plasma2.png "Bild:KDE4-Plasma2.png")[![Bild:KDE4-Konqueror.png](http://wiki.kubuntu-de.org/images/KDE4-Konqueror.png){width="160" height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Konqueror.png "KDE4-Konqueror.png") {#bildkde4-plasma.png-bildkde4-plasma2.pngbildkde4-konqueror.png align="center"}
+### [![Bild:KDE4-Plasma.png](http://wiki.kubuntu-de.org/images/KDE4-Plasma.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Plasma.png "Bild:KDE4-Plasma.png") [![Bild:KDE4-Plasma2.png](http://wiki.kubuntu-de.org/images/KDE4-Plasma2.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Plasma2.png "Bild:KDE4-Plasma2.png")[![Bild:KDE4-Konqueror.png](http://wiki.kubuntu-de.org/images/KDE4-Konqueror.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Konqueror.png "KDE4-Konqueror.png") {#bildkde4-plasma.png-bildkde4-plasma2.pngbildkde4-konqueror.png align="center"}
 
 
 **Update:** *The English Translation could be found
@@ -221,7 +220,7 @@ Versionen werden wird.
 ### [](http://wiki.kubuntu-de.org/Bild:KDE4-Systemeinstellungen.png "Bild:KDE4-Systemeinstellungen.png")
 
 
-### [![Bild:KDE4-Systemeinstellungen.png](http://wiki.kubuntu-de.org/images/KDE4-Systemeinstellungen.png){width="160" height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Systemeinstellungen.png "Bild:KDE4-Systemeinstellungen.png")[![Bild:KDE4-Solid.png](http://wiki.kubuntu-de.org/images/KDE4-Solid.png){width="160" height="100"}](http://wiki.kubuntu-de.org/images/KDE4-Solid.png)[![Bild:KDE4-Phonon.png](http://wiki.kubuntu-de.org/images/KDE4-Phonon.png){width="160" height="100"}](http://wiki.kubuntu-de.org/images/KDE4-Phonon.png) {#bildkde4-systemeinstellungen.pngbildkde4-solid.pngbildkde4-phonon.png align="center"}
+### [![Bild:KDE4-Systemeinstellungen.png](http://wiki.kubuntu-de.org/images/KDE4-Systemeinstellungen.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Systemeinstellungen.png "Bild:KDE4-Systemeinstellungen.png")[![Bild:KDE4-Solid.png](http://wiki.kubuntu-de.org/images/KDE4-Solid.png)](http://wiki.kubuntu-de.org/images/KDE4-Solid.png)[![Bild:KDE4-Phonon.png](http://wiki.kubuntu-de.org/images/KDE4-Phonon.png)](http://wiki.kubuntu-de.org/images/KDE4-Phonon.png) {#bildkde4-systemeinstellungen.pngbildkde4-solid.pngbildkde4-phonon.png align="center"}
 
 
 ###  
@@ -354,10 +353,7 @@ zu konfigurieren.
 
 <div align="center">
 
-[![Bild:KDE4-Dophin-gruppiert.png](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-gruppiert.png){width="160"
-height="100"}](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-gruppiert.png "Bild:KDE4-Systemeinstellungen.png")[![Bild:KDE4-Dolphin-Spalten.png](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-Spalten.png){width="160"
-height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Dolphin-Spalten.png "Bild:KDE4-Dolphin-Spalten.png")[![Bild:KDE4-Dolphin-Symbole.png](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-Symbole.png){width="160"
-height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Dolphin-Symbole.png "Bild:KDE4-Dolphin-Symbole.png")
+[![Bild:KDE4-Dophin-gruppiert.png](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-gruppiert.png)](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-gruppiert.png "Bild:KDE4-Systemeinstellungen.png")[![Bild:KDE4-Dolphin-Spalten.png](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-Spalten.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Dolphin-Spalten.png "Bild:KDE4-Dolphin-Spalten.png")[![Bild:KDE4-Dolphin-Symbole.png](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-Symbole.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Dolphin-Symbole.png "Bild:KDE4-Dolphin-Symbole.png")
 
 </div>
 
@@ -436,10 +432,7 @@ angeboten.
 
 <div align="center">
 
-[![Bild:KDE4-Krunner.png](http://wiki.kubuntu-de.org/images/KDE4-Krunner.png){width="160"
-height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Krunner.png "Bild:KDE4-Systemeinstellungen.png")[![Bild:KDE4-Okular.png](http://wiki.kubuntu-de.org/images/KDE4-Okular.png){width="160"
-height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Okular.png "Bild:KDE4-Systemeinstellungen.png")[![Bild:KDE4-Kwin.png](http://wiki.kubuntu-de.org/images/KDE4-Kwin.png){width="160"
-height="100"}](http://wiki.kubuntu-de.org/Bild:KDE4-Kwin.png "Bild:KDE4-Systemeinstellungen.png")
+[![Bild:KDE4-Krunner.png](http://wiki.kubuntu-de.org/images/KDE4-Krunner.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Krunner.png "Bild:KDE4-Systemeinstellungen.png")[![Bild:KDE4-Okular.png](http://wiki.kubuntu-de.org/images/KDE4-Okular.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Okular.png "Bild:KDE4-Systemeinstellungen.png")[![Bild:KDE4-Kwin.png](http://wiki.kubuntu-de.org/images/KDE4-Kwin.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Kwin.png "Bild:KDE4-Systemeinstellungen.png")
 
 </div>
 

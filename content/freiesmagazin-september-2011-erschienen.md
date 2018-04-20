@@ -5,8 +5,7 @@ Tags: Sonstiges
 Slug: freiesmagazin-september-2011-erschienen
 
 [![freiesMagazin 09/2011
-Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2011-09.png){width="300"
-height="212"}](http://www.freiesmagazin.de/system/files/freiesmagazin-2011-09.png)
+Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2011-09.png)](http://www.freiesmagazin.de/system/files/freiesmagazin-2011-09.png)
 
 
 Heute ist die [Septemberausgabe von

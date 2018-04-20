@@ -4,8 +4,7 @@ Author: Jaro Hlavaty
 Tags: KDE
 Slug: erste-aktualisierung-von-kde-410-veroffentlicht
 
-[![Kde.png](http://wiki.kubuntu-de.org/images/thumb/Kde.png/50px-Kde.png){width="50"
-height="50"}](/Datei:Kde.png)
+[![Kde.png](http://wiki.kubuntu-de.org/images/thumb/Kde.png/50px-Kde.png)](/Datei:Kde.png)
 
 
 Das KDE-Team hat [die erste monatliche

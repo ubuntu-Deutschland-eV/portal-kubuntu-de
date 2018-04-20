@@ -14,7 +14,7 @@ and Radio Tux
 
 </h2>
 
-![(c) by Sebastian Kügler](http://wiki.kubuntu-de.org/images/Sebas.jpg){width="160" height="145"}
+![(c) by Sebastian Kügler](http://wiki.kubuntu-de.org/images/Sebas.jpg)
 =================================================================================================
 
 

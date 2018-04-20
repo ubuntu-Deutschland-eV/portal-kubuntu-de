@@ -4,7 +4,7 @@ Author: Monika Eggers
 Tags: English
 Slug: interview-harald-sitter-about-amarok-and-kde-4
 
-[![Harald Sitter auf dem LinuxTag 2007](http://www.kubuntu-de.org/files/bilder/LinuxTag2007_038_0.jpg){width="240" height="160"}](http://www.kubuntu-de.org/bilder/events/linuxtag-2007?page=1&img=7)Apachelogger interviewed by kubuntu-de.org
+[![Harald Sitter auf dem LinuxTag 2007](http://www.kubuntu-de.org/files/bilder/LinuxTag2007_038_0.jpg)](http://www.kubuntu-de.org/bilder/events/linuxtag-2007?page=1&img=7)Apachelogger interviewed by kubuntu-de.org
 ===============================================================================================================================================================================================================================================
 
 
@@ -88,7 +88,7 @@ I am very busy partying. If I have learnt one thing while participating
 on Amarok then it is how you properly party. Sometimes I have been
 caught studying, but that is rather seldom the case.  
 
- [![](http://www.kubuntu-de.org/files/bilder/LinuxTag2007_039_0.jpg){width="240"}](http://www.kubuntu-de.org/bilder/events/linuxtag-2007?page=1&img=8)
+ [![](http://www.kubuntu-de.org/files/bilder/LinuxTag2007_039_0.jpg)](http://www.kubuntu-de.org/bilder/events/linuxtag-2007?page=1&img=8)
 
 
 **kubuntu-de.org:** KDE 4 is not very complete at this time. How will

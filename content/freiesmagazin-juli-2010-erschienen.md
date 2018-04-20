@@ -4,8 +4,7 @@ Tags: Sonstiges
 Slug: freiesmagazin-juli-2010-erschienen
 
 [![freiesMagazin 07/2010
-Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-07.png){width="300"
-height="212"}](http://www.freiesmagazin.de/freiesMagazin-2010-07)
+Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-07.png)](http://www.freiesmagazin.de/freiesMagazin-2010-07)
 
 
 Heute ist die [Juliausgabe von

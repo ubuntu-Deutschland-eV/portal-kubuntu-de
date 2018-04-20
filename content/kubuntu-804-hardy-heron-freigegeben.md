@@ -120,8 +120,7 @@ KDE 4 ist verfügbar auf der Kubuntu 8.04 KDE 4 Remix CD oder über
 
 
 <td>
-[![](http://wiki.kubuntu-de.org/images/Sm_kdm.png "kdm.png"){width="200"
-height="152"}](https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=kdm.png)
+[![](http://wiki.kubuntu-de.org/images/Sm_kdm.png "kdm.png")](https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=kdm.png)
 
 </td>
 
@@ -205,8 +204,7 @@ Möglichkeit zwischen vier möglichen Einstellungen:
 
 
 <td>
-[![https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=desktopeffects.png](http://wiki.kubuntu-de.org/images/Sm_desktopeffects.png "https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=desktopeffects.png"){width="200"
-height="152"}](https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=desktopeffects.png)
+[![https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=desktopeffects.png](http://wiki.kubuntu-de.org/images/Sm_desktopeffects.png "https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=desktopeffects.png")](https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=desktopeffects.png)
 
 </td>
 
@@ -233,8 +231,7 @@ height="152"}](https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile
 
 
 <td>
-[![](http://wiki.kubuntu-de.org/images/Sm_hardy_multi.png){width="200"
-height="151"}](http://kubuntu.org/images/hardy_multi.png)
+[![](http://wiki.kubuntu-de.org/images/Sm_hardy_multi.png)](http://kubuntu.org/images/hardy_multi.png)
 
 </td>
 
@@ -320,8 +317,7 @@ zu lesen und zu schreiben.
 
 
 <td>
-[![](http://wiki.kubuntu-de.org/images/Sm_hardy_prntconf.png){width="200"
-height="93"}](http://kubuntu.org/images/hardy_prntconf.png)
+[![](http://wiki.kubuntu-de.org/images/Sm_hardy_prntconf.png)](http://kubuntu.org/images/hardy_prntconf.png)
 
 </td>
 
@@ -373,8 +369,7 @@ Partitionen des PC oder einen anderen Bootloader.
 
 <td>
 
-[![](http://wiki.kubuntu-de.org/images/Sm_wubi_setup.png){width="200"
-height="157"}](http://kubuntu.org/images/hardy_wubi.png)
+[![](http://wiki.kubuntu-de.org/images/Sm_wubi_setup.png)](http://kubuntu.org/images/hardy_wubi.png)
 
 
 

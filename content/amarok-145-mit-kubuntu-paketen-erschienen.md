@@ -35,8 +35,7 @@ Repository erhältlich. Weiterführende Informationen sind
 
 <div align="center">
 
-[![145release\_small.jpg](/files/Image/nachrichten/software/kde/amarok/amarok-145/145release_small.jpg){width="200"
-height="133"}](/files/Image/nachrichten/software/kde/amarok/amarok-145/145release.jpg)
+[![145release\_small.jpg](/files/Image/nachrichten/software/kde/amarok/amarok-145/145release_small.jpg)](/files/Image/nachrichten/software/kde/amarok/amarok-145/145release.jpg)
 
 </div>
 

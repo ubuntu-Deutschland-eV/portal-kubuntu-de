@@ -4,8 +4,7 @@ Author: Monika Eggers
 Tags: Kubuntu
 Slug: kubuntu-natty-1104-beta-1-erschienen
 
-![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png){width="48"
-height="48"}
+![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png)
 
 [](http://www.kubuntu-de.org/nachrichten/kubuntu/2067-kubuntu-natty-11-04-beta-1-erschienen){.FlattrButton}
 Kubuntu wird die Version 11.04, Natty Narwhal (Schicker Narwal) im April

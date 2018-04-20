@@ -5,8 +5,7 @@ Tags: Kubuntu-de.org
 Slug: kubuntu-deorg-bugteam-knackt-die-2000er-marke
 
 ![5-a-day
-Logo](http://wiki.kubuntu-de.org/images/5-a-day-logo.png){width="120"
-height="120"}Schon gestern konnte das [Bugteam von
+Logo](http://wiki.kubuntu-de.org/images/5-a-day-logo.png)Schon gestern konnte das [Bugteam von
 kubuntu-de.org](http://wiki.kubuntu-de.org/Team:Bugreports "Team:Bugreports")
 den [2000sten Bug
 verkünden](http://blog.txwikinger.me.uk/archives/9-Das-Kubuntu-de.org-Team-hat-als-erstes-Team-die-2000er-Marke-geknackt%21.html "http://blog.txwikinger.me.uk/archives/9-Das-Kubuntu-de.org-Team-hat-als-erstes-Team-die-2000er-Marke-geknackt!.html"), der im Zuge der ["5-a-day"

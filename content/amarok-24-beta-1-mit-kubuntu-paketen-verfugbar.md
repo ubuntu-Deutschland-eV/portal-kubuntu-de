@@ -3,8 +3,7 @@ Date: 2010-12-07 23:40
 Tags: Amarok Testversion
 Slug: amarok-24-beta-1-mit-kubuntu-paketen-verfugbar
 
-![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png){width="48"
-height="48"}
+![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png)
 
 [](http://www.kubuntu-de.org/nachrichten/software/kde/amarok/amarok-testversion/2046-amarok-2-4-beta-1-mit-kubuntu-paketen-verfue){.FlattrButton}
 [Amarok](http://amarok.kde.org "http://amarok.kde.org") 2.4 Beta 1 ist

@@ -9,8 +9,7 @@ erschienen. Dieses Release ist der bereits im Mai verstorbenen KDE
 Entwicklerin Claire Lotion gewidmet.
 
 
-[![Kde49-desktop.png](http://wiki.kubuntu-de.org/images/Kde49-desktop.png){width="600"
-height="425"}]
+[![Kde49-desktop.png](http://wiki.kubuntu-de.org/images/Kde49-desktop.png)]
 
 
 <!--break--><!--break-->

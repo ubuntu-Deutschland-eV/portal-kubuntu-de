@@ -13,8 +13,7 @@ HTML-Version.
 
 
 [![FreiesMagazin-2011-11
-Titel.png](http://wiki.kubuntu-de.org/images/FreiesMagazin-2011-11_Titel.png){width="600"
-height="424"}]
+Titel.png](http://wiki.kubuntu-de.org/images/FreiesMagazin-2011-11_Titel.png)]
 
 
 <!--break--><!--break-->

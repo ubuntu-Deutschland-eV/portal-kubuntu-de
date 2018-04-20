@@ -4,8 +4,7 @@ Author: Monika Eggers
 Tags: Amarok Testversion
 Slug: amarok-241-beta-1-ringscape-mit-kubuntu-paketen-veroffentlicht
 
-![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png){width="48"
-height="48"}
+![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png)
 
 [](http://www.kubuntu-de.org/nachrichten/software/kde/amarok/amarok-testversion/2065-amarok-2-4-1-beta-1-ringscape-mit-kubuntu-pa){.FlattrButton}
 Das Amarok-Projekt hat die erste Beta dem Codenamen "Ringscape" der

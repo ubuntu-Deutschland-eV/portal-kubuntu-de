@@ -4,8 +4,7 @@ Author: Monika Eggers
 Tags: English
 Slug: interview-with-kubuntu-developer-jonathan-thomas
 
-[![](http://wiki.kubuntu-de.org/images/Jonathan_thomas.png){width="150"
-height="150"}]{.inline .inline-right}  
+[![](http://wiki.kubuntu-de.org/images/Jonathan_thomas.png)]{.inline .inline-right}  
 
 Once again kubuntu-de.org interviewed a developer. This time we talked
 with Jonathan (JontheEchidna) Thomas. The Kubuntu developer and Ninja

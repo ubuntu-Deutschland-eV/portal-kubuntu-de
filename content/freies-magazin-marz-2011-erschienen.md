@@ -5,8 +5,7 @@ Tags: Sonstiges
 Slug: freies-magazin-marz-2011-erschienen
 
 [![freiesMagazin 03/2011
-Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2011-03.png){width="300"
-height="212"}](http://www.freiesmagazin.de/system/files/freiesmagazin-2011-03.png)
+Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2011-03.png)](http://www.freiesmagazin.de/system/files/freiesmagazin-2011-03.png)
 
 
 Am 6.3.2011 ist die [Märzausgabe von

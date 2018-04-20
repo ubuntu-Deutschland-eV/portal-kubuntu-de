@@ -4,8 +4,7 @@ Tags: Sonstiges
 Slug: freiesmagazin-mai-2010-erschienen
 
 [![freiesMagazin 05/2010
-Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-05.png){width="300"
-height="212"}](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-05.png)
+Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-05.png)](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-05.png)
 
 
 Heute ist die [Maiausgabe von

@@ -35,8 +35,7 @@ Kubuntu. Die Änderungen auf einen Blick:
 
 
 [![OpenOffice mit KDE-Integration in Kubuntu
-9.10](http://wiki.kubuntu-de.org/images/Thumb-karmic-ooo.png){width="200"
-height="142"}](http://wiki.kubuntu-de.org/images/Karmic-ooo.png "OpenOffice mit KDE-Integration in Kubuntu 9.10")
+9.10](http://wiki.kubuntu-de.org/images/Thumb-karmic-ooo.png)](http://wiki.kubuntu-de.org/images/Karmic-ooo.png "OpenOffice mit KDE-Integration in Kubuntu 9.10")
 
 
 Die beliebte Büro-Suite **OpenOffice.org** in Version 3.1.1 kommt mit
@@ -77,8 +76,7 @@ Version erhalten.
 
 
 [![Kubuntu Karmic's jungfräulicher
-Desktop](http://wiki.kubuntu-de.org/images/Thumb-karmic-desktop2.png){width="200"
-height="125"}](http://wiki.kubuntu-de.org/images/Karmic-desktop2.png "Kubuntu Karmic's jungfräulicher Desktop")
+Desktop](http://wiki.kubuntu-de.org/images/Thumb-karmic-desktop2.png)](http://wiki.kubuntu-de.org/images/Karmic-desktop2.png "Kubuntu Karmic's jungfräulicher Desktop")
 
 
 Mit der neuen Version 9.10 soll die Arbeit mit KDE noch mehr Spaß machen
@@ -92,8 +90,7 @@ behoben und weitere neue Funktionen und Programme eingeführt.
 
 
 [![Desktop der noch experimentellen Kubuntu Netbook
-Edition](http://wiki.kubuntu-de.org/images/KNE_u_i_300x175.jpeg){width="300"
-height="175"}](http://wiki.kubuntu-de.org/images/KNE_u_i_300x175.jpeg "Desktop der noch experimentellen Kubuntu Netbook Edition")
+Edition](http://wiki.kubuntu-de.org/images/KNE_u_i_300x175.jpeg)](http://wiki.kubuntu-de.org/images/KNE_u_i_300x175.jpeg "Desktop der noch experimentellen Kubuntu Netbook Edition")
 
 
 Mit der Version 9.10 erscheint zum ersten Mal eine eigene Version von
@@ -133,8 +130,7 @@ ist bereit zur Installation.
 verfügbar.  
 
 [![Social Media Widgets in Kubuntu
-9.10](http://wiki.kubuntu-de.org/images/Thumb-karmic-desktop3.png){width="200"
-height="125"}](http://wiki.kubuntu-de.org/images/Karmic-desktop3.png "Social Media Widgets in Kubuntu 9.10")  
+9.10](http://wiki.kubuntu-de.org/images/Thumb-karmic-desktop3.png)](http://wiki.kubuntu-de.org/images/Karmic-desktop3.png "Social Media Widgets in Kubuntu 9.10")  
 
 - Das **Facebook Plasma Widget** bringt Facebook direkt auf den Desktop.
 So bleiben Sie immer auf dem Laufenden.
@@ -161,8 +157,7 @@ Social Plasma Widget** verbindet Sie mit der Open-Source-Community.
 
 
 [![Kubuntus aufpoliertes
-Installationsprogramm](http://wiki.kubuntu-de.org/images/Thumb-karmic-installer.png){width="200"
-height="150"}](http://wiki.kubuntu-de.org/images/Karmic-installer.png "Kubuntus aufpoliertes Installationsprogramm")
+Installationsprogramm](http://wiki.kubuntu-de.org/images/Thumb-karmic-installer.png)](http://wiki.kubuntu-de.org/images/Karmic-installer.png "Kubuntus aufpoliertes Installationsprogramm")
 
 
 Die Installation von dem Live-System aus hat sich seit einigen Version

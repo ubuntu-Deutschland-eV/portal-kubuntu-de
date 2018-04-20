@@ -54,8 +54,7 @@ Pakete, die dieses Problem zumindest soweit möglich beheben sind aber
 schon als Update der stabilen Version geplant.
 
 
-[![Datei:Kubuntu\_plymouth\_splash.png](http://wiki.kubuntu-de.org/images/Kubuntu_plymouth_splash.png){width="320"
-height="230"}](/Datei:Kubuntu_plymouth_splash.png "Datei:Kubuntu_plymouth_splash.png")
+[![Datei:Kubuntu\_plymouth\_splash.png](http://wiki.kubuntu-de.org/images/Kubuntu_plymouth_splash.png)](/Datei:Kubuntu_plymouth_splash.png "Datei:Kubuntu_plymouth_splash.png")
 
 
 Mit KDE SC 4.4.2 wird die aktuellste Version des Plasma Desktops
@@ -65,8 +64,7 @@ bringt 10.04 die stabile Oberfläche mit sich, die ein LTS Release
 braucht.
 
 
-[![Datei:Wee-desktop.png](http://wiki.kubuntu-de.org/images/Wee-desktop.png){width="300"
-height="188"}](/Datei:Wee-desktop.png "Datei:Wee-desktop.png")
+[![Datei:Wee-desktop.png](http://wiki.kubuntu-de.org/images/Wee-desktop.png)](/Datei:Wee-desktop.png "Datei:Wee-desktop.png")
 
 
 Seit dieser Version gibt es auch einen offiziellen Kubuntu Netbook Remix
@@ -74,8 +72,7 @@ Seit dieser Version gibt es auch einen offiziellen Kubuntu Netbook Remix
 die Verwendung mit kleinen Bildschirmen optimiert wurde.
 
 
-[![Datei:Wee-netbook.png](http://wiki.kubuntu-de.org/images/Wee-netbook.png){width="300"
-height="176"}](/Datei:Wee-netbook.png "Datei:Wee-netbook.png")
+[![Datei:Wee-netbook.png](http://wiki.kubuntu-de.org/images/Wee-netbook.png)](/Datei:Wee-netbook.png "Datei:Wee-netbook.png")
 
 
 Eine weitere Neuerung kann schon direkt bei der Installation beobachtet

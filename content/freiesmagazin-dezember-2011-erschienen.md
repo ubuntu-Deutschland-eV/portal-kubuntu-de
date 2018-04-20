@@ -8,8 +8,7 @@ In der
 [Dezemberausgabe](http://www.freiesmagazin.de/20111204-dezemberausgabe-erschienen)
 werden wieder viele interessante Themen aus der Linux und Open Source
 Welt behandelt.
-[![Freiesmagazin-2011-12.png](http://wiki.kubuntu-de.org/images/Freiesmagazin-2011-12.png){width="600"
-height="424"}]
+[![Freiesmagazin-2011-12.png](http://wiki.kubuntu-de.org/images/Freiesmagazin-2011-12.png)]
 
 
 <!--break--><!--break-->

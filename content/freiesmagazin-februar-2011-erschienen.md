@@ -4,8 +4,7 @@ Tags: Sonstiges
 Slug: freiesmagazin-februar-2011-erschienen
 
 [![freiesMagazin 02/2011
-Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2011-02.png){width="300"
-height="212"}](http://www.freiesmagazin.de/system/files/freiesmagazin-2011-02.png)
+Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2011-02.png)](http://www.freiesmagazin.de/system/files/freiesmagazin-2011-02.png)
 Heute ist die [Februarausgabe von
 [freies][Magazin]](http://www.freiesmagazin.de/20110206-februarausgabe-erschienen)
 erschienen und bringt [viele spannende

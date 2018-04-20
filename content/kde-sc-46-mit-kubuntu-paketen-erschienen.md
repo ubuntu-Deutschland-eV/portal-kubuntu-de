@@ -11,8 +11,7 @@ veröffentlicht. Zeitgleich sind auch Pakete des KDE SC 4.6 für Kubuntu
 
 
 [![KDE SC 4.6 - Elegently
-Yours](http://wiki.kubuntu-de.org/images/Kde-sc-4.6.png){width="500"
-height="181"}](http://www.kubuntu-de.org/nachrichten/software/kde/2054-kde-sc-4-6-mit-kubuntu-paketen-erschienen)
+Yours](http://wiki.kubuntu-de.org/images/Kde-sc-4.6.png)](http://www.kubuntu-de.org/nachrichten/software/kde/2054-kde-sc-4-6-mit-kubuntu-paketen-erschienen)
 
 
 []{#Installation}  
@@ -62,8 +61,7 @@ bei der Netbook-Oberfläche erwähnt.
 
 
 [![Das Miniprogramm
-'Regal'](http://wiki.kubuntu-de.org/images/Regal-Miniprogramm-sm.png){width="500"
-height="260"}](http://wiki.kubuntu-de.org/images/Regal-Miniprogramm.png "Zur Großansicht")
+'Regal'](http://wiki.kubuntu-de.org/images/Regal-Miniprogramm-sm.png)](http://wiki.kubuntu-de.org/images/Regal-Miniprogramm.png "Zur Großansicht")
 
 
 Im Dateimanager Dolphin wurde die Dateisuche (KFind) integriert,
@@ -97,8 +95,7 @@ es diverse Änderungen bei den Spielen.
 
 
 [![Routenplanung mit
-Marble](http://wiki.kubuntu-de.org/images/Marble-Routenplaner-sm.png){width="500"
-height="350"}](http://wiki.kubuntu-de.org/images/Marble-Routenplaner.png "Zur Großansicht")
+Marble](http://wiki.kubuntu-de.org/images/Marble-Routenplaner-sm.png)](http://wiki.kubuntu-de.org/images/Marble-Routenplaner.png "Zur Großansicht")
 
 
 Nicht geschafft hat es die neue, auf Akonadi basierende Kontact-Version.
@@ -150,8 +147,7 @@ benutzerfreundlicher sein soll.
 
 
 [![Nepomuk Backup der
-Metadaten](http://wiki.kubuntu-de.org/images/Nepomuk-Backup-sm.png){width="499"
-height="381"}](http://wiki.kubuntu-de.org/images/Nepomuk-Backup.png "Zur Großansicht")
+Metadaten](http://wiki.kubuntu-de.org/images/Nepomuk-Backup-sm.png)](http://wiki.kubuntu-de.org/images/Nepomuk-Backup.png "Zur Großansicht")
 
 
 Diese Nachricht kann im

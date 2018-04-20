@@ -24,8 +24,7 @@ height="225"}](http://wiki.kubuntu-de.org/Datei:Linuxtag.jpeg "Gruppenfoto Linux
 
 <div class="magnify">
 
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png){width="15"
-height="11"}](/Datei:Linuxtag.jpeg "vergrößern"){.internal}
+[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](/Datei:Linuxtag.jpeg "vergrößern"){.internal}
 
 </div>
 

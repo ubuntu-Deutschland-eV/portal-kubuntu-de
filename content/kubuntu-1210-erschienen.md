@@ -4,8 +4,7 @@ Author: Felix Klaftenegger
 Tags: Kubuntu
 Slug: kubuntu-1210-erschienen
 
-[![Kubuntu-12.10-banner-narrow.png](http://wiki.kubuntu-de.org/images/Kubuntu-12.10-banner-narrow.png){width="449"
-height="148"}](/Datei:Kubuntu-12.10-banner-narrow.png)
+[![Kubuntu-12.10-banner-narrow.png](http://wiki.kubuntu-de.org/images/Kubuntu-12.10-banner-narrow.png)](/Datei:Kubuntu-12.10-banner-narrow.png)
 
 
 Am 18.10. ist die neue Kubuntu-Version 12.10 mit dem Beinamen „Quantal
@@ -59,8 +58,7 @@ angestoßen werden:
 sudo do-release-upgrade -d
 ```
 
-[![Testsoftware48x48.png](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png){width="48"
-height="48"}](/Datei:Testsoftware48x48.png) Achtung: Eine
+[![Testsoftware48x48.png](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png)](/Datei:Testsoftware48x48.png) Achtung: Eine
 Aktualisierung über Muon wird nicht empfohlen. Leider gibt es bei einem
 Upgrade über die grafische Oberfläche immer noch häufig Fehler.
 

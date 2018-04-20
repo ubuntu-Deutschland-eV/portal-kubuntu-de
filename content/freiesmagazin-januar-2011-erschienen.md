@@ -4,8 +4,7 @@ Tags: Sonstiges
 Slug: freiesmagazin-januar-2011-erschienen
 
 [![freiesMagazin 01/2011
-Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2011-01.png){width="300"
-height="212"}](http://www.freiesmagazin.de/system/files/freiesmagazin-2011-01.png)
+Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2011-01.png)](http://www.freiesmagazin.de/system/files/freiesmagazin-2011-01.png)
 
 
 Heute ist die [Januarausgabe von

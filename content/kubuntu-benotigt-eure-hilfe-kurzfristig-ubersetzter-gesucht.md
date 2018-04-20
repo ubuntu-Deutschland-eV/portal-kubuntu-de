@@ -34,8 +34,7 @@ diskutiert werden.
 
 [![Bearbeitungsstand beim Schreiben dieser Newsmeldung. Rot=Nicht
 übersetzt Grün=Keine Änderung gegenüber der Vorversion. Aktuell hier:
-https://translations.launchpad.net/ubuntu/lucid/+lang/de/+index?start=825&batch=75](http://wiki.kubuntu-de.org/images/2010-04-10launchpad_translation_needed.jpg){width="330"
-height="482"}](http://wiki.kubuntu-de.org/images/2010-04-10launchpad_translation_needed.jpg "Bearbeitungsstand beim Schreiben dieser Newsmeldung. Rot=Nicht übersetzt Grün=Keine Änderung gegenüber der Vorversion. Aktuell hier: https://translations.launchpad.net/ubuntu/lucid/+lang/de/+index?start=825&batch=75")
+https://translations.launchpad.net/ubuntu/lucid/+lang/de/+index?start=825&batch=75](http://wiki.kubuntu-de.org/images/2010-04-10launchpad_translation_needed.jpg)](http://wiki.kubuntu-de.org/images/2010-04-10launchpad_translation_needed.jpg "Bearbeitungsstand beim Schreiben dieser Newsmeldung. Rot=Nicht übersetzt Grün=Keine Änderung gegenüber der Vorversion. Aktuell hier: https://translations.launchpad.net/ubuntu/lucid/+lang/de/+index?start=825&batch=75")
 
 
 *Bild:* Bearbeitungsstand beim Schreiben dieser Newsmeldung. Rot=Nicht

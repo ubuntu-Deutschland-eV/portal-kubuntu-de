@@ -31,8 +31,7 @@ Das Grundlayout als svg-Datei kann man
 [hier](https://wiki.kubuntu.org/Kubuntu/WebsiteMockups?action=AttachFile&do=get&target=mockup1.svg "https://wiki.kubuntu.org/Kubuntu/WebsiteMockups?action=AttachFile&do=get&target=mockup1.svg") herunterladen.
 
 
-[![Bild:Mockup.png](http://wiki.kubuntu-de.org/images/Mockup.png){width="500"
-height="511"}](http://wiki.kubuntu-de.org/images/Mockup.png)
+[![Bild:Mockup.png](http://wiki.kubuntu-de.org/images/Mockup.png)](http://wiki.kubuntu-de.org/images/Mockup.png)
 
 
 []{#Eckdaten}

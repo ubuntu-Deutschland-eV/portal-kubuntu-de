@@ -28,8 +28,7 @@ height="225"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-desktop.png
 
 <div class="magnify">
 
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png){width="15"
-height="11"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-desktop.png "vergrößern"){.internal}
+[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-desktop.png "vergrößern"){.internal}
 
 </div>
 
@@ -174,8 +173,7 @@ height="162"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity1.p
 
 <div class="magnify">
 
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png){width="15"
-height="11"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity1.png "vergrößern"){.internal}
+[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity1.png "vergrößern"){.internal}
 
 </div>
 
@@ -209,8 +207,7 @@ height="162"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity2.p
 
 <div class="magnify">
 
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png){width="15"
-height="11"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity2.png "vergrößern"){.internal}
+[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity2.png "vergrößern"){.internal}
 
 </div>
 
@@ -244,8 +241,7 @@ height="162"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-Ubiquity3.p
 
 <div class="magnify">
 
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png){width="15"
-height="11"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-Ubiquity3.png "vergrößern"){.internal}
+[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-Ubiquity3.png "vergrößern"){.internal}
 
 </div>
 
@@ -296,8 +292,7 @@ height="143"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit
 
 <div class="magnify">
 
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png){width="15"
-height="11"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit2.png "vergrößern"){.internal}
+[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit2.png "vergrößern"){.internal}
 
 </div>
 
@@ -331,8 +326,7 @@ height="143"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit
 
 <div class="magnify">
 
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png){width="15"
-height="11"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit3.png "vergrößern"){.internal}
+[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit3.png "vergrößern"){.internal}
 
 </div>
 
@@ -404,8 +398,7 @@ height="117"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-netbook.png
 
 <div class="magnify">
 
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png){width="15"
-height="11"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-netbook.png "vergrößern"){.internal}
+[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-netbook.png "vergrößern"){.internal}
 
 </div>
 

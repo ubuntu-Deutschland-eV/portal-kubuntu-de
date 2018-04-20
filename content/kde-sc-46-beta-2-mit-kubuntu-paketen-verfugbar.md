@@ -4,8 +4,7 @@ Author: Monika Eggers
 Tags: KDE
 Slug: kde-sc-46-beta-2-mit-kubuntu-paketen-verfugbar
 
-![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png){width="48"
-height="48"}
+![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png)
 
 [](http://www.kubuntu-de.org/nachrichten/software/kde/2047-kde-sc-4-6-beta-2-mit-kubuntu-paketen-verfuegbar){.FlattrButton}Das
 [KDE Team](http://www.kde.org "http://www.kde.org") hat die zweite

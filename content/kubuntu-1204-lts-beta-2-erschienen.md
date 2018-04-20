@@ -4,8 +4,7 @@ Author: Jonathan Kolberg
 Tags: Kubuntu Testversion
 Slug: kubuntu-1204-lts-beta-2-erschienen
 
-![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png){width="48"
-height="48"}
+![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png)
 
 Heute wurde die zweite Beta von Kubuntu 12.04 LTS freigegeben. Dies ist
 eine Entwicklerversion und wird nicht für den produktiven Einsatz

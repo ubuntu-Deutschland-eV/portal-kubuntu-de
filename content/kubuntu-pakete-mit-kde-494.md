@@ -4,8 +4,7 @@ Author: Jaro Hlavaty
 Tags: KDE
 Slug: kubuntu-pakete-mit-kde-494
 
-[![Kde.png](http://wiki.kubuntu-de.org/images/thumb/Kde.png/50px-Kde.png){width="50"
-height="50"}]
+[![Kde.png](http://wiki.kubuntu-de.org/images/thumb/Kde.png/50px-Kde.png)]
 
 
 Kubuntu-Pakete mit [KDE SC

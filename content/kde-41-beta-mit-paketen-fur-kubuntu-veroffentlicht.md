@@ -22,10 +22,7 @@ Funktionalität.
 
 <div align="center">
 
-[![](http://wiki.kubuntu-de.org/images/Kde-svn-korganizer-kmail-preview.png){width="160"
-height="100"}](http://wiki.kubuntu-de.org/images/Kde-svn-korganizer-kmail.png)[![](http://wiki.kubuntu-de.org/images/Kde-svn-switcher-3-preview.png){width="160"
-height="100"}](http://wiki.kubuntu-de.org/images/Kde-svn-switcher-3.png)[![](http://wiki.kubuntu-de.org/images/Kde-svn-panel-krunner-add.widgets1-preview.png){width="160"
-height="100"}](http://wiki.kubuntu-de.org/images/Kde-svn-panel-krunner-add.widgets1.png)
+[![](http://wiki.kubuntu-de.org/images/Kde-svn-korganizer-kmail-preview.png)](http://wiki.kubuntu-de.org/images/Kde-svn-korganizer-kmail.png)[![](http://wiki.kubuntu-de.org/images/Kde-svn-switcher-3-preview.png)](http://wiki.kubuntu-de.org/images/Kde-svn-switcher-3.png)[![](http://wiki.kubuntu-de.org/images/Kde-svn-panel-krunner-add.widgets1-preview.png)](http://wiki.kubuntu-de.org/images/Kde-svn-panel-krunner-add.widgets1.png)
 
 </div>
 
@@ -65,10 +62,7 @@ Kalender und Zeitzonen. Ausserdem wurden neue Komponenten wie
 KTimeTracker oder die Notizanwendugn KJots hinzugefügt.
 
 
-[![](http://wiki.kubuntu-de.org/images/Kde-svn-dolphin-preview.png){width="160"
-height="100"}](http://wiki.kubuntu-de.org/images/Kde-svn-dolphin.png)[![](http://wiki.kubuntu-de.org/images/Kde-svn-wobbly-windows-snow-preview.png){width="160"
-height="100"}](http://wiki.kubuntu-de.org/images/Kde-svn-wobbly-windows-snow.png)[![](http://wiki.kubuntu-de.org/images/Kde-svn-gwenview-okular-preview.png){width="160"
-height="100"}](http://wiki.kubuntu-de.org/images/Kde-svn-gwenview-okular.png)
+[![](http://wiki.kubuntu-de.org/images/Kde-svn-dolphin-preview.png)](http://wiki.kubuntu-de.org/images/Kde-svn-dolphin.png)[![](http://wiki.kubuntu-de.org/images/Kde-svn-wobbly-windows-snow-preview.png)](http://wiki.kubuntu-de.org/images/Kde-svn-wobbly-windows-snow.png)[![](http://wiki.kubuntu-de.org/images/Kde-svn-gwenview-okular-preview.png)](http://wiki.kubuntu-de.org/images/Kde-svn-gwenview-okular.png)
 
 
 Aber auch schon portierte Programme wurden verbessert. Dazu gehört

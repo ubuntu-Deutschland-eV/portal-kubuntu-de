@@ -11,8 +11,7 @@ den Bereichen Linux und Open Source mit.
 
 
 [![freiesMagazin 02/2013
-Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2013-02.png){width="600"
-height="424"}](http://www.freiesmagazin.de/system/files/freiesmagazin-2013-02.png)
+Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2013-02.png)](http://www.freiesmagazin.de/system/files/freiesmagazin-2013-02.png)
 
 
 <!--break--><!--break-->

@@ -5,8 +5,7 @@ Slug: amarok-25-earth-moving-in-backports-ppa-verfugbar
 
 <div class="floatleft">
 
-![Amarok-Symbol.png](http://wiki.kubuntu-de.org/images/Amarok-Symbol.png){width="128"
-height="128"}
+![Amarok-Symbol.png](http://wiki.kubuntu-de.org/images/Amarok-Symbol.png)
 
 </div>
 
@@ -36,8 +35,7 @@ Mit folgendem Befehl wird das PPA-Backports-Repository zu den
 Paketquellen hinzugefügt:
 
 
-[![Testsoftware48x48.png](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png){width="48"
-height="48"}](/Datei:Testsoftware48x48.png)
+[![Testsoftware48x48.png](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png)](/Datei:Testsoftware48x48.png)
 
 
 ``` {.shell}

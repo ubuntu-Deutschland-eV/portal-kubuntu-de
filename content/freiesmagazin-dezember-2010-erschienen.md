@@ -4,8 +4,7 @@ Tags: Sonstiges
 Slug: freiesmagazin-dezember-2010-erschienen
 
 [![freiesMagazin 12/2010
-Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-12.png){width="300"
-height="212"}](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-12.png)
+Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-12.png)](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-12.png)
 
 
 Heute ist die [Dezemberausgabe von

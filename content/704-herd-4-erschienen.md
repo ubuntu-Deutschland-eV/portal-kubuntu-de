@@ -115,7 +115,7 @@ Informationen:
  
 
 
-#### ![](http://www.kubuntu.li/newsimg/kdevsplash.png "Kdevelop"){width="350" height="267"}
+#### ![](http://www.kubuntu.li/newsimg/kdevsplash.png "Kdevelop")
 
 
 ****Konqueror:****
@@ -125,9 +125,7 @@ Im Konqueror gibt es nun mehr Platz für die URL, da der Stop- und
 Reload-Button vereinigt wurden.
 
 
-![](http://www.kubuntu.li/newsimg/konq1.png "Konqueror"){width="225"
-height="122"}![](http://www.kubuntu.li/newsimg/konq2.png "Konqueror"){width="224"
-height="122"}  
+![](http://www.kubuntu.li/newsimg/konq1.png "Konqueror")![](http://www.kubuntu.li/newsimg/konq2.png "Konqueror")  
 
  
 
@@ -170,15 +168,13 @@ Treibern, Broadcoms bcm43xx-fwcutter und auch Ndiswrapper zusammen.
 Drahtlose Verbindung: 
 
 
-![](http://www.kubuntu.li/newsimg/knmwifi.png "Knetworkmanager"){width="33"
-height="32"}
+![](http://www.kubuntu.li/newsimg/knmwifi.png "Knetworkmanager")
 
 
 Ethernet Verbindung:
 
 
-![](http://www.kubuntu.li/newsimg/knmeth.png "Knetworkmanager"){width="32"
-height="30"}
+![](http://www.kubuntu.li/newsimg/knmeth.png "Knetworkmanager")
 
 
  
@@ -196,15 +192,13 @@ Passwort eingibt. Diese neue Funktion ist Teil von KDE.
 Vorher: 
 
 
-![](http://www.kubuntu.li/newsimg/passwd1.png "Passwort"){width="376"
-height="48"}
+![](http://www.kubuntu.li/newsimg/passwd1.png "Passwort")
 
 
 Jetzt:
 
 
-![](http://www.kubuntu.li/newsimg/passwd2.png "Passwort"){width="401"
-height="220"}
+![](http://www.kubuntu.li/newsimg/passwd2.png "Passwort")
 
 
  
@@ -261,8 +255,7 @@ die beliebtesten Anwendungen zu starten.
  
 
 
-![](http://www.kubuntu.li/newsimg/kicker.png "Kicker"){width="595"
-height="49"}
+![](http://www.kubuntu.li/newsimg/kicker.png "Kicker")
 
 
  
@@ -307,8 +300,7 @@ Herd 4 hat ein neues Layout für den Dialog des Herunterfahren- bzw
 Abmeldevorgangs:
 
 
-![](http://www.kubuntu.li/newsimg/logout1.png "Logout"){width="817"
-height="518"}
+![](http://www.kubuntu.li/newsimg/logout1.png "Logout")
 
 
 Der Abmeldedialog wurde im Vergleich zum früheren Layout drastisch
@@ -341,8 +333,7 @@ automatische Integration ist für die nächste Herd-Freigabe vorgesehen.
     
 
 
-![](http://www.kubuntu.li/newsimg/apport.png "Apport"){width="548"
-height="238"}
+![](http://www.kubuntu.li/newsimg/apport.png "Apport")
 
 
  
@@ -399,8 +390,7 @@ Konqueror stellt nun die Möglichkeit zur Verfügung, den Flash Player 9
 auf ähnliche Weise wie auch bei anderen Browser zu installieren.
 
 
-![](http://www.kubuntu.li/newsimg/konqflash.png "Konquiflash"){width="311"
-height="339"}
+![](http://www.kubuntu.li/newsimg/konqflash.png "Konquiflash")
 
 
  

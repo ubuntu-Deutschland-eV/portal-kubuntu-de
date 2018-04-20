@@ -34,8 +34,7 @@ versorgt. Für die stabile Variante 11.10 Oneiric Oncelot stehen Pakete
 im Kubuntu Update PPA zur Verfügung.
 
 
-[![Testsoftware48x48.png](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png){width="48"
-height="48"}](/Datei:Testsoftware48x48.png)Das PPA fügt man mit
+[![Testsoftware48x48.png](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png)](/Datei:Testsoftware48x48.png)Das PPA fügt man mit
 
 
 ``` {.shell}

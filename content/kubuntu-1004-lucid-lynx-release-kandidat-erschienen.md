@@ -28,8 +28,7 @@ richtet.
 
 
 [![Datei:Kubuntu plymouth
-splash.png](http://wiki.kubuntu-de.org/images/Kubuntu_plymouth_splash.png){width="320"
-height="230"}](http://wiki.kubuntu-de.org/images/Kubuntu_plymouth_splash.png "Datei:Kubuntu plymouth splash.png")
+splash.png](http://wiki.kubuntu-de.org/images/Kubuntu_plymouth_splash.png)](http://wiki.kubuntu-de.org/images/Kubuntu_plymouth_splash.png "Datei:Kubuntu plymouth splash.png")
 
 
 <!--break--><!--break-->
@@ -39,8 +38,7 @@ height="230"}](http://wiki.kubuntu-de.org/images/Kubuntu_plymouth_splash.png "Da
 ### [KDE 4.4.2 auf einem frisch installiertem System:]{.mw-headline}
 
 
-[![Datei:Wee-desktop.png](http://wiki.kubuntu-de.org/images/Wee-desktop.png){width="300"
-height="188"}](/Datei:Wee-desktop.png "Datei:Wee-desktop.png")
+[![Datei:Wee-desktop.png](http://wiki.kubuntu-de.org/images/Wee-desktop.png)](/Datei:Wee-desktop.png "Datei:Wee-desktop.png")
 
 
 []{#Ein_Bild_der_Netbook-Ausgabe_von_Kubuntu:}  
@@ -48,8 +46,7 @@ height="188"}](/Datei:Wee-desktop.png "Datei:Wee-desktop.png")
 ### [Ein Bild der Netbook-Ausgabe von Kubuntu:]{.mw-headline}
 
 
-[![Datei:Wee-netbook.png](http://wiki.kubuntu-de.org/images/Wee-netbook.png){width="300"
-height="176"}](/Datei:Wee-netbook.png "Datei:Wee-netbook.png")
+[![Datei:Wee-netbook.png](http://wiki.kubuntu-de.org/images/Wee-netbook.png)](/Datei:Wee-netbook.png "Datei:Wee-netbook.png")
 
 
 **Achtung: Diese Version ist eine Testversion und sollte nicht für ein

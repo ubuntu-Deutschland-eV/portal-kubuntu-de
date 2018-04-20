@@ -158,8 +158,7 @@ Nächste Woche ist der Preis "Free as in Freedom" von Richard M. Stallman
 
 <div style="text-align: left;">
 
-[![poster-layout\_small.jpg](/files/Image/kwn/2006/25/poster-layout_small.jpg){width="71"
-height="100"}](javascript:void(window.open('/files/Image/kwn/2006/25/poster-layout_small.jpg','','resizable=yes,location=no,menubar=no,scrollbars=yes,status=no,toolbar=no,fullscreen=no,dependent=no,width=600,height=480')))Preis:
+[![poster-layout\_small.jpg](/files/Image/kwn/2006/25/poster-layout_small.jpg)](javascript:void(window.open('/files/Image/kwn/2006/25/poster-layout_small.jpg','','resizable=yes,location=no,menubar=no,scrollbars=yes,status=no,toolbar=no,fullscreen=no,dependent=no,width=600,height=480')))Preis:
 Ubuntu Poster
 
 </div>
@@ -660,8 +659,7 @@ Lesen Sie den ganzen Artikel auf
 
 
 Ein
-b[![ubcookies\_small.jpg](/files/Image/kwn/2006/25/ubcookies_small.jpg "ubcookies_0.jpg"){width="100"
-height="75"}](javascript:void(window.open('/files/Image/kwn/2006/25/ubcookies_small.jpg','','resizable=yes,location=no,menubar=no,scrollbars=yes,status=no,toolbar=no,fullscreen=no,dependent=no,width=600,height=480')))isschen
+b[![ubcookies\_small.jpg](/files/Image/kwn/2006/25/ubcookies_small.jpg "ubcookies_0.jpg")](javascript:void(window.open('/files/Image/kwn/2006/25/ubcookies_small.jpg','','resizable=yes,location=no,menubar=no,scrollbars=yes,status=no,toolbar=no,fullscreen=no,dependent=no,width=600,height=480')))isschen
 spät, aber nicht weniger lecker!
 
 

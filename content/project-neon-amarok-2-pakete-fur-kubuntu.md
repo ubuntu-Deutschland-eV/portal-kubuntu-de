@@ -5,8 +5,7 @@ Tags: Amarok
 Slug: project-neon-amarok-2-pakete-fur-kubuntu
 
 ![Logo des Amarok Projekts
-"Neon"](http://www.kubuntu-de.org/files/ProjectNeonLogo.png){width="250"
-height="78"}Mit dem neu gegründeten [Projekt
+"Neon"](http://www.kubuntu-de.org/files/ProjectNeonLogo.png)Mit dem neu gegründeten [Projekt
 "Neon"](http://amarok.kde.org/wiki/User:Apachelogger/Project_Neon),
 haben sich die Entwickler des beliebten Musikplayers
 [Amarok](http://amarok.kde.org) das Ziel gesetzt, tagesaktuelle Pakete

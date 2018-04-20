@@ -5,8 +5,7 @@ Slug: qtcreator-21-beta-kdevelop-41-rc-und-koffice-23-beta-1-fur-kubuntu-verfugb
 
 [](http://www.kubuntu-de.org/nachrichten/software/software-testversionen/2037-qtcreator-2-1-beta-kdevelop-4-1-rc-und-koffice-2-3-){.FlattrButton}  
 
-![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png){width="48"
-height="48"}
+![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png)
 
 Pakete für die Veröffentlichungen von KDevelop 4.1 R, Qt Creator 2.1
 Beta und KOffice 2.3 Beta 1 sind ab sofort für Kubuntu verfügbar. Fehler

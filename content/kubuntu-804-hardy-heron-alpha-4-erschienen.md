@@ -103,8 +103,7 @@ Vlad Gerasimov von
 [Studio](http://www.vladstudio.com "http://www.vladstudio.com|Vald").
 
 
-[![Sm\_desktop.png](http://wiki.kubuntu-de.org/images/Sm_desktop.png){width="258"
-height="164"}](http://wiki.kubuntu-de.org/images/Desktop.png "Desktop.png")
+[![Sm\_desktop.png](http://wiki.kubuntu-de.org/images/Sm_desktop.png)](http://wiki.kubuntu-de.org/images/Desktop.png "Desktop.png")
 
 
 []{#Integration_von_KDE_4}
@@ -138,8 +137,7 @@ soll dieser nämlich automatisch erkannt und eingerichtet werden, eine
 entsprechende Benachrichtiung wird ebenfalls sichtbar.
 
 
-[![Sm\_printer.png](http://wiki.kubuntu-de.org/images/Sm_printer.png){width="258"
-height="120"}](http://wiki.kubuntu-de.org/images/Printer.png "Printer.png")
+[![Sm\_printer.png](http://wiki.kubuntu-de.org/images/Sm_printer.png)](http://wiki.kubuntu-de.org/images/Printer.png "Printer.png")
 
 
 []{#Desktop_Effekte}
@@ -162,8 +160,7 @@ keinen Eintrag im KMenü, sie sollte daher mit dem oben genannten Befehl
 ausgeführt werden.
 
 
-[![Sm\_effects.png](http://wiki.kubuntu-de.org/images/Sm_effects.png){width="258"
-height="201"}](http://wiki.kubuntu-de.org/images/Effects.png "Effects.png")
+[![Sm\_effects.png](http://wiki.kubuntu-de.org/images/Sm_effects.png)](http://wiki.kubuntu-de.org/images/Effects.png "Effects.png")
 
 
 []{#Flash}

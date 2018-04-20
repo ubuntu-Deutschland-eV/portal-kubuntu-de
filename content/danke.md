@@ -17,7 +17,7 @@ eingetragen werden.
 
 
 
-![Danke-Bild](http://www.kubuntu-de.org/files/danke.png){width="60%"}  
+![Danke-Bild](http://www.kubuntu-de.org/files/danke.png)  
 
 
 Foto: Sven Schneider / [www.aboutpixel.de](http://www.aboutpixel.de)

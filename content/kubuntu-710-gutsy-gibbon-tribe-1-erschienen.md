@@ -90,8 +90,7 @@ von KDE 4 Verbesserungen erfahren.
 
 </a>  
 
-[![](http://www.kubuntu-de.org/files/gutsy_tribe1/desktop.png){width="300"
-height="200"}](http://www.kubuntu-de.org/files/gutsy_tribe1/desktop.png)
+[![](http://www.kubuntu-de.org/files/gutsy_tribe1/desktop.png)](http://www.kubuntu-de.org/files/gutsy_tribe1/desktop.png)
 
 
 #### 
@@ -134,8 +133,7 @@ Features sind:
 
 <a href="http://ktorrent.org/" class="external free" title="http://ktorrent.org" rel="nofollow">  
 
-</a>[![](http://www.kubuntu-de.org/files/gutsy_tribe1/ktorrent.png){width="300"
-height="200"}](http://www.kubuntu-de.org/files/gutsy_tribe1/ktorrent.png)
+</a>[![](http://www.kubuntu-de.org/files/gutsy_tribe1/ktorrent.png)](http://www.kubuntu-de.org/files/gutsy_tribe1/ktorrent.png)
 
 
 #### 
@@ -171,12 +169,10 @@ Einige der Korrekturen und neuen Fähigkeiten sind:
 .free}
 
 
-[![](http://www.kubuntu-de.org/files/gutsy_tribe1/digikam1.png){width="300"
-height="200"}](http://www.kubuntu-de.org/files/gutsy_tribe1/digikam1.png)
+[![](http://www.kubuntu-de.org/files/gutsy_tribe1/digikam1.png)](http://www.kubuntu-de.org/files/gutsy_tribe1/digikam1.png)
 
 
-[![](http://www.kubuntu-de.org/files/gutsy_tribe1/digikam2.png){width="300"
-height="200"}](http://www.kubuntu-de.org/files/gutsy_tribe1/digikam2.png)
+[![](http://www.kubuntu-de.org/files/gutsy_tribe1/digikam2.png)](http://www.kubuntu-de.org/files/gutsy_tribe1/digikam2.png)
 
 
  
@@ -190,8 +186,7 @@ eine Benutzerliste mit sich. Diese Liste beinhaltet zur schnellen
 Vorauswahl sämtliche Nutzer ihres Systems.
 
 
-[![](http://www.kubuntu-de.org/files/gutsy_tribe1/kdm.png){width="300"
-height="200"}](http://www.kubuntu-de.org/files/gutsy_tribe1/kdm.png)
+[![](http://www.kubuntu-de.org/files/gutsy_tribe1/kdm.png)](http://www.kubuntu-de.org/files/gutsy_tribe1/kdm.png)
 
 
  
@@ -219,8 +214,7 @@ Veröffentlichung von Version 1.0 festgestellt wurden. u.a.:
 </a>
 
 
-[![](http://www.kubuntu-de.org/files/gutsy_tribe1/k3b.png){width="300"
-height="200"}](http://www.kubuntu-de.org/files/gutsy_tribe1/k3b.png)
+[![](http://www.kubuntu-de.org/files/gutsy_tribe1/k3b.png)](http://www.kubuntu-de.org/files/gutsy_tribe1/k3b.png)
 
 
 #### 
@@ -251,8 +245,7 @@ Standardvideoplayer in Kubuntu 7.10. Einige der Verbesserungen sind:
 
 <a href="http://kaffeine.sourceforge.net/" class="external free" title="http://kaffeine.sourceforge.net" rel="nofollow">  
 
-</a>[![](http://www.kubuntu-de.org/files/gutsy_tribe1/kaffeine.png){width="300"
-height="200"}](http://www.kubuntu-de.org/files/gutsy_tribe1/kaffeine.png)
+</a>[![](http://www.kubuntu-de.org/files/gutsy_tribe1/kaffeine.png)](http://www.kubuntu-de.org/files/gutsy_tribe1/kaffeine.png)
 
 
 #### 

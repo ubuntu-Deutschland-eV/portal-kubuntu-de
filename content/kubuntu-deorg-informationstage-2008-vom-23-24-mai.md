@@ -5,8 +5,7 @@ Tags: Kubuntu-de.org
 Slug: kubuntu-deorg-informationstage-2008-vom-23-24-mai
 
 [![Logo der Kubuntu-de.org Informationstage
-2008](http://www.kubuntu-de.org/files/infotage_logo.png){width="150"
-height="186"}](http://wiki.kubuntu-de.org/Team:Informationstage)Das Team
+2008](http://www.kubuntu-de.org/files/infotage_logo.png)](http://wiki.kubuntu-de.org/Team:Informationstage)Das Team
 von kubuntu-de.org lädt die deutschsprachige Kubuntu-Gemeinschaft zu den
 [Kubuntu-de.org
 Informationstagen](http://wiki.kubuntu-de.org/Team:Informationstage) am

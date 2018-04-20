@@ -4,7 +4,7 @@ Author: Monika Eggers
 Tags: KDE
 Slug: kde-401-mit-paketen-fur-kubuntu-erschienen
 
-Erstes Wartungsrelease für KDE 4 erschienen![![Bild:KDE.png](http://wiki.kubuntu-de.org/images/Kde.png){width="100" height="100"}](http://wiki.kubuntu-de.org/images/Kde.png "Bild:KDE4-Plasma.png")
+Erstes Wartungsrelease für KDE 4 erschienen![![Bild:KDE.png](http://wiki.kubuntu-de.org/images/Kde.png)](http://wiki.kubuntu-de.org/images/Kde.png "Bild:KDE4-Plasma.png")
 ============================================================================================================================================================================================================
 
 

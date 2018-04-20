@@ -91,8 +91,7 @@ für Plasma einführt, vor allem die Option die Größe des Panels zu
 ändern.
 
 
-[![](https://wiki.kubuntu.org/HardyHeron/Alpha6/Kubuntu?action=AttachFile&do=get&target=alpha6.png){width="500"
-height="375"}](https://wiki.kubuntu.org/HardyHeron/Alpha6/Kubuntu?action=AttachFile&do=get&target=alpha6.png)
+[![](https://wiki.kubuntu.org/HardyHeron/Alpha6/Kubuntu?action=AttachFile&do=get&target=alpha6.png)](https://wiki.kubuntu.org/HardyHeron/Alpha6/Kubuntu?action=AttachFile&do=get&target=alpha6.png)
 
 
 []{#Bekannte_Fehler}

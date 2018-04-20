@@ -4,8 +4,7 @@ Author: Jaro Hlavaty
 Tags: Koffice
 Slug: calligra-24-freigegeben
 
-[![Calligra.png](http://wiki.kubuntu-de.org/images/Calligra.png){width="250"
-height="177"}]
+[![Calligra.png](http://wiki.kubuntu-de.org/images/Calligra.png)]
 
 
 <a href="http://flattr.com/thing/634893/Calligra-2-4-freigegeben" target="_blank">  

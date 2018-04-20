@@ -4,8 +4,7 @@ Tags: Sonstiges
 Slug: freiesmagazin-april-2010-erschienen-update
 
 [![freiesMagazin 04/2010
-Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-04.png){width="300"
-height="212"}](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-04.png)
+Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-04.png)](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-04.png)
 
 
 Wie letzten Monat angekündigt, ist heute - aufgrund der Osterfeiertage

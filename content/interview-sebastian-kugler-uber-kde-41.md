@@ -6,8 +6,7 @@ Slug: interview-sebastian-kugler-uber-kde-41
 
 <h1>
 ![(c) by Sebastian
-Kügler](http://wiki.kubuntu-de.org/images/Sebas.jpg){width="160"
-height="145"}kubuntu-de.org und RadioTux im Gespräch mit Sebastian
+Kügler](http://wiki.kubuntu-de.org/images/Sebas.jpg)kubuntu-de.org und RadioTux im Gespräch mit Sebastian
 Kügler  
 
 

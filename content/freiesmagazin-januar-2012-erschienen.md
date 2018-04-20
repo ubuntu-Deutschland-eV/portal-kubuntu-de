@@ -10,8 +10,7 @@ dabei. Für Mobile Geräte werden zum ersten mal auch zwei EPUB-Versionen
 zum Download angeboten.
 
 
-[![Freiesmagazin-2012-01.png](http://wiki.kubuntu-de.org/images/Freiesmagazin-2012-01.png){width="600"
-height="425"}]
+[![Freiesmagazin-2012-01.png](http://wiki.kubuntu-de.org/images/Freiesmagazin-2012-01.png)]
 
 
 <!--break--><!--break-->

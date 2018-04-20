@@ -189,8 +189,7 @@ Verbesserungen und viele Fehlerkorrekturen, wie beispielsweise:
 
 
 [![](https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=sm_kdm.png)](https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=kdm.png)
-[![](https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=sm_kde3desktop.png){width="258"
-height="195"}](https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=kde3desktop.png)
+[![](https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=sm_kde3desktop.png)](https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=kde3desktop.png)
 
 
 Die mit Preisen ausgezeichnete Desktopumgebung KDE hat ihre stabile

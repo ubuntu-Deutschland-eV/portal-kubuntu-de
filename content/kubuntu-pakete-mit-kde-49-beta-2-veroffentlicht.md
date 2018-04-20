@@ -42,8 +42,7 @@ zu Paketlisten hinzu.
  sudo apt-add-repository ppa:kubuntu-ppa/beta
 ```
 
-[![Testsoftware48x48.png](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png){width="48"
-height="48"}](/Datei:Testsoftware48x48.png) Da es sich um eine
+[![Testsoftware48x48.png](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png)](/Datei:Testsoftware48x48.png) Da es sich um eine
 Beta Version handelt,wird davon abgeraten diese auf Produktivsystemen
 einzusetzen! Testen ist aber natürlich erwünscht.
 

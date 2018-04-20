@@ -7,8 +7,7 @@ Slug: kubuntu-1104-natty-narwhal-ist-erschienen
 [](http://www.kubuntu-de.org/nachrichten/kubuntu/2072-kubuntu-11-04-natty-narwhal-ist-erschienen){.FlattrButton}
 
 ![Kubuntu 11.04 Natty
-Narwhal](http://wiki.kubuntu-de.org/images/Kubuntu-natty-news-header.png){width="550"
-height="134"}
+Narwhal](http://wiki.kubuntu-de.org/images/Kubuntu-natty-news-header.png)
 
 
 Der schicke Narwal ist vor unseren Küsten angekommen! Kubuntu 11.04,
@@ -25,8 +24,7 @@ Highlights von Kubuntu 11.04 sind:
 <!--break--><!--break-->
 
 [![Der Kubuntu 11.04
-Desktop](http://wiki.kubuntu-de.org/images/Kubuntu-11.04-desktop-sm.png){width="250"
-height="156"}](http://wiki.kubuntu-de.org/images/Kubuntu-11.04-desktop.png)
+Desktop](http://wiki.kubuntu-de.org/images/Kubuntu-11.04-desktop-sm.png)](http://wiki.kubuntu-de.org/images/Kubuntu-11.04-desktop.png)
 
 
 -   Plasma und KDE SC Applikationen in der Version 4.6.2

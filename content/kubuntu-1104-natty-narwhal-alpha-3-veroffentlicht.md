@@ -3,8 +3,7 @@ Date: 2011-03-04 22:44
 Tags: Kubuntu Testversion
 Slug: kubuntu-1104-natty-narwhal-alpha-3-veroffentlicht
 
-![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png){width="48"
-height="48"}
+![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png)
 
 [](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-testversion/2057-kubuntu-11-04-natty-narwhal-alpha-3-veroeffentlicht){.FlattrButton}Mit
 Kubuntu 11.04 Natty Narwhal Alpha 3 wurde die erste Vorversion seit dem

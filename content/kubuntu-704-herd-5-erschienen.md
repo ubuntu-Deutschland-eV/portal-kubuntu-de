@@ -90,8 +90,7 @@ Benutzerschnittstelle werden wahrscheinlich mit dem Herd 6 Image
 veröffentlicht werden.
 
 
-[![](http://www.kubuntu-de.org/files/partition.png){width="251"
-height="170"}](http://www.kubuntu-de.org/files/partition.png)
+[![](http://www.kubuntu-de.org/files/partition.png)](http://www.kubuntu-de.org/files/partition.png)
 
 
 

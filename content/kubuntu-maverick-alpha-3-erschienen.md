@@ -4,8 +4,7 @@ Author: Monika Eggers
 Tags: Kubuntu Testversion
 Slug: kubuntu-maverick-alpha-3-erschienen
 
-![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png){width="48"
-height="48"}
+![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png)
 
 Die dritte Alpha Version von Maverick Meerkat wurde veröffentlicht.
 Kubuntu 10.10 wird voraussichtlich am 10.10 diesen Jahres erscheinen und

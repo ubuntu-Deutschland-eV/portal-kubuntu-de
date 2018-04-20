@@ -5,7 +5,7 @@ Tags: Amarok
 Slug: amarok-21-mit-kubuntu-paketen-erschienen
 
 [![Amarok
-2.1](http://wiki.kubuntu-de.org/images/thumb/Amarok_2.1.png/761px-Amarok_2.1.png){width="150"}](http://wiki.kubuntu-de.org/images/thumb/Amarok_2.1.png/761px-Amarok_2.1.png)Der
+2.1](http://wiki.kubuntu-de.org/images/thumb/Amarok_2.1.png/761px-Amarok_2.1.png)](http://wiki.kubuntu-de.org/images/thumb/Amarok_2.1.png/761px-Amarok_2.1.png)Der
 Audioplayer Amarok ist in den frühen Morgenstunden des heutigen
 Donnerstag in der Version 2.1 mit dem Codenamen "Let There Be Light" (zu
 Deutsch "Es werde Licht") erschienen. Die Arbeit der vergangenen fünf

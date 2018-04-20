@@ -14,8 +14,7 @@ Linux-Titeln da.
 [Steam für Linux](http://store.steampowered.com/sale/linux_release/)
 
 
-[![Steam.png](http://wiki.kubuntu-de.org/images/thumb/Steam.png/500px-Steam.png){width="500"
-height="292"}](http://wiki.kubuntu-de.org/Datei:Steam.png)
+[![Steam.png](http://wiki.kubuntu-de.org/images/thumb/Steam.png/500px-Steam.png)](http://wiki.kubuntu-de.org/Datei:Steam.png)
 
 
 <!--break--><!--break-->

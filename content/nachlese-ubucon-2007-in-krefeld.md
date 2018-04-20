@@ -32,8 +32,7 @@ Es wurde ferner ein Überblick über die aktuelle Kubuntu Version (7.10 -
 Gutsy Gibbon) gegeben. Auch ein Überlick über die enthaltene Software
 und ein Ausblick auf Hardy, dem nächsten LTS Release, wurde geben. Eine
 rege Fragerunde schloß den Vortrag ab.[![Plakat der Ubucon 2007 in
-Krefeld](http://czessi.kubuntu-de.org/drupal5/files/Image/pictures/ubucon-plakat_2.png){width="199"
-height="276"}](http://czessi.kubuntu-de.org/drupal5/files/Image/pictures/ubucon-plakat.png)
+Krefeld](http://czessi.kubuntu-de.org/drupal5/files/Image/pictures/ubucon-plakat_2.png)](http://czessi.kubuntu-de.org/drupal5/files/Image/pictures/ubucon-plakat.png)
 
 
 Die Präsentation von compiz durch Nick Bauermeister (aka Forlong) war

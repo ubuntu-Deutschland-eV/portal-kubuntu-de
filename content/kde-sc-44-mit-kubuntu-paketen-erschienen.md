@@ -5,8 +5,7 @@ Tags: KDE
 Slug: kde-sc-44-mit-kubuntu-paketen-erschienen
 
 [![Der KDE SC 4.4
-Desktop](http://farm5.static.flickr.com/4060/4344699104_9ac42af6c1_m.jpg){width="240"
-height="192"}](http://www.flickr.com/photos/37728609@N00/4344699104/ "Das Bild in der Großansicht auf Flickr")Gestern
+Desktop](http://farm5.static.flickr.com/4060/4344699104_9ac42af6c1_m.jpg)](http://www.flickr.com/photos/37728609@N00/4344699104/ "Das Bild in der Großansicht auf Flickr")Gestern
 hat das [KDE Team](http://www.kde.org "http://www.kde.org") die finale
 Version von KDE SC 4.4 unter dem Codenamen "Caikaku" veröffentlicht.
 Laut dem [KDE Bugtracker](http://bugs.kde.org "http://bugs.kde.org")
@@ -40,11 +39,9 @@ Anwendung auf Akonaki zu portieren.
 
 
 [![Window Tabbing: Mehrere Programme in einem
-Fenster](http://farm5.static.flickr.com/4024/4344641142_cd529ceef2_m.jpg){width="240"
-height="89"}](http://www.flickr.com/photos/37728609@N00/4344641142/ "Das Bild in der Großansicht auf Flickr") [![Get
+Fenster](http://farm5.static.flickr.com/4024/4344641142_cd529ceef2_m.jpg)](http://www.flickr.com/photos/37728609@N00/4344641142/ "Das Bild in der Großansicht auf Flickr") [![Get
 Hot New Stuff in KDE SC
-4.4](http://farm5.static.flickr.com/4009/4344641150_3bda7dd385_m.jpg){width="240"
-height="145"}](http://www.flickr.com/photos/37728609@N00/4344641150/ "Das Bild in der Großansicht auf Flickr")  
+4.4](http://farm5.static.flickr.com/4009/4344641150_3bda7dd385_m.jpg)](http://www.flickr.com/photos/37728609@N00/4344641150/ "Das Bild in der Großansicht auf Flickr")  
 </br>
 
 

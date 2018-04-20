@@ -49,8 +49,7 @@ sudo do-release-upgrade -d
 ```
 
 
-[![Testsoftware48x48.png](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png){width="48"
-height="48"}](/Datei:Testsoftware48x48.png)Achtung: Es handelt
+[![Testsoftware48x48.png](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png)](/Datei:Testsoftware48x48.png)Achtung: Es handelt
 sich hierbei wie erwähnt um eine Beta-Version und kann daher auch dazu
 führen dass das System nicht mehr richtig funktioniert.
 

@@ -15,8 +15,7 @@ Pangolin“.
 
 
 [![freiesMagazin 06/2012
-Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2012-06.png){width="600"
-height="424"}](http://www.freiesmagazin.de/system/files/freiesmagazin-2012-06.png)
+Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2012-06.png)](http://www.freiesmagazin.de/system/files/freiesmagazin-2012-06.png)
 
 
 <!--break--><!--break-->

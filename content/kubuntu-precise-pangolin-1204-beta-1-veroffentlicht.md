@@ -15,31 +15,27 @@ Die wichtigsten Neuerungen sind:
 -   Die KDE SC Version 4.8
 
 
-[![Desktop12.04.png](http://wiki.kubuntu-de.org/images/Desktop12.04.png){width="500"
-height="375"}]
+[![Desktop12.04.png](http://wiki.kubuntu-de.org/images/Desktop12.04.png)]
 
 
 -   Telepathy-KDE wird als neuer Instantmessenger verwendet (Kopete wird
     nicht mehr aktiv weiterentwickelt)
 
 
-[![Telepathy.png](http://wiki.kubuntu-de.org/images/Telepathy.png){width="249"
-height="440"}]
+[![Telepathy.png](http://wiki.kubuntu-de.org/images/Telepathy.png)]
 
 
 -   Amarok 2.5
 
 
-[![Amarok.png](http://wiki.kubuntu-de.org/images/Amarok.png){width="500"
-height="368"}]
+[![Amarok.png](http://wiki.kubuntu-de.org/images/Amarok.png)]
 
 
 -   rekonq in Version 0.9
 -   Owncloud ist in Version 3.0 in den Paketquellen
 
 
-[![Owncloud.png](http://wiki.kubuntu-de.org/images/Owncloud.png){width="500"
-height="388"}]
+[![Owncloud.png](http://wiki.kubuntu-de.org/images/Owncloud.png)]
 
 
 -   Kubuntu Active
@@ -48,32 +44,27 @@ height="388"}]
 Eine UI für Tablets
 
 
-[![Active.png](http://wiki.kubuntu-de.org/images/Active.png){width="500"
-height="375"}]
+[![Active.png](http://wiki.kubuntu-de.org/images/Active.png)]
 
 
 -   Calligra
 
 
 Die neue OfficeSuite für KDE (Standard ist immer noch LibreOffice)
-[![Words.png](http://wiki.kubuntu-de.org/images/Words.png){width="500"
-height="547"}]
-[![Krita.png](http://wiki.kubuntu-de.org/images/Krita.png){width="500"
-height="440"}]
+[![Words.png](http://wiki.kubuntu-de.org/images/Words.png)]
+[![Krita.png](http://wiki.kubuntu-de.org/images/Krita.png)]
 
 
 -   Muon Suite RC 1.3
 
 
-[![Muon.png](http://wiki.kubuntu-de.org/images/Muon.png){width="500"
-height="307"}]
+[![Muon.png](http://wiki.kubuntu-de.org/images/Muon.png)]
 
 
 -   Oxygen-Gtk3
 
 
-[![Gedit.png](http://wiki.kubuntu-de.org/images/Gedit.png){width="500"
-height="362"}]
+[![Gedit.png](http://wiki.kubuntu-de.org/images/Gedit.png)]
 
 
 Interessierte Tester können diese Vorabversion
@@ -84,8 +75,7 @@ herunterladen. Eine englischsprachige Anleitung zum Upgrade von Version
 finden.
 
 
-[![Testsoftware48x48.png](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png){width="48"
-height="48"}](/Datei:Testsoftware48x48.png) Da es sich um eine
+[![Testsoftware48x48.png](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png)](/Datei:Testsoftware48x48.png) Da es sich um eine
 Beta Version handelt,wird dringend davon abgeraten diese auf
 Produktivsystemen einzusetzen!
 

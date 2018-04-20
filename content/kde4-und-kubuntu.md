@@ -92,8 +92,7 @@ installiert werden müssen.
 
 
 <td valign="top" bgcolor="#e1ebff">
-![](http://www.kubuntu-de.org/files/riddell.jpg){width="130"
-height="178"}**Jonathan Riddell**:  
+![](http://www.kubuntu-de.org/files/riddell.jpg)**Jonathan Riddell**:  
 
 
 Der 25 jährige Schotte Jonathan Riddell ist Kubuntu Chefentwickler und

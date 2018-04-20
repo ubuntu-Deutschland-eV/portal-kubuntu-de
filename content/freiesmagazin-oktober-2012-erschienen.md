@@ -5,8 +5,7 @@ Tags: Sonstiges
 Slug: freiesmagazin-oktober-2012-erschienen
 
 [![freiesMagazin 10/2012
-Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2012-10.png){width="300"
-height="212"}](http://www.freiesmagazin.de/system/files/freiesmagazin-2012-10.png)
+Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2012-10.png)](http://www.freiesmagazin.de/system/files/freiesmagazin-2012-10.png)
 
 
 Heute ist die

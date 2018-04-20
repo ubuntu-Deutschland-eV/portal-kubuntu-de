@@ -5,8 +5,7 @@ Tags: Sonstiges
 Slug: freiesmagazin-september-2010-erschienen
 
 [![freiesMagazin 09/2010
-Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-09.png){width="300"
-height="212"}](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-09.png)
+Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-09.png)](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-09.png)
 
 
 Heute ist die [Septemberausgabe von

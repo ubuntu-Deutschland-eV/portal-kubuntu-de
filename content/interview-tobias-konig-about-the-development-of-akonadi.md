@@ -5,8 +5,7 @@ Tags: English
 Slug: interview-tobias-konig-about-the-development-of-akonadi
 
 [![Tobias König auf den Chemnitzer-Linux-Tagen 2008 mit Konqui auf der
-Schulter](http://wiki.kubuntu-de.org/images/Tobias_Koenig_CLT-2008-klein.jpg){width="220"
-height="165"}](http://wiki.kubuntu-de.org/images/Tobias_Koenig_CLT-2008.jpg)
+Schulter](http://wiki.kubuntu-de.org/images/Tobias_Koenig_CLT-2008-klein.jpg)](http://wiki.kubuntu-de.org/images/Tobias_Koenig_CLT-2008.jpg)
 
 
 [kubuntu-de.org in conversation with Tobias König]

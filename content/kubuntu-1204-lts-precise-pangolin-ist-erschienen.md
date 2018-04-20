@@ -5,8 +5,7 @@ Slug: kubuntu-1204-lts-precise-pangolin-ist-erschienen
 
 <div align="center">
 
-![banner](http://www.kubuntu.org/files/12.04-lts-banner.png){width="600"
-height="197"}
+![banner](http://www.kubuntu.org/files/12.04-lts-banner.png)
 
 </div>
 
@@ -36,8 +35,7 @@ Der Dateimanager Dolphin wurde überarbeitet, er ist jetzt schneller und
 <div align="center">
 
 ![überarbeiteter
-Dateimanager](http://kde.org/announcements/4.8/screenshots/plasma-desktop-4.8.png){width="600"
-height="387"}
+Dateimanager](http://kde.org/announcements/4.8/screenshots/plasma-desktop-4.8.png)
 
 </div>
 

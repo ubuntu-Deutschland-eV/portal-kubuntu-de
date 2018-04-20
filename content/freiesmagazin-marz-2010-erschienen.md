@@ -5,8 +5,7 @@ Tags: Sonstiges
 Slug: freiesmagazin-marz-2010-erschienen
 
 [![freiesMagazin 03/2010
-Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-03.png){width="300"
-height="212"}](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-03.png)Heute
+Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-03.png)](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-03.png)Heute
 ist die [Märzausgabe von
 [freies][Magazin]](http://www.freiesmagazin.de/freiesMagazin-2010-03)
 erschienen und bringt viele spannende Artikel aus den Bereichen Linux

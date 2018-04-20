@@ -10,8 +10,7 @@ freiesMagazin erschienen und bringt wieder viele spannende Artikel aus
 den Bereichen Linux und Open Source mit.
 
 
-[![FM06.2013.png](http://wiki.kubuntu-de.org/images/FM06.2013.png){width="600"
-height="424"}]
+[![FM06.2013.png](http://wiki.kubuntu-de.org/images/FM06.2013.png)]
 
 
 <!--break--><!--break-->

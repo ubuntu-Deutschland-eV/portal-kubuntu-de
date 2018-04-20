@@ -5,8 +5,7 @@ Tags: Sonstiges
 Slug: freiesmagazin-juni-2010-erschienen
 
 [![freiesMagazin 06/2010
-Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-06.png){width="300"
-height="212"}](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-06.png)
+Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-06.png)](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-06.png)
 
 
 Heute ist die [Juniausgabe von
