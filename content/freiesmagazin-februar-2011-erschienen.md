@@ -7,7 +7,7 @@ Slug: freiesmagazin-februar-2011-erschienen
 Titelseite](http://www.freiesmagazin.de/system/files/freiesmagazin-2011-02.png){width="300"
 height="212"}](http://www.freiesmagazin.de/system/files/freiesmagazin-2011-02.png)
 Heute ist die [Februarausgabe von
-[freies]{style="font-weight: bold; color: rgb(115, 115, 115);"}[Magazin]{style="color: rgb(255, 102, 0);"}](http://www.freiesmagazin.de/20110206-februarausgabe-erschienen)
+[freies][Magazin]](http://www.freiesmagazin.de/20110206-februarausgabe-erschienen)
 erschienen und bringt [viele spannende
 Artikel](http://www.freiesmagazin.de/freiesMagazin-2011-02) aus den
 Bereichen Linux und Open Source mit.  
@@ -47,7 +47,7 @@ Unter der Adresse <http://freiesmagazin.de/mobil/> findet man immer die
 aktuelle und alle bisher erschienenen Mobil-Ausgaben. Auf der
 [Magazin-Seite](http://www.freiesmagazin.de/magazin) können die letzten
 drei Ausgaben von
-[freies]{style="font-weight: bold; color: rgb(115, 115, 115);"}[Magazin]{style="color: rgb(255, 102, 0);"}
+[freies][Magazin]
 abgerufen werden, ältere Ausgaben findet man im
 [Archiv](http://www.freiesmagazin.de/archiv).  
 

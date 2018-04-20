@@ -29,7 +29,7 @@ natürlich sind auch allgemeine Fragen willkommen.
 Netzwerks (irc.freenode.net)
 
 
-[Update:]{style="font-weight: bold; font-size: larger;"} Die
+[Update:] Die
 Programmpunkte "Programmieren mit PyKDE 4" und "Paketierung 101" haben
 die Zeiten getauscht, Jonathan Riddel wird also mit der PyKDE 4
 Programmierung beginnen. Das Tutorium zur Paketierung findet dann um 18

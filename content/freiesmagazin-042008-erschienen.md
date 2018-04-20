@@ -5,7 +5,7 @@ Tags: Sonstiges
 Slug: freiesmagazin-042008-erschienen
 
 Heute ist die [Aprilausgabe von
-[freies]{style="font-weight: bold; color: rgb(115, 115, 115);"}[Magazin]{style="color: rgb(255, 102, 0);"}](ftp://ftp.freiesmagazin.de/2008/freiesMagazin-2008-04.pdf)
+[freies][Magazin]](ftp://ftp.freiesmagazin.de/2008/freiesMagazin-2008-04.pdf)
 erschienen. Falls man hinter einer Firewall sitzt, die FTP nicht
 zulässt, ist das Magazin auch per [HTTP-Zugriff auf das
 FTP-Verzeichnis](http://www.freiesmagazin.de/ftp/2008/freiesMagazin-2008-04.pdf)

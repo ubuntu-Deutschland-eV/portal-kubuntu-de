@@ -5,7 +5,7 @@ Tags: Sonstiges
 Slug: freiesmagazin-april-2011-erschienen
 
 Heute ist die [Aprilausgabe von
-[freies]{style="font-weight: bold; color: rgb(115, 115,<br />115);"}[Magazin]{style="color: rgb(255, 102, 0);"}](http://www.freiesmagazin.de/20110403-aprilausgabe%20erschienen)
+[freies][Magazin]](http://www.freiesmagazin.de/20110403-aprilausgabe%20erschienen)
 erschienen und bringt [viele spannende
 Artikel](http://www.freiesmagazin.de/freiesMagazin-2011-04) aus den
 Bereichen Linux und Open Source mit.
@@ -49,7 +49,7 @@ Mobil-Ausgaben. Auf der
 [Magazin-Seite](http://www.freiesmagazin.de/magazin) können die  
 
 letzten drei Ausgaben von
-[freies]{style="font-weight: bold; color:<br />rgb(115, 115, 115);"}[Magazin]{style="color: rgb(255, 102,<br /></p><p>0);"}
+[freies][Magazin]
 abgerufen werden, ältere Ausgaben findet man im
 [Archiv](http://www.freiesmagazin.de/archiv).
 

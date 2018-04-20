@@ -7,7 +7,7 @@ Slug: juli-ausgabe-des-freienmagazin-erschienen
 Heute ist die
 [Juliausgabe](ftp://ftp.freiesmagazin.de/2008/freiesMagazin-2008-07.pdf)
 von
-[[freies]{style="font-weight: bold; color: rgb(115, 115, 115);"}[Magazin]{style="color: rgb(255, 102, 0);"}](http://www.freiesmagazin.de/magazin)
+[[freies][Magazin]](http://www.freiesmagazin.de/magazin)
 erschienen. Falls man hinter einer Firewall sitzt, die FTP nicht
 zulässt, ist das Magazin auch per [HTTP-Zugriff auf das
 FTP-Verzeichnis](http://www.freiesmagazin.de/ftp/2008/freiesMagazin-2008-07.pdf)

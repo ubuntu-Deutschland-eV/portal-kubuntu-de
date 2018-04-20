@@ -101,73 +101,73 @@ KDE 3.5.7 Highlights
 
 <li>
 Verbesserungen bei mehreren Ansichten in
-[Kate]{style="font-weight: bold;"} (bugfix)
+[Kate] (bugfix)
 
 </li>
 
 
 <li>
-[Monochrome]{style="font-weight: bold;"} Icon-Sammlung hat mehr Icons
+[Monochrome] Icon-Sammlung hat mehr Icons
 
 </li>
 
 
 <li>
-Bugfix für Crash in [KScreensaver]{style="font-weight: bold;"}
+Bugfix für Crash in [KScreensaver]
 
 </li>
 
 
 <li>
-"Serbien und Montenegro (yu)" aus [KDEBase]{style="font-weight: bold;"}
+"Serbien und Montenegro (yu)" aus [KDEBase]
 entfernt und "Serbien (rs)" und "Montenegro (me)" hinzugefügt
 
 </li>
 
 
 <li>
-[KControl]{style="font-weight: bold;"}: Schriftfarbe der Taskbar kann
+[KControl]: Schriftfarbe der Taskbar kann
 jetzt geändert werden
 
 </li>
 
 
 <li>
-[KWin]{style="font-weight: bold;"}: das bei Alt+Tab erscheinende Fenster
+[KWin]: das bei Alt+Tab erscheinende Fenster
 kann jetzt deaktiviert werden
 
 </li>
 
 
 <li>
-[KLettres]{style="font-weight: bold;"} unterstützt jetzt Niedersächsisch
+[KLettres] unterstützt jetzt Niedersächsisch
 
 </li>
 
 
 <li>
-[kgoldrunner]{style="font-weight: bold;"} hat mit "State of Terror" ein
+[kgoldrunner] hat mit "State of Terror" ein
 neues Spiel bekommen
 
 </li>
 
 
 <li>
-[KPDF]{style="font-weight: bold;"} kann jetzt eine PDF-Datei vor dem
+[KPDF] kann jetzt eine PDF-Datei vor dem
 Drucken in ein Bild umwandeln; plus viele Bugfixes
 
 </li>
 
 
 <li>
-[Kuickshow]{style="font-weight: bold;"} stürzt nicht mehr ab, wenn man
+[Kuickshow] stürzt nicht mehr ab, wenn man
 Entf drückt ohne etwas ausgewählt zu haben
 
 </li>
 
 
 <li>
-[Kopete]{style="font-weight: bold;"} hat verbesserten (schnelleren)
+[Kopete] hat verbesserten (schnelleren)
 Aufbau des Fensterinhalts beim Chatten, stürzt nicht mehr nach dem
 Erstellen eines ICQ-Accounts ab, weitere Bugfixes
 
@@ -175,7 +175,7 @@ Erstellen eines ICQ-Accounts ab, weitere Bugfixes
 
 
 <li>
-[KAddressBook]{style="font-weight: bold;"} lässt den Benutzer nun in
+[KAddressBook] lässt den Benutzer nun in
 beliebigen Feldern suchen; wählt nicht mehr alle ausgewählten Einträge
 ab sobald man rechtsklickt; sehr viele Bugfixes
 
@@ -183,13 +183,13 @@ ab sobald man rechtsklickt; sehr viele Bugfixes
 
 
 <li>
-[KAlarm]{style="font-weight: bold;"}: sehr viele Bugfixes
+[KAlarm]: sehr viele Bugfixes
 
 </li>
 
 
 <li>
-[KMail[]{}]{style="font-weight: bold;"}
+[KMail[]{}]
 
 </li>
 
@@ -212,21 +212,21 @@ ab sobald man rechtsklickt; sehr viele Bugfixes
 
 
 <li>
-[KOrganizer]{style="font-weight: bold;"} hat Feiertagsdateien für
+[KOrganizer] hat Feiertagsdateien für
 Südafrika und die Ukraine bekommen, sowie einige Bugfixes
 
 </li>
 
 
 <li>
-bei [KWeather]{style="font-weight: bold;"} lässt sich jetzt die
+bei [KWeather] lässt sich jetzt die
 Textfarbe einstellen; Wetterstationen hinzugefügt/korrigiert
 
 </li>
 
 
 <li>
-[ark]{style="font-weight: bold;"} behandelt Dateien mit mehr als 4 GB
+[ark] behandelt Dateien mit mehr als 4 GB
 jetzt korrekt und stürzt nicht mehr bei Dateinamen ab, die mit "/"
 beginnen
 
@@ -234,7 +234,7 @@ beginnen
 
 
 <li>
-[klaptopdaemon]{style="font-weight: bold;"} sollte .xsession-errors
+[klaptopdaemon] sollte .xsession-errors
 nicht mehr mit zahlreichen Warnung füllen
 
 </li>

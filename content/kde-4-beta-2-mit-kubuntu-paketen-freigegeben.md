@@ -21,7 +21,7 @@ laufenden Sitzung auf KDE 4 zu schalten. Eine Anleitung zur Installation
 befindet sich am Ende dieser Nachricht.
 
 
-[Update:]{style="font-weight: bold;"}Überarbeiteter KDE 4.0 Zeitplan
+[Update:]Überarbeiteter KDE 4.0 Zeitplan
 
 
 <!--break--><!--break-->

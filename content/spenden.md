@@ -50,8 +50,8 @@ Vielen Dank!
 
 <div>
 
-[Kontostand:]{style="font-size: large;"}[ 395,31
-€]{style="font-weight: bold; font-size: large;"} (01.05.2014)
+[Kontostand:][ 395,31
+€] (01.05.2014)
 
 </div>
 

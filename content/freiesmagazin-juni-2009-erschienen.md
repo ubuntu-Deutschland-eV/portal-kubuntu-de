@@ -5,7 +5,7 @@ Tags: Sonstiges
 Slug: freiesmagazin-juni-2009-erschienen
 
 Heute ist die [Juniausgabe von
-[freies]{style="font-weight: bold; color: rgb(115, 115, 115);"}[Magazin]{style="color:rgb(255, 102, 0);"}](ftp://ftp.freiesmagazin.de/2009/freiesMagazin-2009-06.pdf)
+[freies][Magazin]](ftp://ftp.freiesmagazin.de/2009/freiesMagazin-2009-06.pdf)
 erschienen. Falls man hinter einer Firewall sitzt, die FTP nicht
 zulässt, ist das Magazin auch per [HTTP-Zugriff auf das
 FTP-Verzeichnis](http://www.freiesmagazin.de/ftp/2009/freiesMagazin-2009-06.pdf)
@@ -51,7 +51,7 @@ Wer jeden Monat an die neue Ausgabe erinnert werden will, kann auch den
 [RSS-Feed](http://www.freiesmagazin.de/rss.xml) abonnieren. Auf der
 [Magazin-Seite](http://www.freiesmagazin.de/magazin) können die letzten
 drei Ausgaben von
-[freies]{style="font-weight: bold; color: rgb(115, 115, 115);"}[Magazin]{style="color: rgb(255, 102, 0);"}
+[freies][Magazin]
 abgerufen werden, ältere Ausgaben findet man im
 [Archiv](http://www.freiesmagazin.de/archiv).
 

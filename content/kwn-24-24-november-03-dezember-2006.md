@@ -84,7 +84,7 @@ deutschen "Freshers Day" auf dem Kanal \#kubuntu-de-freshers
 veranstaltet. Viele interessierte Personen kamen, um ihre Fragen zu
 stellen und einige Mitglieder für unser Team konnten gewonnen werden und
 natürlich hat es auch uns viel Spaß
-gemacht.]{style="font-style: italic;"}
+gemacht.]
 
 
 ### Armstrong im Team willkommen geheißen
@@ -693,7 +693,7 @@ Computer-Erlebens wiederentdeckt, als ich zuerst andere Linux Versionen
 über die Jahre hinweg ausprobiert habe. Dennoch erforderten sie eine
 steile Lernkurve und lösten viel Frustration mit dem Setup und obskuren
 Kommandozeilen Optionen aus. Nicht so mit Ubuntu
-Linux."]{style="font-style: italic;"}
+Linux."]
 
 
 Lesen Sie den vollständigen Artikel auf

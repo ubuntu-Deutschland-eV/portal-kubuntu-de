@@ -12,7 +12,7 @@ style="float: right; margin: 0px 10px 0px 10px; border: 1px solid
 rgb(115, 115, 115);" /&gt;</a>
 
 Heute ist die [Oktoberausgabe von
-[freies]{style="font-weight: bold; color: rgb(115, 115, 115);"}[Magazin]{style="color: rgb(255, 102, 0);"}](http://www.freiesmagazin.de/20101003-oktoberausgabe-erschienen)
+[freies][Magazin]](http://www.freiesmagazin.de/20101003-oktoberausgabe-erschienen)
 erschienen und bringt [viele spannende
 Artikel](http://www.freiesmagazin.de/freiesMagazin-2010-10) aus den
 Bereichen Linux und Open Source mit.
@@ -54,7 +54,7 @@ Unter der Adresse <http://freiesmagazin.de/mobil/> findet man immer die
 aktuelle und alle bisher erschienenen Mobil-Ausgaben. Auf der
 [Magazin-Seite](http://www.freiesmagazin.de/magazin) können die letzten
 drei Ausgaben von
-[freies]{style="font-weight: bold; color: rgb(115, 115, 115);"}[Magazin]{style="color: rgb(255, 102, 0);"}
+[freies][Magazin]
 abgerufen werden, ältere Ausgaben findet man im
 [Archiv](http://www.freiesmagazin.de/archiv).
 

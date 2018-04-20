@@ -9,7 +9,7 @@ height="212"}](http://www.freiesmagazin.de/system/files/freiesmagazin-2010-12.pn
 
 
 Heute ist die [Dezemberausgabe von
-[freies]{style="font-weight: bold; color: rgb(115, 115, 115);"}[Magazin]{style="color: rgb(255, 102, 0);"}](http://www.freiesmagazin.de/20101205-dezemberausgabe-erschienen)
+[freies][Magazin]](http://www.freiesmagazin.de/20101205-dezemberausgabe-erschienen)
 erschienen und bringt [viele spannende
 Artikel](http://www.freiesmagazin.de/freiesMagazin-2010-12) aus den
 Bereichen Linux und Open Source mit.
@@ -58,7 +58,7 @@ aktuelle und alle bisher erschienenen Mobil-Ausgaben. Auf der
 
 href="http://www.freiesmagazin.de/magazin"&gt;Magazin-Seite können die
 letzten drei Ausgaben von
-[freies]{style="font-weight: bold; color: rgb(115, 115, 115);"}[Magazin]{style="color: rgb(255, 102, 0);"}
+[freies][Magazin]
 abgerufen werden, ältere Ausgaben findet man im
 [Archiv](http://www.freiesmagazin.de/archiv).</a<br>
 

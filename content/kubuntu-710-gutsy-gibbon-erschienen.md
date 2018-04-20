@@ -523,7 +523,7 @@ Version Kubuntu 7.04 Feisty Fawn möglich. Über die automatischen Updates
 wird bekanntgegeben, dass eine neue Version des Betriebsystems zur
 Verfügung steht. Sollte die automatische Benachrichtigung nicht
 funktionieren kann die Upgrade-Software auch über den Befehl
-[update-manager -d]{style="font-style: italic;"} manuell initialisiert
+[update-manager -d] manuell initialisiert
 werden. Weitere Anweisungen hierzu gibt es [hier
 (Englisch)](https://help.ubuntu.com/community/GutsyUpgrades#head-3cb12417f0af7f24d4a34f2ae4040bf791c42f52).
 
