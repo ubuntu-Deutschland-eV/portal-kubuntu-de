@@ -13,46 +13,14 @@ Das Kubuntu Team freut sich, heute die Veröffentlichung der Version
 10.10 „Maverick Meerkat” bekannt geben zu können. Die neueste Variante
 unserer populären Linuxdistribution basiert auf Ubuntu mit KDE SC 4.5.
 
-
-<div class="thumb tright">
-
-
-<div class="thumbinner" style="width:402px;">
-
-[![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10.10-desktop.png/400px-Kubuntu-10.10-desktop.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-desktop.png "Kubuntu-10.10-desktop.png")  
-
-<div class="thumbcaption">
-
-
-<div class="magnify">
-
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-desktop.png "vergrößern")
-
-</div>
-
-
-
-
-</div>
-
-
-
-
-</div>
-
-
-
-
-</div>
-
+![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10.10-desktop.png/400px-Kubuntu-10.10-desktop.png)
+![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)
 
 Mit der Kombination von Ubuntu als Grundlage, der großartigen KDE
 Software Compilation und ein paar einzigartigen Extras, zielt 10.10
 darauf ab, den besten Zusammenschluss von Stabilität, gutem Aussehen und
 aktueller Software zu bieten.
 
-
-<!--break--><!--break-->
 
 Ganz egal, ob zum Arbeiten, um im Web zu surfen, zum Musik abspielen, um
 E-mails zu schreiben oder um mit Freunden in sozialen Netzwerken in
@@ -523,6 +491,3 @@ Conduct](http://www.ubuntu.com/community/conduct "http://www.ubuntu.com/communit
 Diese Nachricht kann im
 [Forum](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0")
 diskutiert werden.
-
-
-
