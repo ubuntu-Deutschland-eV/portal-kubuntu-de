@@ -15,7 +15,7 @@ hierzu eine kurze Anleitung.
 
   
 
-### [ Release-Event]
+### Release-Event
 
 
 Wir möchten auf die [Release Party in
@@ -44,7 +44,7 @@ Nutzung von Bittorrent empfohlen werden.
 
   
 
-### [ Änderungen und Neuerungen]
+### Änderungen und Neuerungen
 
 
 Die wahrscheinlich auffälligste Neuerung ist das neue Kubuntu Logo,
@@ -111,7 +111,7 @@ herausgeben.
 
   
 
-### [ Weiterführende Informationen]
+### Weiterführende Informationen
 
 
 Beachtenswert sind zudem die

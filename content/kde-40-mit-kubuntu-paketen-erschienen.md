@@ -87,7 +87,7 @@ Anleitung:
 
 
 
-[ Das Wichtigste im Überblick]
+Das Wichtigste im Überblick
 --------------------------------------------
 
 
@@ -132,7 +132,7 @@ nach das volle Potenzial von KDE 4 freilegen.
 
 
 
-[ Grundlegendes]
+Grundlegendes
 ------------------------------
 
 
@@ -142,7 +142,7 @@ nach das volle Potenzial von KDE 4 freilegen.
 ### 
 
 
-### [ Plattformunabhängigkeit]
+### Plattformunabhängigkeit
 
 
 Bei der Entwicklung von KDE4 wurde ebenfalls großer Wert auf die
@@ -163,7 +163,7 @@ Plasma bereits auf dem Neo1973 Smartphone kompiliert und gestartet.
 ### 
 
 
-### [ Qt 4]
+### Qt 4
 
 
 Das [Qt-Toolkit](http://trolltech.com/products/qt/homepage) der Firma
@@ -184,7 +184,7 @@ dienen.
 
 
 
-### [ Phonon]
+### Phonon
 
 
 [Phonon](http://phonon.kde.org/) ist entgegen einiger Befürchtungen kein
@@ -229,7 +229,7 @@ Versionen werden wird.
 
 
 
-### [ Solid]
+### Solid
 
 
 [Solid](http://solid.kde.org/) ist wie Phonon ein Framework und
@@ -249,7 +249,7 @@ Energieverwaltung und Bluetooth.
 ###  
 
 
-### [ Strigi]
+### Strigi
 
 
 Strigi ist die schon aus Gutsy Gibbon bekannte kleine, sehr schnelle,
@@ -264,7 +264,7 @@ das System nicht so stark wie andere Desktop-Suchmaschinen.
 
 
 
-### [ Nepomuk-KDE]
+### Nepomuk-KDE
 
 
 [Nepomuk](http://nepomuk-kde.semanticdesktop.org/xwiki/bin/view/Main/WebHome)
@@ -290,14 +290,14 @@ sehen, beinhaltet. Nepomuk ist bereits in Dolphin integriert.
 
 
 
-[ Die Sichtbarsten Veränderungen gegenüber KDE 3.5.x]
+Die Sichtbarsten Veränderungen gegenüber KDE 3.5.x
 -------------------------------------------------------------------
 
 
 
 
 
-### [ Plasma]
+### Plasma
 
 
 Die sicherlich auffälligste Veränderung an KDE4 ist
@@ -338,7 +338,7 @@ konfigurierbar.
 
 
 
-### [ Systemeinstellungen]
+### Systemeinstellungen
 
 
 Lange war KControl für die Konfiguration von KDE zuständig. Für viele
@@ -400,7 +400,7 @@ das Gesamtbild ab.
 
 
 
-### [ KWin]
+### KWin
 
 
 Seit der Einführung von AIGLX ist der XServer in der Lage grafische
@@ -416,7 +416,7 @@ nach Belieben an und abschalten.
 
 
 
-### [ KRunner]
+### KRunner
 
 
 Während man früher mit dem Menüpunkt "Befehl ausführen" nur Befehle
@@ -440,7 +440,7 @@ angeboten.
 
 
 
-[ Ausblick auf KDE 4.x]
+Ausblick auf KDE 4.x
 -------------------------------------
 
 

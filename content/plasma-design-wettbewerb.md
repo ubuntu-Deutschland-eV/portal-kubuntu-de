@@ -19,7 +19,7 @@ einem solchen Wettbewerb hervorgegangen sind.
 
 Die Teilnahmefrist endet am 9. April 2008 um 18:00 UTC. Bis dahin
 sollten die Beiträge in die Rubrik [**Plasma
-Themes**](http://kde-look.org/index.php?xcontentmode=76 "http://kde-look.org/index.php?xcontentmode=76")[ auf][www.kde-look.org](http://kde-look.org/index.php?xcontentmode=76 "http://kde-look.org/index.php?xcontentmode=76") hochgeladen werden; am besten als .tar.gz Datei des
+Themes**](http://kde-look.org/index.php?xcontentmode=76 "http://kde-look.org/index.php?xcontentmode=76")auf[www.kde-look.org](http://kde-look.org/index.php?xcontentmode=76 "http://kde-look.org/index.php?xcontentmode=76") hochgeladen werden; am besten als .tar.gz Datei des
 entsprechenden Ordners. Die Gewinner werden dann am 18. April benannt.
 Um eigene Themes zu erstellen sind keine Programmierkenntnisse von
 Nöten. Man muss nur in der Lage sein Grafiken im Vektorformat SVG zu

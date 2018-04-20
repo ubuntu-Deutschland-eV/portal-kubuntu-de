@@ -49,7 +49,7 @@ Tribe 1 kann unter folgender URL heruntergeladen werden:
  
 
 
-[ Änderungen in Tribe 1]
+Änderungen in Tribe 1
 --------------------------------------
 
 
@@ -72,7 +72,7 @@ Darüberhinaus beinhaltet Tribe 1 einige bereits bekannte Fehler:
  
 
 
-#### [ KDE 3.5.7]
+#### KDE 3.5.7
 
 
 Kubuntu 7.10 beinhaltet das K Desktop Environment 3.5.7. Diese siebte
@@ -99,7 +99,7 @@ von KDE 4 Verbesserungen erfahren.
  
 
 
-#### [ Neuer Kernel]
+#### Neuer Kernel
 
 
 Die neuste Kernel Version des Ubuntu Projektes ist 2.6.22-6 und
@@ -113,7 +113,7 @@ verbessert die Unterstützung der neusten Hardware.
  
 
 
-#### [ ktorrent 2.2]
+#### ktorrent 2.2
 
 
 ktorrent, das BitTorrent Programm für KDE ist gerade in Version 2.2
@@ -145,7 +145,7 @@ Features sind:
  
 
 
-#### [ digikam 0.9.2 beta2]
+#### digikam 0.9.2 beta2
 
 
 digikam Version 0.9.2 beta2 ist in Kubuntu 7.10 enthalten, das Projekt
@@ -178,7 +178,7 @@ Einige der Korrekturen und neuen Fähigkeiten sind:
  
 
 
-#### [ KDM Benutzerliste]
+#### KDM Benutzerliste
 
 
 Der Login Bildschirm von Kubuntu 7.10 wurde verbessert und bringt nun
@@ -192,7 +192,7 @@ Vorauswahl sämtliche Nutzer ihres Systems.
  
 
 
-#### [ k3b 1.0.1]
+#### k3b 1.0.1
 
 
 k3b 1.0.1 bereinigt hauptsächlich einige Fehler, die nach der
@@ -226,7 +226,7 @@ Veröffentlichung von Version 1.0 festgestellt wurden. u.a.:
  
 
 
-#### [ kaffeine 0.8.4]
+#### kaffeine 0.8.4
 
 
 kaffeine 0.8.4 ist die 4. Veröffentlichung der 0.8 Reihe und bereinigten
@@ -257,7 +257,7 @@ Standardvideoplayer in Kubuntu 7.10. Einige der Verbesserungen sind:
  
 
 
-#### [ QT 4.3]
+#### QT 4.3
 
 
 Für alle KDE Entwickler beinhaltet Gutsy das neuste QT Release 4.3.
@@ -274,7 +274,7 @@ Performanceverbesserungen.
 </a>
 
 
-### [ Feedback]
+### Feedback
 
 
 Die Kubuntu Entwickler sind auf Ihr Feedback angewiesen.

@@ -65,7 +65,7 @@ verwenden.
 
 
 
-### [ Adept 3.0]
+### Adept 3.0
 
 
 Ein neuer Desktop braucht eine neue Software zur Paketverwaltung. Adept
@@ -77,7 +77,7 @@ stabiler, flinker und ressourcenschonender ist.
 
 
 
-### [ Apport und Aktualisierungsbenachrichtigung]
+### Apport und Aktualisierungsbenachrichtigung
 
 
 Die völlig neue Aktualisierungsbenachrichtigung von KDE dient nun als
@@ -87,7 +87,7 @@ Update neu gestartet werden muss.
 
 
 
-### [ Unterstützung von Multimediatasten für KMix]
+### Unterstützung von Multimediatasten für KMix
 
 
 In Intrepid Ibex werden nun auch die Multimediatasten, die diverse
@@ -95,7 +95,7 @@ Tastaturen anbieten, von KMix unterstützt.
 
 
 
-### [ Kubuntu Integration]
+### Kubuntu Integration
 
 
 Alle wichtigen Kubuntu Werkzeuge wurden besser in KDE 4 integriert oder
@@ -148,7 +148,7 @@ möglichen Workarounds dokumentiert.
 
 
 
-[ In eigener Sache]
+In eigener Sache
 ---------------------------------
 
 

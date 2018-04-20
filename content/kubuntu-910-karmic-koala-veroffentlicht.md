@@ -31,7 +31,7 @@ Kubuntu. Die Änderungen auf einen Blick:
 
   
 
-### [ Programm-Aktualisierungen]
+### Programm-Aktualisierungen
 
 
 [![OpenOffice mit KDE-Integration in Kubuntu
@@ -72,7 +72,7 @@ Version erhalten.
 
   
 
-### [ KDE 4.3]
+### KDE 4.3
 
 
 [![Kubuntu Karmic's jungfräulicher
@@ -86,7 +86,7 @@ behoben und weitere neue Funktionen und Programme eingeführt.
 
   
 
-### [ Kubuntu Netbook Edition]
+### Kubuntu Netbook Edition
 
 
 [![Desktop der noch experimentellen Kubuntu Netbook
@@ -110,7 +110,7 @@ von KDE 4.4 im Januar und wird Teil von Kubuntu Lucid Lynx (10.04).
 
   
 
-### [ Geselligkeit frei Haus – Social Media Clients]
+### Geselligkeit frei Haus – Social Media Clients
 
 
 Mit dieser Version soll die Integration in soziale Netzwerke deutlich
@@ -153,7 +153,7 @@ Social Plasma Widget** verbindet Sie mit der Open-Source-Community.
 
   
 
-### [ Überarbeiteter Installer]
+### Überarbeiteter Installer
 
 
 [![Kubuntus aufpoliertes
@@ -169,7 +169,7 @@ springt, gibt es noch Optimierungsbedarf.
 
   
 
-### [ Sonstiges]
+### Sonstiges
 
 
 Bei Kubuntu 9.04 hatten die Entwickler sich erstmals deutlich um
@@ -185,7 +185,7 @@ eine kleine Einführung.
 
   
 
-[ Bekannte Fehler]
+Bekannte Fehler
 --------------------------------
 
 
@@ -209,7 +209,7 @@ gemeldet werden.
 
   
 
-[ Diskussion im Forum]
+Diskussion im Forum
 ------------------------------------
 
 
@@ -220,7 +220,7 @@ diskutiert werden.
 
   
 
-[ Quellen]
+Quellen
 ------------------------
 
 

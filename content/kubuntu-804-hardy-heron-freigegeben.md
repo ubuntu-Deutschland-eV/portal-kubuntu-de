@@ -39,7 +39,7 @@ angepasst.**
 Besuchen sie die [Downloadseite](http://www.kubuntu-de.org/download) um
 Kubuntu 8.04 herunterzuladen.
 
-[ Kubuntu 8.04 Highlights]
+Kubuntu 8.04 Highlights
 ========================================
 
 Hier lesen sie, was es neues gibt in Kubuntu 8.04.

@@ -43,7 +43,7 @@ Ankündigung](http://www.kde.org/announcements/announce-4.0.2.php "http://www.kd
 
 
 
-### [ Installation]
+### Installation
 
 
 Kubuntu stellt für Gutsy und für Hardy bereits Pakete zur Verfügung. KDE
@@ -62,7 +62,7 @@ parallel zu KDE 3 betrieben werden.
     werden.
 
 
-### [ So geht es weiter mit KDE 4]
+### So geht es weiter mit KDE 4
 
 
 Wie schon

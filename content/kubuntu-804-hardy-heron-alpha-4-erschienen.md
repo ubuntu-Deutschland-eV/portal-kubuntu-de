@@ -48,7 +48,7 @@ Vorherige Versionen von Kubuntu 8.04:
 
 
 
-[ Altes aus Alpha 2 und 3]
+Altes aus Alpha 2 und 3
 ----------------------------------------
 
 
@@ -70,7 +70,7 @@ finale Freigabe von KDE 4.0 Einzug.
 
 
 
-[ Neues in Alpha 4]
+Neues in Alpha 4
 ---------------------------------
 
 
@@ -93,7 +93,7 @@ Fehlerbericht ins Launchpad, falls nicht schon einer existiert.
 
 
 
-[ Design]
+Design
 -----------------------
 
 
@@ -109,7 +109,7 @@ Vlad Gerasimov von
 
 
 
-[ Integration von KDE 4]
+Integration von KDE 4
 --------------------------------------
 
 
@@ -125,7 +125,7 @@ KDE 4 Sitzung.
 
 
 
-[ Drucker-Konfiguration]
+Drucker-Konfiguration
 --------------------------------------
 
 
@@ -143,7 +143,7 @@ entsprechende Benachrichtiung wird ebenfalls sichtbar.
 
 
 
-[ Desktop Effekte]
+Desktop Effekte
 --------------------------------
 
 
@@ -166,7 +166,7 @@ ausgeführt werden.
 
 
 
-[ Flash]
+Flash
 ----------------------
 
 
@@ -178,7 +178,7 @@ Kubuntu endlich wieder richtig zusammenarbeiten.
 
 
 
-[ Qt]
+Qt
 -------------------
 
 
@@ -196,7 +196,7 @@ GPLv3 veröffentlicht wurde.
 
 
 
-[ Feedback]
+Feedback
 -------------------------
 
 
@@ -217,7 +217,7 @@ Redaktion ist).
 
 
 
-[ So geht es weiter]
+So geht es weiter
 ==================================
 
 

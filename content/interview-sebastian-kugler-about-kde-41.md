@@ -43,7 +43,7 @@ free music.
 The interview was rearranged for better readability.
 
 
-### [ Hello Sebastian, please tell us something about you to present you to the audience]
+### Hello Sebastian, please tell us something about you to present you to the audience
 
 
 Hello, I'm Sebastian Kügler, I work on KDE and at the moment in
@@ -57,7 +57,7 @@ do a lot of marketing and publicity work.
 
 
 
-### [ Sebastian, how did you come to the KDE project? Did you say: "I use this, so I also want to develop this further"? What was the reason to join KDE?]
+### Sebastian, how did you come to the KDE project? Did you say: "I use this, so I also want to develop this further"? What was the reason to join KDE?
 
 
 It was 4 or 5 years ago, I had been using KDE for a while. I wanted to

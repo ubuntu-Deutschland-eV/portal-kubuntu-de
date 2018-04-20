@@ -16,7 +16,7 @@ Yours](http://wiki.kubuntu-de.org/images/Kde-sc-4.6.png)](http://www.kubuntu-de.
 
   
 
-### [ Installation]
+### Installation
 
 
 Wer KDE SC 4.6 installieren möchte, kann sie sich unter Kubuntu 10.10
@@ -30,7 +30,7 @@ einspielen. Nutzer der Entwicklerversion Kubuntu 11.04 erhalten KDE SC
 
   
 
-### [ Änderungen in KDE Plasma Workspaces 4.6]
+### Änderungen in KDE Plasma Workspaces 4.6
 
 
 In KDE Plasma Workspaces, welches die Desktopumgebung enthält, wurde vor
@@ -105,7 +105,7 @@ nachgeliefert werden.
 
   
 
-### [ Zu guter Letzt: KDE Platforms 4.6]
+### Zu guter Letzt: KDE Platforms 4.6
 
 
 Durch weitere Modularisierungen konnte die Mobil-Variante von KDE, die

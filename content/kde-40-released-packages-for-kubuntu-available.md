@@ -7,7 +7,7 @@ Slug: kde-40-released-packages-for-kubuntu-available
 [![Bild:KDE.png](http://wiki.kubuntu-de.org/images/Kde.png)](http://wiki.kubuntu-de.org/images/Kde.png "Bild:KDE4-Plasma.png")
 
 
-[ A Vision Becomes Reality]
+A Vision Becomes Reality
 =========================================
 
 
@@ -50,7 +50,7 @@ zu finden ( The german original could be found
 
 
 
-[ For Everybody Who Cannot Wait: The Installation of KDE 4.0 under Gutsy Gibbon]
+For Everybody Who Cannot Wait: The Installation of KDE 4.0 under Gutsy Gibbon
 ----------------------------------------------------------------------------------------------
 
 
@@ -91,7 +91,7 @@ Instructions:
 
 
 
-[ A Summary of the Most Important Changes]
+A Summary of the Most Important Changes
 --------------------------------------------------------
 
 
@@ -131,14 +131,14 @@ seen until they are integrated into the applications running under KDE
 
 
 
-[ Fundamentals]
+Fundamentals
 -----------------------------
 
 
 
 
 
-### [ Platform Independence]
+### Platform Independence
 
 
 During the development of KDE 4, there has been a big emphasis on
@@ -156,7 +156,7 @@ that Plasma could be compiled and started on a Neo 1973 Smartphone.
 
 
 
-### [ Qt 4]
+### Qt 4
 
 
 The
@@ -178,7 +178,7 @@ already the foundation of Amarok 2.
 
 
 
-### [ Phonon]
+### Phonon
 
 
 Phonon is contrary to some fears not a new sound system in the fashion
@@ -224,7 +224,7 @@ next Qt releases.
 
 
 
-### [ Solid]
+### Solid
 
 
 [Solid](http://solid.kde.org/ "http://solid.kde.org/")
@@ -242,7 +242,7 @@ and bluetooth.
 
 
 
-### [ Strigi]
+### Strigi
 
 
 Strigi is the small and very fast index based desktop search engine that
@@ -258,7 +258,7 @@ other desktop search engines do.
 
 
 
-### [ Nepomuk]
+### Nepomuk
 
 
 [Nepomuk](http://nepomuk-kde.semanticdesktop.org/xwiki/bin/view/Main/WebHome "http://nepomuk-kde.semanticdesktop.org/xwiki/bin/view/Main/WebHome") is not a pure KDE project, but a big research and development
@@ -283,14 +283,14 @@ into Dolphin.
 
 
 
-[ The Most Obvious Changes to KDE 3.5.x]
+The Most Obvious Changes to KDE 3.5.x
 ------------------------------------------------------
 
 
 
 
 
-### [ Plasma]
+### Plasma
 
 
 Certainly, the most obvious change in KDE 4 is Plasma, the new desktop.
@@ -331,7 +331,7 @@ available. The panel can also configured in limited ways at this time.
 
 
 
-### [ Systemsettings]
+### Systemsettings
 
 
 Kcontrol has been responsible for the configuration of KDE for a long
@@ -347,7 +347,7 @@ desktop.
 
 
 
-### [ Dolphin]
+### Dolphin
 
 
 The file manager Dolphin was completely redesigned for KDE 4. In
@@ -365,7 +365,7 @@ Konqueror for managing files.
 
 
 
-### [ Oxygen]
+### Oxygen
 
 
 The new face of KDE has the name
@@ -381,7 +381,7 @@ is completed with a KDE style and matching cursor theme and new sounds.
 
 
 
-### [ KWin]
+### KWin
 
 
 Since the introduction of AIGLX it is possible for XServer to display
@@ -397,7 +397,7 @@ effects that are available.
 
 
 
-### [ KRunner]
+### KRunner
 
 
 As a substituion of the previous menu item "Run Command", which was able
@@ -418,7 +418,7 @@ will be offered for selection.
 
 
 
-[ Prospects of KDE 4.x]
+Prospects of KDE 4.x
 -------------------------------------
 
 

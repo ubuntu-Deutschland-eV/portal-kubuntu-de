@@ -26,7 +26,7 @@ Für den LinuxTag haben wir noch
 
   
 
-### [ ausgewählte Programmpunkte]
+### ausgewählte Programmpunkte
 
 
 Die aus Kubuntu-Sicht wichtigstens Programm-Punkte im und um den

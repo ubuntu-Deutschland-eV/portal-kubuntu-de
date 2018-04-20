@@ -38,7 +38,7 @@ zumindest für Nutzer, die sowieso schon auf 4.6 setzen, sicher sein
 sollte.
 
 
-### [ Experimentelles Kontact2 verfügbar]{#Experimentelles_Kontact2_verf.C3.BCgbar .mw-headline}
+### Experimentelles Kontact2 verfügbar{#Experimentelles_Kontact2_verf.C3.BCgbar .mw-headline}
 
 
 Zudem ist auch Kontact2 erschienen. **Diese Freigabe ist von den

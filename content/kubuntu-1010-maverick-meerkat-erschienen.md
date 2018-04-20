@@ -5,7 +5,7 @@ Slug: kubuntu-1010-maverick-meerkat-erschienen
 
   
 
-[ Einleitung]
+Einleitung
 ---------------------------
 
 
@@ -30,7 +30,7 @@ all das zur Verfügung, was ein Desktop braucht.
 
   
 
-[ Download und Aktualisierung]
+Download und Aktualisierung
 --------------------------------------------
 
 
@@ -48,13 +48,13 @@ Aktualisierungen werden von Kubuntu 10.04 LTS unterstützt. Weitere
 
   
 
-[ Was ist neu?]
+Was ist neu?
 -----------------------------
 
 
   
 
-### [ KDE SC 4.5.1]
+### KDE SC 4.5.1
 
 
 [KDE SC
@@ -87,13 +87,13 @@ verbessert und es sind einige aktualisierte Übersetzungen enthalten.
 
   
 
-[ Veränderungen]
+Veränderungen
 ------------------------------
 
 
   
 
-### [ Kombiniertes Desktop/Netbook ISO Image]
+### Kombiniertes Desktop/Netbook ISO Image
 
 
 Für Kubuntu 10.10 hat Kubuntu das Desktop und Netbook Image
@@ -105,7 +105,7 @@ noch in den Systemeinstellungen geändert werden.
 
   
 
-### [ Ubiquity Installer]
+### Ubiquity Installer
 
 
 Der Installer wurde geringfügig überarbeitet. Beim Start bietet Ubiquity
@@ -223,7 +223,7 @@ ausgeführt wurde, wodurch er schneller zur Verfügung steht.
 
   
 
-### [ Verbessertes KPackageKit]
+### Verbessertes KPackageKit
 
 
 KPackageKit für Kubuntu hat nun eine aktualisierte Nutzeroberfläche,
@@ -304,7 +304,7 @@ zahlreichen Veränderungen.
 
   
 
-### [ Rekonq als Standardbrowser]
+### Rekonq als Standardbrowser
 
 
 In Kubuntu 10.10 löst der auf WebKit basierende Rekonq nun den Konqueror
@@ -317,7 +317,7 @@ Firefox Installer sind weiterhin für die Nutzer verfügbar.
 
   
 
-### [ Neue Ubuntu Schriftart]
+### Neue Ubuntu Schriftart
 
 
 Neue Standardschriftart ist nun die hauseigene und im Zuge des
@@ -328,7 +328,7 @@ Ubuntu](http://www.markshuttleworth.com/archives/537 "http://www.markshuttlewort
 
   
 
-### [ Globales Menü für Plasma Netbook]
+### Globales Menü für Plasma Netbook
 
 
 Die Netbook-Variante hat nun standardmäßig ein Globales Menü, über das
@@ -374,7 +374,7 @@ Veröffentlichungen.
 
   
 
-### [ QApt Batch]
+### QApt Batch
 
 
 QApt Batch ersetzt install-package als Aktualisierungs- bzw.
@@ -385,7 +385,7 @@ Verbesserungen in der Anwenderfreundlichkeit.
 
   
 
-### [ Message Indicator]
+### Message Indicator
 
 
 Das Message Indicator Widget von Kubuntu wurde überarbeitet und hat
@@ -396,7 +396,7 @@ Meldung stammt.
 
   
 
-### [ BlueDevil]
+### BlueDevil
 
 
 [BlueDevil](http://www.afiestas.org/bluedevil-the-new-kde-bluetooth-stack-is-here/ "http://www.afiestas.org/bluedevil-the-new-kde-bluetooth-stack-is-here/")
@@ -406,7 +406,7 @@ und andere Bluetoothanwendungen wesentlich verlässlicher.
 
   
 
-### [ PulseAudio]
+### PulseAudio
 
 
 Kubuntu benutzt nun den
@@ -420,13 +420,13 @@ aktualisiert und haben nun eine Möglichkeit PulseAudio zu konfigurieren
 
   
 
-[ Neue Technologie]
+Neue Technologie
 ---------------------------------
 
 
   
 
-### [ Kubuntu Mobile Tech Preview]
+### Kubuntu Mobile Tech Preview
 
 
 Und weiter gibt es auch eine neue Art Kubuntu zu nutzen. Kubuntu Mobile
@@ -437,7 +437,7 @@ ist als Tech Preview für i386 und ARM Architekturen verfügbar.
 
   
 
-[ Bekannte Probleme]
+Bekannte Probleme
 ----------------------------------
 
 
@@ -471,7 +471,7 @@ ist als Tech Preview für i386 und ARM Architekturen verfügbar.
 
   
 
-[ Feedback]
+Feedback
 -------------------------
 
 
