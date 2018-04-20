@@ -9,7 +9,7 @@ Schulter](http://wiki.kubuntu-de.org/images/Tobias_Koenig_CLT-2008-klein.jpg){wi
 height="165"}](http://wiki.kubuntu-de.org/images/Tobias_Koenig_CLT-2008.jpg)
 
 
-[kubuntu-de.org in conversation with Tobias König]{.external .text}
+[kubuntu-de.org in conversation with Tobias König]
 ===================================================================
 
 
@@ -24,15 +24,12 @@ kde-it.org) and
 </address>
 
 [Tobias
-König](http://tokoe-kde.blogspot.com/ "http://tokoe-kde.blogspot.com/"){.external
-.text} is a Computer Science student and one of the core developers of
-[Akonadi](http://kdepim.kde.org/akonadi/ "http://kdepim.kde.org/akonadi/"){.external
-.text}, one of the innovative technologies that will be implemented in
-[KDE4](http://www.kde.org/announcements/4.0/ "http://www.kde.org/announcements/4.0/"){.external
-.text}. Akonadi will be a platform independent innovative storage
+König](http://tokoe-kde.blogspot.com/ "http://tokoe-kde.blogspot.com/") is a Computer Science student and one of the core developers of
+[Akonadi](http://kdepim.kde.org/akonadi/ "http://kdepim.kde.org/akonadi/"), one of the innovative technologies that will be implemented in
+[KDE4](http://www.kde.org/announcements/4.0/ "http://www.kde.org/announcements/4.0/"). Akonadi will be a platform independent innovative storage
 solution for personal data. In this interview, Tobias König shares his
 impressions about the integration into the [KDE desktop
-environment](http://www.kde.org/ "http://www.kde.org"){.external .text}
+environment](http://www.kde.org/ "http://www.kde.org")
 and Akonadi's development and features.
 
 
@@ -54,10 +51,8 @@ GmbH.
 **Tobias König:** Credativ GmbH offers services around open source
 software solutions. The majority of coworkers come from the open source
 environment, as from the [debian
-project](http://www.debian.org/ "http://www.debian.org/"){.external
-.text} or from
-[postgres](http://www.postgresql.org/ "http://www.postgresql.org/"){.external
-.text}. There are also a couple of people from KDE :).
+project](http://www.debian.org/ "http://www.debian.org/") or from
+[postgres](http://www.postgresql.org/ "http://www.postgresql.org/"). There are also a couple of people from KDE :).
 
 
 **kubuntu-de.org:** One could say, you made your hobby your occupation?
@@ -73,8 +68,7 @@ with? For which tasks have you taken responsibilities?
 
 
 **Tobias König:** My home is the [KDE-PIM
-project](http://kdepim.kde.org/ "http://kdepim.kde.org"){.external
-.text}. This is the subproject for KDE which is focused on personal
+project](http://kdepim.kde.org/ "http://kdepim.kde.org"). This is the subproject for KDE which is focused on personal
 information management. This encompasses calendars, address books and
 e-mails. In addition to the management of KAddressBook, I also help with
 the development of Akonadi, the new system for PIM storage. During the

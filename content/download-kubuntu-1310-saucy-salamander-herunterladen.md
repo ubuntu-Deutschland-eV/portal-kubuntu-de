@@ -4,10 +4,8 @@ Author: Dirk Barrois
 Slug: download-kubuntu-1310-saucy-salamander-herunterladen
 
 Am 17. Oktober 2013 haben die Kubuntu-Entwickler die Version 13.10 der
-[Ubuntu](http://www.ubuntu.com/ "http://www.ubuntu.com"){.external
-.text}-Variante mit der
-[KDE-Oberfläche](http://www.kde.org/ "http://www.kde.org"){.external
-.text} freigegeben. Kubuntu "Saucy Salamander" wurde wie üblich ein
+[Ubuntu](http://www.ubuntu.com/ "http://www.ubuntu.com")-Variante mit der
+[KDE-Oberfläche](http://www.kde.org/ "http://www.kde.org") freigegeben. Kubuntu "Saucy Salamander" wurde wie üblich ein
 halbes Jahr nach der letzten Version vom April und zeitgleich zu Ubuntu
 13.10 veröffentlicht. Ubuntu und Kubuntu teilen sich den Unterbau und
 unterscheiden sich nur in der Desktopoberfläche; Ubuntu selbst nutzt

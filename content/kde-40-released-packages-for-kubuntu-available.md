@@ -22,7 +22,7 @@ Gibbons and 8.04 Hardy Heron.
 
 After years of intensive development and with several month delay, the
 dream of the [KDE
-community](http://www.kde.org/ "http://www.kde.org"){.external .text}
+community](http://www.kde.org/ "http://www.kde.org")
 has become reality: KDE 4.0 has finally been released. The demands put
 on the entirely redesigned desktop are very high: All in all a
 revolution in the desktop area has been aimed for. Nevertheless, it
@@ -31,8 +31,7 @@ due to the fact that several exciting features for the desktop
 environment have not been fully implemented yet. Therefore, it must be
 stressed that KDE 4.0 is not KDE 4 as the developer Stephan Binner aka
 beineri writes in [his
-blog](http://www.kdedevelopers.org/node/3174 "http://www.kdedevelopers.org/node/3174"){.external
-.text}, but it is rather the beginning of a yearlong continuing set of
+blog](http://www.kdedevelopers.org/node/3174 "http://www.kdedevelopers.org/node/3174"), but it is rather the beginning of a yearlong continuing set of
 release cycle interations.
 
 
@@ -63,8 +62,7 @@ current development version (8.04 Hardy Herron)
 Since KDE 4.0 is installed into the directory /usr/lib/kde4, it is
 possible to install it next to the existing KDE3 installation. A test
 without installation can be achived with the KDE 4 [Live
-CD](http://cdimage.ubuntu.com/kubuntu/releases/gutsy/kde4/ "http://cdimage.ubuntu.com/kubuntu/releases/gutsy/kde4/"){.external
-.text}.
+CD](http://cdimage.ubuntu.com/kubuntu/releases/gutsy/kde4/ "http://cdimage.ubuntu.com/kubuntu/releases/gutsy/kde4/").
 
 
 Instructions:
@@ -163,8 +161,7 @@ that Plasma could be compiled and started on a Neo 1973 Smartphone.
 
 
 The
-[Qt-Toolkit](http://trolltech.com/products/qt/homepagects/qt/homepage "http://trolltech.com/products/qt/homepagects/qt/homepage"){.external
-.text} by Trolltech is the foundation of KDE. With the new generation
+[Qt-Toolkit](http://trolltech.com/products/qt/homepagects/qt/homepage "http://trolltech.com/products/qt/homepagects/qt/homepage") by Trolltech is the foundation of KDE. With the new generation
 Qt4 there have been several positive changes. One example is the
 distribution of the library into finer granuality which alows to develop
 smaller and more memory efficient programs. This also achieved that the
@@ -231,7 +228,7 @@ next Qt releases.
 ### [ Solid]{.mw-headline}
 
 
-[Solid](http://solid.kde.org/ "http://solid.kde.org/"){.external .text}
+[Solid](http://solid.kde.org/ "http://solid.kde.org/")
 is similar to Phonon a framework that allows KDE 4 application the
 access or usage of hardware. In this context, there is a network manager
 backend that allows applications to know at any time the status of the
@@ -265,8 +262,7 @@ other desktop search engines do.
 ### [ Nepomuk]{.mw-headline}
 
 
-[Nepomuk](http://nepomuk-kde.semanticdesktop.org/xwiki/bin/view/Main/WebHome "http://nepomuk-kde.semanticdesktop.org/xwiki/bin/view/Main/WebHome"){.external
-.text} is not a pure KDE project, but a big research and development
+[Nepomuk](http://nepomuk-kde.semanticdesktop.org/xwiki/bin/view/Main/WebHome "http://nepomuk-kde.semanticdesktop.org/xwiki/bin/view/Main/WebHome") is not a pure KDE project, but a big research and development
 project which is supported by numerous companies, researchers and
 developers. Their goal is the vision to revolutionise information
 management with the aid of information technology by creating a semantic
@@ -377,12 +373,10 @@ Konqueror for managing files.
 
 
 The new face of KDE has the name
-[Oxygen](http://www.oxygen-icons.org/ "http://www.oxygen-icons.org/"){.external
-.text}. It not only contains the new look & feel for the windows but
+[Oxygen](http://www.oxygen-icons.org/ "http://www.oxygen-icons.org/"). It not only contains the new look & feel for the windows but
 also a comprehensive set of icons which have been adjusted according to
 the naming conventions of
-[freedesktop.org](http://www.freedesktop.org/ "http://www.freedesktop.org"){.external
-.text}. The named aim has been to design the icons in a uniform and
+[freedesktop.org](http://www.freedesktop.org/ "http://www.freedesktop.org"). The named aim has been to design the icons in a uniform and
 consistent way. The technology used is the vector format SVG. This
 allows full scalability and dynamical adjustments to colour. The design
 is completed with a KDE style and matching cursor theme and new sounds.

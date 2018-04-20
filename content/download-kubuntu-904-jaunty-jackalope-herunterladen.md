@@ -4,10 +4,8 @@ Author: Monika Eggers
 Slug: download-kubuntu-904-jaunty-jackalope-herunterladen
 
 Am heutigen 23. April haben die Kubuntu Entwickler die Version 9.04 der
-[Ubuntu](http://www.ubuntu.com/ "http://www.ubuntu.com"){.external
-.text} Variante mit der
-[KDE-Oberfläche](http://www.kde.org/ "http://www.kde.org"){.external
-.text} freigegeben. Kubuntu "Jaunty Jackalope" wurde wie üblich ein
+[Ubuntu](http://www.ubuntu.com/ "http://www.ubuntu.com") Variante mit der
+[KDE-Oberfläche](http://www.kde.org/ "http://www.kde.org") freigegeben. Kubuntu "Jaunty Jackalope" wurde wie üblich ein
 halbes Jahr nach der letzten Version vom Oktober und zeitgleich zu
 Ubuntu 9.04 veröffentlicht. Ubuntu und Kubuntu teilen sich den Unterbau
 und unterscheiden sich nur in der Desktopoberfläche; Ubuntu selbst nutzt
@@ -15,8 +13,7 @@ Gnome und Kubuntu das K Desktop Environment.
 
 
 Namentlich ist in Version 9.04 [KDE
-4.2.2](../../../../nachrichten/software/kde/kde-4-2-mit-kubuntu-paketen-veroeffentlicht "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-mit-kubuntu-paketen-veroeffentlicht"){.external
-.text} enthalten, welches viele Unzulänglichkeiten, die einige Nutzer in
+4.2.2](../../../../nachrichten/software/kde/kde-4-2-mit-kubuntu-paketen-veroeffentlicht "http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-2-mit-kubuntu-paketen-veroeffentlicht") enthalten, welches viele Unzulänglichkeiten, die einige Nutzer in
 Version 4.1 noch bemängelt haben, beseitigt. KDE ist ein moderner
 Desktop, der neben den heute fast schon üblichen grafischen Effekten von
 Haus aus alle Standardaufgaben abdeckt und so eine vollständige

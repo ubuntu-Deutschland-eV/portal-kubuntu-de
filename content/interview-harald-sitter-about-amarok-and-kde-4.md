@@ -17,11 +17,9 @@ zu finden (* *The german original could be found
 </address>
 
 Harald Sitter, also known as apachelogger, was [promoted to Kubuntu
-MOTU](https://lists.ubuntu.com/archives/ubuntu-devel/2007-November/024826.html "https://lists.ubuntu.com/archives/ubuntu-devel/2007-November/024826.html"){.external
-.text} not too long ago. He also works as a volunteer project manager
+MOTU](https://lists.ubuntu.com/archives/ubuntu-devel/2007-November/024826.html "https://lists.ubuntu.com/archives/ubuntu-devel/2007-November/024826.html") not too long ago. He also works as a volunteer project manager
 for the [Amarok
-project](http://amarok.kde.org/ "http://amarok.kde.org"){.external
-.text}. We spoke with him about Amarok 2 and what can be expected from
+project](http://amarok.kde.org/ "http://amarok.kde.org"). We spoke with him about Amarok 2 and what can be expected from
 KDE 4 in Kubuntu 8.04 Hardy Heron.
 
 
@@ -60,8 +58,8 @@ it). In any case, because of the new KDE and the new Qt it is now
 possible to achieve far more than could be done with Amarok 1. The best
 examples are the new web services. Due to the newly developed framework,
 a amazing interaction with
-[Last.fm](http://www.lastfm.de/ "http://www.lastfm.de"){.external .text}
-and [Ampache](http://ampache.org/ "http://ampache.org"){.external .text}
+[Last.fm](http://www.lastfm.de/ "http://www.lastfm.de")
+and [Ampache](http://ampache.org/ "http://ampache.org")
 can be achieved (in reality in such a way that the particular websites
 are superfluous - which is part of our path to world domination :-D).
 KDE 4 obviously allows us to publish Amarok 2 on Linux, Mac and Windows.

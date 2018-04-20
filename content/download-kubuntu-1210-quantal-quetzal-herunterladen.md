@@ -4,10 +4,8 @@ Author: Felix Klaftenegger
 Slug: download-kubuntu-1210-quantal-quetzal-herunterladen
 
 Am 18. Oktober 2012 haben die Kubuntu-Entwickler die Version 12.10 der
-[Ubuntu](http://www.ubuntu.com/ "http://www.ubuntu.com"){.external
-.text}-Variante mit der
-[KDE-Oberfläche](http://www.kde.org/ "http://www.kde.org"){.external
-.text} freigegeben. Kubuntu "Quantal Quetzal" wurde wie üblich ein
+[Ubuntu](http://www.ubuntu.com/ "http://www.ubuntu.com")-Variante mit der
+[KDE-Oberfläche](http://www.kde.org/ "http://www.kde.org") freigegeben. Kubuntu "Quantal Quetzal" wurde wie üblich ein
 halbes Jahr nach der letzten Version vom Oktober und zeitgleich zu
 Ubuntu 12.10 veröffentlicht. Ubuntu und Kubuntu teilen sich den Unterbau
 und unterscheiden sich nur in der Desktopoberfläche; Ubuntu selbst nutzt

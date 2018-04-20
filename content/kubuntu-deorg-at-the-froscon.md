@@ -5,8 +5,7 @@ Tags: English
 Slug: kubuntu-deorg-at-the-froscon
 
 This weekend, for the second time, the
-[FrOSCon](http://www.froscon.org/ "http://www.froscon.org"){.external
-.text}, a conference for Free and Open Source Software, is taking place
+[FrOSCon](http://www.froscon.org/ "http://www.froscon.org"), a conference for Free and Open Source Software, is taking place
 in St. Augustin, near Bonn during this weekend. The German speaking
 Kubuntu community will be represented there, as we were at the lastest
 similar events. Due to our numerous volunteers, we are happy to be able

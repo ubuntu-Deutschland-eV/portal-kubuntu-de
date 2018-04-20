@@ -33,8 +33,7 @@ Portierung der folgenden Programmen in KDE 4 bzw. nach PyKDE 4:
 
 Ob KDE 4 wirklich etwas für sie ist finden sie im Artikel ["Is KDE 4.1
 for
-you?"](http://techbase.kde.org/Schedules/Is_KDE_4.1_for_you%3F "http://techbase.kde.org/Schedules/Is_KDE_4.1_for_you%3F"){.external
-.text} heraus.
+you?"](http://techbase.kde.org/Schedules/Is_KDE_4.1_for_you%3F "http://techbase.kde.org/Schedules/Is_KDE_4.1_for_you%3F") heraus.
 
 
 Informationen zum Download {#informationen-zum-download .title}

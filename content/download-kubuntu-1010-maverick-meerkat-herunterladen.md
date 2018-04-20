@@ -4,10 +4,8 @@ Author: Monika Eggers
 Slug: download-kubuntu-1010-maverick-meerkat-herunterladen
 
 Am heutigen 10.10.2010 haben die Kubuntu-Entwickler die Version 10.10
-der [Ubuntu](http://www.ubuntu.com/ "http://www.ubuntu.com"){.external
-.text}-Variante mit der
-[KDE-Oberfläche](http://www.kde.org/ "http://www.kde.org"){.external
-.text} freigegeben. Kubuntu "Maverick Meerkat" wurde wie üblich ein
+der [Ubuntu](http://www.ubuntu.com/ "http://www.ubuntu.com")-Variante mit der
+[KDE-Oberfläche](http://www.kde.org/ "http://www.kde.org") freigegeben. Kubuntu "Maverick Meerkat" wurde wie üblich ein
 halbes Jahr nach der letzten Version vom April und zeitgleich zu Ubuntu
 10.10 veröffentlicht. Ubuntu und Kubuntu teilen sich den Unterbau und
 unterscheiden sich nur in der Desktopoberfläche; Ubuntu selbst nutzt

@@ -12,12 +12,11 @@ finden:
 
 
 Ein
-[Hackergotchi](http://en.wikipedia.org/wiki/Hackergotchi "http://en.wikipedia.org/wiki/Hackergotchi"){.external
-.text} ist ein Portrait einer Person, welches als eine Erkennungsfigur
+[Hackergotchi](http://en.wikipedia.org/wiki/Hackergotchi "http://en.wikipedia.org/wiki/Hackergotchi") ist ein Portrait einer Person, welches als eine Erkennungsfigur
 in einen Webblog dient. Das Portrait wird so geschnitten, dass es nur
 den Kopf und Hals enthält. Man kann ein Hackergotchi sehr einfach mit
 einer digitalen Photoapparat und
-[GIMP](http://www.gimp.org/ "http://www.gimp.org/"){.external .text}
+[GIMP](http://www.gimp.org/ "http://www.gimp.org/")
 erstellen.
 
 
@@ -52,14 +51,12 @@ B-Taste oder des Wählens des Menüs Werkzeuge -&gt; Pfade kann von einen
 beliebigen Punkt am Rande des Gesichts angefangen werden, und dann wird
 nach und nach jeder Punkt des Gesichtsrands mit der Maustaste
 angeklickt, genau so wie es
-[hier](http://www.linux.com/blob.pl?id=b260b6730e32df51ffb225f940e74bbd "http://www.linux.com/blob.pl?id=b260b6730e32df51ffb225f940e74bbd"){.external
-.text} geschehen ist.
+[hier](http://www.linux.com/blob.pl?id=b260b6730e32df51ffb225f940e74bbd "http://www.linux.com/blob.pl?id=b260b6730e32df51ffb225f940e74bbd") geschehen ist.
 
 
 Sobald der ganze Kopf umrandet ist, wird durch das Drücken der
 Umschalttaste & Q-Taste zur Q-Maske umgeschaltet, so wie es
-[hier](http://www.linux.com/blob.pl?id=cb2bc9d917042df317b6d376b050bd54 "http://www.linux.com/blob.pl?id=cb2bc9d917042df317b6d376b050bd54"){.external
-.text} zu sehen ist.
+[hier](http://www.linux.com/blob.pl?id=cb2bc9d917042df317b6d376b050bd54 "http://www.linux.com/blob.pl?id=cb2bc9d917042df317b6d376b050bd54") zu sehen ist.
 
 
 Als nächstes wird der Radierer (Werkzeuge -&gt; Malwerkzeuge -&gt;

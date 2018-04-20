@@ -4,10 +4,8 @@ Author: Monika Eggers
 Slug: download-kubuntu-910-karmic-koala-herunterladen
 
 Am heutigen 29. Oktober haben die Kubuntu Entwickler die Version 9.10
-der [Ubuntu](http://www.ubuntu.com/ "http://www.ubuntu.com"){.external
-.text} Variante mit der
-[KDE-Oberfläche](http://www.kde.org/ "http://www.kde.org"){.external
-.text} freigegeben. Kubuntu "Karmic Koala" wurde wie üblich ein halbes
+der [Ubuntu](http://www.ubuntu.com/ "http://www.ubuntu.com") Variante mit der
+[KDE-Oberfläche](http://www.kde.org/ "http://www.kde.org") freigegeben. Kubuntu "Karmic Koala" wurde wie üblich ein halbes
 Jahr nach der letzten Version von April und zeitgleich zu Ubuntu 9.10
 veröffentlicht. Ubuntu und Kubuntu teilen sich den Unterbau und
 unterscheiden sich nur in der Desktopoberfläche; Ubuntu selbst nutzt

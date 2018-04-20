@@ -109,8 +109,7 @@ You can join at any time, although the *deadline* for taking part in the
 challenge is **one month after the release of Intrepid Ibex** (30th
 November 2008, 8.10pm CET, i.e. 7.10pm UTC). This promotion is guided by
 Arthur Schiwon
-([blizzz](http://wiki.kubuntu-de.org/Benutzer:Blizzz "http://wiki.kubuntu-de.org/Benutzer:Blizzz"){.external
-.text}), who can be contacted via common communication ways (IRC, Mail,
+([blizzz](http://wiki.kubuntu-de.org/Benutzer:Blizzz "http://wiki.kubuntu-de.org/Benutzer:Blizzz")), who can be contacted via common communication ways (IRC, Mail,
 Jabber).
 
 

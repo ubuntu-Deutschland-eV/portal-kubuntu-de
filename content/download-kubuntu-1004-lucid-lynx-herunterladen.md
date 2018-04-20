@@ -4,10 +4,8 @@ Author: Monika Eggers
 Slug: download-kubuntu-1004-lucid-lynx-herunterladen
 
 Am heutigen 29. April haben die Kubuntu Entwickler die Version 10.04.3
-der [Ubuntu](http://www.ubuntu.com/ "http://www.ubuntu.com"){.external
-.text} Variante mit der
-[KDE-Oberfläche](http://www.kde.org/ "http://www.kde.org"){.external
-.text} freigegeben. Kubuntu "Lucid Lynx" wurde wie üblich ein halbes
+der [Ubuntu](http://www.ubuntu.com/ "http://www.ubuntu.com") Variante mit der
+[KDE-Oberfläche](http://www.kde.org/ "http://www.kde.org") freigegeben. Kubuntu "Lucid Lynx" wurde wie üblich ein halbes
 Jahr nach der letzten Version vom Oktober und zeitgleich zu Ubuntu
 10.04.3 veröffentlicht. Ubuntu und Kubuntu teilen sich den Unterbau und
 unterscheiden sich nur in der Desktopoberfläche; Ubuntu selbst nutzt

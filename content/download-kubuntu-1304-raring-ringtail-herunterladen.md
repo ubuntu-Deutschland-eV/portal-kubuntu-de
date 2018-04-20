@@ -4,10 +4,8 @@ Author: Felix Klaftenegger
 Slug: download-kubuntu-1304-raring-ringtail-herunterladen
 
 Am 25. April 2013 haben die Kubuntu-Entwickler die Version 13.04 der
-[Ubuntu](http://www.ubuntu.com/ "http://www.ubuntu.com"){.external
-.text}-Variante mit der
-[KDE-Oberfläche](http://www.kde.org/ "http://www.kde.org"){.external
-.text} freigegeben. Kubuntu "Raring Ringtail" wurde wie üblich ein
+[Ubuntu](http://www.ubuntu.com/ "http://www.ubuntu.com")-Variante mit der
+[KDE-Oberfläche](http://www.kde.org/ "http://www.kde.org") freigegeben. Kubuntu "Raring Ringtail" wurde wie üblich ein
 halbes Jahr nach der letzten Version vom Oktober und zeitgleich zu
 Ubuntu 13.04 veröffentlicht. Ubuntu und Kubuntu teilen sich den Unterbau
 und unterscheiden sich nur in der Desktopoberfläche; Ubuntu selbst nutzt

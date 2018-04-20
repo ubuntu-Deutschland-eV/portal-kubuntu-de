@@ -4,10 +4,8 @@ Author: Monika Eggers
 Slug: download-kubuntu-1204-precise-pangolin-herunterladen
 
 Am 26. April 2012 haben die Kubuntu-Entwickler die Version 12.04 der
-[Ubuntu](http://www.ubuntu.com/ "http://www.ubuntu.com"){.external
-.text}-Variante mit der
-[KDE-Oberfläche](http://www.kde.org/ "http://www.kde.org"){.external
-.text} freigegeben. Kubuntu "Precise Pangolin" wurde wie üblich ein
+[Ubuntu](http://www.ubuntu.com/ "http://www.ubuntu.com")-Variante mit der
+[KDE-Oberfläche](http://www.kde.org/ "http://www.kde.org") freigegeben. Kubuntu "Precise Pangolin" wurde wie üblich ein
 halbes Jahr nach der letzten Version vom Oktober und zeitgleich zu
 Ubuntu 12.04 veröffentlicht. Ubuntu und Kubuntu teilen sich den Unterbau
 und unterscheiden sich nur in der Desktopoberfläche; Ubuntu selbst nutzt
