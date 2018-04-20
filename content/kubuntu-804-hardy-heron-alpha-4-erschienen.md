@@ -45,7 +45,7 @@ Vorherige Versionen von Kubuntu 8.04:
     (Engl.)](https://wiki.kubuntu.org/HardyHeron/Alpha3/Kubuntu "kubuntu:HardyHeron/Alpha3/Kubuntu"){.extiw}
 
 
-[]{#Altes_aus_Alpha_2_und_3}
+
 
 
 [ Altes aus Alpha 2 und 3]
@@ -67,7 +67,7 @@ In Alpha 3 nahm dagegen nicht mehr, aber auch nicht weniger, als die
 finale Freigabe von KDE 4.0 Einzug.
 
 
-[]{#Neues_in_Alpha_4}
+
 
 
 [ Neues in Alpha 4]
@@ -90,7 +90,7 @@ Fehlerbericht ins Launchpad, falls nicht schon einer existiert.
 <https://launchpad.net/distros/ubuntu/+filebug>
 
 
-[]{#Design}
+
 
 
 [ Design]
@@ -106,7 +106,7 @@ Vlad Gerasimov von
 [![Sm\_desktop.png](http://wiki.kubuntu-de.org/images/Sm_desktop.png)](http://wiki.kubuntu-de.org/images/Desktop.png "Desktop.png")
 
 
-[]{#Integration_von_KDE_4}
+
 
 
 [ Integration von KDE 4]
@@ -122,7 +122,7 @@ als solche markiert werden; entsprechend auch KDE 3 Anwendungen in einer
 KDE 4 Sitzung.
 
 
-[]{#Drucker-Konfiguration}
+
 
 
 [ Drucker-Konfiguration]
@@ -140,7 +140,7 @@ entsprechende Benachrichtiung wird ebenfalls sichtbar.
 [![Sm\_printer.png](http://wiki.kubuntu-de.org/images/Sm_printer.png)](http://wiki.kubuntu-de.org/images/Printer.png "Printer.png")
 
 
-[]{#Desktop_Effekte}
+
 
 
 [ Desktop Effekte]
@@ -163,7 +163,7 @@ ausgeführt werden.
 [![Sm\_effects.png](http://wiki.kubuntu-de.org/images/Sm_effects.png)](http://wiki.kubuntu-de.org/images/Effects.png "Effects.png")
 
 
-[]{#Flash}
+
 
 
 [ Flash]
@@ -175,7 +175,7 @@ kürzlichen Aktualisierung der kdelibs und einem aktualisierten Patch für
 Kubuntu endlich wieder richtig zusammenarbeiten.
 
 
-[]{#Qt}
+
 
 
 [ Qt]
@@ -193,7 +193,7 @@ ist. Gleichfalls wird nun auch die Qt 4 Version verwendet, die unter
 GPLv3 veröffentlicht wurde.
 
 
-[]{#Feedback}
+
 
 
 [ Feedback]
@@ -214,7 +214,7 @@ Ankündigung](https://wiki.kubuntu.org/HardyHeron/Alpha4/Kubuntu "kubuntu:HardyH
 Redaktion ist).
 
 
-[]{#So_geht_es_weiter}
+
 
 
 [ So geht es weiter]

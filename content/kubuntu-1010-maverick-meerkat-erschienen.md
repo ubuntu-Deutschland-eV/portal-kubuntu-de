@@ -3,7 +3,7 @@ Date: 2010-10-10 12:51
 Tags: Kubuntu
 Slug: kubuntu-1010-maverick-meerkat-erschienen
 
-[](http://www.kubuntu-de.org/nachrichten/kubuntu/2039-kubuntu-10-10-%E2%80%9Emaverick-meerkat%E2%80%9D-erschienen){.FlattrButton}[]{#Einleitung}  
+[](http://www.kubuntu-de.org/nachrichten/kubuntu/2039-kubuntu-10-10-%E2%80%9Emaverick-meerkat%E2%80%9D-erschienen){.FlattrButton}  
 
 [ Einleitung]
 ---------------------------
@@ -28,7 +28,7 @@ Kontakt zu treten - Kubuntu 10.10 stellt eine attraktive Plattform für
 all das zur Verfügung, was ein Desktop braucht.
 
 
-[]{#Download_und_Aktualisierung}  
+  
 
 [ Download und Aktualisierung]
 --------------------------------------------
@@ -46,13 +46,13 @@ Aktualisierungen werden von Kubuntu 10.04 LTS unterstützt. Weitere
 [Informationen](http://wiki.kubuntu-de.org/Installation/Upgrade/10.04_auf_10.10_grafisch "http://wiki.kubuntu-de.org/Installation/Upgrade/10.04_auf_10.10_grafisch").
 
 
-[]{#Was_ist_neu.3F}  
+  
 
 [ Was ist neu?]
 -----------------------------
 
 
-[]{#KDE_SC_4.5.1}  
+  
 
 ### [ KDE SC 4.5.1]
 
@@ -85,13 +85,13 @@ Fehler der Version 4.5.0 bereinigt. Außerdem wird die Performance
 verbessert und es sind einige aktualisierte Übersetzungen enthalten.
 
 
-[]{#Ver.C3.A4nderungen}  
+  
 
 [ Veränderungen]
 ------------------------------
 
 
-[]{#Kombiniertes_Desktop.2FNetbook_ISO_Image}  
+  
 
 ### [ Kombiniertes Desktop/Netbook ISO Image]
 
@@ -103,7 +103,7 @@ Arbeitsfläche wird beim Einloggen gestartet, sie kann jedoch auch später
 noch in den Systemeinstellungen geändert werden.
 
 
-[]{#Ubiquity_Installer}  
+  
 
 ### [ Ubiquity Installer]
 
@@ -221,7 +221,7 @@ ausgeführt wurde, wodurch er schneller zur Verfügung steht.
 </div>
 
 
-[]{#Verbessertes_KPackageKit}  
+  
 
 ### [ Verbessertes KPackageKit]
 
@@ -302,7 +302,7 @@ zahlreichen Veränderungen.
 </div>
 
 
-[]{#Rekonq_als_Standardbrowser}  
+  
 
 ### [ Rekonq als Standardbrowser]
 
@@ -315,7 +315,7 @@ weiterhin mit dem Konqueror geteilt. Auch Konqueror und der Kubuntu
 Firefox Installer sind weiterhin für die Nutzer verfügbar.
 
 
-[]{#Neue_Ubuntu_Schriftart}  
+  
 
 ### [ Neue Ubuntu Schriftart]
 
@@ -326,7 +326,7 @@ Ubuntu](http://www.markshuttleworth.com/archives/537 "http://www.markshuttlewort
 (englisch).
 
 
-[]{#Globales_Men.C3.BC_f.C3.BCr_Plasma_Netbook}  
+  
 
 ### [ Globales Menü für Plasma Netbook]
 
@@ -372,7 +372,7 @@ Veröffentlichungen.
 </div>
 
 
-[]{#QApt_Batch}  
+  
 
 ### [ QApt Batch]
 
@@ -383,7 +383,7 @@ PolKit-1 (PolicyKit) Unterstützung, größerer Stabilität und natürlich
 Verbesserungen in der Anwenderfreundlichkeit.
 
 
-[]{#Message_Indicator}  
+  
 
 ### [ Message Indicator]
 
@@ -394,7 +394,7 @@ einem Linksklick direkt zu der Anwendung gelangen, von der neueste
 Meldung stammt.
 
 
-[]{#BlueDevil}  
+  
 
 ### [ BlueDevil]
 
@@ -404,7 +404,7 @@ ist nun das Standardprogramm für Bluetooth und macht damit Datentransfer
 und andere Bluetoothanwendungen wesentlich verlässlicher.
 
 
-[]{#PulseAudio}  
+  
 
 ### [ PulseAudio]
 
@@ -418,13 +418,13 @@ Erleichterungen bei der Benutzung. Die Systemeinstellungen wurden
 aktualisiert und haben nun eine Möglichkeit PulseAudio zu konfigurieren
 
 
-[]{#Neue_Technologie}  
+  
 
 [ Neue Technologie]
 ---------------------------------
 
 
-[]{#Kubuntu_Mobile_Tech_Preview}  
+  
 
 ### [ Kubuntu Mobile Tech Preview]
 
@@ -435,7 +435,7 @@ Smart Phones, wie zum Beispiel Nokias N900 darzustellen. Kubuntu Mobile
 ist als Tech Preview für i386 und ARM Architekturen verfügbar.
 
 
-[]{#Bekannte_Probleme}  
+  
 
 [ Bekannte Probleme]
 ----------------------------------
@@ -469,7 +469,7 @@ ist als Tech Preview für i386 und ARM Architekturen verfügbar.
     Kopete neu gestartet werden werden.
 
 
-[]{#Feedback}  
+  
 
 [ Feedback]
 -------------------------

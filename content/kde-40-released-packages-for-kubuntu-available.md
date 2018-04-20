@@ -47,7 +47,7 @@ zu finden ( The german original could be found
 
 <!--break--><!--break-->
 
-[]{#For_Everybody_Who_Cannot_Wait:_The_Installation_of_KDE_4.0_under_Gutsy_Gibbon}
+
 
 
 [ For Everybody Who Cannot Wait: The Installation of KDE 4.0 under Gutsy Gibbon]
@@ -88,7 +88,7 @@ Instructions:
     /usr/lib/kde4/bin/startkde in the Xerphyr xterm.
 
 
-[]{#A_Summary_of_the_Most_Important_Changes}
+
 
 
 [ A Summary of the Most Important Changes]
@@ -128,14 +128,14 @@ seen until they are integrated into the applications running under KDE
 4. This will step by step release the full potential of KDE 4.
 
 
-[]{#Fundamentals}
+
 
 
 [ Fundamentals]
 -----------------------------
 
 
-[]{#Platform_Independence}
+
 
 
 ### [ Platform Independence]
@@ -153,7 +153,7 @@ would port Plasma onto Windows. During a proof of concept, it was shown
 that Plasma could be compiled and started on a Neo 1973 Smartphone.
 
 
-[]{#Qt_4}
+
 
 
 ### [ Qt 4]
@@ -175,7 +175,7 @@ is scheduled for the first quarter of 2008) will be used, which is
 already the foundation of Amarok 2.
 
 
-[]{#Phonon}
+
 
 
 ### [ Phonon]
@@ -221,7 +221,7 @@ next Qt releases.
 ###  
 
 
-[]{#Solid}
+
 
 
 ### [ Solid]
@@ -239,7 +239,7 @@ currently available under Solid are backends for the battery management
 and bluetooth.
 
 
-[]{#Strigi}
+
 
 
 ### [ Strigi]
@@ -255,7 +255,7 @@ efficient and therefore does not put such a high load on the system as
 other desktop search engines do.
 
 
-[]{#Nepomuk}
+
 
 
 ### [ Nepomuk]
@@ -280,14 +280,14 @@ files or image files that contain a dog. Nepomuk is already integrated
 into Dolphin.
 
 
-[]{#The_Most_Obvious_Changes_to_KDE_3.5.x}
+
 
 
 [ The Most Obvious Changes to KDE 3.5.x]
 ------------------------------------------------------
 
 
-[]{#Plasma}
+
 
 
 ### [ Plasma]
@@ -328,7 +328,7 @@ available. The panel can also configured in limited ways at this time.
 </div>
 
 
-[]{#Systemsettings}
+
 
 
 ### [ Systemsettings]
@@ -344,7 +344,7 @@ advanced users to configure the complex options of configuration of the
 desktop.
 
 
-[]{#Dolphin}
+
 
 
 ### [ Dolphin]
@@ -362,7 +362,7 @@ functionality. However, it will also in future be possible to use
 Konqueror for managing files.
 
 
-[]{#Oxygen}
+
 
 
 ### [ Oxygen]
@@ -378,7 +378,7 @@ allows full scalability and dynamical adjustments to colour. The design
 is completed with a KDE style and matching cursor theme and new sounds.
 
 
-[]{#KWin}
+
 
 
 ### [ KWin]
@@ -394,7 +394,7 @@ availability. The manager allows to switch on and off the different
 effects that are available.
 
 
-[]{#KRunner}
+
 
 
 ### [ KRunner]
@@ -415,7 +415,7 @@ will be offered for selection.
 </div>
 
 
-[]{#Prospects_of_KDE_4.x}
+
 
 
 [ Prospects of KDE 4.x]

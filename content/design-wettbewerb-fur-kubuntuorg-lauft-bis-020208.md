@@ -34,7 +34,7 @@ Das Grundlayout als svg-Datei kann man
 [![Bild:Mockup.png](http://wiki.kubuntu-de.org/images/Mockup.png)](http://wiki.kubuntu-de.org/images/Mockup.png)
 
 
-[]{#Eckdaten}
+
 
 
 [ Eckdaten]
@@ -56,7 +56,7 @@ Das Grundlayout als svg-Datei kann man
     sei an Inkscape verwiesen (befindet sich in den Repos).
 
 
-[]{#Einreichen}
+
 
 
 [ Einreichen]

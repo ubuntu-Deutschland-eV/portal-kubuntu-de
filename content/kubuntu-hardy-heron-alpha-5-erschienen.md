@@ -48,7 +48,7 @@ Vorherige Versionen von Kubuntu 8.04:
     .text}
 
 
-[]{#Neues_in_Alpha_5}
+
 
 
 [ Neues in Alpha 5]{}
@@ -71,7 +71,7 @@ ins Launchpad, falls nicht schon einer existiert.
 <https://launchpad.net/distros/ubuntu/+filebug>
 
 
-[]{#KDE_3.5.9}
+
 
 
 [ KDE 3.5.9]{}
@@ -84,7 +84,7 @@ berichteten](http://www.kubuntu-de.org/nachrichten/software/kde/kde-3-5-9-mit-pa
 Kontact-Suite enthalten.
 
 
-[]{#KDE_4.0.1}
+
 
 
 [ KDE 4.0.1]{}
@@ -98,7 +98,7 @@ beherbergt, steht zur Verfügung. KDE 4.0 wird monatlich aktualisiert,
 somit steht die neueste Version bereit.
 
 
-[]{#Wubi_windows_installer}
+
 
 
 [ Wubi windows installer]{}
@@ -114,7 +114,7 @@ Windows gibt es nun eine Option, einen Reboot zur Live-CD durchzuführen.
 [![](http://www.kubuntu-de.org/files/wubi-kubuntu.png)](http://www.kubuntu-de.org/files/wubi-kubuntu.png)
 
 
-[]{#Drucker_Systemeinstellungen}
+
 
 
 [ Drucker Systemeinstellungen]{}
@@ -125,7 +125,7 @@ Unter K-Menu -&gt; Utilities -&gt; Printing findet man nun einen neuen
 Einrichtungsdialog für Drucker.
 
 
-[]{#KOffice_2_Alpha_6}
+
 
 
 [ KOffice 2 Alpha 6]{}
@@ -137,7 +137,7 @@ berichteten](http://www.kubuntu-de.org/nachrichten/kubuntu/koffice-2-alpha-6-mit
 verfügbar.
 
 
-[]{#Feedback}
+
 
 
 [ Feedback]{}
@@ -156,7 +156,7 @@ Diese Ankündigung ist eine Übersetzung der offiziellen [englischen
 Ankündigung](https://wiki.kubuntu.org/HardyHeron/Alpha5/Kubuntu "kubuntu:HardyHeron/Alpha5/Kubuntu"){.extiw}
 
 
-[]{#So_geht_es_weiter}
+
 
 
 [ So geht es weiter]{}

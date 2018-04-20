@@ -22,7 +22,7 @@ stärker nach den Speicherbesonderheiten von Flashdisks in Netbooks
 richtet.
 
 
-[]{#Das_neue_Kubuntu-Logo:}  
+  
 
 ### [Das neue Kubuntu-Logo:]
 
@@ -33,7 +33,7 @@ splash.png](http://wiki.kubuntu-de.org/images/Kubuntu_plymouth_splash.png)](http
 
 <!--break--><!--break-->
 
-[]{#KDE_4.4.2_auf_einem_frisch_installiertem_System:}  
+  
 
 ### [KDE 4.4.2 auf einem frisch installiertem System:]
 
@@ -41,7 +41,7 @@ splash.png](http://wiki.kubuntu-de.org/images/Kubuntu_plymouth_splash.png)](http
 [![Datei:Wee-desktop.png](http://wiki.kubuntu-de.org/images/Wee-desktop.png)](/Datei:Wee-desktop.png "Datei:Wee-desktop.png")
 
 
-[]{#Ein_Bild_der_Netbook-Ausgabe_von_Kubuntu:}  
+  
 
 ### [Ein Bild der Netbook-Ausgabe von Kubuntu:]
 

@@ -14,7 +14,7 @@ veröffentlicht. Zeitgleich sind auch Pakete des KDE SC 4.6 für Kubuntu
 Yours](http://wiki.kubuntu-de.org/images/Kde-sc-4.6.png)](http://www.kubuntu-de.org/nachrichten/software/kde/2054-kde-sc-4-6-mit-kubuntu-paketen-erschienen)
 
 
-[]{#Installation}  
+  
 
 ### [ Installation]
 
@@ -28,7 +28,7 @@ einspielen. Nutzer der Entwicklerversion Kubuntu 11.04 erhalten KDE SC
 
 <!--break--><!--break-->
 
-[]{#.C3.84nderungen_in_KDE_Plasma_Workspaces_4.6}  
+  
 
 ### [ Änderungen in KDE Plasma Workspaces 4.6]
 
@@ -103,7 +103,7 @@ Diese soll aber mit einer der kommenden Wartungsveröffentlichungen,
 nachgeliefert werden.
 
 
-[]{#Zu_guter_Letzt:_KDE_Platforms_4.6}  
+  
 
 ### [ Zu guter Letzt: KDE Platforms 4.6]
 

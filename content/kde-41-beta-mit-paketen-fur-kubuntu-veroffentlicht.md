@@ -35,7 +35,7 @@ Produktivsystemen ist diese Veröffentlichung nicht vorgesehen!
 
 <!--break--><!--break-->
 
-[]{#Neues_in_KDE_4.1_Beta}
+
 
 
 ### [ Neues in KDE 4.1 Beta]
@@ -78,7 +78,7 @@ Zudem wurde Zeroconf, für die Netzwerkkonfiguration in die KDE-Spiele
 integriert.
 
 
-[]{#Verbesserungen_im_Herz_von_KDE}
+
 
 
 ### [ Verbesserungen im Herz von KDE]
@@ -97,7 +97,7 @@ angesprochen werden können. Ausserdem werden nun die Spezifikationen von
 freedesktop.org für Meldungsfenster und Lesezeichen eingehalten.
 
 
-[]{#KDE_4.1_Beta_1_installieren}
+
 
 
 ### [ KDE 4.1 Beta installieren]

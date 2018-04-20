@@ -61,7 +61,7 @@ KDE-Schichten, somit in einer späteren Freigabe, möglich sein.
   
 
 
-[]{#Installation}  
+  
 
 ### [ Installation]
 

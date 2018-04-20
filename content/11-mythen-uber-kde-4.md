@@ -237,7 +237,7 @@ KDE 4.0 führte.
 Das derzeitige KDE-Team hat jedoch keine Pläne Kicker oder KDesktop
 wiederzubeleben.
 
-[]{#5._.22Plasma_mangelt_es_an_Funktionalit.C3.A4t.22}
+
 
 [ 5. "Plasma mangelt es an Funktionalität"]
 ---------------------------------------------------------
@@ -263,7 +263,7 @@ Standardeinstellungen und Applets in 4.0. So wie die Technologie reift
 und KDE 4.1/4.2 veröffentlicht werden, denken wir, wird diese Beschwerde
 auch überholt sein.
 
-[]{#6._.22Ich_kann_keine_Dateien_auf_meinen_Desktop_legen.22}
+
 [ 6. "Ich kann keine Dateien auf meinen Desktop legen"]
 ---------------------------------------------------------------------
 
@@ -285,7 +285,7 @@ geplant, eine Ordner-Ansicht als Desktophintergrund nutzbar zu machen.
 
 Also: Die Ordner-Ansicht ermöglicht, Dateien auf dem Desktop abzulegen.
 
-[]{#7._.22Das_gesamte_KDE_4_Desktopinterface_ist_radikal_neu.22}
+
 
 [ 7. "Die gesamte KDE-4-Desktopoberfläche ist radikal neu"]
 -------------------------------------------------------------------------
@@ -309,7 +309,7 @@ Benutzer nicht befremdet werden.
 
 [![](http://wiki.kubuntu-de.org/images/Rc1-menu-switch-dolphinpreview-preview.png)](http://wiki.kubuntu-de.org/images/Rc1-menu-switch-dolphinpreview.png)
 
-[]{#8._.22Ich_bin_gezwungen_das_Kickoff_Men.C3.BC_zu_nutzen.22}
+
 [ 8. "Ich bin gezwungen das Kickoff-Menü zu nutzen"]
 ------------------------------------------------------------------
 
@@ -337,7 +337,7 @@ Anmerkung der Übersetzer: Mit den [neuesten KDE
 4.1](../../../../nachrichten/software/kde/kde-veroeffentlicht-kde-4-1-rc-1 "http://www.kubuntu-de.org/nachrichten/software/kde/kde-veroeffentlicht-kde-4-1-rc-1") Paketen ist das Rechtsklickmenü auch unter Kubuntu vorhanden.
 
 
-[]{#9._.22Das_KDE_Team_h.C3.B6rt_nicht_auf_seine_Benutzer.22}
+
 
 [ 9. "Das KDE-Team hört nicht auf seine Benutzer"]
 ----------------------------------------------------------------
@@ -375,7 +375,7 @@ liegt dieser im Herzen von Freier Software. KDE 3.5 wäre nicht das
 stabile Produkt das es jetzt ist, hätten wir nicht immer mal wieder
 einige Stimmen ignoriert. Und KDE 4 würde niemals Realität werden.
 
-[]{#10._.22KDE4_und_4.0_ist_verwirrend.22}
+
 [ 10. "KDE 4 und 4.0 ist verwirrend"]
 ---------------------------------------------------
 
@@ -395,7 +395,7 @@ allererste Release. Es war sinnvoll, dass wir uns für das Release auf
 den technologischen Unterbau und die Architektur konzentriert haben um
 KDE 4 auf Jahre zukunftssicher zu machen.
 
-[]{#11._.22KDE_h.C3.A4tte_einfach_KDE_3.5_zu_Qt_4_portieren_und_nicht_sofort_all_diese_experimentellen_Features_hinzuf.C3.BCgen_sollen.22}
+
 [ 11. "KDE hätte einfach KDE 3.5 zu Qt 4 portieren und nicht sofort all diese experimentellen Features hinzufügen sollen"]
 ----------------------------------------------------------------------------------------------------------------------------------------
 

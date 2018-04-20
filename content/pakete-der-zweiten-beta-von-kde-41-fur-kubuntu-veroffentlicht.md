@@ -26,7 +26,7 @@ diese Veröffentlichung nicht vorgesehen!
 
 <!--break--><!--break-->
 
-[]{#Highlights_von_KDE_4.1_Beta_2}
+
 
 
 ### [ Highlights von KDE 4.1 Beta 2]
@@ -56,7 +56,7 @@ die neuen Funktionen von KDE 4.1 bietet die [Techbase von
 KDE](http://techbase.kde.org/Schedules/KDE4/4.1_Release_Goals "http://techbase.kde.org/Schedules/KDE4/4.1_Release_Goals") (Engl.).
 
 
-[]{#KDE_4.1_Beta_2_unter_Kubuntu_8.04_Hardy_Heron_installieren}
+
 
 
 ### [ KDE 4.1 Beta 2 unter Kubuntu 8.04 Hardy Heron installieren]

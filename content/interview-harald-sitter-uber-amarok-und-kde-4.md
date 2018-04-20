@@ -171,7 +171,7 @@ natürlich auch für die gute Arbeit an Kubuntu und KDE.
 FREE SOFTWARE RULEZ! :D
 
 
-[]{#Interview:_Harald_Sitter_.28apachelogger.29_speaks_about_Amarok_and_KDE_4}
+
 
 
 

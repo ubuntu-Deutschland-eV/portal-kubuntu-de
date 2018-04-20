@@ -50,7 +50,7 @@ Bildschirmfotos sind hier erhältlich:
 
 <div align="left">
 
-[]{#Neu_in_Feisty_Beta}
+
 
 </div>
 
@@ -80,7 +80,7 @@ nicht geschehen ist. Probleme können hier gemeldet werden:
 
 <div align="left">
 
-[]{#Werkzeug_zum_Aktualisieren_der_Kubuntu_Distribution}
+
 
 </div>
 
@@ -122,7 +122,7 @@ wurde, benutzt wird.
 
 <div align="left">
 
-[]{#Digikam_0.9.1}
+
 
 </div>
 
@@ -163,7 +163,7 @@ Erweiterungen enthalten:
 
 [![DigiKam
 0.9.1](http://www.seqfault.de/files/digikam.png)](https://wiki.ubuntu.com/FeistyFawn/Beta/Kubuntu?action=AttachFile&do=get&target=digikam.png)
-[]{#Themabasierte_Hilfe}
+
 
 </div>
 
@@ -216,7 +216,7 @@ Hilfe](http://www.seqfault.de/files/tbh2.png)](https://wiki.ubuntu.com/FeistyFaw
 
 <div align="left">
 
-[]{#OEM_Installer}
+
 
 </div>
 

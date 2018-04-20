@@ -40,7 +40,7 @@ einer Version mit der aktuellsten Freigabe von KDE 4.0. Hier eine
 Vertriebsmethoden von Kubuntu 8.04:
 
 
-[]{#Kubuntu}
+
 
 
 ### [Kubuntu]
@@ -54,7 +54,7 @@ Vertriebsmethoden von Kubuntu 8.04:
     .text} und natürlich als Download.
 
 
-[]{#Kubuntu_KDE_4_Remix}
+
 
 
 <h3>
@@ -88,13 +88,13 @@ das Internet aktualisieren. Mehr dazu auf der Seite "[The Upgrade
 Walkthrough](https://help.ubuntu.com/community/HardyUpgrades/Kubuntu "https://help.ubuntu.com/community/HardyUpgrades/Kubuntu")" im Ubuntu Wiki (englisch).
 
 
-[]{#Kubuntu_herunterladen}
+
 
 
 ### [ Kubuntu herunterladen]
 
 
-[]{#Deutschland}
+
 
 
 #### Europa

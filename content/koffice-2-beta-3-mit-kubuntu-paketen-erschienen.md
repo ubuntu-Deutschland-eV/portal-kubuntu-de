@@ -53,7 +53,7 @@ Außerdem sollen neue Mitstreiter gefunden werden und weitere Ideen in
 das Projekt einfließen.
 
 
-[]{#Installation}  
+  
 
 ### [ Installation]
 

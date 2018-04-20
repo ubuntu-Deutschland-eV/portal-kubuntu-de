@@ -54,7 +54,7 @@ the Mozilla Foundation or the Gnome Foundation but only for KDE. I also
 do a lot of marketing and publicity work.
 
 
-[]{#Sebastian.2C_how_did_you_come_to_the_KDE_project.3F_Did_you_say:_.22I_use_this.2C_so_I_also_want_to_develop_this_further.22.3F_What_was_the_reason_to_join_KDE.3F}
+
 
 
 ### [ Sebastian, how did you come to the KDE project? Did you say: "I use this, so I also want to develop this further"? What was the reason to join KDE?]
@@ -73,7 +73,7 @@ to Akademy in Spain, that's an annual conference and after this I was
 more integrated.
 
 
-[]{#Sebastion.2C_in_January_KDE_4.0_was_released._KDE_developers_haven_often_saidthat_it.27s_not_for_a_productive_work.2C_that_people_who_have_to_work_with_their_systems_should_continue_to_use_KDE_3.5.x._Many_people_were_disappointed._KDE_4.1_will_come_out_soon._What_do_you_think:_Will_this_version_be_usable.2C_and_what_is_new_in_KDE_4.1.3F}
+
 
 
 ### [Sebastion, in January KDE 4.0 was released. KDE developers haven often saidthat it's not for a productive work, that people who have to work with their systems should continue to use KDE 3.5.x. Many people were disappointed. KDE 4.1 will come out soon. What do you think: Will this version be usable, and what is new in KDE 4.1?]
@@ -91,7 +91,7 @@ It's the fist version for Windows, Mac and Solaris. There are lot of new
 things. Try it!
 
 
-[]{#What_are_you_looking_forward_to_the_most.3F}
+
 
 
 ### [What are you looking forward to the most?]
@@ -101,7 +101,7 @@ KMail. Currently I am still using KDE3 Kontact, because I couldn't get
 the KDE4 version to compile.
 
 
-[]{#Sebastian.2C_what.27s_the_significance_of_KDE_4.1_for_the_development_cycle_of_KDE.3F}
+
 
 
 ### [Sebastian, what's the significance of KDE 4.1 for the development cycle of KDE?]
@@ -117,7 +117,7 @@ users. 4.1 extends the circle of users, so we will get more feedback
 from the community. It's a next step on the road to world domination.
 
 
-[]{#Sebastian.2C_the_current_development_of_KDE__is_very_fast.2C_the_step_from_KDE_3_to_KDE_4_is_giant._The_whole_environment_was_designed_anew_and_filled_with_new_apps._It.27s_now_more_appealing_for_developers_to_work_with_you_now.2C_too.3F}
+
 
 
 ### [Sebastian, the current development of KDE is very fast, the step from KDE 3 to KDE 4 is giant. The whole environment was designed anew and filled with new apps. It's now more appealing for developers to work with you now, too?]
@@ -135,7 +135,7 @@ applications which are portable and integrate well into the desktop and
 and the operating system.
 
 
-[]{#You.27ve_just_mentioned:_there_were_two_people_at_the_KDE_booth_and_they_want_to_be_part_of_it._How_can_someone_start_to_participate_in_the_development.3F}
+
 
 
 ### [You've just mentioned: there were two people at the KDE booth and they want to be part of it. How can someone start to participate in the development?]
@@ -153,7 +153,7 @@ will meet new people who have new input for you. If you don't have fun
 you go do something else. It's free and easy.
 
 
-[]{#What_do_you_think.2C_are_there_also_things_to_do_for_people_without_programming_skills.3F}
+
 
 
 ### [What do you think, are there also things to do for people without programming skills?]
@@ -180,7 +180,7 @@ years.
 *End of live interview by Radio Tux*
 
 
-[]{#Where_do_you_see_potential_for_improvement.3F}
+
 
 
 ### [Where do you see potential for improvement?]
@@ -195,7 +195,7 @@ our developers and at the same time make it easier for distributors to
 distribute KDE.
 
 
-[]{#It.27s_an_official_goal_of_KDE_to_run_on_many_platforms._How_is_the_development_going_in_this_area.3F}
+
 
 
 ### [It's an official goal of KDE to run on many platforms. How is the development going in this area?]
@@ -215,7 +215,7 @@ reputation. Of course KDE can only come fully into its own on free
 platforms.
 
 
-[]{#Which_parts_of_KDE_will_be_available_on_other_platforms.3F}
+
 
 
 ### [Which parts of KDE will be available on other platforms?]

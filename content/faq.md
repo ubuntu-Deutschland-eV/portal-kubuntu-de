@@ -22,7 +22,7 @@ FAQ {#faq align="left"}
     her?](#konqueror)
 -   [Wie kann ich die Systemordner wieder sichtbar machen?](#rootordner)
 -   [Darf ich Kubuntu CDs oder Computer mit vorinstalliertem Kubuntu
-    verkaufen?](#verkauf)[]{#Darf ich Kubuntu verkaufen?}
+    verkaufen?](#verkauf)
 -   [Was bedeutet Kubuntu?](#kubuntubedeutung)
 -   [Wo kann ich Hilfe bekommen?](#hilfebekommen)
 -   [Wo kann ich ein Problem melden?](#problem)
@@ -34,7 +34,7 @@ FAQ {#faq align="left"}
 </div>
 
 
-### []{#wasistkubuntu} Was ist Kubuntu? {#was-ist-kubuntu align="left"}
+###  Was ist Kubuntu? {#was-ist-kubuntu align="left"}
 
 
 <div align="left">
@@ -48,7 +48,7 @@ entfernt) werden.
 </div>
 
 
-### []{#fork} Ist es ein Fork von Ubuntu? {#ist-es-ein-fork-von-ubuntu align="left"}
+###  Ist es ein Fork von Ubuntu? {#ist-es-ein-fork-von-ubuntu align="left"}
 
 
 <div align="left">
@@ -59,7 +59,7 @@ den selben Archiven.
 </div>
 
 
-### []{#vonubuntu} Ich habe schon Ubuntu installiert, wie kann ich Kubuntu bekommen? {#ich-habe-schon-ubuntu-installiert-wie-kann-ich-kubuntu-bekommen align="left"}
+###  Ich habe schon Ubuntu installiert, wie kann ich Kubuntu bekommen? {#ich-habe-schon-ubuntu-installiert-wie-kann-ich-kubuntu-bekommen align="left"}
 
 
 <div align="left">
@@ -91,7 +91,7 @@ installieren. 
 </div>
 
 
-### []{#shipit} Sind Kubuntu CDs bei ShipIt erhältlich? {#sind-kubuntu-cds-bei-shipit-erhältlich align="left"}
+###  Sind Kubuntu CDs bei ShipIt erhältlich? {#sind-kubuntu-cds-bei-shipit-erhältlich align="left"}
 
 
 <div align="left">
@@ -119,7 +119,7 @@ FAQ](http://www.ubuntu.com/support/faq#head-7eef2db63e0a75424cdd663ee6f7b8eedcf1
 </div>
 
 
-### []{#ipv6}Warum ist der Konqueror so langsam? {#warum-ist-der-konqueror-so-langsam align="left"}
+### Warum ist der Konqueror so langsam? {#warum-ist-der-konqueror-so-langsam align="left"}
 
 
 <div align="left">
@@ -147,7 +147,7 @@ Stück schneller machen. Hierzu einfach in der Konsole eingeben:
 </div>
 
 
-### []{#mp3s} Wie kann ich mp3s abspielen? {#wie-kann-ich-mp3s-abspielen align="left"}
+###  Wie kann ich mp3s abspielen? {#wie-kann-ich-mp3s-abspielen align="left"}
 
 
 <div align="left">
@@ -214,7 +214,7 @@ Verfügung steht.
 </div>
 
 
-### []{#root} Wie ist das root Passwort? {#wie-ist-das-root-passwort align="left"}
+###  Wie ist das root Passwort? {#wie-ist-das-root-passwort align="left"}
 
 
 <div align="left">
@@ -230,7 +230,7 @@ empfehlenswert.
 </div>
 
 
-### []{#konqueror} Wie stelle ich die normalen KDE Profile im Konqueror wieder her? {#wie-stelle-ich-die-normalen-kde-profile-im-konqueror-wieder-her align="left"}
+###  Wie stelle ich die normalen KDE Profile im Konqueror wieder her? {#wie-stelle-ich-die-normalen-kde-profile-im-konqueror-wieder-her align="left"}
 
 
 <div align="left">
@@ -280,7 +280,7 @@ Damit Konqueror tar und zip files öffnet:<em>
 </div>
 
 
-### []{#rootordner} Wie kann ich die Systemordner wieder sichtbar machen? {#wie-kann-ich-die-systemordner-wieder-sichtbar-machen align="left"}
+###  Wie kann ich die Systemordner wieder sichtbar machen? {#wie-kann-ich-die-systemordner-wieder-sichtbar-machen align="left"}
 
 
 <div align="left">
@@ -294,7 +294,7 @@ Datei leeren.  Die Order werden in Feisty nicht mehr versteckt sein. 
 </div>
 
 
-### []{#verkauf} Darf ich Kubuntu CDs oder Computer mit vorinstalliertem Kubuntu verkaufen? {#darf-ich-kubuntu-cds-oder-computer-mit-vorinstalliertem-kubuntu-verkaufen align="left"}
+###  Darf ich Kubuntu CDs oder Computer mit vorinstalliertem Kubuntu verkaufen? {#darf-ich-kubuntu-cds-oder-computer-mit-vorinstalliertem-kubuntu-verkaufen align="left"}
 
 
 <div align="left">
@@ -317,7 +317,7 @@ ist.
 </div>
 
 
-### []{#kubuntubedeutung} Was bedeutet Kubuntu? {#was-bedeutet-kubuntu align="left"}
+###  Was bedeutet Kubuntu? {#was-bedeutet-kubuntu align="left"}
 
 
 <div align="left">
@@ -333,7 +333,7 @@ Burundi gesprochen wird. Kubuntu wird "koo-**boon**-too" ausgesprochen.
 </div>
 
 
-### []{#hilfebekommen} Wo kann ich Hilfe bekommen? {#wo-kann-ich-hilfe-bekommen align="left"}
+###  Wo kann ich Hilfe bekommen? {#wo-kann-ich-hilfe-bekommen align="left"}
 
 
 <div align="left">
@@ -351,7 +351,7 @@ Seite (englisch) zu finden.
 </div>
 
 
-### []{#problem} Wo kann ich ein Problem melden? {#wo-kann-ich-ein-problem-melden align="left"}
+###  Wo kann ich ein Problem melden? {#wo-kann-ich-ein-problem-melden align="left"}
 
 
 <div align="left">
@@ -366,7 +366,7 @@ Lanchpad [Malone](http://launchpad.net/malone "Malone") melden.
 </div>
 
 
-### []{#hilfe} Wie kann ich helfen? {#wie-kann-ich-helfen align="left"}
+###  Wie kann ich helfen? {#wie-kann-ich-helfen align="left"}
 
 
 <div align="left">

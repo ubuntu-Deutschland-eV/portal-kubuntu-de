@@ -29,7 +29,7 @@ Ankündigung](http://www.kde.org/announcements/announce-4.0.3.php "http://www.kd
 
 <!--break--><!--break-->
 
-[]{#Installation}
+
 
 
 ### [ Installation]
@@ -52,7 +52,7 @@ KDE 3 betrieben werden.
     werden.
 
 
-[]{#So_geht_es_weiter_mit_KDE_4}
+
 
 
 ### [ So geht es weiter mit KDE 4]

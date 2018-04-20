@@ -29,7 +29,7 @@ Bereich des Grundsystems, sondern auch in der Softwareausstattung von
 Kubuntu. Die Änderungen auf einen Blick:
 
 
-[]{#Programm-Aktualisierungen}  
+  
 
 ### [ Programm-Aktualisierungen]
 
@@ -70,7 +70,7 @@ Standard-Installation. Bei einem Upgrade bleibt Grub in der alten
 Version erhalten.
 
 
-[]{#KDE_4.3}  
+  
 
 ### [ KDE 4.3]
 
@@ -84,7 +84,7 @@ als bisher. So wurde Plasma und KWin weiter verbessert, zahlreiche Bugs
 behoben und weitere neue Funktionen und Programme eingeführt.
 
 
-[]{#Kubuntu_Netbook_Edition}  
+  
 
 ### [ Kubuntu Netbook Edition]
 
@@ -108,7 +108,7 @@ Fertiggestellt sein soll die Netbook-Variante von KDE mit dem Erscheinen
 von KDE 4.4 im Januar und wird Teil von Kubuntu Lucid Lynx (10.04).
 
 
-[]{#Geselligkeit_frei_Haus_.E2.80.93_Social_Media_Clients}  
+  
 
 ### [ Geselligkeit frei Haus – Social Media Clients]
 
@@ -151,7 +151,7 @@ Foto-Seiten von Gwenview und Digikam.
 Social Plasma Widget** verbindet Sie mit der Open-Source-Community.
 
 
-[]{#.C3.9Cberarbeiteter_Installer}  
+  
 
 ### [ Überarbeiteter Installer]
 
@@ -167,7 +167,7 @@ Geschwindigkeit, mit der der Benutzer von einem Reiter zum nächsten
 springt, gibt es noch Optimierungsbedarf.
 
 
-[]{#Sonstiges}  
+  
 
 ### [ Sonstiges]
 
@@ -183,7 +183,7 @@ Wiki](http://wiki.kubuntu-de.org/Kubuntu_benutzen/Tipps_und_Tricks/Ayatana_Benac
 eine kleine Einführung.
 
 
-[]{#Bekannte_Fehler}  
+  
 
 [ Bekannte Fehler]
 --------------------------------
@@ -207,7 +207,7 @@ entdeckt wurden. Fehler können wie immer im
 gemeldet werden.
 
 
-[]{#Diskussion_im_Forum}  
+  
 
 [ Diskussion im Forum]
 ------------------------------------
@@ -218,7 +218,7 @@ Diese Nachricht kann selbstverständlich im
 diskutiert werden.
 
 
-[]{#Quellen}  
+  
 
 [ Quellen]
 ------------------------

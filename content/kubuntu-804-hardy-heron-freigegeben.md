@@ -413,7 +413,7 @@ installiert werden. Es enthält führende Programme wie Kexi, dem
 Datenbankmanager und Krita, dem Bildeditor.
 
 
-[]{#PIM_Anwendungen}
+
 
 </td>
 
@@ -452,7 +452,7 @@ aus den Komponenten KMail, Kalendar, Adressverwaltung, Notizen und
 weiteren nützlichen Bestandteilen.
 
 
-[]{#.C3.9Cbersetzungen}
+
 
 </td>
 
@@ -496,7 +496,7 @@ weiteren nützlichen Bestandteilen.
     
     
 -   Wegen des späten Beginns der Dokumentationsübersetzung, werden diese
-    zu den allerersten Updates gehören. []{#Server}
+    zu den allerersten Updates gehören. 
 
 
 
@@ -574,7 +574,7 @@ Unter der Haube
 -   Qt 3.3.8 oder Qt 4.3.4
 
 
-[]{#Herunterladen}
+
 
 </td>
 
@@ -608,7 +608,7 @@ herunterzuladen. Die (*.torrent*)-Dateien sind innerhalb der
 finden. Herzlichen Dank!
 
 
-[]{#CDs}
+
 
 
 ### [CDs]

@@ -39,7 +39,7 @@ Workaround welcher im obigen Link beschrieben ist.
 produktiven Einsatz gedacht!**
 
 
-[]{#Veranstaltungshinweise}  
+  
 
 ### [ Veranstaltungshinweise]
 

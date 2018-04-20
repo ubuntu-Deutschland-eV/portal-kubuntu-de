@@ -20,14 +20,14 @@ herausgeben zu können. Wir hoffen Sie genießen Ihr Kubuntu 7.04 System.
 
 <!--break--><!--break-->
 
-[]{#Neu_in_Feisty_Fawn}
+
 
 
 [ Neu in Feisty Fawn]
 -----------------------------------
 
 
-[]{#KDE_3.5.6}
+
 
 
 ### [ KDE 3.5.6]
@@ -41,7 +41,7 @@ Vorlagenverwaltung und neue übersichtliche Menüpunkte machen es bei
 Kontakt einfacher mit Terminen und Aufgaben zu arbeiten.
 
 
-[]{#digikam_0.9.1}
+
 
 
 ### [ digikam 0.9.1]
@@ -60,7 +60,7 @@ Erweiterungen enthalten:
 -   Überall mehr Benutzerfreundlichkeit und vieles mehr.
 
 
-[]{#Guidance}
+
 
 
 ### [ Guidance]
@@ -72,7 +72,7 @@ gedrosselt werden soll, während der Laptop im Batteriebetrieb läuft.
 Dadurch wird die Laufzeit des Akkus erhöht.
 
 
-[]{#.C3.84nderungen_in_Adept}
+
 
 
 ### [ Änderungen in Adept]
@@ -92,7 +92,7 @@ wahrscheinlich größte und am meisten gewünschte Änderung, ist die
 standardmäßige Aktivierung der Repositories Universe und Multiverse.
 
 
-[]{#Installation_von_Flash_in_Konqueror}
+
 
 
 ### [ Installation von Flash in Konqueror]
@@ -103,7 +103,7 @@ läuft nun in ähnlicher Weise ab wie dies schon in anderen Webbrowsern
 geschieht.
 
 
-[]{#Unterst.C3.BCtzung_f.C3.BCr_mehr_Laptop_Kn.C3.B6pfe}
+
 
 
 ### [ Unterstützung für mehr Laptop Knöpfe]
@@ -120,7 +120,7 @@ Falls nur ein Benutzer im System eingeloggt ist, wird der Benutzer
 darüber befragt, welche Aktion durchgeführt werden soll.
 
 
-[]{#Basket_1.0}
+
 
 
 ### [ Basket 1.0]
@@ -137,7 +137,7 @@ HINWEIS: Basket ist standardmäßig nicht installiert. Man kann es über
 Adept, Synaptic oder die Kommandozeile installieren.
 
 
-[]{#Weitere_Neuerungen}
+
 
 
 ### [ Weitere Neuerungen]
@@ -149,7 +149,7 @@ Adept, Synaptic oder die Kommandozeile installieren.
 -   KOffice 1.6.2
 
 
-[]{#Download}
+
 
 
 [ Download]

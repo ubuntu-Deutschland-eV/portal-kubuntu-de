@@ -25,7 +25,7 @@ oder einfach mit Interesse.
 
 <!--break--><!--break-->
 
-[]{#KDE_4.2_Special_von_der_deutschsprachigen_Kubuntu_Community}  
+  
 
 ### [ KDE 4.2 Special von der deutschsprachigen Kubuntu Community]
 
@@ -111,7 +111,7 @@ Wir hoffen damit einen vielseitigen Blick auf das K Desktop Environment
 4 werfen und damit Neugier wecken zu können.
 
 
-[]{#Angebote_von_kubuntu-de.org}  
+  
 
 ### [ Angebote von kubuntu-de.org]
 

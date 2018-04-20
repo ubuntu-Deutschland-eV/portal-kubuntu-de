@@ -40,7 +40,7 @@ Ankündigung](http://www.kde.org/announcements/announce-4.0.2.php "http://www.kd
 [Changelog](http://www.kde.org/announcements/changelogs/changelog4_0_1to4_0_2.php "http://www.kde.org/announcements/changelogs/changelog4_0_1to4_0_2.php").
 
 
-[]{#Installation}
+
 
 
 ### [ Installation]

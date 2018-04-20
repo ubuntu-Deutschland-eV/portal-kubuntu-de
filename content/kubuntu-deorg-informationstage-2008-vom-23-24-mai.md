@@ -43,7 +43,7 @@ auf der [Wikiseite der Kubuntu-de.org
 Informationstage](http://wiki.kubuntu-de.org/Team:Informationstage "http://wiki.kubuntu-de.org/Team:Informationstage").
 
 
-[]{#Pressemitteilungen.2F_Nachrichten_f.C3.BCr_andere_Websites}
+
 
 
 

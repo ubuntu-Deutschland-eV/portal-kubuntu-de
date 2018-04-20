@@ -45,7 +45,7 @@ geben mit den Entwicklern auf Augenhöhe zu sein, um nützliche
 Rückmeldungen](http://bugs.kde.org/ "http://bugs.kde.org") erstellen zu können.
 
 
-[]{#Installation}
+
 
 
 ### [[](http://wiki.kubuntu-de.org/index.php?title=Team:Redaktion/Nachrichten/KOffice_2_Beta_7_mit_Kubuntu-Paketen_ver%C3%B6ffentlicht&action=edit&section=3 "Abschnitt bearbeiten: Installation")]{.editsection}[Installation]

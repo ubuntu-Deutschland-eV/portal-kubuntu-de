@@ -24,7 +24,7 @@ Für den LinuxTag haben wir noch
 [Freitickets](http://forum.kubuntu-de.org/index.php?topic=13793.msg95610#msg95610 "http://forum.kubuntu-de.org/index.php?topic=13793.msg95610#msg95610")!
 
 
-[]{#ausgew.C3.A4hlte_Programmpunkte}  
+  
 
 ### [ ausgewählte Programmpunkte]
 

@@ -13,7 +13,7 @@ einer bestehenden Installation möglich. In unserem Wiki findet sich
 hierzu eine kurze Anleitung.
 
 
-[]{#Release-Event}  
+  
 
 ### [ Release-Event]
 
@@ -42,7 +42,7 @@ Für den Dowload von ISO-Dateien kann in diesem Falll besonders die
 Nutzung von Bittorrent empfohlen werden.
 
 
-[]{#.C3.84nderungen_und_Neuerungen}  
+  
 
 ### [ Änderungen und Neuerungen]
 
@@ -109,7 +109,7 @@ wurde. Kubuntu-de.org wird hierzu in Kürze eine eigene Newsmeldung
 herausgeben.
 
 
-[]{#Weiterf.C3.BChrende_Informationen}  
+  
 
 ### [ Weiterführende Informationen]
 
