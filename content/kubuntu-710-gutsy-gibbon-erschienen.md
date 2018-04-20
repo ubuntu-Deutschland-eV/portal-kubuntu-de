@@ -337,7 +337,7 @@ teilnehmen.
 #### OpenOffice.org
 
 
-[![OpenOffice.org](https://wiki.ubuntu.com/GutsyGibbon/Beta/Kubuntu?action=AttachFile&do=get&target=smooo1.png)]{}
+[![OpenOffice.org](https://wiki.ubuntu.com/GutsyGibbon/Beta/Kubuntu?action=AttachFile&do=get&target=smooo1.png)]
 
 
 Als Standard Office-Paket wird auch in Kubuntu das beliebte

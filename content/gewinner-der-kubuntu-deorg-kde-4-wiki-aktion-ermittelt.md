@@ -13,7 +13,7 @@ sind.
 
 <div style="float: left">
 
-[[![](http://wiki.kubuntu-de.org/images/thumb/Kwalletmanager.png/50px-Kwalletmanager.png)](/Bild:Kwalletmanager.png "Kwalletmanager.png")]{}
+[[![](http://wiki.kubuntu-de.org/images/thumb/Kwalletmanager.png/50px-Kwalletmanager.png)](/Bild:Kwalletmanager.png "Kwalletmanager.png")]
 
 </div>
 
@@ -44,7 +44,7 @@ Hauptgewinn ─ das KDE-T-Shirt ─ freuen!
 
 <div style="float: left">
 
-[[![](http://wiki.kubuntu-de.org/images/thumb/Dolphin_Symbol.png/50px-Dolphin_Symbol.png)](/Bild:Dolphin_Symbol.png "Dolphin Symbol.png")]{}
+[[![](http://wiki.kubuntu-de.org/images/thumb/Dolphin_Symbol.png/50px-Dolphin_Symbol.png)](/Bild:Dolphin_Symbol.png "Dolphin Symbol.png")]
 
 </div>
 
@@ -72,7 +72,7 @@ Platz wird mit einer KDE-Tasse ausgezeichnet.
 
 <div style="float: left">
 
-[[![](http://wiki.kubuntu-de.org/images/thumb/Amarok-Symbol.png/50px-Amarok-Symbol.png)](/Bild:Amarok-Symbol.png "Amarok-Symbol.png")]{}
+[[![](http://wiki.kubuntu-de.org/images/thumb/Amarok-Symbol.png/50px-Amarok-Symbol.png)](/Bild:Amarok-Symbol.png "Amarok-Symbol.png")]
 
 </div>
 

@@ -111,7 +111,7 @@ that is based on [Debian](http://www.debian.org) Sid. Other boots showed
 [Fedora](http://chemnitzer.linux-tage.de/2008/live/detail.html?idx=133),
 [OpenOffice.org](http://chemnitzer.linux-tage.de/2008/live/detail.html?idx=54),
 [fli4l](http://chemnitzer.linux-tage.de/2008/live/detail.html?idx=149),
-[Eisfair](http://chemnitzer.linux-tage.de/2008/live/detail.html?idx=149)[,]{}[RadioTux](http://chemnitzer.linux-tage.de/2008/live/detail.html?idx=124),
+[Eisfair](http://chemnitzer.linux-tage.de/2008/live/detail.html?idx=149)[,][RadioTux](http://chemnitzer.linux-tage.de/2008/live/detail.html?idx=124),
 [Symlink](http://chemnitzer.linux-tage.de/2008/live/detail.html?idx=130),
 the [CCC (Chaos Computer Club)
 Sachsen](http://chemnitzer.linux-tage.de/2008/live/detail.html?idx=126),

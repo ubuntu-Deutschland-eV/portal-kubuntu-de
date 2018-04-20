@@ -51,7 +51,7 @@ Vorherige Versionen von Kubuntu 8.04:
 
 
 
-Neues in Alpha 5{}
+Neues in Alpha 5
 ---------------------
 
 
@@ -74,7 +74,7 @@ ins Launchpad, falls nicht schon einer existiert.
 
 
 
-KDE 3.5.9{}
+KDE 3.5.9
 --------------
 
 
@@ -87,7 +87,7 @@ Kontact-Suite enthalten.
 
 
 
-KDE 4.0.1{}
+KDE 4.0.1
 --------------
 
 
@@ -101,7 +101,7 @@ somit steht die neueste Version bereit.
 
 
 
-Wubi windows installer{}
+Wubi windows installer
 ---------------------------
 
 
@@ -117,7 +117,7 @@ Windows gibt es nun eine Option, einen Reboot zur Live-CD durchzuführen.
 
 
 
-Drucker Systemeinstellungen{}
+Drucker Systemeinstellungen
 --------------------------------
 
 
@@ -128,7 +128,7 @@ Einrichtungsdialog für Drucker.
 
 
 
-KOffice 2 Alpha 6{}
+KOffice 2 Alpha 6
 ----------------------
 
 
@@ -140,7 +140,7 @@ verfügbar.
 
 
 
-Feedback{}
+Feedback
 -------------
 
 
@@ -159,7 +159,7 @@ Ankündigung](https://wiki.kubuntu.org/HardyHeron/Alpha5/Kubuntu "kubuntu:HardyH
 
 
 
-So geht es weiter{}
+So geht es weiter
 ======================
 
 

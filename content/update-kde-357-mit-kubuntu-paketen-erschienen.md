@@ -189,7 +189,7 @@ ab sobald man rechtsklickt; sehr viele Bugfixes
 
 
 <li>
-[KMail[]{}]
+[KMail[]]
 
 </li>
 

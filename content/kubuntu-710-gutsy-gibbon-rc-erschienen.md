@@ -290,7 +290,7 @@ Info: <http://www.openoffice.org>
 KMenu -&gt; Büroprogramme
 
 
-[![OpenOffice.org](https://wiki.ubuntu.com/GutsyGibbon/Beta/Kubuntu?action=AttachFile&do=get&target=smooo1.png)]{}
+[![OpenOffice.org](https://wiki.ubuntu.com/GutsyGibbon/Beta/Kubuntu?action=AttachFile&do=get&target=smooo1.png)]
 
 
 Kubuntu 7.10 bringt OpenOffice.org 2.3 mit, die aktuelle Freigabe der
