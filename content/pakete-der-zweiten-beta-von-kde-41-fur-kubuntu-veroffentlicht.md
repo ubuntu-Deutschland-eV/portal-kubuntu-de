@@ -29,7 +29,7 @@ diese Veröffentlichung nicht vorgesehen!
 []{#Highlights_von_KDE_4.1_Beta_2}
 
 
-### [ Highlights von KDE 4.1 Beta 2]{.mw-headline}
+### [ Highlights von KDE 4.1 Beta 2]
 
 
 Seit nunmehr einem Monat widmen sich die Entwickler von KDE nur noch der
@@ -59,7 +59,7 @@ KDE](http://techbase.kde.org/Schedules/KDE4/4.1_Release_Goals "http://techbase.k
 []{#KDE_4.1_Beta_2_unter_Kubuntu_8.04_Hardy_Heron_installieren}
 
 
-### [ KDE 4.1 Beta 2 unter Kubuntu 8.04 Hardy Heron installieren]{.mw-headline}
+### [ KDE 4.1 Beta 2 unter Kubuntu 8.04 Hardy Heron installieren]
 
 
 Pakete für Kubuntu Hardy Heron sind verfügbar über das persönliche

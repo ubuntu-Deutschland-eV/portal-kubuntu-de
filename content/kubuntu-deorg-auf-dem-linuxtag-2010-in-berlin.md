@@ -26,7 +26,7 @@ Für den LinuxTag haben wir noch
 
 []{#ausgew.C3.A4hlte_Programmpunkte}  
 
-### [ ausgewählte Programmpunkte]{.mw-headline}
+### [ ausgewählte Programmpunkte]
 
 
 Die aus Kubuntu-Sicht wichtigstens Programm-Punkte im und um den

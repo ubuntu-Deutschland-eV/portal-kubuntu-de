@@ -39,7 +39,7 @@ angepasst.**
 Besuchen sie die [Downloadseite](http://www.kubuntu-de.org/download) um
 Kubuntu 8.04 herunterzuladen.
 
-[ Kubuntu 8.04 Highlights]{.mw-headline}
+[ Kubuntu 8.04 Highlights]
 ========================================
 
 Hier lesen sie, was es neues gibt in Kubuntu 8.04.
@@ -217,7 +217,7 @@ Möglichkeit zwischen vier möglichen Einstellungen:
 
 </table>
 
-[Multimedia]{.mw-headline}
+[Multimedia]
 --------------------------
 
 
@@ -260,7 +260,7 @@ ermöglichen.
 
 </table>
 
-[Ünterstützung für Dateisysteme]{.mw-headline}
+[Ünterstützung für Dateisysteme]
 ----------------------------------------------
 
 
@@ -303,7 +303,7 @@ zu lesen und zu schreiben.
 
 
 
-[Automatische Druckerinstallation]{.mw-headline}
+[Automatische Druckerinstallation]
 ------------------------------------------------
 
 
@@ -342,7 +342,7 @@ und Konfiguration des Druckers bereit.
 
 </table>
 
-[Wubi]{.mw-headline}
+[Wubi]
 --------------------
 
 
@@ -384,7 +384,7 @@ Partitionen des PC oder einen anderen Bootloader.
 
 </table>
 
-[Office Anwendungen]{.mw-headline}
+[Office Anwendungen]
 ----------------------------------
 
 
@@ -426,7 +426,7 @@ Datenbankmanager und Krita, dem Bildeditor.
 
 </table>
 
-[PIM Anwendungen]{.mw-headline}
+[PIM Anwendungen]
 -------------------------------
 
 
@@ -465,7 +465,7 @@ weiteren nützlichen Bestandteilen.
 
 </table>
 
-[Übersetzungen]{.mw-headline}
+[Übersetzungen]
 -----------------------------
 
 
@@ -511,7 +511,7 @@ weiteren nützlichen Bestandteilen.
 
 </table>
 
-[Server]{.mw-headline}
+[Server]
 ----------------------
 
 
@@ -587,7 +587,7 @@ Unter der Haube
 
 </table>
 
-[Herunterladen]{.mw-headline}
+[Herunterladen]
 -----------------------------
 
 
@@ -611,7 +611,7 @@ finden. Herzlichen Dank!
 []{#CDs}
 
 
-### [CDs]{.mw-headline}
+### [CDs]
 
 
 Kubuntu ist in zwei verschiedenen Versionen als CD-Abbild zum

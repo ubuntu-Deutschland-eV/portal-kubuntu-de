@@ -22,7 +22,7 @@ mit dem Text ["11 Myths About KDE
 auch im deutschsprachigen Raum einige Missverständnisse über KDE 4
 auszuräumen.
 
-[ 11 Mythen über KDE 4]{.mw-headline} {#mythen-über-kde-4}
+[ 11 Mythen über KDE 4] {#mythen-über-kde-4}
 =====================================
 
 von Sebastian Kügler, KDE e.V. (aus dem Englischen übersetzt von
@@ -41,7 +41,7 @@ ergriffen. Wir hoffen aufrichtig, dass er etwas erhellt, weshalb die
 KDE-Community getan hat, was sie glaubte tun zu müssen, und wir hoffen
 es zeigt, dass wir die Kritik ernst nehmen.
 
-[ 1. "KDE4 ist fertig"]{.mw-headline}
+[ 1. "KDE4 ist fertig"]
 -------------------------------------
 
 Tatsächlich ist KDE 4.0 erst der Anfang. KDE 4.0 zeigt die Anfänge für
@@ -62,7 +62,7 @@ neuen Grundbausteinen zu verdanken ist.
 
 KDE 4.0 ist der Start, nicht die Ziellinie.
 
-[ 2. "Die Veröffentlichung von KDE 4.0 war ein Fehler"]{.mw-headline}
+[ 2. "Die Veröffentlichung von KDE 4.0 war ein Fehler"]
 ---------------------------------------------------------------------
 
 Viele der offiziellen Veröffentlichungsmittteilungen auf kde.org
@@ -239,7 +239,7 @@ wiederzubeleben.
 
 []{#5._.22Plasma_mangelt_es_an_Funktionalit.C3.A4t.22}
 
-[ 5. "Plasma mangelt es an Funktionalität"]{.mw-headline}
+[ 5. "Plasma mangelt es an Funktionalität"]
 ---------------------------------------------------------
 
 Plasma ist eine von Grund auf neue Entwicklung. Das war nötig, da der
@@ -264,7 +264,7 @@ und KDE 4.1/4.2 veröffentlicht werden, denken wir, wird diese Beschwerde
 auch überholt sein.
 
 []{#6._.22Ich_kann_keine_Dateien_auf_meinen_Desktop_legen.22}
-[ 6. "Ich kann keine Dateien auf meinen Desktop legen"]{.mw-headline}
+[ 6. "Ich kann keine Dateien auf meinen Desktop legen"]
 ---------------------------------------------------------------------
 
 Die Ordner-Ansicht (das "Folderview Plasmoid", das in KDE 4.1
@@ -287,7 +287,7 @@ Also: Die Ordner-Ansicht ermöglicht, Dateien auf dem Desktop abzulegen.
 
 []{#7._.22Das_gesamte_KDE_4_Desktopinterface_ist_radikal_neu.22}
 
-[ 7. "Die gesamte KDE-4-Desktopoberfläche ist radikal neu"]{.mw-headline}
+[ 7. "Die gesamte KDE-4-Desktopoberfläche ist radikal neu"]
 -------------------------------------------------------------------------
 
 Während die unterliegenden Technologien viele neue Möglichkeiten bieten
@@ -310,7 +310,7 @@ Benutzer nicht befremdet werden.
 [![](http://wiki.kubuntu-de.org/images/Rc1-menu-switch-dolphinpreview-preview.png)](http://wiki.kubuntu-de.org/images/Rc1-menu-switch-dolphinpreview.png)
 
 []{#8._.22Ich_bin_gezwungen_das_Kickoff_Men.C3.BC_zu_nutzen.22}
-[ 8. "Ich bin gezwungen das Kickoff-Menü zu nutzen"]{.mw-headline}
+[ 8. "Ich bin gezwungen das Kickoff-Menü zu nutzen"]
 ------------------------------------------------------------------
 
 KDE 4.0.4 und KDE 4.1 bieten beide die Möglichkeit einfach vom
@@ -339,7 +339,7 @@ Anmerkung der Übersetzer: Mit den [neuesten KDE
 
 []{#9._.22Das_KDE_Team_h.C3.B6rt_nicht_auf_seine_Benutzer.22}
 
-[ 9. "Das KDE-Team hört nicht auf seine Benutzer"]{.mw-headline}
+[ 9. "Das KDE-Team hört nicht auf seine Benutzer"]
 ----------------------------------------------------------------
 
 KDE, als Freie-Software-Projekt, ist offener gegenüber seinen Benutzern,
@@ -376,7 +376,7 @@ stabile Produkt das es jetzt ist, hätten wir nicht immer mal wieder
 einige Stimmen ignoriert. Und KDE 4 würde niemals Realität werden.
 
 []{#10._.22KDE4_und_4.0_ist_verwirrend.22}
-[ 10. "KDE 4 und 4.0 ist verwirrend"]{.mw-headline}
+[ 10. "KDE 4 und 4.0 ist verwirrend"]
 ---------------------------------------------------
 
 Mit "KDE 4" wird der komplette Lebenszyklus von Technologien wie Phonon,
@@ -396,7 +396,7 @@ den technologischen Unterbau und die Architektur konzentriert haben um
 KDE 4 auf Jahre zukunftssicher zu machen.
 
 []{#11._.22KDE_h.C3.A4tte_einfach_KDE_3.5_zu_Qt_4_portieren_und_nicht_sofort_all_diese_experimentellen_Features_hinzuf.C3.BCgen_sollen.22}
-[ 11. "KDE hätte einfach KDE 3.5 zu Qt 4 portieren und nicht sofort all diese experimentellen Features hinzufügen sollen"]{.mw-headline}
+[ 11. "KDE hätte einfach KDE 3.5 zu Qt 4 portieren und nicht sofort all diese experimentellen Features hinzufügen sollen"]
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 Das ist keine dumme Idee und wurde ernsthaft überlegt. Das Problem damit

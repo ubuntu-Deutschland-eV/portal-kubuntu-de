@@ -29,7 +29,7 @@ bei der Fehlersuche helfen wollen, gedacht.**
 
 <!--break--><!--break-->
 
-[ Kubuntu 8.04 Versionen]{.mw-headline}
+[ Kubuntu 8.04 Versionen]
 ---------------------------------------
 
 
@@ -43,7 +43,7 @@ Vertriebsmethoden von Kubuntu 8.04:
 []{#Kubuntu}
 
 
-### [Kubuntu]{.mw-headline}
+### [Kubuntu]
 
 
 -   Stabiles KDE 3.
@@ -79,7 +79,7 @@ Vertriebsmethoden von Kubuntu 8.04:
 
 <!--break--><!--break-->
 
-[ Von 7.10 aktualisieren oder die CD herunterladen]{.mw-headline}
+[ Von 7.10 aktualisieren oder die CD herunterladen]
 -----------------------------------------------------------------
 
 
@@ -91,7 +91,7 @@ Walkthrough](https://help.ubuntu.com/community/HardyUpgrades/Kubuntu "https://he
 []{#Kubuntu_herunterladen}
 
 
-### [ Kubuntu herunterladen]{.mw-headline}
+### [ Kubuntu herunterladen]
 
 
 []{#Deutschland}
@@ -370,7 +370,7 @@ in der /etc/X11/xorg.conf nicht startet.
 [![](https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=sm_displayconfig_res.png)](https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=displayconfig_res.png)
 
 
-### [ Energieverwaltung]{.mw-headline}
+### [ Energieverwaltung]
 
 
 In Kubuntu 8.04 RC ist ein neues Feature für die Energieverwaltung (in

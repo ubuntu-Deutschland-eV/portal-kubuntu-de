@@ -38,7 +38,7 @@ Produktivsystemen ist diese Veröffentlichung nicht vorgesehen!
 []{#Neues_in_KDE_4.1_Beta}
 
 
-### [ Neues in KDE 4.1 Beta]{.mw-headline}
+### [ Neues in KDE 4.1 Beta]
 
 
 Das wichtigste zuerst: Plasma die Arbeitsoberfläche von KDE 4 ist
@@ -81,7 +81,7 @@ integriert.
 []{#Verbesserungen_im_Herz_von_KDE}
 
 
-### [ Verbesserungen im Herz von KDE]{.mw-headline}
+### [ Verbesserungen im Herz von KDE]
 
 
 Natürlich sind auch die KDE-Kernbibliotheken und die Infrastruktur von
@@ -100,7 +100,7 @@ freedesktop.org für Meldungsfenster und Lesezeichen eingehalten.
 []{#KDE_4.1_Beta_1_installieren}
 
 
-### [ KDE 4.1 Beta installieren]{.mw-headline}
+### [ KDE 4.1 Beta installieren]
 
 
 Pakete für Kubuntu Hardy Heron sind verfügbar über das persönliche

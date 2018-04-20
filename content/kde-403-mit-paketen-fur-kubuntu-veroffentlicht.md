@@ -32,7 +32,7 @@ Ankündigung](http://www.kde.org/announcements/announce-4.0.3.php "http://www.kd
 []{#Installation}
 
 
-### [ Installation]{.mw-headline}
+### [ Installation]
 
 
 Kubuntu stellt für Gutsy und für Hardy [bereits Pakete zur
@@ -55,7 +55,7 @@ KDE 3 betrieben werden.
 []{#So_geht_es_weiter_mit_KDE_4}
 
 
-### [ So geht es weiter mit KDE 4]{.mw-headline}
+### [ So geht es weiter mit KDE 4]
 
 
 Wie schon

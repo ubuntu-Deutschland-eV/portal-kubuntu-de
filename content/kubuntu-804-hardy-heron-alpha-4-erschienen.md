@@ -48,7 +48,7 @@ Vorherige Versionen von Kubuntu 8.04:
 []{#Altes_aus_Alpha_2_und_3}
 
 
-[ Altes aus Alpha 2 und 3]{.mw-headline}
+[ Altes aus Alpha 2 und 3]
 ----------------------------------------
 
 
@@ -70,7 +70,7 @@ finale Freigabe von KDE 4.0 Einzug.
 []{#Neues_in_Alpha_4}
 
 
-[ Neues in Alpha 4]{.mw-headline}
+[ Neues in Alpha 4]
 ---------------------------------
 
 
@@ -93,7 +93,7 @@ Fehlerbericht ins Launchpad, falls nicht schon einer existiert.
 []{#Design}
 
 
-[ Design]{.mw-headline}
+[ Design]
 -----------------------
 
 
@@ -109,7 +109,7 @@ Vlad Gerasimov von
 []{#Integration_von_KDE_4}
 
 
-[ Integration von KDE 4]{.mw-headline}
+[ Integration von KDE 4]
 --------------------------------------
 
 
@@ -125,7 +125,7 @@ KDE 4 Sitzung.
 []{#Drucker-Konfiguration}
 
 
-[ Drucker-Konfiguration]{.mw-headline}
+[ Drucker-Konfiguration]
 --------------------------------------
 
 
@@ -143,7 +143,7 @@ entsprechende Benachrichtiung wird ebenfalls sichtbar.
 []{#Desktop_Effekte}
 
 
-[ Desktop Effekte]{.mw-headline}
+[ Desktop Effekte]
 --------------------------------
 
 
@@ -166,7 +166,7 @@ ausgeführt werden.
 []{#Flash}
 
 
-[ Flash]{.mw-headline}
+[ Flash]
 ----------------------
 
 
@@ -178,7 +178,7 @@ Kubuntu endlich wieder richtig zusammenarbeiten.
 []{#Qt}
 
 
-[ Qt]{.mw-headline}
+[ Qt]
 -------------------
 
 
@@ -196,7 +196,7 @@ GPLv3 veröffentlicht wurde.
 []{#Feedback}
 
 
-[ Feedback]{.mw-headline}
+[ Feedback]
 -------------------------
 
 
@@ -217,7 +217,7 @@ Redaktion ist).
 []{#So_geht_es_weiter}
 
 
-[ So geht es weiter]{.mw-headline}
+[ So geht es weiter]
 ==================================
 
 

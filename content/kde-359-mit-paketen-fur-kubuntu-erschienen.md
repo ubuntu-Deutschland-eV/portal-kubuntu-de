@@ -24,7 +24,7 @@ geschafft haben, kann dem offiziellen (englischen)
 
 <!--break--><!--break-->
 
-[ Installation der Pakete]{.mw-headline}
+[ Installation der Pakete]
 ----------------------------------------
 
 

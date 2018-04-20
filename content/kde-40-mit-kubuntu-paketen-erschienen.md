@@ -7,7 +7,7 @@ Slug: kde-40-mit-kubuntu-paketen-erschienen
 [![Bild:KDE.png](http://wiki.kubuntu-de.org/images/Kde.png)](http://wiki.kubuntu-de.org/images/Kde.png "Bild:KDE4-Plasma.png")
 
 
-[Eine Vision wird Wirklichkeit]{.mw-headline}
+[Eine Vision wird Wirklichkeit]
 =============================================
 
 
@@ -48,7 +48,7 @@ zu finden. )*
 []{#F.C3.BCr_ganz_Eilige:_Installation_von_KDE_4.0_unter_Gutsy_Gibbon}
 
 
-[Für ganz Eilige: Installation von KDE 4.0 unter Gutsy Gibbon]{.mw-headline}
+[Für ganz Eilige: Installation von KDE 4.0 unter Gutsy Gibbon]
 ----------------------------------------------------------------------------
 
 
@@ -87,7 +87,7 @@ Anleitung:
 []{#Das_Wichtigste_im_.C3.9Cberblick}
 
 
-[ Das Wichtigste im Überblick]{.mw-headline}
+[ Das Wichtigste im Überblick]
 --------------------------------------------
 
 
@@ -132,7 +132,7 @@ nach das volle Potenzial von KDE 4 freilegen.
 []{#Grundlegendes}
 
 
-[ Grundlegendes]{.mw-headline}
+[ Grundlegendes]
 ------------------------------
 
 
@@ -142,7 +142,7 @@ nach das volle Potenzial von KDE 4 freilegen.
 ### 
 
 
-### [ Plattformunabhängigkeit]{.mw-headline}
+### [ Plattformunabhängigkeit]
 
 
 Bei der Entwicklung von KDE4 wurde ebenfalls großer Wert auf die
@@ -163,7 +163,7 @@ Plasma bereits auf dem Neo1973 Smartphone kompiliert und gestartet.
 ### 
 
 
-### [ Qt 4]{.mw-headline}
+### [ Qt 4]
 
 
 Das [Qt-Toolkit](http://trolltech.com/products/qt/homepage) der Firma
@@ -184,7 +184,7 @@ dienen.
 []{#Phonon}
 
 
-### [ Phonon]{.mw-headline}
+### [ Phonon]
 
 
 [Phonon](http://phonon.kde.org/) ist entgegen einiger Befürchtungen kein
@@ -229,7 +229,7 @@ Versionen werden wird.
 []{#Solid}
 
 
-### [ Solid]{.mw-headline}
+### [ Solid]
 
 
 [Solid](http://solid.kde.org/) ist wie Phonon ein Framework und
@@ -249,7 +249,7 @@ Energieverwaltung und Bluetooth.
 ###  
 
 
-### [ Strigi]{.mw-headline}
+### [ Strigi]
 
 
 Strigi ist die schon aus Gutsy Gibbon bekannte kleine, sehr schnelle,
@@ -264,7 +264,7 @@ das System nicht so stark wie andere Desktop-Suchmaschinen.
 []{#Nepomuk-KDE}
 
 
-### [ Nepomuk-KDE]{.mw-headline}
+### [ Nepomuk-KDE]
 
 
 [Nepomuk](http://nepomuk-kde.semanticdesktop.org/xwiki/bin/view/Main/WebHome)
@@ -290,14 +290,14 @@ sehen, beinhaltet. Nepomuk ist bereits in Dolphin integriert.
 []{#Die_Sichtbarsten_Ver.C3.A4nderungen_gegen.C3.BCber_KDE_3.5.x}
 
 
-[ Die Sichtbarsten Veränderungen gegenüber KDE 3.5.x]{.mw-headline}
+[ Die Sichtbarsten Veränderungen gegenüber KDE 3.5.x]
 -------------------------------------------------------------------
 
 
 []{#Plasma}
 
 
-### [ Plasma]{.mw-headline}
+### [ Plasma]
 
 
 Die sicherlich auffälligste Veränderung an KDE4 ist
@@ -338,7 +338,7 @@ konfigurierbar.
 []{#Systemeinstellungen}
 
 
-### [ Systemeinstellungen]{.mw-headline}
+### [ Systemeinstellungen]
 
 
 Lange war KControl für die Konfiguration von KDE zuständig. Für viele
@@ -361,7 +361,7 @@ zu konfigurieren.
 []{#Dolphin}
 
 
-### [Dolphin]{.mw-headline}
+### [Dolphin]
 
 
 Der Dateimanager Dolphin wurde für KDE4 komplett neugeschrieben. Neben
@@ -382,7 +382,7 @@ Dateimanager zu nutzen.
 []{#Oxygen}
 
 
-### [Oxygen]{.mw-headline}
+### [Oxygen]
 
 
 Das neue Gesicht von KDE trägt den Namen
@@ -400,7 +400,7 @@ das Gesamtbild ab.
 []{#KWin}
 
 
-### [ KWin]{.mw-headline}
+### [ KWin]
 
 
 Seit der Einführung von AIGLX ist der XServer in der Lage grafische
@@ -416,7 +416,7 @@ nach Belieben an und abschalten.
 []{#KRunner}
 
 
-### [ KRunner]{.mw-headline}
+### [ KRunner]
 
 
 Während man früher mit dem Menüpunkt "Befehl ausführen" nur Befehle
@@ -440,7 +440,7 @@ angeboten.
 []{#Ausblick_auf_KDE_4.x}
 
 
-[ Ausblick auf KDE 4.x]{.mw-headline}
+[ Ausblick auf KDE 4.x]
 -------------------------------------
 
 

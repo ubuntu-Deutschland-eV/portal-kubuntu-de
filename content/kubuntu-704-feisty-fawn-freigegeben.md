@@ -23,14 +23,14 @@ herausgeben zu können. Wir hoffen Sie genießen Ihr Kubuntu 7.04 System.
 []{#Neu_in_Feisty_Fawn}
 
 
-[ Neu in Feisty Fawn]{.mw-headline}
+[ Neu in Feisty Fawn]
 -----------------------------------
 
 
 []{#KDE_3.5.6}
 
 
-### [ KDE 3.5.6]{.mw-headline}
+### [ KDE 3.5.6]
 
 
 KDE 3.5.6. diese Version bringt eine Vielzahl von Fehlerkorrekturen für
@@ -44,7 +44,7 @@ Kontakt einfacher mit Terminen und Aufgaben zu arbeiten.
 []{#digikam_0.9.1}
 
 
-### [ digikam 0.9.1]{.mw-headline}
+### [ digikam 0.9.1]
 
 
 Die neueste Version von Digikam enthält einige wichtige Verbesserungen
@@ -63,7 +63,7 @@ Erweiterungen enthalten:
 []{#Guidance}
 
 
-### [ Guidance]{.mw-headline}
+### [ Guidance]
 
 
 Guidance, das System für die Energieverwaltung in Kubuntu, ist erneuert
@@ -75,7 +75,7 @@ Dadurch wird die Laufzeit des Akkus erhöht.
 []{#.C3.84nderungen_in_Adept}
 
 
-### [ Änderungen in Adept]{.mw-headline}
+### [ Änderungen in Adept]
 
 
 Bei Kubuntu 7.04 wird es zum ersten Mal möglich sein, problemlos auf die
@@ -95,7 +95,7 @@ standardmäßige Aktivierung der Repositories Universe und Multiverse.
 []{#Installation_von_Flash_in_Konqueror}
 
 
-### [ Installation von Flash in Konqueror]{.mw-headline}
+### [ Installation von Flash in Konqueror]
 
 
 Die Installation von Flash 9 ist im Konqueror vereinfacht worden und
@@ -106,7 +106,7 @@ geschieht.
 []{#Unterst.C3.BCtzung_f.C3.BCr_mehr_Laptop_Kn.C3.B6pfe}
 
 
-### [ Unterstützung für mehr Laptop Knöpfe]{.mw-headline}
+### [ Unterstützung für mehr Laptop Knöpfe]
 
 
 Mehr Unterstützung für laptopspezifische Tasten soll Benutzern eine
@@ -123,7 +123,7 @@ darüber befragt, welche Aktion durchgeführt werden soll.
 []{#Basket_1.0}
 
 
-### [ Basket 1.0]{.mw-headline}
+### [ Basket 1.0]
 
 
 Basket 1.0, das KDE Notizprogramm für alle Fälle, ist mit seiner
@@ -140,7 +140,7 @@ Adept, Synaptic oder die Kommandozeile installieren.
 []{#Weitere_Neuerungen}
 
 
-### [ Weitere Neuerungen]{.mw-headline}
+### [ Weitere Neuerungen]
 
 
 -   Linux Kernel 2.6.20-14
@@ -152,7 +152,7 @@ Adept, Synaptic oder die Kommandozeile installieren.
 []{#Download}
 
 
-[ Download]{.mw-headline}
+[ Download]
 -------------------------
 
 

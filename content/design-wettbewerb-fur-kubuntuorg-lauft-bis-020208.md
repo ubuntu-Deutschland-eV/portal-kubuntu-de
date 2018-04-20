@@ -37,7 +37,7 @@ Das Grundlayout als svg-Datei kann man
 []{#Eckdaten}
 
 
-[ Eckdaten]{.mw-headline}
+[ Eckdaten]
 -------------------------
 
 
@@ -59,7 +59,7 @@ Das Grundlayout als svg-Datei kann man
 []{#Einreichen}
 
 
-[ Einreichen]{.mw-headline}
+[ Einreichen]
 ---------------------------
 
 

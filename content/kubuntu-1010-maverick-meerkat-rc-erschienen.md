@@ -41,7 +41,7 @@ produktiven Einsatz gedacht!**
 
 []{#Veranstaltungshinweise}  
 
-### [ Veranstaltungshinweise]{.mw-headline}
+### [ Veranstaltungshinweise]
 
 
 Im deutschsprachigen Raum ist uns bislang eine [Release

@@ -43,7 +43,7 @@ free music.
 The interview was rearranged for better readability.
 
 
-### [ Hello Sebastian, please tell us something about you to present you to the audience]{.mw-headline}
+### [ Hello Sebastian, please tell us something about you to present you to the audience]
 
 
 Hello, I'm Sebastian Kügler, I work on KDE and at the moment in
@@ -57,7 +57,7 @@ do a lot of marketing and publicity work.
 []{#Sebastian.2C_how_did_you_come_to_the_KDE_project.3F_Did_you_say:_.22I_use_this.2C_so_I_also_want_to_develop_this_further.22.3F_What_was_the_reason_to_join_KDE.3F}
 
 
-### [ Sebastian, how did you come to the KDE project? Did you say: "I use this, so I also want to develop this further"? What was the reason to join KDE?]{.mw-headline}
+### [ Sebastian, how did you come to the KDE project? Did you say: "I use this, so I also want to develop this further"? What was the reason to join KDE?]
 
 
 It was 4 or 5 years ago, I had been using KDE for a while. I wanted to
@@ -76,7 +76,7 @@ more integrated.
 []{#Sebastion.2C_in_January_KDE_4.0_was_released._KDE_developers_haven_often_saidthat_it.27s_not_for_a_productive_work.2C_that_people_who_have_to_work_with_their_systems_should_continue_to_use_KDE_3.5.x._Many_people_were_disappointed._KDE_4.1_will_come_out_soon._What_do_you_think:_Will_this_version_be_usable.2C_and_what_is_new_in_KDE_4.1.3F}
 
 
-### [Sebastion, in January KDE 4.0 was released. KDE developers haven often saidthat it's not for a productive work, that people who have to work with their systems should continue to use KDE 3.5.x. Many people were disappointed. KDE 4.1 will come out soon. What do you think: Will this version be usable, and what is new in KDE 4.1?]{.mw-headline}
+### [Sebastion, in January KDE 4.0 was released. KDE developers haven often saidthat it's not for a productive work, that people who have to work with their systems should continue to use KDE 3.5.x. Many people were disappointed. KDE 4.1 will come out soon. What do you think: Will this version be usable, and what is new in KDE 4.1?]
 
 
 KDE 4.1 will be a release for the end user. Most importantly, the
@@ -94,7 +94,7 @@ things. Try it!
 []{#What_are_you_looking_forward_to_the_most.3F}
 
 
-### [What are you looking forward to the most?]{.mw-headline}
+### [What are you looking forward to the most?]
 
 
 KMail. Currently I am still using KDE3 Kontact, because I couldn't get
@@ -104,7 +104,7 @@ the KDE4 version to compile.
 []{#Sebastian.2C_what.27s_the_significance_of_KDE_4.1_for_the_development_cycle_of_KDE.3F}
 
 
-### [Sebastian, what's the significance of KDE 4.1 for the development cycle of KDE?]{.mw-headline}
+### [Sebastian, what's the significance of KDE 4.1 for the development cycle of KDE?]
 
 
 KDE 4.0 is more of a platform release. We have new technologies, the
@@ -120,7 +120,7 @@ from the community. It's a next step on the road to world domination.
 []{#Sebastian.2C_the_current_development_of_KDE__is_very_fast.2C_the_step_from_KDE_3_to_KDE_4_is_giant._The_whole_environment_was_designed_anew_and_filled_with_new_apps._It.27s_now_more_appealing_for_developers_to_work_with_you_now.2C_too.3F}
 
 
-### [Sebastian, the current development of KDE is very fast, the step from KDE 3 to KDE 4 is giant. The whole environment was designed anew and filled with new apps. It's now more appealing for developers to work with you now, too?]{.mw-headline}
+### [Sebastian, the current development of KDE is very fast, the step from KDE 3 to KDE 4 is giant. The whole environment was designed anew and filled with new apps. It's now more appealing for developers to work with you now, too?]
 
 
 I think so. In Plasma we use a very easy API also for webdevelopers,
@@ -138,7 +138,7 @@ and the operating system.
 []{#You.27ve_just_mentioned:_there_were_two_people_at_the_KDE_booth_and_they_want_to_be_part_of_it._How_can_someone_start_to_participate_in_the_development.3F}
 
 
-### [You've just mentioned: there were two people at the KDE booth and they want to be part of it. How can someone start to participate in the development?]{.mw-headline}
+### [You've just mentioned: there were two people at the KDE booth and they want to be part of it. How can someone start to participate in the development?]
 
 
 The easiest way to get in is to look at techbase.kde.org. There is an
@@ -156,7 +156,7 @@ you go do something else. It's free and easy.
 []{#What_do_you_think.2C_are_there_also_things_to_do_for_people_without_programming_skills.3F}
 
 
-### [What do you think, are there also things to do for people without programming skills?]{.mw-headline}
+### [What do you think, are there also things to do for people without programming skills?]
 
 
 Sure. To expand a little: I believe that free software has only a chance
@@ -183,7 +183,7 @@ years.
 []{#Where_do_you_see_potential_for_improvement.3F}
 
 
-### [Where do you see potential for improvement?]{.mw-headline}
+### [Where do you see potential for improvement?]
 
 
 Everywhere, I am very critical, because I know a lot in detail. On the
@@ -198,7 +198,7 @@ distribute KDE.
 []{#It.27s_an_official_goal_of_KDE_to_run_on_many_platforms._How_is_the_development_going_in_this_area.3F}
 
 
-### [It's an official goal of KDE to run on many platforms. How is the development going in this area?]{.mw-headline}
+### [It's an official goal of KDE to run on many platforms. How is the development going in this area?]
 
 
 I am following the OpenSolaris development, there it's almost possible
@@ -218,7 +218,7 @@ platforms.
 []{#Which_parts_of_KDE_will_be_available_on_other_platforms.3F}
 
 
-### [Which parts of KDE will be available on other platforms?]{.mw-headline}
+### [Which parts of KDE will be available on other platforms?]
 
 
 Generally said, everything on OpenSolaris, for Windows and Mac but not
@@ -226,7 +226,7 @@ the desktop - that already exists. But I wouldn't completely rule out
 that a "lunatic" will port the desktop itself, too.
 
 
-### [What do you hope for by porting KDE or parts of KDE for Windows, too?]{.mw-headline}
+### [What do you hope for by porting KDE or parts of KDE for Windows, too?]
 
 
 I am personally not interested in this very much. I am interested in the
@@ -245,7 +245,7 @@ new members into the community, and happily so.
 And it makes it easy to show the people what we have to offer.
 
 
-### [What swayed you to move to a fixed release cycle?]{.mw-headline}
+### [What swayed you to move to a fixed release cycle?]
 
 
 I think we have become too big to wait for everything to finish. This
@@ -254,7 +254,7 @@ to offer KDE. This yields advantages to us. However, on the long run I
 want to see more flexible release cycles.
 
 
-### [A lot of the big distributions use GNOME as their standard desktops. How are the chances that this will change with KDE 4?]{.mw-headline}
+### [A lot of the big distributions use GNOME as their standard desktops. How are the chances that this will change with KDE 4?]
 
 
 54.32% ;-) . At the end of the day, it's not up to us to decide this,
@@ -267,7 +267,7 @@ more in common than separates us, especially regarding fundamental
 things like ethics and community.
 
 
-### [Maybe it's a bit early, but are there already plans for the 4.2 release?]{.mw-headline}
+### [Maybe it's a bit early, but are there already plans for the 4.2 release?]
 
 
 Yes, it will come out in January 2009, 6 months after 4.1. I hope that
@@ -278,7 +278,7 @@ a lot of new cool things in Plasma, KWin, better integration of web
 content, and hopefully focus-follows-mind ;-) .
 
 
-### [Nokia has taken over Trolltech a couple of weeks ago. Will this be an advantage or a disadvantage for KDE?]{.mw-headline}
+### [Nokia has taken over Trolltech a couple of weeks ago. Will this be an advantage or a disadvantage for KDE?]
 
 
 It shows that KDE is interesting for the desktop as well as for
@@ -291,7 +291,7 @@ to learn to be a good citizen of the KDE ecosystem.
 I see this development very positively.
 
 
-### [Com]{.editsection}[plete this sentence: KDE means for me ...]{.mw-headline}
+### [Com]{.editsection}[plete this sentence: KDE means for me ...]
 
 
 joy, freedom, fun.

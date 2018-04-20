@@ -31,7 +31,7 @@ Kubuntu. Die Änderungen auf einen Blick:
 
 []{#Programm-Aktualisierungen}  
 
-### [ Programm-Aktualisierungen]{.mw-headline}
+### [ Programm-Aktualisierungen]
 
 
 [![OpenOffice mit KDE-Integration in Kubuntu
@@ -72,7 +72,7 @@ Version erhalten.
 
 []{#KDE_4.3}  
 
-### [ KDE 4.3]{.mw-headline}
+### [ KDE 4.3]
 
 
 [![Kubuntu Karmic's jungfräulicher
@@ -86,7 +86,7 @@ behoben und weitere neue Funktionen und Programme eingeführt.
 
 []{#Kubuntu_Netbook_Edition}  
 
-### [ Kubuntu Netbook Edition]{.mw-headline}
+### [ Kubuntu Netbook Edition]
 
 
 [![Desktop der noch experimentellen Kubuntu Netbook
@@ -110,7 +110,7 @@ von KDE 4.4 im Januar und wird Teil von Kubuntu Lucid Lynx (10.04).
 
 []{#Geselligkeit_frei_Haus_.E2.80.93_Social_Media_Clients}  
 
-### [ Geselligkeit frei Haus – Social Media Clients]{.mw-headline}
+### [ Geselligkeit frei Haus – Social Media Clients]
 
 
 Mit dieser Version soll die Integration in soziale Netzwerke deutlich
@@ -153,7 +153,7 @@ Social Plasma Widget** verbindet Sie mit der Open-Source-Community.
 
 []{#.C3.9Cberarbeiteter_Installer}  
 
-### [ Überarbeiteter Installer]{.mw-headline}
+### [ Überarbeiteter Installer]
 
 
 [![Kubuntus aufpoliertes
@@ -169,7 +169,7 @@ springt, gibt es noch Optimierungsbedarf.
 
 []{#Sonstiges}  
 
-### [ Sonstiges]{.mw-headline}
+### [ Sonstiges]
 
 
 Bei Kubuntu 9.04 hatten die Entwickler sich erstmals deutlich um
@@ -185,7 +185,7 @@ eine kleine Einführung.
 
 []{#Bekannte_Fehler}  
 
-[ Bekannte Fehler]{.mw-headline}
+[ Bekannte Fehler]
 --------------------------------
 
 
@@ -209,7 +209,7 @@ gemeldet werden.
 
 []{#Diskussion_im_Forum}  
 
-[ Diskussion im Forum]{.mw-headline}
+[ Diskussion im Forum]
 ------------------------------------
 
 
@@ -220,7 +220,7 @@ diskutiert werden.
 
 []{#Quellen}  
 
-[ Quellen]{.mw-headline}
+[ Quellen]
 ------------------------
 
 

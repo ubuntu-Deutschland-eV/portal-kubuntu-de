@@ -5,7 +5,7 @@ Slug: kubuntu-1010-maverick-meerkat-erschienen
 
 [](http://www.kubuntu-de.org/nachrichten/kubuntu/2039-kubuntu-10-10-%E2%80%9Emaverick-meerkat%E2%80%9D-erschienen){.FlattrButton}[]{#Einleitung}  
 
-[ Einleitung]{.mw-headline}
+[ Einleitung]
 ---------------------------
 
 
@@ -19,16 +19,14 @@ unserer populären Linuxdistribution basiert auf Ubuntu mit KDE SC 4.5.
 
 <div class="thumbinner" style="width:402px;">
 
-[![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10.10-desktop.png/400px-Kubuntu-10.10-desktop.png){.thumbimage
-width="400"
-height="225"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-desktop.png "Kubuntu-10.10-desktop.png")  
+[![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10.10-desktop.png/400px-Kubuntu-10.10-desktop.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-desktop.png "Kubuntu-10.10-desktop.png")  
 
 <div class="thumbcaption">
 
 
 <div class="magnify">
 
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-desktop.png "vergrößern"){.internal}
+[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-desktop.png "vergrößern")
 
 </div>
 
@@ -64,7 +62,7 @@ all das zur Verfügung, was ein Desktop braucht.
 
 []{#Download_und_Aktualisierung}  
 
-[ Download und Aktualisierung]{.mw-headline}
+[ Download und Aktualisierung]
 --------------------------------------------
 
 
@@ -82,13 +80,13 @@ Aktualisierungen werden von Kubuntu 10.04 LTS unterstützt. Weitere
 
 []{#Was_ist_neu.3F}  
 
-[ Was ist neu?]{.mw-headline}
+[ Was ist neu?]
 -----------------------------
 
 
 []{#KDE_SC_4.5.1}  
 
-### [ KDE SC 4.5.1]{.mw-headline}
+### [ KDE SC 4.5.1]
 
 
 [KDE SC
@@ -121,13 +119,13 @@ verbessert und es sind einige aktualisierte Übersetzungen enthalten.
 
 []{#Ver.C3.A4nderungen}  
 
-[ Veränderungen]{.mw-headline}
+[ Veränderungen]
 ------------------------------
 
 
 []{#Kombiniertes_Desktop.2FNetbook_ISO_Image}  
 
-### [ Kombiniertes Desktop/Netbook ISO Image]{.mw-headline}
+### [ Kombiniertes Desktop/Netbook ISO Image]
 
 
 Für Kubuntu 10.10 hat Kubuntu das Desktop und Netbook Image
@@ -139,7 +137,7 @@ noch in den Systemeinstellungen geändert werden.
 
 []{#Ubiquity_Installer}  
 
-### [ Ubiquity Installer]{.mw-headline}
+### [ Ubiquity Installer]
 
 
 Der Installer wurde geringfügig überarbeitet. Beim Start bietet Ubiquity
@@ -164,16 +162,14 @@ ausgeführt wurde, wodurch er schneller zur Verfügung steht.
 
 <div class="thumbinner" style="width:202px;">
 
-[![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10-10-Ubiquity1.png/200px-Kubuntu-10-10-Ubiquity1.png){.thumbimage
-width="200"
-height="162"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity1.png "Kubuntu-10-10-Ubiquity1.png")  
+[![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10-10-Ubiquity1.png/200px-Kubuntu-10-10-Ubiquity1.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity1.png "Kubuntu-10-10-Ubiquity1.png")  
 
 <div class="thumbcaption">
 
 
 <div class="magnify">
 
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity1.png "vergrößern"){.internal}
+[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity1.png "vergrößern")
 
 </div>
 
@@ -198,16 +194,14 @@ height="162"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity1.p
 
 <div class="thumbinner" style="width:202px;">
 
-[![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10-10-Ubiquity2.png/200px-Kubuntu-10-10-Ubiquity2.png){.thumbimage
-width="200"
-height="162"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity2.png "Kubuntu-10-10-Ubiquity2.png")  
+[![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10-10-Ubiquity2.png/200px-Kubuntu-10-10-Ubiquity2.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity2.png "Kubuntu-10-10-Ubiquity2.png")  
 
 <div class="thumbcaption">
 
 
 <div class="magnify">
 
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity2.png "vergrößern"){.internal}
+[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity2.png "vergrößern")
 
 </div>
 
@@ -232,16 +226,14 @@ height="162"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity2.p
 
 <div class="thumbinner" style="width:202px;">
 
-[![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10.10-Ubiquity3.png/200px-Kubuntu-10.10-Ubiquity3.png){.thumbimage
-width="200"
-height="162"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-Ubiquity3.png "Kubuntu-10.10-Ubiquity3.png")  
+[![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10.10-Ubiquity3.png/200px-Kubuntu-10.10-Ubiquity3.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-Ubiquity3.png "Kubuntu-10.10-Ubiquity3.png")  
 
 <div class="thumbcaption">
 
 
 <div class="magnify">
 
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-Ubiquity3.png "vergrößern"){.internal}
+[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-Ubiquity3.png "vergrößern")
 
 </div>
 
@@ -263,7 +255,7 @@ height="162"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-Ubiquity3.p
 
 []{#Verbessertes_KPackageKit}  
 
-### [ Verbessertes KPackageKit]{.mw-headline}
+### [ Verbessertes KPackageKit]
 
 
 KPackageKit für Kubuntu hat nun eine aktualisierte Nutzeroberfläche,
@@ -283,16 +275,14 @@ zahlreichen Veränderungen.
 
 <div class="thumbinner" style="width:202px;">
 
-[![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10.10-kpackagekit2.png/200px-Kubuntu-10.10-kpackagekit2.png){.thumbimage
-width="200"
-height="143"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit2.png "Kubuntu-10.10-kpackagekit2.png")  
+[![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10.10-kpackagekit2.png/200px-Kubuntu-10.10-kpackagekit2.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit2.png "Kubuntu-10.10-kpackagekit2.png")  
 
 <div class="thumbcaption">
 
 
 <div class="magnify">
 
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit2.png "vergrößern"){.internal}
+[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit2.png "vergrößern")
 
 </div>
 
@@ -317,16 +307,14 @@ height="143"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit
 
 <div class="thumbinner" style="width:202px;">
 
-[![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10.10-kpackagekit3.png/200px-Kubuntu-10.10-kpackagekit3.png){.thumbimage
-width="200"
-height="143"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit3.png "Kubuntu-10.10-kpackagekit3.png")  
+[![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10.10-kpackagekit3.png/200px-Kubuntu-10.10-kpackagekit3.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit3.png "Kubuntu-10.10-kpackagekit3.png")  
 
 <div class="thumbcaption">
 
 
 <div class="magnify">
 
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit3.png "vergrößern"){.internal}
+[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit3.png "vergrößern")
 
 </div>
 
@@ -348,7 +336,7 @@ height="143"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit
 
 []{#Rekonq_als_Standardbrowser}  
 
-### [ Rekonq als Standardbrowser]{.mw-headline}
+### [ Rekonq als Standardbrowser]
 
 
 In Kubuntu 10.10 löst der auf WebKit basierende Rekonq nun den Konqueror
@@ -361,7 +349,7 @@ Firefox Installer sind weiterhin für die Nutzer verfügbar.
 
 []{#Neue_Ubuntu_Schriftart}  
 
-### [ Neue Ubuntu Schriftart]{.mw-headline}
+### [ Neue Ubuntu Schriftart]
 
 
 Neue Standardschriftart ist nun die hauseigene und im Zuge des
@@ -372,7 +360,7 @@ Ubuntu](http://www.markshuttleworth.com/archives/537 "http://www.markshuttlewort
 
 []{#Globales_Men.C3.BC_f.C3.BCr_Plasma_Netbook}  
 
-### [ Globales Menü für Plasma Netbook]{.mw-headline}
+### [ Globales Menü für Plasma Netbook]
 
 
 Die Netbook-Variante hat nun standardmäßig ein Globales Menü, über das
@@ -389,16 +377,14 @@ Veröffentlichungen.
 
 <div class="thumbinner" style="width:202px;">
 
-[![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10.10-netbook.png/200px-Kubuntu-10.10-netbook.png){.thumbimage
-width="200"
-height="117"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-netbook.png "Kubuntu-10.10-netbook.png")  
+[![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10.10-netbook.png/200px-Kubuntu-10.10-netbook.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-netbook.png "Kubuntu-10.10-netbook.png")  
 
 <div class="thumbcaption">
 
 
 <div class="magnify">
 
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-netbook.png "vergrößern"){.internal}
+[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-netbook.png "vergrößern")
 
 </div>
 
@@ -420,7 +406,7 @@ height="117"}](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-netbook.png
 
 []{#QApt_Batch}  
 
-### [ QApt Batch]{.mw-headline}
+### [ QApt Batch]
 
 
 QApt Batch ersetzt install-package als Aktualisierungs- bzw.
@@ -431,7 +417,7 @@ Verbesserungen in der Anwenderfreundlichkeit.
 
 []{#Message_Indicator}  
 
-### [ Message Indicator]{.mw-headline}
+### [ Message Indicator]
 
 
 Das Message Indicator Widget von Kubuntu wurde überarbeitet und hat
@@ -442,7 +428,7 @@ Meldung stammt.
 
 []{#BlueDevil}  
 
-### [ BlueDevil]{.mw-headline}
+### [ BlueDevil]
 
 
 [BlueDevil](http://www.afiestas.org/bluedevil-the-new-kde-bluetooth-stack-is-here/ "http://www.afiestas.org/bluedevil-the-new-kde-bluetooth-stack-is-here/")
@@ -452,7 +438,7 @@ und andere Bluetoothanwendungen wesentlich verlässlicher.
 
 []{#PulseAudio}  
 
-### [ PulseAudio]{.mw-headline}
+### [ PulseAudio]
 
 
 Kubuntu benutzt nun den
@@ -466,13 +452,13 @@ aktualisiert und haben nun eine Möglichkeit PulseAudio zu konfigurieren
 
 []{#Neue_Technologie}  
 
-[ Neue Technologie]{.mw-headline}
+[ Neue Technologie]
 ---------------------------------
 
 
 []{#Kubuntu_Mobile_Tech_Preview}  
 
-### [ Kubuntu Mobile Tech Preview]{.mw-headline}
+### [ Kubuntu Mobile Tech Preview]
 
 
 Und weiter gibt es auch eine neue Art Kubuntu zu nutzen. Kubuntu Mobile
@@ -483,7 +469,7 @@ ist als Tech Preview für i386 und ARM Architekturen verfügbar.
 
 []{#Bekannte_Probleme}  
 
-[ Bekannte Probleme]{.mw-headline}
+[ Bekannte Probleme]
 ----------------------------------
 
 
@@ -517,7 +503,7 @@ ist als Tech Preview für i386 und ARM Architekturen verfügbar.
 
 []{#Feedback}  
 
-[ Feedback]{.mw-headline}
+[ Feedback]
 -------------------------
 
 

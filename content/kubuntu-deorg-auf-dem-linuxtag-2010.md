@@ -15,16 +15,14 @@ hatten, waren wir erneut präsent.
 
 <div class="thumbinner" style="width:302px;">
 
-[![](http://wiki.kubuntu-de.org/images/thumb/Linuxtag.jpeg/300px-Linuxtag.jpeg){.thumbimage
-width="300"
-height="225"}](http://wiki.kubuntu-de.org/Datei:Linuxtag.jpeg "Gruppenfoto Linuxtag")  
+[![](http://wiki.kubuntu-de.org/images/thumb/Linuxtag.jpeg/300px-Linuxtag.jpeg)](http://wiki.kubuntu-de.org/Datei:Linuxtag.jpeg "Gruppenfoto Linuxtag")  
 
 <div class="thumbcaption">
 
 
 <div class="magnify">
 
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](/Datei:Linuxtag.jpeg "vergrößern"){.internal}
+[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](/Datei:Linuxtag.jpeg "vergrößern")
 
 </div>
 

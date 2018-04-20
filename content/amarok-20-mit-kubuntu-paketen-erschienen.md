@@ -63,7 +63,7 @@ KDE-Schichten, somit in einer späteren Freigabe, möglich sein.
 
 []{#Installation}  
 
-### [ Installation]{.mw-headline}
+### [ Installation]
 
 
 **Hinweis:** Wer bereits eine Vorversion von Amarok 2 installiert hat,

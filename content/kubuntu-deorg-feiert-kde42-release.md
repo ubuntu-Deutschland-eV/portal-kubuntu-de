@@ -27,7 +27,7 @@ oder einfach mit Interesse.
 
 []{#KDE_4.2_Special_von_der_deutschsprachigen_Kubuntu_Community}  
 
-### [ KDE 4.2 Special von der deutschsprachigen Kubuntu Community]{.mw-headline}
+### [ KDE 4.2 Special von der deutschsprachigen Kubuntu Community]
 
 
 Kubuntu-de.org plant zur Veröffentlichung von KDE 4.2 einen News-Special
@@ -113,7 +113,7 @@ Wir hoffen damit einen vielseitigen Blick auf das K Desktop Environment
 
 []{#Angebote_von_kubuntu-de.org}  
 
-### [ Angebote von kubuntu-de.org]{.mw-headline}
+### [ Angebote von kubuntu-de.org]
 
 
 Eine Diskussionsteilnahme zu KDE 4.2 ist erwünscht, wie zum Beispiel im

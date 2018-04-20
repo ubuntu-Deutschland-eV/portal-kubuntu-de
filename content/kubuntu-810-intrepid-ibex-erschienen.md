@@ -23,10 +23,10 @@ sie lohnt. Wer den Umstieg nicht scheut, findet im Kubuntu Wiki eine
 
 <!--break--><!--break-->
 
-### []{.mw-headline}
+### []
 
 
-### [KDE 4!]{.mw-headline}
+### [KDE 4!]
 
 
 Kubuntu bringt den neu entwickelten Desktop, KDE 4, in der aktuellen
@@ -65,7 +65,7 @@ verwenden.
 
 
 
-### [ Adept 3.0]{.mw-headline}
+### [ Adept 3.0]
 
 
 Ein neuer Desktop braucht eine neue Software zur Paketverwaltung. Adept
@@ -77,7 +77,7 @@ stabiler, flinker und ressourcenschonender ist.
 
 
 
-### [ Apport und Aktualisierungsbenachrichtigung]{.mw-headline}
+### [ Apport und Aktualisierungsbenachrichtigung]
 
 
 Die völlig neue Aktualisierungsbenachrichtigung von KDE dient nun als
@@ -87,7 +87,7 @@ Update neu gestartet werden muss.
 
 
 
-### [ Unterstützung von Multimediatasten für KMix]{.mw-headline}
+### [ Unterstützung von Multimediatasten für KMix]
 
 
 In Intrepid Ibex werden nun auch die Multimediatasten, die diverse
@@ -95,7 +95,7 @@ Tastaturen anbieten, von KMix unterstützt.
 
 
 
-### [ Kubuntu Integration]{.mw-headline}
+### [ Kubuntu Integration]
 
 
 Alle wichtigen Kubuntu Werkzeuge wurden besser in KDE 4 integriert oder
@@ -116,10 +116,10 @@ nach PyKDE4 portiert:
 -   Apport - der Absturzmanager ist nun standardmäßig installiert.
 
 
-### []{.mw-headline}
+### []
 
 
-### [Bekannte Probleme]{.mw-headline}
+### [Bekannte Probleme]
 
 
 Es gibt noch einige bekannte Fehler, die noch mit Kubuntu 8.10 auftreten
@@ -148,7 +148,7 @@ möglichen Workarounds dokumentiert.
 
 
 
-[ In eigener Sache]{.mw-headline}
+[ In eigener Sache]
 ---------------------------------
 
 

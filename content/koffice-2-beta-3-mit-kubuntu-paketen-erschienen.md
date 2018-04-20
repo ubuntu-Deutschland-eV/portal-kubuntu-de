@@ -55,7 +55,7 @@ das Projekt einfließen.
 
 []{#Installation}  
 
-### [ Installation]{.mw-headline}
+### [ Installation]
 
 
 KOffice Pakete sind in den nicht unterstützten Quellen von Kubuntu 8.10

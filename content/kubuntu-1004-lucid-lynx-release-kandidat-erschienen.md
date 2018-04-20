@@ -24,7 +24,7 @@ richtet.
 
 []{#Das_neue_Kubuntu-Logo:}  
 
-### [Das neue Kubuntu-Logo:]{.mw-headline}
+### [Das neue Kubuntu-Logo:]
 
 
 [![Datei:Kubuntu plymouth
@@ -35,7 +35,7 @@ splash.png](http://wiki.kubuntu-de.org/images/Kubuntu_plymouth_splash.png)](http
 
 []{#KDE_4.4.2_auf_einem_frisch_installiertem_System:}  
 
-### [KDE 4.4.2 auf einem frisch installiertem System:]{.mw-headline}
+### [KDE 4.4.2 auf einem frisch installiertem System:]
 
 
 [![Datei:Wee-desktop.png](http://wiki.kubuntu-de.org/images/Wee-desktop.png)](/Datei:Wee-desktop.png "Datei:Wee-desktop.png")
@@ -43,7 +43,7 @@ splash.png](http://wiki.kubuntu-de.org/images/Kubuntu_plymouth_splash.png)](http
 
 []{#Ein_Bild_der_Netbook-Ausgabe_von_Kubuntu:}  
 
-### [Ein Bild der Netbook-Ausgabe von Kubuntu:]{.mw-headline}
+### [Ein Bild der Netbook-Ausgabe von Kubuntu:]
 
 
 [![Datei:Wee-netbook.png](http://wiki.kubuntu-de.org/images/Wee-netbook.png)](/Datei:Wee-netbook.png "Datei:Wee-netbook.png")

@@ -32,7 +32,7 @@ Update: Das Paket kdelibs5 sollte nicht entfernt werden!
 
 <!--break--><!--break-->
 
-[ Installation der Pakete]{.mw-headline}
+[ Installation der Pakete]
 ----------------------------------------
 
 
@@ -78,7 +78,7 @@ die Version
 [KDE](http://kde.org/announcements/4.0/index-de.php "http://kde.org/announcements/4.0/index-de.php").
 
 
-[ So geht es weiter mit KDE 4]{.mw-headline}
+[ So geht es weiter mit KDE 4]
 --------------------------------------------
 
 

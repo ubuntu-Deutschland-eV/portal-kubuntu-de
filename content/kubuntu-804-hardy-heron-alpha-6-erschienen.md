@@ -54,7 +54,7 @@ Vorherige Versionen von Kubuntu 8.04:
 []{#Aktuelles_in_Alpha_6}
 
 
-[ Aktuelles in Alpha 6]{.mw-headline}
+[ Aktuelles in Alpha 6]
 =====================================
 
 
@@ -67,7 +67,7 @@ berichten sie über etwaige Probleme auf der entsprechenden
 []{#Parallele_Ver.C3.B6ffentlichungen_von_KDE_3_und_4_Versionen}
 
 
-[ Parallele Veröffentlichung einer KDE 3 und einer KDE 4 Version]{.mw-headline}
+[ Parallele Veröffentlichung einer KDE 3 und einer KDE 4 Version]
 -------------------------------------------------------------------------------
 
 
@@ -81,7 +81,7 @@ einerseits den stabilen KDE 3 Desktop mitbringt und mit [Kubuntu-KDE
 []{#KDE_4.02}
 
 
-[ KDE 4.02]{.mw-headline}
+[ KDE 4.02]
 -------------------------
 
 
@@ -97,7 +97,7 @@ für Plasma einführt, vor allem die Option die Größe des Panels zu
 []{#Bekannte_Fehler}
 
 
-[ Bekannte Fehler]{.mw-headline}
+[ Bekannte Fehler]
 ================================
 
 
