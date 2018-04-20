@@ -4,7 +4,7 @@ Author: Monika Eggers
 Tags: Kubuntu-de.org
 Slug: kubuntu-deorg-auf-den-chemnitzer-linux-tagen-2011
 
-[](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-de-org/2064-kubuntu-de-org-auf-den-chemnitzer-linux-tagen-2011){.FlattrButton}
+
 Auch in diesem Jahr wird das Kubuntu-de.org-Projekt wieder auf den
 Chemnitzer Linux-Tagen mit einem Stand vertreten sein. Die Veranstaltung
 rund um Linux und Opensource wird am 19. und 20. März auf dem Gelände

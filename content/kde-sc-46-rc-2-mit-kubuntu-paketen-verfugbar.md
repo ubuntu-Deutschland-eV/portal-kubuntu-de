@@ -5,7 +5,7 @@ Slug: kde-sc-46-rc-2-mit-kubuntu-paketen-verfugbar
 
 ![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png)
 
-[](http://www.kubuntu-de.org/nachrichten/software/kde/2051-kde-sc-4-6-rc-2-mit-kubuntu-paketen-verfuegbar){.FlattrButton}KDE
+KDE
 hat vor wenigen Tagen den nächsten Veröffentlichungskandidaten von der
 kommenden Version 4.6 der KDE Platform, Workspaces und Anwendungen
 veröffentlicht. Inzwischen stehen Pakete des [KDE SC 4.6 auch für

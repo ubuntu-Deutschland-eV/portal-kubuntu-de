@@ -4,7 +4,7 @@ Author: Monika Eggers
 Tags: Kubuntu
 Slug: kubuntu-1104-natty-narwhal-ist-erschienen
 
-[](http://www.kubuntu-de.org/nachrichten/kubuntu/2072-kubuntu-11-04-natty-narwhal-ist-erschienen){.FlattrButton}
+
 
 ![Kubuntu 11.04 Natty
 Narwhal](http://wiki.kubuntu-de.org/images/Kubuntu-natty-news-header.png)

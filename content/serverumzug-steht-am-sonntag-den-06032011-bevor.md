@@ -3,7 +3,7 @@ Date: 2011-03-05 22:54
 Tags: Kubuntu-de.org
 Slug: serverumzug-steht-am-sonntag-den-06032011-bevor
 
-[](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-de-org/2058-serverumzug-steht-am-sonntag-den-06-03-2011-bevor){.FlattrButton}Nun
+Nun
 ist es endlich so weit. Die umfangreichen Vorarbeiten sind soweit
 abgeschlossen, die Terminkalender sind verglichen und das Wetter soll
 auch mitspielen ;) . Am Sonntag werden wir auf den neuen Server umziehen

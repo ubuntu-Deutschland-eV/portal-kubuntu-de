@@ -4,7 +4,7 @@ Author: Monika Eggers
 Tags: Kubuntu-de.org
 Slug: kubuntu-deorg-facebook-fanpage-gestartet
 
-[](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-de-org/2063-kubuntu-de-org-facebook-fanpage-gestartet){.FlattrButton}
+
 Wir haben schon länger eine kdo Gruppe auf
 [Facebook](http://www.facebook.com), allerdings hat sich diese als
 unzulänglich erwiesen und wir haben uns daher entschieden eine "Fanpage"

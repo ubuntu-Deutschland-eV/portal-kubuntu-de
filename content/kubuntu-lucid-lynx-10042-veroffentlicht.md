@@ -3,7 +3,7 @@ Date: 2011-02-22 02:32
 Tags: Kubuntu
 Slug: kubuntu-lucid-lynx-10042-veroffentlicht
 
-[](http://www.kubuntu-de.org/nachrichten/kubuntu/2056-kubuntu-lucid-lynx-10-04-2-veroeffentlicht){.FlattrButton}Die
+Die
 zweite Aktualisierung der derzeitigen Ubuntu Version mit Langzeitsupport
 (LTS) wurde veröffentlicht. Das Image beinhaltet viele auch
 sicherheitsrelevante Fehlerkorrekturen. Setzt man Lucid bereits ein, so

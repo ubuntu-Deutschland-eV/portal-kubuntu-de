@@ -5,7 +5,7 @@ Slug: kubuntu-1104-natty-narwhal-beta-2-veroffentlicht
 
 ![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png)
 
-[](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-testversion/2070-kubuntu-11-04-natty-narwhal-beta-2-veroeffentlicht){.FlattrButton}  
+  
 
 <noscript><a href="http://flattr.com/thing/168671/Kubuntu-11-04-Natty-Narwhal-Beta-2-veroffentlicht" target="_blank">  
 

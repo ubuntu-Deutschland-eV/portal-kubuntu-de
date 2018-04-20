@@ -4,7 +4,7 @@ Author: Monika Eggers
 Tags: KDE
 Slug: kde-sc-454-mit-kubuntu-paketen-verfugbar
 
-[](http://www.kubuntu-de.org/nachrichten/software/kde/2044-kde-sc-4-5-4-mit-kubuntu-paketen-verfuegbar){.FlattrButton}
+
 Pakete für die monatliche KDE SC Wartungsveröffentlichung sind für
 Kubuntu 10.10 verfügbar. KDE SC 4.5.4 bringt keine neuen Funktionen und
 korrigiert folglich nur Fehler. Die wohl geläufigsten Anwendungen mit

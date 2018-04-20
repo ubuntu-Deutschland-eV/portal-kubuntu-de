@@ -3,7 +3,7 @@ Date: 2011-05-08 21:16
 Tags: KDE
 Slug: kde-sc-463-mit-kubuntu-paketen-erschienen
 
-[](http://www.kubuntu-de.org/nachrichten/software/kde/2075-kde-sc-4-6-3-mit-kubuntu-paketen-erschienen){.FlattrButton}  
+  
 
 <noscript><a href="http://flattr.com/thing/186746/KDE-SC-4-6-3-mit-Kubuntu-Paketen-erschienen" target="_blank">  
 

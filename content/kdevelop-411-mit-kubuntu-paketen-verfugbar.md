@@ -3,7 +3,7 @@ Date: 2010-12-07 23:24
 Tags: Programmierung
 Slug: kdevelop-411-mit-kubuntu-paketen-verfugbar
 
-[](http://www.kubuntu-de.org/nachrichten/software/programmierung/2045-kdevelop-4-1-1-mit-kubuntu-paketen-verfuegbar){.FlattrButton}
+
 Pakete für [KDevelop](http://www.kdevelop.org "http://www.kdevelop.org")
 4.1.1 sind ab sofort für Kubuntu 10.10 verfügbar. Diese Version behebt
 nur Fehler und bringt keine neuen Funktionen mit sich. Milian Wolf,

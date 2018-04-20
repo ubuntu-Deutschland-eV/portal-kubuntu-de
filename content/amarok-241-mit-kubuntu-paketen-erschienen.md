@@ -4,7 +4,7 @@ Author: Monika Eggers
 Tags: Amarok
 Slug: amarok-241-mit-kubuntu-paketen-erschienen
 
-[](http://wiki.kubuntu-de.org/Team:Redaktion/Nachrichten/Amarok_2.4.1_mit_Kubuntu-Paketen_erschienen){.FlattrButton}  
+  
 
 <noscript><a href="http://flattr.com/thing/274160/Amarok-2-4-1-mit-Kubuntu-Paketen-erschienen" target="_blank">  
 

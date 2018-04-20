@@ -3,7 +3,7 @@ Date: 2010-10-04 20:35
 Tags: Kubuntu Testversion
 Slug: kubuntu-1010-maverick-meerkat-rc-erschienen
 
-![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png)[](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-testversion/2036-kubuntu-10-10-maverick-meerkat-rc-erschienen){.FlattrButton}
+![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png)
 
 Der
 [Veröffentlichunskandidat](https://wiki.kubuntu.org/MaverickMeerkat/RC/Kubuntu "https://wiki.kubuntu.org/MaverickMeerkat/RC/Kubuntu")

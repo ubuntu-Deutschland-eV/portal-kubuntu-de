@@ -6,7 +6,7 @@ Slug: kde-sc-46-beta-2-mit-kubuntu-paketen-verfugbar
 
 ![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png)
 
-[](http://www.kubuntu-de.org/nachrichten/software/kde/2047-kde-sc-4-6-beta-2-mit-kubuntu-paketen-verfuegbar){.FlattrButton}Das
+Das
 [KDE Team](http://www.kde.org "http://www.kde.org") hat die zweite
 Betaversion von KDE SC 4.6 freigegeben. Gleichzeitig haben die
 Entwickler eine kleine Zwischenbilanz für die Zeit nach der ersten Beta

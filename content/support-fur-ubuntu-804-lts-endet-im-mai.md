@@ -4,7 +4,7 @@ Author: Monika Eggers
 Tags: Kubuntu
 Slug: support-fur-ubuntu-804-lts-endet-im-mai
 
-[](http://www.kubuntu-de.org/nachrichten/kubuntu/2069-support-fuer-ubuntu-8-04-lts-endet-im-mai){.FlattrButton}
+
 Gestern wurde [offiziell
 angekündigt](https://lists.ubuntu.com/archives/ubuntu-announce/2011-April/000144.html),
 dass Ubuntu 8.04 LTS ab Mai nicht mehr mit Aktualisierungen versorgt

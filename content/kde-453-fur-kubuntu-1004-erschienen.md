@@ -3,7 +3,7 @@ Date: 2010-11-24 22:02
 Tags: Kubuntu
 Slug: kde-453-fur-kubuntu-1004-erschienen
 
-[](http://www.kubuntu-de.org/nachrichten/kubuntu/2042-kde-4-5-3-fuer-kubuntu-10-04-erschienen){.FlattrButton}Für
+Für
 Kubuntu 10.04 LTS sind Pakete der KDE Software Compilation in Version
 4.5.3 verfügbar. KDE SC 4.5.3 ist das monatliche Wartungsrelease der
 momentan stabilen Version und bringt neben Fehlerkorrekturen auch einige

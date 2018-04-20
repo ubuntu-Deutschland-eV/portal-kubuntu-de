@@ -3,7 +3,7 @@ Date: 2010-10-10 12:51
 Tags: Kubuntu
 Slug: kubuntu-1010-maverick-meerkat-erschienen
 
-[](http://www.kubuntu-de.org/nachrichten/kubuntu/2039-kubuntu-10-10-%E2%80%9Emaverick-meerkat%E2%80%9D-erschienen){.FlattrButton}  
+  
 
 [ Einleitung]
 ---------------------------

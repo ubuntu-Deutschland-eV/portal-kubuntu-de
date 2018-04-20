@@ -3,7 +3,7 @@ Date: 2010-09-22 20:56
 Tags: Amarok
 Slug: amarok-232-mit-kubuntu-paketen-veroffentlicht
 
-[](http://www.kubuntu-de.org/nachrichten/software/kde/amarok/2034-amarok-2-3-2-mit-kubuntu-paketen-veroeffentlicht){.FlattrButton}  
+  
 
 Am vergangenen Montag hat das Team um
 [Amarok](http://amarok.kde.org "http://amarok.kde.org") die Version

@@ -5,7 +5,7 @@ Slug: amarok-24-beta-1-mit-kubuntu-paketen-verfugbar
 
 ![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png)
 
-[](http://www.kubuntu-de.org/nachrichten/software/kde/amarok/amarok-testversion/2046-amarok-2-4-beta-1-mit-kubuntu-paketen-verfue){.FlattrButton}
+
 [Amarok](http://amarok.kde.org "http://amarok.kde.org") 2.4 Beta 1 ist
 ab sofort für Tester als Paket für Kubuntu Maverick und die aktuelle
 Entwicklerversion 11.04 verfügbar. Alle wichtigen Informationen zu

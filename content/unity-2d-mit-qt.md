@@ -4,7 +4,7 @@ Author: Monika Eggers
 Tags: Kubuntu Testversion
 Slug: unity-2d-mit-qt
 
-[](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-testversion/2053-unity-2d-mit-qt){.FlattrButton}Mark
+Mark
 Shuttleworth hat in seinem
 [Blog](http://www.markshuttleworth.com/archives/568 "http://www.markshuttleworth.com/archives/568")
 bekanntgegeben, dass er in Zukunft auch

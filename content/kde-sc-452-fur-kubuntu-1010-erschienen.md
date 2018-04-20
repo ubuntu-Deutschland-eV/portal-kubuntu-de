@@ -3,7 +3,7 @@ Date: 2010-10-10 12:47
 Tags: KDE
 Slug: kde-sc-452-fur-kubuntu-1010-erschienen
 
-[](http://www.kubuntu-de.org/nachrichten/software/kde/2038-kde-sc-4-5-2-fuer-kubuntu-10-10-erschienen){.FlattrButton}
+
 
 Für Kubuntu 10.10 sind Pakete der KDE Software Compilation 4.5.2
 verfügbar. KDE SC 4.5.2 ist das monatliche Wartungsrelease der momentan

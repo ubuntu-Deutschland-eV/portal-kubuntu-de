@@ -4,7 +4,7 @@ Author: Monika Eggers
 Tags: KDE
 Slug: kde-sc-462-mit-kubuntu-paketen-erschienen
 
-[](http://www.kubuntu-de.org/nachrichten/software/kde/2068-kde-sc-4-6-2-mit-kubuntu-paketen-erschienen){.FlattrButton}
+
 Mit der KDE Software Compilation 4.6.2 stellen die KDE Entwickler
 bereits die zweite Veröffentlichung mit Fehlerkorrekturen des 4.6
 Zweiges zur Verfügung. Neue Funktionen werden mit dieser Version

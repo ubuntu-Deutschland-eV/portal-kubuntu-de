@@ -3,7 +3,7 @@ Date: 2010-10-10 12:32
 Tags: Software Testversionen
 Slug: qtcreator-21-beta-kdevelop-41-rc-und-koffice-23-beta-1-fur-kubuntu-verfugbar
 
-[](http://www.kubuntu-de.org/nachrichten/software/software-testversionen/2037-qtcreator-2-1-beta-kdevelop-4-1-rc-und-koffice-2-3-){.FlattrButton}  
+  
 
 ![Testversion](http://wiki.kubuntu-de.org/images/Testsoftware48x48.png)
 

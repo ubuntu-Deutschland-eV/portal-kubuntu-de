@@ -4,7 +4,7 @@ Author: Monika Eggers
 Tags: Kubuntu-de.org
 Slug: serverausfall-kubuntu-deorg
 
-[](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-de-org/2048-serverausfall-kubuntu-de-org){.FlattrButton}
+
 kubuntu-de.org war vom 19.12. ca. 21:00 Uhr bis zum 20.12. ca. 11:00 Uhr
 aufgrund eines Serverausfalls nicht zu erreichen. Momentan sind wir noch
 in der Analyse der Ereignisse die zu dem Ausfall geführt haben.

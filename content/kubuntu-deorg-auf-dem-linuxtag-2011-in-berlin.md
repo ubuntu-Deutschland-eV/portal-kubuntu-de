@@ -3,7 +3,7 @@ Date: 2011-05-05 21:12
 Tags: Sonstiges
 Slug: kubuntu-deorg-auf-dem-linuxtag-2011-in-berlin
 
-[](http://www.kubuntu-de.org/nachrichten/veranstaltungen/2074-kubuntu-de-org-auf-dem-linuxtag-2011-in-berlin){.FlattrButton}  
+  
 
 <noscript><a href="http://flattr.com/thing/184035/kubuntu-de-org-auf-dem-LinuxTag-2011-in-Berlin" target="_blank">  
 

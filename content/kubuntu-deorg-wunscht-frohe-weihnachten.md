@@ -4,7 +4,7 @@ Author: Monika Eggers
 Tags: Kubuntu-de.org
 Slug: kubuntu-deorg-wunscht-frohe-weihnachten
 
-[](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-de-org/2049-kubuntu-de-org-wuenscht-frohe-weihnachten){.FlattrButton}
+
 Das Team von Kubuntu-de.org wünscht allen Frohe Weihnachten und einen
 guten Jahreswechsel 2010/2011. Am Ende eines ereignisreichen Jahres
 bietet es sich an eine kurze Bilanz zu ziehen. Es gab eine neue LTS

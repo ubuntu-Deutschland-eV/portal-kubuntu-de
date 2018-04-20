@@ -3,7 +3,7 @@ Date: 2011-01-27 23:29
 Tags: KDE
 Slug: kde-sc-46-mit-kubuntu-paketen-erschienen
 
-[](http://www.kubuntu-de.org/nachrichten/software/kde/2054-kde-sc-4-6-mit-kubuntu-paketen-erschienen){.FlattrButton}Das
+Das
 [KDE-Team](http://www.kde.org "http://www.kde.org") hat nun die nächste
 Hauptversion 4.6 von KDE Plasma, KDE Anwendungen und KDE Plattformen
 veröffentlicht. Zeitgleich sind auch Pakete des KDE SC 4.6 für Kubuntu
