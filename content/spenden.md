@@ -12,15 +12,7 @@ Gelegentlich haben wir kleinere Ausgaben für Dinge für die Messen
 
 
 Eine Geldspende ist via
-
-
-<!-- Paypal oder --><!-- Paypal oder -->
-
 Überweisung möglich. Die Bankverbindung
-
-
-<!-- sowie der Link zu Paypal sind --><!-- sowie der Link zu Paypal sind -->
-
 ist weiter unten auf dieser Seite zu finden.
 
 
