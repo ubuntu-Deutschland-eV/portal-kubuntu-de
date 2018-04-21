@@ -37,15 +37,13 @@ Vorherige Versionen von Kubuntu 8.04:
 
 
 -   [Alpha
-    1](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-8-04-hardy-heron-alpha-1-erschienen "http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-8-04-hardy-heron-alpha-1-erschienen"){.external
-    .text}
+    1](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-8-04-hardy-heron-alpha-1-erschienen "http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-8-04-hardy-heron-alpha-1-erschienen")
 -   [Alpha 2
     (Engl.)](https://wiki.kubuntu.org/HardyHeron/Alpha2/Kubuntu "kubuntu:HardyHeron/Alpha2/Kubuntu"){.extiw}
 -   [Alpha 3
     (Engl.)](https://wiki.kubuntu.org/HardyHeron/Alpha3/Kubuntu "kubuntu:HardyHeron/Alpha3/Kubuntu"){.extiw}
 -   [Alpha
-    4](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-8-04-hardy-heron-alpha-4-erschienen "http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-8-04-hardy-heron-alpha-4-erschienen"){.external
-    .text}
+    4](http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-8-04-hardy-heron-alpha-4-erschienen "http://www.kubuntu-de.org/nachrichten/kubuntu/kubuntu-8-04-hardy-heron-alpha-4-erschienen")
 
 
 

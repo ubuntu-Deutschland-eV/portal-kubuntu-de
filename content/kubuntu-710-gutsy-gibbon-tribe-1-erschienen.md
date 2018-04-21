@@ -42,8 +42,7 @@ dokumentieren und testen.
 
 
 Tribe 1 kann unter folgender URL heruntergeladen werden:
-[http://cdimage.ubuntu.com/kubuntu/releases/gutsy](http://cdimage.ubuntu.com/kubuntu/releases/gutsy/ "http://cdimage.ubuntu.com/kubuntu/releases/gutsy/"){.external
-.free}
+[http://cdimage.ubuntu.com/kubuntu/releases/gutsy](http://cdimage.ubuntu.com/kubuntu/releases/gutsy/ "http://cdimage.ubuntu.com/kubuntu/releases/gutsy/")
 
 
  
@@ -106,8 +105,7 @@ Die neuste Kernel Version des Ubuntu Projektes ist 2.6.22-6 und
 verbessert die Unterstützung der neusten Hardware.
 
 
-[http://www.kernel.org](http://www.kernel.org/ "http://www.kernel.org"){.external
-.free}
+[http://www.kernel.org](http://www.kernel.org/ "http://www.kernel.org")
 
 
  
@@ -127,8 +125,7 @@ Features sind:
 -   und noch einiges mehr..
 
 
-[http://ktorrent.org](http://ktorrent.org/ "http://ktorrent.org"){.external
-.free}
+[http://ktorrent.org](http://ktorrent.org/ "http://ktorrent.org")
 
 
 <a href="http://ktorrent.org/" class="external free" title="http://ktorrent.org" rel="nofollow">  
@@ -160,13 +157,11 @@ Einige der Korrekturen und neuen Fähigkeiten sind:
 
 -   keine Abstürze während der Vergabe von Tags
 -   der "[light
-    table](http://digikam3rdparty.free.fr/Screenshots/lighttable_v8.png "http://digikam3rdparty.free.fr/Screenshots/lighttable_v8.png"){.external
-    .text}"
+    table](http://digikam3rdparty.free.fr/Screenshots/lighttable_v8.png "http://digikam3rdparty.free.fr/Screenshots/lighttable_v8.png")"
 -   und noch einiges mehr..
 
 
-[http://digikam.org](http://digikam.org/ "http://digikam.org"){.external
-.free}
+[http://digikam.org](http://digikam.org/ "http://digikam.org")
 
 
 [![](http://www.kubuntu-de.org/files/gutsy_tribe1/digikam1.png)](http://www.kubuntu-de.org/files/gutsy_tribe1/digikam1.png)
@@ -205,8 +200,7 @@ Veröffentlichung von Version 1.0 festgestellt wurden. u.a.:
 -   und vieles mehr...
 
 
-[http://k3b.plainblack.com](http://k3b.plainblack.com/ "http://k3b.plainblack.com"){.external
-.free}
+[http://k3b.plainblack.com](http://k3b.plainblack.com/ "http://k3b.plainblack.com")
 
 
 <a href="http://k3b.plainblack.com/" class="external free" title="http://k3b.plainblack.com" rel="nofollow">  
@@ -239,8 +233,7 @@ Standardvideoplayer in Kubuntu 7.10. Einige der Verbesserungen sind:
 -   und noch vieles mehr..
 
 
-[http://kaffeine.sourceforge.net](http://kaffeine.sourceforge.net/ "http://kaffeine.sourceforge.net"){.external
-.free}
+[http://kaffeine.sourceforge.net](http://kaffeine.sourceforge.net/ "http://kaffeine.sourceforge.net")
 
 
 <a href="http://kaffeine.sourceforge.net/" class="external free" title="http://kaffeine.sourceforge.net" rel="nofollow">  
@@ -265,8 +258,7 @@ Diese Version bietet einige neue Features und signifikante
 Performanceverbesserungen.
 
 
-[http://www.trolltech.com](http://www.trolltech.com/ "http://www.trolltech.com"){.external
-.free}
+[http://www.trolltech.com](http://www.trolltech.com/ "http://www.trolltech.com")
 
 
 <a href="http://www.trolltech.com/" class="external free" title="http://www.trolltech.com" rel="nofollow">  
@@ -284,8 +276,7 @@ Die Kubuntu Entwickler sind auf Ihr Feedback angewiesen.
 
 
 Dies ausführlicheren englischen News sind wie immer auf
-[http://www.kubuntu.org](http://www.kubuntu.org/ "http://www.kubuntu.org"){.external
-.free} zu finden.
+[http://www.kubuntu.org](http://www.kubuntu.org/ "http://www.kubuntu.org") zu finden.
 
 
 <https://wiki.kubuntu.org/GutsyGibbon/Tribe1/Kubuntu>

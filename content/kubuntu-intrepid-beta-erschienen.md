@@ -67,8 +67,7 @@ Mirror herunterladen:
 Ein Upgrade von Hardy Heron sollte unbedingt nach dieser
 [Anleitung](https://help.ubuntu.com/community/IntrepidUpgrades/Kubuntu "https://help.ubuntu.com/community/IntrepidUpgrades/Kubuntu") durchgeführt werden. Fehlerberichte sollten selbstverständlich an
 den
-[\[1\]](https://bugs.launchpad.net/ubuntu "https://bugs.launchpad.net/ubuntu"){.external
-.autonumber}Bugtracker von Ubuntu gesendet werden.
+[\[1\]](https://bugs.launchpad.net/ubuntu "https://bugs.launchpad.net/ubuntu")Bugtracker von Ubuntu gesendet werden.
 
 
 

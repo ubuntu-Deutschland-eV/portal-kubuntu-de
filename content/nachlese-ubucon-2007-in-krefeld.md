@@ -115,14 +115,11 @@ großer Erfolg und fand viel Anklang.
     
     </a>
 -   [Ubucon
-    Wiki](http://linuxwiki.de/Ubucon2007/Feedback "http://linuxwiki.de/Ubucon2007/Feedback"){.external
-    .text} mit Links zu Blogs und Bildergalerien
+    Wiki](http://linuxwiki.de/Ubucon2007/Feedback "http://linuxwiki.de/Ubucon2007/Feedback") mit Links zu Blogs und Bildergalerien
 -   [Kubuntu
-    Vortrag](http://www.lydiapintscher.de/talks/Ubucon2007/KubuntuColaborationToTheCore.pdf "http://www.lydiapintscher.de/talks/Ubucon2007/KubuntuColaborationToTheCore.pdf"){.external
-    .text} (PDF) bereitgestellt von Nightrose
+    Vortrag](http://www.lydiapintscher.de/talks/Ubucon2007/KubuntuColaborationToTheCore.pdf "http://www.lydiapintscher.de/talks/Ubucon2007/KubuntuColaborationToTheCore.pdf") (PDF) bereitgestellt von Nightrose
 -   [Amarok
-    Vortrag](http://www.lydiapintscher.de/talks/Ubucon2007/AmarokFormingtheCore.pdf "http://www.lydiapintscher.de/talks/Ubucon2007/AmarokFormingtheCore.pdf"){.external
-    .text} (PDF) bereitgestellt von Nightrose
+    Vortrag](http://www.lydiapintscher.de/talks/Ubucon2007/AmarokFormingtheCore.pdf "http://www.lydiapintscher.de/talks/Ubucon2007/AmarokFormingtheCore.pdf") (PDF) bereitgestellt von Nightrose
 -   IRC: \#ubucon-de auf irc.freenode.net
 
 

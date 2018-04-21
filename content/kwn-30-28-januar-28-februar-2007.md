@@ -280,8 +280,7 @@ am häufigsten angewandte Technik, um gefälschte E-Mail Adressen
 abzuwehren. Sie wird von der IETF in [RFC
 4408](http://www.ietf.org/rfc/rfc4408.txt "http://www.ietf.org/rfc/rfc4408.txt")
 beschrieben (mehr Informationen dazu finden Sie unter:
-[http://www.openspf.org](http://www.openspf.org/ "http://www.openspf.org"){.external
-.free}). Feisty wird die erste Linuxdistribution sein, die alle
+[http://www.openspf.org](http://www.openspf.org/ "http://www.openspf.org")). Feisty wird die erste Linuxdistribution sein, die alle
 Komponenten mitbringt, um SPF dem [RFC
 4408](http://www.ietf.org/rfc/rfc4408.txt "http://www.ietf.org/rfc/rfc4408.txt")
 entsprechend einzusetzen. Die Python SPF Bibliothek wurde auf die
@@ -373,8 +372,7 @@ Fehlerbericht.
 
 
 Schreiben Sie sich ein bei:
-[https://launchpad.net/\~launchpad-beta-testers/](https://launchpad.net/%7Elaunchpad-beta-testers/ "https://launchpad.net/~launchpad-beta-testers/"){.external
-.free}
+[https://launchpad.net/\~launchpad-beta-testers/](https://launchpad.net/%7Elaunchpad-beta-testers/ "https://launchpad.net/~launchpad-beta-testers/")
 
 
 Wenn Sie Launchpad regelmäßig benutzen, haben Sie vielleicht

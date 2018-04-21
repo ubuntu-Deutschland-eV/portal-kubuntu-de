@@ -83,23 +83,19 @@ Release Parties - KDE hat zur Party gerufen - wir wären gerne auf allen.
 </li>
 
 -   [Parties in
-    Deutschland](http://techbase.kde.org/Events/KDE42ReleaseParties#Germany "http://techbase.kde.org/Events/KDE42ReleaseParties#Germany"){.external
-    .text} (in Berlin, Frankfurt und Stuttgart)
+    Deutschland](http://techbase.kde.org/Events/KDE42ReleaseParties#Germany "http://techbase.kde.org/Events/KDE42ReleaseParties#Germany") (in Berlin, Frankfurt und Stuttgart)
     
     
 -   [Parties in
-    Österreich](http://techbase.kde.org/Events/KDE42ReleaseParties#Austria "http://techbase.kde.org/Events/KDE42ReleaseParties#Austria"){.external
-    .text} (in Wien)
+    Österreich](http://techbase.kde.org/Events/KDE42ReleaseParties#Austria "http://techbase.kde.org/Events/KDE42ReleaseParties#Austria") (in Wien)
     
     
 -   [Parties in der
-    Schweiz](http://techbase.kde.org/Events/KDE42ReleaseParties#Switzerland "http://techbase.kde.org/Events/KDE42ReleaseParties#Switzerland"){.external
-    .text} (in Zürich)
+    Schweiz](http://techbase.kde.org/Events/KDE42ReleaseParties#Switzerland "http://techbase.kde.org/Events/KDE42ReleaseParties#Switzerland") (in Zürich)
     
     
 -   [Release Parties
-    weltweit](http://techbase.kde.org/Events/KDE42ReleaseParties "http://techbase.kde.org/Events/KDE42ReleaseParties"){.external
-    .text}
+    weltweit](http://techbase.kde.org/Events/KDE42ReleaseParties "http://techbase.kde.org/Events/KDE42ReleaseParties")
     
     
 
@@ -121,13 +117,11 @@ Eine Diskussionsteilnahme zu KDE 4.2 ist erwünscht, wie zum Beispiel im
 
 
 -   Im Unterforum [Entwickler- und
-    Betaversionen](http://forum.kubuntu-de.org/index.php?board=22.0 "http://forum.kubuntu-de.org/index.php?board=22.0"){.external
-    .text} können neue Threads zu KDE 4.2 eröffnet werden.
+    Betaversionen](http://forum.kubuntu-de.org/index.php?board=22.0 "http://forum.kubuntu-de.org/index.php?board=22.0") können neue Threads zu KDE 4.2 eröffnet werden.
     
     
 -   Im Unterforum
-    [Nachrichten](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0"){.external
-    .text} kann im erscheinenden Thread zur News wie gewohnt die
+    [Nachrichten](http://forum.kubuntu-de.org/index.php?board=1.0 "http://forum.kubuntu-de.org/index.php?board=1.0") kann im erscheinenden Thread zur News wie gewohnt die
     Nachricht kommentiert werden.
     
     

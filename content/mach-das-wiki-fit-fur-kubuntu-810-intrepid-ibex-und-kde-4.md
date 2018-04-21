@@ -39,8 +39,7 @@ Wie kann ich teilnehmen?
 
 
 -   Suche dir eines der vorgeschlagenen
-    [Themen](http://wiki.kubuntu-de.org/Team:Redaktion/ArtikelKDE4Themen "http://wiki.kubuntu-de.org/Team:Redaktion/ArtikelKDE4Themen"){.external
-    .text} aus
+    [Themen](http://wiki.kubuntu-de.org/Team:Redaktion/ArtikelKDE4Themen "http://wiki.kubuntu-de.org/Team:Redaktion/ArtikelKDE4Themen") aus
     
     
 -   Setze in der Vorlage deinen Namen ein
@@ -61,13 +60,11 @@ Aber, aber...!?
         
         
     -   oder im
-        [Forum](http://forum.kubuntu-de.org "http://forum.kubuntu-de.org"){.external
-        .text} fragen
+        [Forum](http://forum.kubuntu-de.org "http://forum.kubuntu-de.org") fragen
         
         
     -   oder
-        [Blizzz](mailto:blizzz@kubuntu-de.org "mailto:blizzz@kubuntu-de.org"){.external
-        .text} mailen
+        [Blizzz](mailto:blizzz@kubuntu-de.org "mailto:blizzz@kubuntu-de.org") mailen
         
         
 

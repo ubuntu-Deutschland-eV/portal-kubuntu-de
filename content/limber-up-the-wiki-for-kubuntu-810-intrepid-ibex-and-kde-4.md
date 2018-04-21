@@ -33,8 +33,7 @@ How can I participate?
 
 
 -   Take one of the proposed
-    [topics](http://wiki.kubuntu-de.org/Team:Redaktion/ArtikelKDE4Themen "http://wiki.kubuntu-de.org/Team:Redaktion/ArtikelKDE4Themen"){.external
-    .text}
+    [topics](http://wiki.kubuntu-de.org/Team:Redaktion/ArtikelKDE4Themen "http://wiki.kubuntu-de.org/Team:Redaktion/ArtikelKDE4Themen")
     
     
 -   Fill in your name in the template
@@ -55,13 +54,11 @@ But, but...!?
         
         
     -   or ask in the
-        [forum](http://forum.kubuntu-de.org "http://forum.kubuntu-de.org"){.external
-        .text}
+        [forum](http://forum.kubuntu-de.org "http://forum.kubuntu-de.org")
         
         
     -   or mail
-        [Blizzz](mailto:blizzz@kubuntu-de.org "mailto:blizzz@kubuntu-de.org"){.external
-        .text}
+        [Blizzz](mailto:blizzz@kubuntu-de.org "mailto:blizzz@kubuntu-de.org")
         
         
 
@@ -83,8 +80,7 @@ But, but...!?
 
     
     -   No Problem! Just respect the [wiki
-        rules](http://wiki.kubuntu-de.org/Regeln_f%C3%BCr_die_Arbeit_im_Wiki "http://wiki.kubuntu-de.org/Regeln_für_die_Arbeit_im_Wiki"){.external
-        .text}
+        rules](http://wiki.kubuntu-de.org/Regeln_f%C3%BCr_die_Arbeit_im_Wiki "http://wiki.kubuntu-de.org/Regeln_für_die_Arbeit_im_Wiki")
         
         
     -   If you don't know how to do it ask as described above

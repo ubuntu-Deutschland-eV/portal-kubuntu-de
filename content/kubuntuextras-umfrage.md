@@ -67,13 +67,11 @@ gerne hilfsbereit.
 
 
 -   [Wikiseite
-    KubuntuExtras](https://wiki.ubuntu.com/KubuntuExtras "https://wiki.ubuntu.com/KubuntuExtras"){.external
-    .text}
+    KubuntuExtras](https://wiki.ubuntu.com/KubuntuExtras "https://wiki.ubuntu.com/KubuntuExtras")
     
     
 -   [Blogeintrag von
-    nixterval](http://blog.nixternal.com/2007.10.27/request-for-kubuntu-users/ "http://blog.nixternal.com/2007.10.27/request-for-kubuntu-users/"){.external
-    .text}
+    nixterval](http://blog.nixternal.com/2007.10.27/request-for-kubuntu-users/ "http://blog.nixternal.com/2007.10.27/request-for-kubuntu-users/")
     
     
 

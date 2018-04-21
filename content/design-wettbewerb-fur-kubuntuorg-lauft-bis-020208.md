@@ -50,8 +50,7 @@ Eckdaten
     Schönheit.
 -   Alle Beiträge müssen zum 03.02.2008 01:00 (morgens! unserer Zeit)
     auf [dieser
-    WikiSeite](https://wiki.kubuntu.org/Kubuntu/WebsiteMockups "https://wiki.kubuntu.org/Kubuntu/WebsiteMockups"){.external
-    .text} eingestellt werden.
+    WikiSeite](https://wiki.kubuntu.org/Kubuntu/WebsiteMockups "https://wiki.kubuntu.org/Kubuntu/WebsiteMockups") eingestellt werden.
 -   Das bevorzugte Format ist svg. Wer nach einer Anwendung dafür sucht,
     sei an Inkscape verwiesen (befindet sich in den Repos).
 
@@ -64,8 +63,7 @@ Einreichen
 
 
 -   Die [Wiki
-    Seite](https://wiki.kubuntu.org/Kubuntu/WebsiteMockups "https://wiki.kubuntu.org/Kubuntu/WebsiteMockups"){.external
-    .text} aufrufen
+    Seite](https://wiki.kubuntu.org/Kubuntu/WebsiteMockups "https://wiki.kubuntu.org/Kubuntu/WebsiteMockups") aufrufen
 -   Ggf. Einloggen.
 -   In der Auswahlbox Aktionen "Dateianhänge" auswählen
 -   Das .svg sowie einen .png, .jpg oder ähnlichen Export (dieses etwa

@@ -14,8 +14,7 @@ So sind Verbesserungen und Korrekturen in Konqueror und KHTML, vor allem
 im Bereich CSS eingeflossen. In KPDF, Kolourpaint, KOrganizer und Kmail
 flossen ebenfalls Verbessungen und Korrekturen ein. Die vollständige
 Liste der Änderungen kann dem
-[Changelog](http://www.kde.org/announcements/changelogs/changelog3_5_7to3_5_8.php "http://www.kde.org/announcements/changelogs/changelog3_5_7to3_5_8.php"){.external
-.free} entnommen werden. In Kubuntu 7.10 "Gutsy Gibbon" wird KDE 3.5.8
+[Changelog](http://www.kde.org/announcements/changelogs/changelog3_5_7to3_5_8.php "http://www.kde.org/announcements/changelogs/changelog3_5_7to3_5_8.php") entnommen werden. In Kubuntu 7.10 "Gutsy Gibbon" wird KDE 3.5.8
 als Standarddesktop enthalten sein. Pakete für Kubuntu 7.04 "Feisty
 Fawn" werden von Kubuntu.org zu verfügung gestellt.
 

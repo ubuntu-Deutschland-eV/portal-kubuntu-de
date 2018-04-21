@@ -9,8 +9,7 @@ mit den Schwerpunkten Ubuntu, Fedora und Freie Software, das monatlich
 erscheint und selbstverständlich kostenlos ist. Die wiederum
 umfangreiche Septemberausgabe des Magazins, bringt einige Neuerungen mit
 sich, so gibt es eine neue eigene Webseite
-([http://www.freiesmagazin.de](http://www.freiesmagazin.de/ "http://www.freiesmagazin.de"){.external
-.free}) und nun einen RSS Feed. Natürlich ist auch inhaltlich wieder
+([http://www.freiesmagazin.de](http://www.freiesmagazin.de/ "http://www.freiesmagazin.de")) und nun einen RSS Feed. Natürlich ist auch inhaltlich wieder
 einiges geboten:
 
 

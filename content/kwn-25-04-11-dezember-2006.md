@@ -89,8 +89,7 @@ Spezifikation für ein Grub Installationsprogramm, an dem er momentan
 arbeitet, als neues Mitglied. Gratulation an Martin.
 
 
-[https://wiki.ubuntu.com/MartinBöhm](https://wiki.ubuntu.com/MartinB%C3%B6hm "https://wiki.ubuntu.com/MartinBöhm"){.external
-.free}
+[https://wiki.ubuntu.com/MartinBöhm](https://wiki.ubuntu.com/MartinB%C3%B6hm "https://wiki.ubuntu.com/MartinBöhm")
 
 
 ### Teilung der Ubuntu-devel Mailingliste
@@ -679,8 +678,7 @@ Vergebung sind wie sie es im Geschmack von Linux sind."
 </div>
 
 
-[](http://ubuntu.wordpress.com/files/2006/12/ubcookies.jpg "http://ubuntu.wordpress.com/files/2006/12/ubcookies.jpg"){.external
-.free}Holen Sie sich das Rezept auf
+[](http://ubuntu.wordpress.com/files/2006/12/ubcookies.jpg "http://ubuntu.wordpress.com/files/2006/12/ubcookies.jpg")Holen Sie sich das Rezept auf
 <http://blog.josephhall.com/2006/11/sugar-cookies.html>
 
 
@@ -958,8 +956,7 @@ Sie ebenfalls mitmachen möchten, dann informieren Sie sich unter:
 
 
 Sehen Sie auch die Statistiken unter
-[http://people.ubuntu-in.org/\~carthik/bugstats/](http://people.ubuntu-in.org/%7Ecarthik/bugstats/ "http://people.ubuntu-in.org/~carthik/bugstats/"){.external
-.free}
+[http://people.ubuntu-in.org/\~carthik/bugstats/](http://people.ubuntu-in.org/%7Ecarthik/bugstats/ "http://people.ubuntu-in.org/~carthik/bugstats/")
 
 
 Vorschau auf KWN 26

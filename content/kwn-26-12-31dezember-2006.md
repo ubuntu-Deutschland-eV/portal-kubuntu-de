@@ -134,8 +134,7 @@ Flash Player 9, Java, Audacity, eine neue Grub Anzeige und wunderschöne,
 animierte Bilder für den Startvorgang, Isomaster (ein CD/ DVD -
 Abbildbearbeiter), ClamAV (Antivirus Software), X-Chat (eine IRC
 Anwendung), und vieles mehr!!! Herunterladen kann man die Edition unter
-[http://ubuntusoftware.info](http://ubuntusoftware.info/ "http://ubuntusoftware.info"){.external
-.free}.
+[http://ubuntusoftware.info](http://ubuntusoftware.info/ "http://ubuntusoftware.info").
 
 
 <div class="editsection" style="float: right; margin-left: 5px;">
@@ -265,8 +264,7 @@ Nächste Woche:
 -   Preis  : Ubuntu Poster
 
 
-[http://doc.ubuntu.com/\~marketing/DIY%20Material/Batch%201,%20Posters/HanZo/poster-layout.jpg](http://doc.ubuntu.com/%7Emarketing/DIY%20Material/Batch%201,%20Posters/HanZo/poster-layout.jpg "http://doc.ubuntu.com/~marketing/DIY%20Material/Batch%201,%20Posters/HanZo/poster-layout.jpg"){.external
-.free}
+[http://doc.ubuntu.com/\~marketing/DIY%20Material/Batch%201,%20Posters/HanZo/poster-layout.jpg](http://doc.ubuntu.com/%7Emarketing/DIY%20Material/Batch%201,%20Posters/HanZo/poster-layout.jpg "http://doc.ubuntu.com/~marketing/DIY%20Material/Batch%201,%20Posters/HanZo/poster-layout.jpg")
 
 
 Um am Quiz teilzunehmen, finden Sie sich Freitag und/oder Samstag Nacht
@@ -373,8 +371,7 @@ besten Möglichkeit, den Arbeitsrückstand wieder aufzuholen."
 
 
 Für mehr Informationen über Launchpad besuchen Sie bitte
-[http://launchpad.net](http://launchpad.net/ "http://launchpad.net"){.external
-.free} oder den Kanal \#launchpad auf irc.freenode.net .
+[http://launchpad.net](http://launchpad.net/ "http://launchpad.net") oder den Kanal \#launchpad auf irc.freenode.net .
 
 
 
@@ -778,8 +775,7 @@ Sie ebenfall mitmachen möchten, dann informieren Sie sich unter:
 
 
 Betrachten Sie auch die Statistiken unter
-[http://people.ubuntu-in.org/\~carthik/bugstats/](http://people.ubuntu-in.org/%7Ecarthik/bugstats/ "http://people.ubuntu-in.org/~carthik/bugstats/"){.external
-.free}
+[http://people.ubuntu-in.org/\~carthik/bugstats/](http://people.ubuntu-in.org/%7Ecarthik/bugstats/ "http://people.ubuntu-in.org/~carthik/bugstats/")
 
 
  

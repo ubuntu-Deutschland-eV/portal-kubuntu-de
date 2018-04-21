@@ -50,8 +50,7 @@ Vertriebsmethoden von Kubuntu 8.04:
 -   Kommerzieller Support von Canonical für einen Zeitraum von 18
     Monaten.
 -   Verfügbar über
-    [ShipIt](https://shipit.kubuntu.org/ "https://shipit.kubuntu.org/"){.external
-    .text} und natürlich als Download.
+    [ShipIt](https://shipit.kubuntu.org/ "https://shipit.kubuntu.org/") und natürlich als Download.
 
 
 
@@ -69,10 +68,8 @@ Vertriebsmethoden von Kubuntu 8.04:
 -   Topaktuelles KDE 4.0
 -   Unterstützung durch die Kubuntu Community über \[Foren
     <http://forum.kubuntu-de.org/>\],
-    [IRC](irc://irc.ubuntu.com/kubuntu-de "irc://irc.ubuntu.com/kubuntu-de"){.external
-    .text}, und die [Kubuntu
-    Mailingliste.](https://lists.ubuntu.com/mailman/listinfo/kubuntu-de "https://lists.ubuntu.com/mailman/listinfo/kubuntu-de"){.external
-    .text}
+    [IRC](irc://irc.ubuntu.com/kubuntu-de "irc://irc.ubuntu.com/kubuntu-de"), und die [Kubuntu
+    Mailingliste.](https://lists.ubuntu.com/mailman/listinfo/kubuntu-de "https://lists.ubuntu.com/mailman/listinfo/kubuntu-de")
 -   Verfügbar als CDs für Gruppen, die diese benötigen (z. B.
     LoCo-Teams, Messeteams, usw.) und natürlich als Download.
 
@@ -278,8 +275,7 @@ enthält einige Änderungen und Fehlerkorrekturen, wie beispielsweise:
 -   Korrekturen beim PostgreSQL Backend.
 -   Verbesserte Kompatibilität mit neueren iPods.
 -   [und mehr
-    ...](http://amarok.kde.org/en/fastforward_148 "http://amarok.kde.org/en/fastforward_148"){.external
-    .text}
+    ...](http://amarok.kde.org/en/fastforward_148 "http://amarok.kde.org/en/fastforward_148")
 
 
 ### Kaffeine Codec Installation
@@ -379,8 +375,7 @@ Computer von einem Akku versorgt wird. **Bitte beachten:** Dies
 funktioniert nicht auf allen Laptops.
 
 
-[![](%20https://wiki.ubuntu.com/HardyHeron/RC/Kubuntu?action=AttachFile&do=get&target=sm_gpm.png)](https://wiki.ubuntu.com/HardyHeron/RC/Kubuntu?action=AttachFile&do=get&target=gpm.png)[](https://wiki.ubuntu.com/HardyHeron/RC/Kubuntu?action=AttachFile&do=get&target=sm_gpm.png "https://wiki.ubuntu.com/HardyHeron/RC/Kubuntu?action=AttachFile&do=get&target=sm_gpm.png"){.external
-.free}
+[![](%20https://wiki.ubuntu.com/HardyHeron/RC/Kubuntu?action=AttachFile&do=get&target=sm_gpm.png)](https://wiki.ubuntu.com/HardyHeron/RC/Kubuntu?action=AttachFile&do=get&target=gpm.png)[](https://wiki.ubuntu.com/HardyHeron/RC/Kubuntu?action=AttachFile&do=get&target=sm_gpm.png "https://wiki.ubuntu.com/HardyHeron/RC/Kubuntu?action=AttachFile&do=get&target=sm_gpm.png")
 
 
 ### Aktuelle Probleme oder Fehler

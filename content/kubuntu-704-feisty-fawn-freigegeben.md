@@ -162,24 +162,17 @@ Kubuntu kann unter folgenden Adressen heruntergeladen werden:
 -   Deutschland:
 
     
-    -   [de.archive.ubuntu.com](http://de.archive.ubuntu.com/ubuntu-releases/kubuntu/feisty/ "http://de.archive.ubuntu.com/ubuntu-releases/kubuntu/feisty/"){.external
-        .text}
+    -   [de.archive.ubuntu.com](http://de.archive.ubuntu.com/ubuntu-releases/kubuntu/feisty/ "http://de.archive.ubuntu.com/ubuntu-releases/kubuntu/feisty/")
     -   [Intergenia
-        AG](http://ubuntu.intergenia.de/releases/kubuntu/feisty/ "http://ubuntu.intergenia.de/releases/kubuntu/feisty/"){.external
-        .text}
+        AG](http://ubuntu.intergenia.de/releases/kubuntu/feisty/ "http://ubuntu.intergenia.de/releases/kubuntu/feisty/")
     -   [Cable &
-        Wireless](http://ftp.cw.net/pub/linux/ftp.ubuntu.com/releases/kubuntu/feisty/ "http://ftp.cw.net/pub/linux/ftp.ubuntu.com/releases/kubuntu/feisty/"){.external
-        .text}
+        Wireless](http://ftp.cw.net/pub/linux/ftp.ubuntu.com/releases/kubuntu/feisty/ "http://ftp.cw.net/pub/linux/ftp.ubuntu.com/releases/kubuntu/feisty/")
     -   [RRZN, Leibniz Universität
-        Hannover](ftp://ftp.rrzn.uni-hannover.de/pub/mirror/linux/ubuntu-releases/kubuntu/feisty/ "ftp://ftp.rrzn.uni-hannover.de/pub/mirror/linux/ubuntu-releases/kubuntu/feisty/"){.external
-        .text}
+        Hannover](ftp://ftp.rrzn.uni-hannover.de/pub/mirror/linux/ubuntu-releases/kubuntu/feisty/ "ftp://ftp.rrzn.uni-hannover.de/pub/mirror/linux/ubuntu-releases/kubuntu/feisty/")
     -   [University of Applied Sciences
-        Wolfenbüttel](http://releases.ubuntu.uasw.edu/kubuntu/feisty/ "http://releases.ubuntu.uasw.edu/kubuntu/feisty/"){.external
-        .text}
-    -   [ftp.rz.tu-bs.de](http://ftp.rz.tu-bs.de/pub/mirror/ubuntu-cd-releases/kubuntu/feisty/ "http://ftp.rz.tu-bs.de/pub/mirror/ubuntu-cd-releases/kubuntu/feisty/"){.external
-        .text}
-    -   [releases.ubuntu.mirror.at.stealer.net](http://releases.ubuntu.mirror.at.stealer.net/kubuntu/feisty/ "http://releases.ubuntu.mirror.at.stealer.net/kubuntu/feisty/"){.external
-        .text}
+        Wolfenbüttel](http://releases.ubuntu.uasw.edu/kubuntu/feisty/ "http://releases.ubuntu.uasw.edu/kubuntu/feisty/")
+    -   [ftp.rz.tu-bs.de](http://ftp.rz.tu-bs.de/pub/mirror/ubuntu-cd-releases/kubuntu/feisty/ "http://ftp.rz.tu-bs.de/pub/mirror/ubuntu-cd-releases/kubuntu/feisty/")
+    -   [releases.ubuntu.mirror.at.stealer.net](http://releases.ubuntu.mirror.at.stealer.net/kubuntu/feisty/ "http://releases.ubuntu.mirror.at.stealer.net/kubuntu/feisty/")
 
     
     
@@ -188,8 +181,7 @@ Kubuntu kann unter folgenden Adressen heruntergeladen werden:
 -   Österreich:
 
     
-    -   [ubuntu.gds.tuwien.ac.at](http://ubuntu.gds.tuwien.ac.at/cdimage/releases/kubuntu/feisty/ "http://ubuntu.gds.tuwien.ac.at/cdimage/releases/kubuntu/feisty/"){.external
-        .text}
+    -   [ubuntu.gds.tuwien.ac.at](http://ubuntu.gds.tuwien.ac.at/cdimage/releases/kubuntu/feisty/ "http://ubuntu.gds.tuwien.ac.at/cdimage/releases/kubuntu/feisty/")
 
     
     

@@ -12,8 +12,7 @@ und Edubuntu-Community sowie dem Linux4Africa Projekt.
 Für alle, die nicht dabei sein können, aber dennoch sehen wollen was
 passiert, haben wir eine Webcam eingerichtet, die unseren Stand filmt.
 Die Bilder sind auf
-[http://webcam.kubuntu-de.org](http://webcam.kubuntu-de.org/ "http://webcam.kubuntu-de.org"){.external
-.free} verfügbar und werden alle 30 Sekunden aktualisiert. Die Webcam
+[http://webcam.kubuntu-de.org](http://webcam.kubuntu-de.org/ "http://webcam.kubuntu-de.org") verfügbar und werden alle 30 Sekunden aktualisiert. Die Webcam
 läuft zwischen 9 und 18 Uhr.
 
 

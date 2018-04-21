@@ -136,8 +136,7 @@ möglichen Workarounds dokumentiert.
     auf (<https://launchpad.net/bugs/280762>).
 -   An einem Laptop angeschlossene Bildschirme blinken auf und ab.
     Dieses tritt jedoch nicht bei jedem und nicht immer auf, in diesem
-    [Blog-Eintrag](http://blog.nixternal.com/2008.10.22/kubuntu-intrepid-dual-monitor-blinking/ "http://blog.nixternal.com/2008.10.22/kubuntu-intrepid-dual-monitor-blinking/"){.external
-    .text} ist ein Workaround beschrieben
+    [Blog-Eintrag](http://blog.nixternal.com/2008.10.22/kubuntu-intrepid-dual-monitor-blinking/ "http://blog.nixternal.com/2008.10.22/kubuntu-intrepid-dual-monitor-blinking/") ist ein Workaround beschrieben
     (<https://launchpad.net/bugs/278471>).
 -   Aufgrund eines Upgrades des Bluetooth-Stacks in letzter Sekunde ist
     die Bluetooth-Funktionalität in Kubuntu Intrepid zur Zeit nicht
