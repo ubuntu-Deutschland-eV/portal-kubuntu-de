@@ -39,7 +39,7 @@ die Auswahlbox ''Nicht unterstützte Aktualisierungen'' an.
     
     -   export LD\_LIBRARY\_PATH=/usr/lib/kde4/lib
     -   export KDEDIR=/usr/lib/kde4
-    -   export PATH=/usr/lib/kde4/bin:\$PATH
+    -   export PATH=/usr/lib/kde4/bin:$PATH
     -   export KDEHOME=\~/.kde4
 
     

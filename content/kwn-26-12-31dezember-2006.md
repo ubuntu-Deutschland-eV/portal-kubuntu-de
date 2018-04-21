@@ -280,7 +280,7 @@ Um ein Quiz zu veranstalten, wenden Sie sich an AlexanderVassaloti
 
 Um einen Preis zu stiften, wenden Sie sich an JendaVancura (jenda im
 IRC) - Ihre Großzügigkeit wird geschätzt. Der gewöhnliche Preis ist ein
-Ubuntu Poster (Wert \$5).
+Ubuntu Poster (Wert $5).
 
 
 <div class="editsection" style="float: right; margin-left: 5px;">

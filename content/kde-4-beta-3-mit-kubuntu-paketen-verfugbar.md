@@ -31,7 +31,7 @@ daher neben einem bestehenden KDE 3 installiert werden.
     
     -   export LD\_LIBRARY\_PATH=/usr/lib/kde4/lib
     -   export KDEDIRS=/usr/lib/kde4
-    -   export PATH=/usr/lib/kde4/bin/:\$PATH
+    -   export PATH=/usr/lib/kde4/bin/:$PATH
     -   export KDEHOME=\~/.kde4
 
     

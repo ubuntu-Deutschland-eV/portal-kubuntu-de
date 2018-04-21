@@ -29,7 +29,7 @@ Quartal:
 
 
 -   5000 € aus dem Hardware Fundraiser
--   12000 \$ vom Google Summer of Code
+-   12000 $ vom Google Summer of Code
 -   5000 € aus den Mitgliedbeiträgen
 
 

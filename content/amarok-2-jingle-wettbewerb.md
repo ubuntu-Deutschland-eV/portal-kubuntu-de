@@ -27,7 +27,7 @@ Amarok 2.0 zum ersten Mal starten.
 
 Aber natürlich nimmt sich der Gewinner eine coole Amarok Beute mit
 (Amarok T-Shirt, Amarok Schlüsselband, Amarok Flammenwer... äh ... schon
-gut...) und ein Preisgeld von 100\$! Die beiden Nächstplatzierten
+gut...) und ein Preisgeld von 100$! Die beiden Nächstplatzierten
 erhalten ebenfalls die Beute, aber keine Kohle (trotzdem sehen die
 T-Shirts cool aus!).
 
