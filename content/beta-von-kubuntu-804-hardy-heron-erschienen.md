@@ -262,7 +262,7 @@ enthält einige Änderungen und Fehlerkorrekturen, wie beispielsweise:
 ### Kaffeine Codec Installation
 
 
-[![](https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=sm_kaffeine.png)](http://www.kubuntu-de.org/files/kaffeine.png)
+![](https://wiki.ubuntu.com/HardyHeron/Beta/Kubuntu?action=AttachFile&do=get&target=sm_kaffeine.png)
 
 
 Codecs werden nun automatisch installiert, wenn eine Datei zum ersten
@@ -428,46 +428,3 @@ Kubuntu](https://wiki.kubuntu.org/HelpingKubuntu) (englisch).
     -   kubuntu-users (at) lists.ubuntu.com (englisch -
         [abonnieren](https://lists.ubuntu.com/mailman/listinfo/kubuntu-users))
     -   [IRC](http://wiki.kubuntu-de.org/Team:IRC) (\#kubuntu-de)
-
-    
-    
-
-
-<table id="attachments" class="sticky-enabled">
-
-
-<thead>
-<tr>
-<th>
-Anhang
-
-</th>
-<th>
-Größe
-
-</th>
-</tr>
-</thead>
-
-
-<tbody>
-
-
-<tr class="odd">
-<td>
-[kaffeine.png](http://kubuntu-de.org/drupal/files/kaffeine.png)
-
-</td>
-<td>
-219.3 KB
-
-</td>
-</tr>
-
-
-</tbody>
-
-
-</table>
-
-

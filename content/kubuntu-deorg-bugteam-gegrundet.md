@@ -4,8 +4,7 @@ Author: Monika Eggers
 Tags: Kubuntu-de.org
 Slug: kubuntu-deorg-bugteam-gegrundet
 
-![Logo der "5-a-day"
-Aktion](http://www.kubuntu-de.org/files/5-a-day_logo.png)Während die
+Während die
 Entwicklung für Kubuntu 8.04 Hardy Heron nun in die letzte Runde geht,
 werden auch immer mehr Fehlerberichte von Benutzern erstellt. Momentan
 gibt es über 40000 offene Bugs für (K)Ubuntu und täglich werden es mehr.
@@ -54,43 +53,3 @@ Das Bearbeiten von Fehlerberichten ist ein gute Möglichkeit sich für
 Kubuntu Hardy Heron bereits im nächsten Monat veröffentlicht wird, kann
 man jetzt noch einen entscheidenen Beitrag zur Qualität der kommenden
 Freigabe leisten.
-
-
-<table id="attachments" class="sticky-enabled">
-
-
-<thead>
-<tr>
-<th>
-Anhang
-
-</th>
-<th>
-Größe
-
-</th>
-</tr>
-</thead>
-
-
-<tbody>
-
-
-<tr class="odd">
-<td>
-[5-a-day\_logo.png](http://kubuntu-de.org/drupal/files/5-a-day_logo.png)
-
-</td>
-<td>
-30.44 KB
-
-</td>
-</tr>
-
-
-</tbody>
-
-
-</table>
-
-

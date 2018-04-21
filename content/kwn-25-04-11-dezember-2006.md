@@ -1056,8 +1056,7 @@ Dieser Kubuntu Weekly Newsletter wurde durch kubuntu-de.net erstellt. Um
 eine stetige und zuverlässige Übersetzung gewährleisten zu können
 benötigen wir noch weitere Übersetzer und Korrektoren. Wenn Sie sich an
 der Übersetzung des Newsletters beteiligen möchten, schicken Sie uns
-eine E-Mail an
-[kontakt@kubuntu-de.net](/drupal4/node/2/kontakt+%5B%C3%84T%5D+kubuntu-de+%5BPUNKT%5D+net).
+eine E-Mail an kontakt@kubuntu-de.net.
 
 
 Der Ubuntu Weekly Newsletter wird vom Ubuntu Marketing Team betreut.
@@ -1066,11 +1065,3 @@ kontaktieren. Entweder mit einer E-Mail an
 <ubuntu-marketing@lists.ubuntu.com> oder unter der Verwendung anderer
 Methoden welche auf der [Ubuntu Marketing Team Contact Information
 Page](https://wiki.ubuntu.com/MarketingTeam) aufgeführt sind.
-
-
-
-
-</div>
-
-
-

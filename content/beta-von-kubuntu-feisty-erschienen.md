@@ -12,9 +12,6 @@ der Hardwareunterstützung von Desktops und Laptops, sowie
 High-End-Servern. Außerdem findet eine ehrgeizige Adaption aufkommender
 Desktoptechnologien statt.
 
-
-<!--break--><!--break-->
-
 Die Betaversion ist die sechste Freigabe in einer Reihe von
 Meilensteinen, die in der Form von CD-Image während dem
 Feisty-Entwicklungszyklus veröffentlicht werden. Es ist bekannt, dass
@@ -23,19 +20,9 @@ Fehler im CD-Image und den Prozess der Installation haben, aber einen
 sehr genauen Stand der jeweiligen Entwicklung von Feisty reflektieren.
 
 
-<div align="left">
-
-</div>
-
-
 Kubuntu 7.04 Feisty Fawn Beta kann von der folgenden Adresse
 heruntergeladen werden:
 <http://cdimage.ubuntu.com/kubuntu/releases/feisty/>
-
-
-<div align="left">
-
-</div>
 
 
 **Anmerkung**: Die ist eine Betaversion. Betaversionen sind
@@ -46,23 +33,8 @@ beim Testen, Fehlermelden und der Fehlerkorrektur mitarbeiten.
 Bildschirmfotos sind hier erhältlich:
 <http://shots.linuxquestions.org/index.php?os=Kubuntu>
 
-
-
-<div align="left">
-
-
-
-</div>
-
-
 Neu in Feisty Beta {#neu-in-feisty-beta align="left"}
 ------------------
-
-
-<div align="left">
-
-</div>
-
 
 Die Feisty Fawn Beta-CD Version enthält viele neue und aufregende
 Anwendungen. Diese neueste Version von Kubuntu 7.04 hat
@@ -78,20 +50,7 @@ nicht geschehen ist. Probleme können hier gemeldet werden:
 <https://launchpad.net/distros/ubuntu/+filebug>
 
 
-<div align="left">
-
-
-
-</div>
-
-
 ### Werkzeug zum Aktualisieren der Kubuntu Distribution {#werkzeug-zum-aktualisieren-der-kubuntu-distribution align="left"}
-
-
-<div align="left">
-
-</div>
-
 
 *KMenü → System* *→* *Adept Manager (Paketverwaltung)*  
 
@@ -100,49 +59,20 @@ nicht geschehen ist. Probleme können hier gemeldet werden:
 **Anmerkung:** Tester, die dieses Werkzeug benötigen, sehen bitte im
 vorhergehenden Verweis nach.
 
-
-<div align="left">
-
-</div>
-
-
 Benutzer der Kubuntu-Version 6.10 (Edgy Eft) können jetzt übergangslos
 nach 7.04 (Feisty Fawn) aktualisieren, indem das neue
 Aktualisierungswerkzeug, welches in den Adept Paketmanager integriert
 wurde, benutzt wird.
 
-
-<div align="left">
-
-</div>
-
-
 [![Upgradetool](http://www.seqfault.de/files/distup.png)](https://wiki.ubuntu.com/FeistyFawn/Beta/Kubuntu?action=AttachFile&do=get&target=distup.png)
-
-
-<div align="left">
-
-
-
-</div>
 
 
 ### Digikam 0.9.1 {#digikam-0.9.1 align="left"}
 
 
-<div align="left">
-
-</div>
-
-
 *KMenü* *→ Graphik* *→ digiKam (Fotoverwaltung)*  
 
 **Information:** <http://www.digikam.org/?q=node/210>
-
-
-<div align="left">
-
-</div>
 
 
 Die neueste Version von Digikam enthält einige wichtige Verbesserungen
@@ -152,7 +82,7 @@ von digitalen Fotos innerhalb Alben einfach macht. Einige der neuen
 Erweiterungen enthalten:
 
 
-<div align="left">
+
 
 
 -   Eigene JPEG-Unterstützung
@@ -165,24 +95,9 @@ Erweiterungen enthalten:
 0.9.1](http://www.seqfault.de/files/digikam.png)](https://wiki.ubuntu.com/FeistyFawn/Beta/Kubuntu?action=AttachFile&do=get&target=digikam.png)
 
 
-</div>
-
-
 ### Themabasierte Hilfe {#themabasierte-hilfe align="left"}
 
-
-<div align="left">
-
-</div>
-
-
 *KMenü* *→ Hilfe* *→ Kubuntu System Dokumentation Index*
-
-
-<div align="left">
-
-</div>
-
 
 Zu ersten Mal und neu in Kubuntu gibt es eine themabasierte Hilfe für
 die Systemdokumentation. Diese erste Implementierung schafft eine
@@ -193,41 +108,13 @@ welches in Zukunft Suchanfragen an die Dokumentationen leichter als
 jemals zuvor machen wird.
 
 
-<div align="left">
-
-
-
-
-</div>
-
-
 [![Themabasierte
 Hilfe](http://www.seqfault.de/files/tbh1.png)](https://wiki.ubuntu.com/FeistyFawn/Beta/Kubuntu?action=AttachFile&do=get&target=tbh1.png)
-
-
-<div align="left">
-
-</div>
-
 
 [![Themabasierte
 Hilfe](http://www.seqfault.de/files/tbh2.png)](https://wiki.ubuntu.com/FeistyFawn/Beta/Kubuntu?action=AttachFile&do=get&target=tbh2.png)
 
-
-<div align="left">
-
-
-
-</div>
-
-
 ### OEM Installer {#oem-installer align="left"}
-
-
-<div align="left">
-
-</div>
-
 
 Obwohl der OEM Installer in Kubuntu nicht neu ist, ist die
 Benutzeroberfläche neu. Den Anleitungen zur besseren Benutzbarkeit
@@ -235,14 +122,5 @@ folgend, die von KDE-Mitgliedern erstellt wurden, ist er besser als je
 zuvor. Hinter den Kulissen wurde dieses Werkzeug nach Qt4 portiert und
 ist dementsprechen bereit für die Integration von KDE 4.
 
-
-<div align="left">
-
-</div>
-
-
 [![OEM
 Installer](http://www.seqfault.de/files/oeminstall.png)](https://wiki.ubuntu.com/FeistyFawn/Beta/Kubuntu?action=AttachFile&do=get&target=oeminstall.png)
-
-
-

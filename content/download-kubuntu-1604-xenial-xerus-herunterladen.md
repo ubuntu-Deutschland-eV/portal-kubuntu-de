@@ -101,6 +101,7 @@ erfolgen. Dies erfordert, dass ein BitTorrent-Client installiert ist.
 
 
 <td>
+
 [![](/themes/kubuntu/images/mini_download.png)](http://cdimage.ubuntu.com/kubuntu/releases/16.04/release/kubuntu-16.04-desktop-i386.iso.torrent)
 [<small>i386</small>](http://cdimage.ubuntu.com/kubuntu/releases/16.04/release/kubuntu-16.04-desktop-i386.iso.torrent)
 [![](/themes/kubuntu/images/mini_download.png)](http://cdimage.ubuntu.com/kubuntu/releases/16.04/release/kubuntu-16.04-desktop-amd64.iso.torrent)
@@ -159,6 +160,7 @@ Es wird empfohlen, einen Server in der Nähe zu wählen.
 
 
 <td>
+
 [![](/themes/kubuntu/images/mini_download.png)](http://cdimage.ubuntu.com/kubuntu/releases/16.04/release/kubuntu-16.04-desktop-i386.iso)
 [<small>i386</small>](http://cdimage.ubuntu.com/kubuntu/releases/16.04/release/kubuntu-16.04-desktop-i386.iso)
 [![](/themes/kubuntu/images/mini_download.png)](http://cdimage.ubuntu.com/kubuntu/releases/16.04/release/kubuntu-16.04-desktop-amd64.iso)
@@ -180,6 +182,7 @@ Es wird empfohlen, einen Server in der Nähe zu wählen.
 
 
 <td>
+
 [![](/themes/kubuntu/images/mini_download.png)](http://de.cdimage.ubuntu.com/kubuntu/releases/16.04/release/kubuntu-16.04-desktop-i386.iso)
 [<small>i386</small>](http://de.cdimage.ubuntu.com/kubuntu/releases/16.04/release/kubuntu-16.04-desktop-i386.iso)
 [![](/themes/kubuntu/images/mini_download.png)](http://de.cdimage.ubuntu.com/kubuntu/releases/16.04/release/kubuntu-16.04-desktop-amd64.iso)
@@ -201,6 +204,7 @@ Es wird empfohlen, einen Server in der Nähe zu wählen.
 
 
 <td>
+
 [![](/themes/kubuntu/images/mini_download.png)](http://ch.cdimage.ubuntu.com/kubuntu/releases/16.04/release/kubuntu-16.04-desktop-i386.iso)
 [<small>i386</small>](http://ch.cdimage.ubuntu.com/kubuntu/releases/16.04/release/kubuntu-16.04-desktop-i386.iso)
 [![](/themes/kubuntu/images/mini_download.png)](http://ch.cdimage.ubuntu.com/kubuntu/releases/16.04/release/kubuntu-16.04-desktop-amd64.iso)
@@ -222,8 +226,9 @@ Es wird empfohlen, einen Server in der Nähe zu wählen.
 
 
 <td>
+
 [![](/themes/kubuntu/images/mini_download.png)](http://at.cdimage.ubuntu.com/kubuntu/releases/16.04/release/kubuntu-16.04-desktop-i386.iso)
-[<small>i386</small>](http://at.cdimage.ubuntu.com/kubuntu/releases/16.04/release/kubuntu-16.04-desktop-i386.iso)
+[i386](http://at.cdimage.ubuntu.com/kubuntu/releases/16.04/release/kubuntu-16.04-desktop-i386.iso)
 [![](/themes/kubuntu/images/mini_download.png)](http://at.cdimage.ubuntu.com/kubuntu/releases/16.04/release/kubuntu-16.04-desktop-amd64.iso)
 [<small>amd64</small>](http://at.cdimage.ubuntu.com/kubuntu/releases/16.04/release/kubuntu-16.04-desktop-amd64.iso)
 
@@ -318,5 +323,3 @@ fehlerfrei vollzogen wurde.
 
 
 </table>
-
-

@@ -11,42 +11,23 @@ nah beieinander lagen, so dass die Entscheidungen sehr knapp ausgefallen
 sind.
 
 
-<div style="float: left">
-
-[[![](http://wiki.kubuntu-de.org/images/thumb/Kwalletmanager.png/50px-Kwalletmanager.png)](/Bild:Kwalletmanager.png "Kwalletmanager.png")]
-
-</div>
-
+[![](http://wiki.kubuntu-de.org/images/thumb/Kwalletmanager.png/50px-Kwalletmanager.png)](/Bild:Kwalletmanager.png "Kwalletmanager.png")
 
 Und der Gewinner unserer Aktion ist **Jaro**s mit seinem Beitrag, dem
 Artikel zu
 **[KWallet](http://wiki.kubuntu-de.org/Kubuntu_benutzen/Dienstprogramme/KWallet "http://wiki.kubuntu-de.org/Kubuntu_benutzen/Dienstprogramme/KWallet")**, der Passwortverwaltung unter KDE. Jaro darf sich über den
 Hauptgewinn ─ das KDE-T-Shirt ─ freuen!
 
-
-<!--break--><!--break-->
-
   
 
 
 > »Ausführlicher und detaillierter Artikel, klare Bebilderung,
-> ausserdem  
->
-> von einem "Newcomer" geschrieben, noch dazu zu einem weniger  
->
+> ausserdem von einem "Newcomer" geschrieben, noch dazu zu einem weniger  
 > populären/offensichtlichen aber nichts desto trotz nicht weniger  
->
 > wichtigem Programm.«
 
+[![](http://wiki.kubuntu-de.org/images/thumb/Dolphin_Symbol.png/50px-Dolphin_Symbol.png)](/Bild:Dolphin_Symbol.png "Dolphin Symbol.png")
 
-  
-
-
-<div style="float: left">
-
-[[![](http://wiki.kubuntu-de.org/images/thumb/Dolphin_Symbol.png/50px-Dolphin_Symbol.png)](/Bild:Dolphin_Symbol.png "Dolphin Symbol.png")]
-
-</div>
 
 
 Auf Rang zwei hat es der Artikel über den Dateimanager
@@ -59,23 +40,17 @@ Platz wird mit einer KDE-Tasse ausgezeichnet.
 
 
 > »Sehr ausführlicher und umfassender Artikel, als Einstieg in das  
->
 > Programm sehr einfach nachzuvollziehen, behandelt jeden Aspekt des  
->
 > Programms. Warum nicht der erste Platz? Weil er von einem erfahrenen  
->
 > Author und Teammitglied geschrieben wurde.«
 
 
   
 
 
-<div style="float: left">
 
-[[![](http://wiki.kubuntu-de.org/images/thumb/Amarok-Symbol.png/50px-Amarok-Symbol.png)](/Bild:Amarok-Symbol.png "Amarok-Symbol.png")]
 
-</div>
-
+[![](http://wiki.kubuntu-de.org/images/thumb/Amarok-Symbol.png/50px-Amarok-Symbol.png)](/Bild:Amarok-Symbol.png "Amarok-Symbol.png")
 
 Den dritten Platz belegt der Artikel zum freien Mediaplayer **[Amarok
 2](http://wiki.kubuntu-de.org/Kubuntu_benutzen/Multimedia/Amarok "http://wiki.kubuntu-de.org/Kubuntu_benutzen/Multimedia/Amarok")**, ebenfalls verfasst von **Neversfelde**. Dieser Rang wird mit
@@ -87,17 +62,10 @@ beiden Gewinne für eine weitere Aktion zu spenden.
 
 
 > »Ebenfalls sehr ausführlicher Artikel, beschreibt auch sehr umfassend  
->
 > das komplette Programm. Allerdings ist hier die Gliederung nicht ganz  
->
 > so einfach nachzuvollziehen wie bei dem Artikel zu Dolphin. Macht es  
->
 > einem neuen Nutzer möglicherweise etwas schwerer die Übersicht zu  
->
 > bekommen.«
-
-
-  
   
 
 An dieser Stelle danken für nicht nur allen an der Aktion als Autor
@@ -112,6 +80,3 @@ Wir freuen uns natürlich auch über weitere engagierte Mitarbeit im Wiki.
 Auch hinsichtlich des kommenden Kubuntu 9.04 Jaunty Jackalope mit KDE
 4.2 gibt es jede Menge interessanter Artikel zu verfassen und zu
 überarbeiten, so dass wir uns jede weitere Hilfe willkommen ist.
-
-
-

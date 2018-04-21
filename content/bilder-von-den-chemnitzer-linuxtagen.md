@@ -17,17 +17,9 @@ Weitere Bilder und Berichte folgen.
 
 Das Team von kubuntu-de.org, welches Kubuntu auf den CLT vertritt:
 
-
-<div align="left">
-
 ![Das Standpersonal von
 kubuntu-de.org](http://www.kubuntu-de.org/files/bilder/Standbetreuung.jpg)
 
 v.l.n.r.: Joost Sander (thefisist), Mirjam Wäckerlin (Zerlinna), Marcus
 Czeslinski (Czessi), Robert Müller (comm\[A|n\]der), Monika Krug
 (Monika|K), Sabina Weiland (ypsila)
-
-</div>
-
-
-

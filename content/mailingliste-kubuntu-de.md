@@ -13,26 +13,15 @@ Slug: mailingliste-kubuntu-de
 Archiv
 ------
 
-
-<div>
-
 Ältere Nachrichten dieser Mailingliste finden Sie im [Archiv der Liste
 Kubuntu-de](https://lists.ubuntu.com/archives/kubuntu-de).
-
-</div>
 
 
 Kontaktaufnahme
 ---------------
 
-
-<div>
-
 Um eine Nachricht an alle Listenmitglieder zu senden, schickst du diese
 an <kubuntu-de@lists.ubuntu.com>.
-
-</div>
-
 
 Abonieren
 ---------
@@ -304,6 +293,3 @@ gefragt.
 
 
 </div>
-
-
-

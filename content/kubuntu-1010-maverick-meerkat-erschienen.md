@@ -14,7 +14,6 @@ Das Kubuntu Team freut sich, heute die Veröffentlichung der Version
 unserer populären Linuxdistribution basiert auf Ubuntu mit KDE SC 4.5.
 
 ![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10.10-desktop.png/400px-Kubuntu-10.10-desktop.png)
-![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)
 
 Mit der Kombination von Ubuntu als Grundlage, der großartigen KDE
 Software Compilation und ein paar einzigartigen Extras, zielt 10.10
@@ -125,102 +124,9 @@ hat, die Festplatten zu konfigurieren und bevor das restliche Setup
 ausgeführt wurde, wodurch er schneller zur Verfügung steht.
 
 
-<div class="thumb tright">
-
-
-<div class="thumbinner" style="width:202px;">
-
 [![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10-10-Ubiquity1.png/200px-Kubuntu-10-10-Ubiquity1.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity1.png "Kubuntu-10-10-Ubiquity1.png")  
-
-<div class="thumbcaption">
-
-
-<div class="magnify">
-
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity1.png "vergrößern")
-
-</div>
-
-
-
-
-</div>
-
-
-
-
-</div>
-
-
-
-
-</div>
-
-
-<div class="thumb tright">
-
-
-<div class="thumbinner" style="width:202px;">
-
 [![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10-10-Ubiquity2.png/200px-Kubuntu-10-10-Ubiquity2.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity2.png "Kubuntu-10-10-Ubiquity2.png")  
-
-<div class="thumbcaption">
-
-
-<div class="magnify">
-
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10-10-Ubiquity2.png "vergrößern")
-
-</div>
-
-
-
-
-</div>
-
-
-
-
-</div>
-
-
-
-
-</div>
-
-
-<div class="thumb tright">
-
-
-<div class="thumbinner" style="width:202px;">
-
 [![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10.10-Ubiquity3.png/200px-Kubuntu-10.10-Ubiquity3.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-Ubiquity3.png "Kubuntu-10.10-Ubiquity3.png")  
-
-<div class="thumbcaption">
-
-
-<div class="magnify">
-
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-Ubiquity3.png "vergrößern")
-
-</div>
-
-
-
-
-</div>
-
-
-
-
-</div>
-
-
-
-
-</div>
-
-
   
 
 ### Verbessertes KPackageKit
@@ -238,71 +144,10 @@ Paketliste und Screenshots von Programmen sind nur wenige der
 zahlreichen Veränderungen.
 
 
-<div class="thumb tright">
-
-
-<div class="thumbinner" style="width:202px;">
 
 [![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10.10-kpackagekit2.png/200px-Kubuntu-10.10-kpackagekit2.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit2.png "Kubuntu-10.10-kpackagekit2.png")  
 
-<div class="thumbcaption">
-
-
-<div class="magnify">
-
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit2.png "vergrößern")
-
-</div>
-
-
-
-
-</div>
-
-
-
-
-</div>
-
-
-
-
-</div>
-
-
-<div class="thumb tright">
-
-
-<div class="thumbinner" style="width:202px;">
-
 [![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10.10-kpackagekit3.png/200px-Kubuntu-10.10-kpackagekit3.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit3.png "Kubuntu-10.10-kpackagekit3.png")  
-
-<div class="thumbcaption">
-
-
-<div class="magnify">
-
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-kpackagekit3.png "vergrößern")
-
-</div>
-
-
-
-
-</div>
-
-
-
-
-</div>
-
-
-
-
-</div>
-
-
-  
 
 ### Rekonq als Standardbrowser
 
@@ -339,39 +184,7 @@ Kontrollleiste, die sich nun auch nicht mehr von selbst verbirgt, ist
 dies eine erhebliche Weiterentwicklung gegenüber früheren
 Veröffentlichungen.
 
-
-<div class="thumb tright">
-
-
-<div class="thumbinner" style="width:202px;">
-
 [![](http://wiki.kubuntu-de.org/images/thumb/Kubuntu-10.10-netbook.png/200px-Kubuntu-10.10-netbook.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-netbook.png "Kubuntu-10.10-netbook.png")  
-
-<div class="thumbcaption">
-
-
-<div class="magnify">
-
-[![](http://wiki.kubuntu-de.org/skins/common/images/magnify-clip.png)](http://wiki.kubuntu-de.org/images/Datei:Kubuntu-10.10-netbook.png "vergrößern")
-
-</div>
-
-
-
-
-</div>
-
-
-
-
-</div>
-
-
-
-
-</div>
-
-
   
 
 ### QApt Batch

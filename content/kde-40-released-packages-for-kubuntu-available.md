@@ -34,7 +34,9 @@ blog](http://www.kdedevelopers.org/node/3174 "http://www.kdedevelopers.org/node/
 release cycle interations.
 
 
-### [![Bild:KDE4-Plasma.png](http://wiki.kubuntu-de.org/images/KDE4-Plasma.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Plasma.png "Bild:KDE4-Plasma.png") [![Bild:KDE4-Plasma2.png](http://wiki.kubuntu-de.org/images/KDE4-Plasma2.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Plasma2.png "Bild:KDE4-Plasma2.png")[![Bild:KDE4-Konqueror.png](http://wiki.kubuntu-de.org/images/KDE4-Konqueror.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Konqueror.png "KDE4-Konqueror.png") {#bildkde4-plasma.png-bildkde4-plasma2.pngbildkde4-konqueror.png align="center"}
+[![Bild:KDE4-Plasma.png](http://wiki.kubuntu-de.org/images/KDE4-Plasma.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Plasma.png "Bild:KDE4-Plasma.png")
+[![Bild:KDE4-Plasma2.png](http://wiki.kubuntu-de.org/images/KDE4-Plasma2.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Plasma2.png "Bild:KDE4-Plasma2.png")
+[![Bild:KDE4-Konqueror.png](http://wiki.kubuntu-de.org/images/KDE4-Konqueror.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Konqueror.png "KDE4-Konqueror.png")
 
 
 <address>
@@ -44,8 +46,6 @@ zu finden ( The german original could be found
 [here.](http://www.kubuntu-de.org/nachrichten/software/kde/kde-4-0-mit-kubuntu-paketen-erschienen))
 
 </address>
-
-<!--break--><!--break-->
 
 
 
@@ -212,14 +212,10 @@ Trolltech has already announced that Phonon will be integrated into the
 next Qt releases.
 
 
-### [](http://wiki.kubuntu-de.org/Bild:KDE4-Systemeinstellungen.png "Bild:KDE4-Systemeinstellungen.png")
-
-
-### [![Bild:KDE4-Systemeinstellungen.png](http://wiki.kubuntu-de.org/images/KDE4-Systemeinstellungen.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Systemeinstellungen.png "Bild:KDE4-Systemeinstellungen.png")[![Bild:KDE4-Solid.png](http://wiki.kubuntu-de.org/images/KDE4-Solid.png)](http://wiki.kubuntu-de.org/images/KDE4-Solid.png)[![Bild:KDE4-Phonon.png](http://wiki.kubuntu-de.org/images/KDE4-Phonon.png)](http://wiki.kubuntu-de.org/images/KDE4-Phonon.png) {#bildkde4-systemeinstellungen.pngbildkde4-solid.pngbildkde4-phonon.png align="center"}
-
-
-###  
-
+[](http://wiki.kubuntu-de.org/Bild:KDE4-Systemeinstellungen.png "Bild:KDE4-Systemeinstellungen.png")
+[![Bild:KDE4-Systemeinstellungen.png](http://wiki.kubuntu-de.org/images/KDE4-Systemeinstellungen.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Systemeinstellungen.png "Bild:KDE4-Systemeinstellungen.png")
+[![Bild:KDE4-Solid.png](http://wiki.kubuntu-de.org/images/KDE4-Solid.png)](http://wiki.kubuntu-de.org/images/KDE4-Solid.png)
+[![Bild:KDE4-Phonon.png](http://wiki.kubuntu-de.org/images/KDE4-Phonon.png)](http://wiki.kubuntu-de.org/images/KDE4-Phonon.png)
 
 
 
@@ -286,10 +282,6 @@ into Dolphin.
 The Most Obvious Changes to KDE 3.5.x
 ------------------------------------------------------
 
-
-
-
-
 ### Plasma
 
 
@@ -321,14 +313,9 @@ the KDE 4 development, at this time, only a small set of widgets are
 available. The panel can also configured in limited ways at this time.
 
 
-<div align="center">
-
-[![Bild:KDE4-Dophin-gruppiert.png](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-gruppiert.png)](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-gruppiert.png "Bild:KDE4-Systemeinstellungen.png")[![Bild:KDE4-Dolphin-Spalten.png](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-Spalten.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Dolphin-Spalten.png "Bild:KDE4-Dolphin-Spalten.png")[![Bild:KDE4-Dolphin-Symbole.png](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-Symbole.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Dolphin-Symbole.png "Bild:KDE4-Dolphin-Symbole.png")
-
-</div>
-
-
-
+[![Bild:KDE4-Dophin-gruppiert.png](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-gruppiert.png)](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-gruppiert.png "Bild:KDE4-Systemeinstellungen.png")
+[![Bild:KDE4-Dolphin-Spalten.png](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-Spalten.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Dolphin-Spalten.png "Bild:KDE4-Dolphin-Spalten.png")
+[![Bild:KDE4-Dolphin-Symbole.png](http://wiki.kubuntu-de.org/images/KDE4-Dolphin-Symbole.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Dolphin-Symbole.png "Bild:KDE4-Dolphin-Symbole.png")
 
 
 ### Systemsettings
@@ -408,12 +395,9 @@ searched simultaneously and depending on the result, different options
 will be offered for selection.
 
 
-<div align="center">
-
-[![Bild:KDE4-Krunner.png](http://wiki.kubuntu-de.org/images/KDE4-Krunner.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Krunner.png "Bild:KDE4-Systemeinstellungen.png")[![Bild:KDE4-Okular.png](http://wiki.kubuntu-de.org/images/KDE4-Okular.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Okular.png "Bild:KDE4-Systemeinstellungen.png")[![Bild:KDE4-Kwin.png](http://wiki.kubuntu-de.org/images/KDE4-Kwin.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Kwin.png "Bild:KDE4-Systemeinstellungen.png")
-
-</div>
-
+[![Bild:KDE4-Krunner.png](http://wiki.kubuntu-de.org/images/KDE4-Krunner.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Krunner.png "Bild:KDE4-Systemeinstellungen.png")
+[![Bild:KDE4-Okular.png](http://wiki.kubuntu-de.org/images/KDE4-Okular.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Okular.png "Bild:KDE4-Systemeinstellungen.png")
+[![Bild:KDE4-Kwin.png](http://wiki.kubuntu-de.org/images/KDE4-Kwin.png)](http://wiki.kubuntu-de.org/Bild:KDE4-Kwin.png "Bild:KDE4-Systemeinstellungen.png")
 
 
 
@@ -447,6 +431,3 @@ a completely redesigned user interface which will be built around the
 context browser. It will have integrations, among others, for the
 popular online services as well as context information from wikipedia
 and a built-in of the Magnatune shops.
-
-
-
