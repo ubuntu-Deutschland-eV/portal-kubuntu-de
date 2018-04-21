@@ -1,0 +1,24 @@
+ag '{' | less
+
+URLs anpassen?
+sed -i 's/http:\/\/ubucon.de\/sites\/ubucon.de\/files/\{filename\}\/files/' ./**/*.md
+sed -i 's/\/sites\/ubucon.de\/files/\{filename\}\/files/' ./**/*.md
+
+englische Artikel verlinken?
+
+    content/interview-harald-sitter-about-amarok-and-kde-4.md
+    content/interview-mit-riddell-zu-kde4-englisch.md
+    content/interview-sebastian-kugler-about-kde-41.md
+    content/interview-tobias-konig-about-the-development-of-akonadi.md
+    content/interview-with-kubuntu-developer-jonathan-thomas.md
+    content/interview-with-riddell-about-kde4.md
+    content/kde-40-released-packages-for-kubuntu-available.md
+    content/kubuntu-deorg-at-froscon-2008.md
+    content/kubuntu-deorg-at-the-froscon.md
+    content/limber-up-the-wiki-for-kubuntu-810-intrepid-ibex-and-kde-4.md
+    content/mailingliste-kubuntu-de.md
+    content/reflections-of-the-chemnitzer-linux-tage-2008.md
+    content/reflections-of-the-froscon-2007.md
+    content/reflections-of-the-linuxtag-2007.md
+    content/reflections-of-the-linuxtag-2008.md
+    content/welcome-to-kubuntu-deorg.md
