@@ -9,7 +9,7 @@ SITEURL = '' # set in publishconf
 
 MENUITEMS = (
     ('Forum', 'http://forum.kubuntu-de.org/'),
-    ('Mailingliste', 'http://www.kubuntu-de.org/mailingliste'),
+    ('Mailingliste', 'https://lists.ubuntu.com/mailman/listinfo/kubuntu-de'),
 )
 
 SOCIAL = (
